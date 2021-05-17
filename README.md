@@ -29,11 +29,15 @@ To investigate the influence of reflective triggers in natural language explanat
     ├── notebooks                                  # Jupyter Notebooks used for data processing
     │   ├── Generate Reflection Triggers and Explanations.ipynb   # Jupyter Notebook for entifying the reflection triggers and generating the explanations 
     │   ├── Analysis of the Between-Subjects Study.ipynb          # Jupyter Notebook used for processing the results of user study
-    ├── user_study                           # Template, data and analysis of user study 1
-    │   ├── user_study1_template.html         # User study 1 template (to be run on mTurk)
-    │   ├── user_study1_template.md           # Visual interface of user study 1 template
-    |   ├── img                               # Folder containing parts of the visual interface of user study 1
-    │   ├── input_user_study1.csv             # Input file for user study 1
-    │   ├── crowd_results_userstudy1.csv      # Crowdsourcing results of user study 1
-    |   └── Analyze ... Study1.ipynb          # Jupyter Notebook used for processing the results of user study 1
+    ├── user_study                                 # Folder containing the user study template and data
+    │   ├── user_study_no_explanation.html         # User study template for the condition without explanations (to be run on mTurk)
+    │   ├── user_study_with_explanation.html       # User study template for the condition with explanations (to be run on mTurk)
+    |   ├── img                                    # Folder containing parts of the visual interface of the user study
+    │   ├── input_videos_user_study.csv            # Input file for the user study
+    │   ├── AMT_raw_results_study_no_explanations.csv      # Raw results for the condition without explanations
+    |   ├── AMT_raw_results_study_with_explanations.csv    # Raw results for the condition with explanations
+    │   ├── processed_results_study_no_explanations.csv    # Processed results for the condition without explanations
+    |   ├── processed_results_study_with_explanations.csv  # Processed results for the condition with explanations
+    │   ├── user_study_no_explanation.md           # User study interface for the condition without explanations
+    |   └── user_study_with_explanation.md         # User study interface for the condition with explanations
     └──.
