@@ -1,0 +1,1188 @@
+<!-- Main container -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" /><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"> </script>
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<crowd-form answer-format="flatten-objects">
+<div class="container">
+    <div id="content">
+        <h1 class="job-title">Assessing Online Videos</h1></br></br>
+        <fieldset> 
+        <legend>Scenario:</legend>
+        <div class="scenario">For this task, imagine you are planning to meet a colleague for dinner and you know, (s)he has a strong 
+        opinion on a controversial topic that might come up in the conversation. You want to be prepared, and thus, 
+        before the dinner, you research the topic on YouTube to learn more.</div></fieldset></br> 
+        
+        <p> Your task is split in two parts:</p>
+        <ol>
+            <li> Watch a video.</li>
+            <li> Read some explanations about the video and rate a set of statements regarding the video and the explanations.</li>
+            <li> Leave us your comments regarding the explanations and the task.</li>
+        </ol>
+        
+        </br>
+        <ul>
+        <li><p> Your input will be used for research purposes and for the creation of research publications. </p></li>
+        <li><p> We treat your responses as confidential. Your participation in this research is voluntary and if you 
+        decide to participate, you can withdraw at any time.</p></li>
+        <li><p> If you understand the statements above and freely consent to participate in the task, please answer the 
+        following questions and press the “Submit” button. If you do not wish to participate, then please do not click on 
+        the “Submit” button.</p></li>
+        </ul>
+        <!-- Ordered list that hold the steps -->
+    
+        <div class="row">
+            <ol><!-- Step 1: Video -->
+        	    <li class="step1">
+        	        <h2>First, watch the entire video carefully (~ 3 minutes).</h2>
+        
+                	<div id="videocontainer">
+                	    <video class="video" controls="true"><source src="${storageLink}" type="video/mp4" /> Your browser does not support the video tag, please close this job.</video>
+                	</div>
+                </li>
+            
+                <li class="step2 hidden">
+        	        <h2 class="explanations_to_add">After watching the video, read the following explanations about the video.</h2>
+        
+                </li>
+                
+        	    <li class="step3 hidden">
+            	    <h2>Then, rate the following statements regarding the video and the explanations.</h2>
+            	        
+            	        <div>
+                            <p>1. The information provided by the video is trustworthy (rate from Strongly Disagree to Strongly Agree). </p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="trustworthy" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="trustworthy" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="trustworthy" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="trustworthy" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="trustworthy" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul> 
+                        </div>
+                        
+                        <div>
+                            <p>2. The information provided by the video is accurate (rate from Strongly Disagree to Strongly Agree). </p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="accurate" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="accurate" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="accurate" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="accurate" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="accurate" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>3. I find the video above useful to inform my opinion about the topic, even if I disagree. </p>
+                                <input type="radio" name="useful" value="useful_yes" style="margin-left: 35px;">
+                                <label>Yes</label>
+                                <input type="radio" name="useful" value="useful_no" style="margin-left: 43px;">
+                                <label>No</label>
+                                <input type="radio" name="useful" value="useful_dontknow" style="margin-left: 46px;">
+                                <label>I don't know</label>
+                            </br></br></br>
+                        </div>
+                        
+                        <div>
+                            <p>4. I find the explanations provided with the video useful to inform my opinion regarding the video (rate from Strongly Disagree to Strongly Agree). </p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="useful_explanations" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="useful_explanations" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="useful_explanations" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="useful_explanations" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="useful_explanations" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+            	        <div>
+                            <p>5. I am confident about my assessment regarding the usefulness of the video (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="confident" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="confident" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="confident" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="confident" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="confident" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>6. The video above shares my beliefs (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="alignment" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        
+                        <div>
+                            <p>7. I have strong beliefs about the topic of ${topic} (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="alignment_topic" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment_topic" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment_topic" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment_topic" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="alignment_topic" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>8. When making a decision about the usefulness of the video to inform my discussion, the explanations are as informative as they can be (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="quantity1" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity1" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity1" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity1" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity1" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>9. When making a decision about the usefulness of the video to inform my discussion, the explanations give as much information as needed and no more (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="quantity2" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity2" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity2" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity2" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quantity2" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>10. When making a decision about the usefulness of the video to inform my discussion, the explanations are truthful or they do not provide false information, to the best of my knowledge (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="quality" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quality" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quality" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quality" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="quality" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>11. When making a decision about the usefulness of the video to inform my discussion, the explanations are relevant (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="relation" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="relation" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="relation" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="relation" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="relation" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div>
+                            <p>12. When making a decision about the usefulness of the video to inform my discussion, the explanations are clear, brief, orderly and without obscurity and ambiguity (rate from Strongly Disagree to Strongly Agree).</p>
+                            <ul class='likert'>
+                                <li>
+                                    <input type="radio" name="manner" value="strong_disagree">
+                                    <label>Strongly Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="manner" value="disagree">
+                                    <label>Disagree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="manner" value="neutral">
+                                    <label>Neutral</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="manner" value="agree">
+                                    <label>Agree</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="manner" value="strong_agree">
+                                    <label>Strongly Agree</label>
+                                </li>
+                            </ul>
+                        </div>
+            	    
+            	</li>
+            	
+            	<li class="step4 hidden">
+        	        <h2>If you finished rating the statements above, click on the button "Next" to continue with the survey. After pressing "Next", you will not be able to change your opinion on the statements above. </h2>
+        	        Please make sure you rated all statements above.
+        	        <button type="button" id="next" class="btn btn-info">Next</button>
+        	    </li>
+        	    
+            	<li class="step5 hidden">
+        	        <h2 class="explanations_to_add_second_page">Given the following explanations about the video:</h2>
+        
+                </li>
+
+            	<li class="step6 explanations_comments hidden">
+                	<h2 style="margin-top: 0;">Which parts of the explanation (if any) helped you think about whether to use the video?</h2>
+                    <input type="text" id="explanations_comments" name="explanations_comments"/>
+            	</li>
+            	
+            	<li class="step7 comments hidden">
+                	<h2 style="margin-top: 0;">Comments:</h2>
+                    <input type="text" id="comments" name="comments"/>
+            	</li>
+            	
+                <li id="footer">
+                	<h2 style="margin-top: 0;">Check your answers.</h2>
+                
+                	<ul>
+                		<li>It is really important to watch the video until the end.</li>
+                		<li>Rate the statements regarding the usefulness, trustworthyness and accuracy of the video, based on your own understanding of the content.</li>
+                		<li>Please leave your comments with regard to the explanations.</li>
+                	</ul>
+                
+                	<input class="btn btn-primary" id="submitButton" type="submit" value="Submit" />
+            	</li>
+            </ol>
+        </div>
+    </div>
+    
+    <div class="events">
+        <input type="hidden" name="e_abort" value="0"/>
+        <input type="hidden" name="e_canplay" value="0"/>
+        <input type="hidden" name="e_canplaythrough" value="0"/>
+        <input type="hidden" name="e_durationchange" value="0"/>
+        <input type="hidden" name="e_emptied" value="0"/>
+        <input type="hidden" name="e_ended" value="0"/>
+        <input type="hidden" name="e_error" value="0"/>
+        <input type="hidden" name="e_loadeddata" value="0"/>
+        <input type="hidden" name="e_loadedmetadata" value="0"/>
+        <input type="hidden" name="e_loadstart" value="0"/>
+        <input type="hidden" name="e_pause" value="0"/>
+        <input type="hidden" name="e_play" value="0"/>
+        <input type="hidden" name="e_playing" value="0"/>
+        <input type="hidden" name="e_progress" value="0"/>
+        <input type="hidden" name="e_ratechange" value="0"/>
+        <input type="hidden" name="e_seeked" value="0"/>
+        <input type="hidden" name="e_seeking" value="0"/>
+        <input type="hidden" name="e_stalled" value="0"/>
+        <input type="hidden" name="e_suspend" value="0"/>
+        <input type="hidden" name="e_timeupdate" value="0"/>
+        <input type="hidden" name="e_volumechange" value="0"/>
+        <input type="hidden" name="e_waiting" value="0"/>
+      </div>
+  
+    <div class="explanations">
+        <input type="hidden" name="videoId" id="videoId" value="${video_id}"/>
+        <input type="hidden" name="videoTopic" id="videoTopic" value="${topic}"/>
+        <input type="hidden" name="numberSubscribers" id="numberSubscribers" value="${numberSubscribers}"/>
+        <input type="hidden" name="creationDateChannel" id="creationDateChannel" value="${creationDateChannel}"/>
+        <input type="hidden" name="creationDateVideo" id="creationDateVideo" value="${creationDateVideo}"/>
+        <input type="hidden" name="videoDuration" id="videoDuration" value="${duration_seconds}"/>
+        <input type="hidden" name="relatedChannels" id="relatedChannels" value="${relatedChannels}"/>
+        <input type="hidden" name="relatedTopics" id="relatedTopics" value="${relatedTopics}"/>
+        <input type="hidden" name="numberControversialTopics" id="numberControversialTopics" value="${numberControversialTopics}"/>
+        <input type="hidden" name="controversialTopics" id="controversialTopics" value="${controversialTopics}"/>
+        <input type="hidden" name="commentsEmotions" id="commentsEmotions" value="${commentsEmotions}"/>
+        <input type="hidden" name="emotionsTopics" id="emotionsTopics" value="${topicsEmotionsComments}"/>
+        <input type="hidden" name="sentiments" id="sentiments" value="${sentimentsTopics}"/>
+    </div>
+</div>
+</crowd-form>
+<script type="text/javascript">
+
+ var events = ['abort', // Fires when the loading of an audio/video is aborted
+        'canplay', // Fires when the browser can start playing the audio/video
+        'canplaythrough', // Fires when the browser can play through the audio/video without stopping for buffering
+        'durationchange', // Fires when the duration of the audio/video is changed
+        'emptied', // Fires when the current playlist is empty
+        'ended', // Fires when the current playlist is ended
+        'error', //  Fires when an error occurred during the loading of an audio/video
+        'loadeddata', // Fires when the browser has loaded the current frame of the audio/video
+        'loadedmetadata', // Fires when the browser has loaded meta data for the audio/video
+        'loadstart', // Fires when the browser starts looking for the audio/video
+        'pause', // Fires when the audio/video has been paused
+        'play', // Fires when the audio/video has been started or is no longer paused
+        'playing', // Fires when the audio/video is playing after having been paused or stopped for buffering
+        'progress', //  Fires when the browser is downloading the audio/video
+        'ratechange', // Fires when the playing speed of the audio/video is changed
+        'seeked', // Fires when the user is finished moving/skipping to a new position in the audio/video
+        'seeking', // Fires when the user starts moving/skipping to a new position in the audio/video
+        'stalled', // Fires when the browser is trying to get media data, but data is not available
+        'suspend', // Fires when the browser is intentionally not getting media data
+        'timeupdate', //  Fires when the current playback position has changed
+        'volumechange', // Fires when the volume has been changed
+        'waiting' // Fires when the video stops because it needs to buffer the next frame
+    ];
+    
+    var video_finished = 0;
+    var trustworthy = 0;
+    var accurate = 0;
+    var confident = 0;
+    var useful = 0;
+    var alignment = 0;
+    var alignment_topic = 0;
+    var useful_explanations = 0;
+    
+    var quantity1 = 0;
+    var quantity2 = 0;
+    var quality = 0;
+    var relation = 0;
+    var manner = 0;
+    
+    var pressed = false;
+
+    $('#submitButton').attr('disabled',true);
+    $('#next').attr('disabled',true);
+    
+    /* - here we add the explanations - */
+    
+    
+    
+    for(var e=0; e < events.length; e++) {
+        $('.video').on(events[e], function(event) {
+            $(this).parents('.jsawesome').find('input.e_' + event.type).val( function(i, v) {
+                return parseInt(v) + 1;
+            });
+            // if event is ended and all audio has ended
+            if(event.type == 'play') {
+                if ($('.step2').hasClass('hidden') == true && $('.step3').hasClass('hidden') == true 
+                && $('.step4').hasClass('hidden') == true && $('.step5').hasClass('hidden') == true
+                && $('.step6').hasClass('hidden') == true && $('.step7').hasClass('hidden') == true) {
+                    setTimeout(function () { 
+                        updateExplanations();
+                        $('.step2').removeClass('hidden'); 
+                        $('.step3').removeClass('hidden');
+                        $('.step4').removeClass('hidden');
+                    }, $("#videoDuration").val()*1000); return false
+                }
+                else {
+                    
+                }
+            }
+            
+            if(event.type == 'ended' && $(".e_ended").filter(function() { return  $(this).val() >= 1; }).length == $('.e_ended').length) {
+                //$('#submitButton').attr('disabled',false);
+                //alert("one");
+                video_finished = 1;
+                update();
+            }
+        });
+        
+        update();
+    }
+    
+    //$('.topic_alignment').on("change", function() {
+    //    update();
+    //});
+  
+    $("input:radio[name='trustworthy']").change(function(){
+        var value = $( 'input[name="trustworthy"]:checked' ).val();
+        
+        if (value == "undefined") {
+            trustworthy = 0;
+        }
+        else {
+            trustworthy = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='accurate']").change(function(){
+        var value = $( 'input[name="accurate"]:checked' ).val();
+        
+        if (value == "undefined") {
+            accurate = 0;
+        }
+        else {
+            accurate = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='useful']").change(function(){
+        var value = $( 'input[name="useful"]:checked' ).val();
+        
+        if (value == "undefined") {
+            useful = 0;
+        }
+        else {
+            useful = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='confident']").change(function(){
+        var value = $( 'input[name="confident"]:checked' ).val();
+        
+        if (value == "undefined") {
+            confident = 0;
+        }
+        else {
+            confident = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='alignment']").change(function(){
+        var value = $( 'input[name="alignment"]:checked' ).val();
+        
+        if (value == "undefined") {
+            alignment = 0;
+        }
+        else {
+            alignment = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='alignment_topic']").change(function(){
+        var value = $( 'input[name="alignment_topic"]:checked' ).val();
+        
+        if (value == "undefined") {
+            alignment_topic = 0;
+        }
+        else {
+            alignment_topic = 1;
+        }
+        update();
+    });
+    
+
+    $("input:radio[name='useful_explanations']").change(function(){
+        var value = $( 'input[name="useful_explanations"]:checked' ).val();
+        
+        if (value == "undefined") {
+            useful_explanations = 0;
+        }
+        else {
+            useful_explanations = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='quantity1']").change(function(){
+        var value = $( 'input[name="quantity1"]:checked' ).val();
+        
+        if (value == "undefined") {
+            quantity1 = 0;
+        }
+        else {
+            quantity1 = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='quantity2']").change(function(){
+        var value = $( 'input[name="quantity2"]:checked' ).val();
+        
+        if (value == "undefined") {
+            quantity2 = 0;
+        }
+        else {
+            quantity2 = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='quality']").change(function(){
+        var value = $( 'input[name="quality"]:checked' ).val();
+        
+        if (value == "undefined") {
+            quality = 0;
+        }
+        else {
+            quality = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='relation']").change(function(){
+        var value = $( 'input[name="relation"]:checked' ).val();
+        
+        if (value == "undefined") {
+            relation = 0;
+        }
+        else {
+            relation = 1;
+        }
+        update();
+    });
+    
+    $("input:radio[name='manner']").change(function(){
+        var value = $( 'input[name="manner"]:checked' ).val();
+        
+        if (value == "undefined") {
+            manner = 0;
+        }
+        else {
+            manner = 1;
+        }
+        update();
+    });
+    
+    $("#next").click(function(){
+        $('.step1').addClass('hidden');
+        $('.step2').addClass('hidden');
+        $('.step3').addClass('hidden');
+        $('.step4').addClass('hidden');
+        $('.step5').removeClass('hidden');
+        $('.step6').removeClass('hidden');
+        $('.step7').removeClass('hidden');
+        
+        $(".explanations_to_add_second_page").append("<ul class='channel_explanations'></ul>");
+        $(".explanations_to_add_second_page").append("<ul class='topics_explanations'></ul>");
+        $(".explanations_to_add_second_page").append("<ul class='emotion_explanations'></ul>");
+        $(".explanations_to_add_second_page").append("<ul class='sentiment_explanations'></ul>");
+        
+        if ($("#numberSubscribers").val() != "undefined" && $("#numberSubscribers").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published has <strong>" + $("#numberSubscribers").val() + " subscribers</strong>. </li>");
+        }
+        if ($("#creationDateChannel").val() != "undefined" && $("#creationDateChannel").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published was created on <strong>" + $("#creationDateChannel").val() + "</strong>. The <i>video</i> above was posted on <strong>" + $("#creationDateVideo").val() + "</strong>.</li>");
+        }
+        if ($("#relatedChannels").val() != "undefined" && $("#relatedChannels").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published is <strong>related to the following channel(s): " + $("#relatedChannels").val() + "</strong>.</li>");
+        }
+        $(".channel_explanations").append("</br>");
+        
+        if ($("#relatedTopics").val() != "undefined" && $("#relatedTopics").val() != "") {
+            //alert($("#relatedTopics").val());
+            $(".topics_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>video</i> is related to the following <i>topic(s)</i>: <strong>" + $("#relatedTopics").val() + " </strong>. </li>");
+        }
+        if ($("#numberControversialTopics").val() != "0") {
+            $(".topics_explanations").append("<li style='font-size:14px; font-weight: normal;'> The following <i>" + $("#numberControversialTopics").val() + " topic(s)</i> mentioned in the video was/were considered <i>controversial on Wikipedia</i>: <strong>" + $("#controversialTopics").val() + "</strong>. </li>");
+        }
+        if ($("#relatedTopics").val() != "undefined" && $("#relatedTopics").val() != "") {
+            $(".topics_explanations").append("</br>");
+        }
+        
+        if ($("#commentsEmotions").val() != "undefined" && $("#commentsEmotions").val() != "") {
+            $(".emotion_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>comments of the video</i> express the following <i>emotion(s)</i>: <strong>" + $("#commentsEmotions").val() + "</strong>. </li>");
+        }
+        if ($("#emotionsTopics").val() != "undefined" && $("#emotionsTopics").val() != "") {
+            var emotionsTopics = $("#emotionsTopics").val().split("###");
+            if (emotionsTopics.length != 0) {
+                $(".emotion_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>comments of the video</i> express the following <i>emotion(s)</i> towards the <i>topic(s)</i> mentioned above: </li>");
+                
+                $(".emotion_explanations").append("<ul class='emotions_topics'></ul>");
+                
+                for (i = 0; i < emotionsTopics.length; i ++) {
+                    $(".emotions_topics").append("<li style='font-size:14px; font-weight: normal;'><strong>" + emotionsTopics[i] + "</strong></li>");
+                }
+            }
+        }
+        if (($("#commentsEmotions").val() != "undefined" && $("#commentsEmotions").val() != "") || ($("#emotionsTopics").val() != "undefined" && $("#emotionsTopics").val() != "")) {
+            $(".emotion_explanations").append("</br>");
+        }
+
+        if ($("#sentiments").val() != "undefined" && $("#sentiments").val() != "") {
+            var sentiments = $("#sentiments").val().split("###");
+            if (sentiments.length != 0) {
+                $(".sentiment_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>video subtitles and the video comments</i> express the following <i>sentiment(s)</i> towards the topic(s) mentioned above: </li>");
+                
+                $(".sentiment_explanations").append("<ul class='sentiments_topics'></ul>");
+                
+                for (i = 0; i < sentiments.length; i ++) {
+                    var sentComp = sentiments[i].split("|||");
+                    $(".sentiments_topics").append("<li style='font-size:14px; font-weight: normal;'><strong>" + sentComp[0] + "</strong>: depicted as <strong>" + sentComp[1] + "</strong> in the <i>video subtitles</i> and as <strong>" + sentComp[2] + "</strong> in the <i>video comments</i>.</li>");
+                }
+            }
+        }
+        pressed = true;
+        update();
+    });
+    
+    function updateExplanations() {
+        $('.step2').removeClass('hidden');
+        $('.step3').removeClass('hidden');
+        
+        $(".explanations_to_add").append("<ul class='channel_explanations'></ul>");
+        $(".explanations_to_add").append("<ul class='topics_explanations'></ul>");
+        $(".explanations_to_add").append("<ul class='emotion_explanations'></ul>");
+        $(".explanations_to_add").append("<ul class='sentiment_explanations'></ul>");
+        
+        if ($("#numberSubscribers").val() != "undefined" && $("#numberSubscribers").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published has <strong>" + $("#numberSubscribers").val() + " subscribers</strong>. </li>");
+        }
+        if ($("#creationDateChannel").val() != "undefined" && $("#creationDateChannel").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published was created on <strong>" + $("#creationDateChannel").val() + "</strong>. The <i>video</i> above was posted on <strong>" + $("#creationDateVideo").val() + "</strong>.</li>");
+        }
+        if ($("#relatedChannels").val() != "undefined" && $("#relatedChannels").val() != "") {
+            $(".channel_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>channel</i> where the video is published is <strong>related to the following channel(s): " + $("#relatedChannels").val() + "</strong>.</li>");
+        }
+        $(".channel_explanations").append("</br>");
+        
+        if ($("#relatedTopics").val() != "undefined" && $("#relatedTopics").val() != "") {
+            //alert($("#relatedTopics").val());
+            $(".topics_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>video</i> is related to the following <i>topic(s)</i>: <strong>" + $("#relatedTopics").val() + " </strong>. </li>");
+        }
+        if ($("#numberControversialTopics").val() != "0") {
+            $(".topics_explanations").append("<li style='font-size:14px; font-weight: normal;'> The following <i>" + $("#numberControversialTopics").val() + " topic(s)</i> mentioned in the video was/were considered <i>controversial on Wikipedia</i>: <strong>" + $("#controversialTopics").val() + "</strong>. </li>");
+        }
+        if ($("#relatedTopics").val() != "undefined" && $("#relatedTopics").val() != "") {
+            $(".topics_explanations").append("</br>");
+        }
+        
+        if ($("#commentsEmotions").val() != "undefined" && $("#commentsEmotions").val() != "") {
+            $(".emotion_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>comments of the video</i> express the following <i>emotion(s)</i>: <strong>" + $("#commentsEmotions").val() + "</strong>. </li>");
+        }
+        if ($("#emotionsTopics").val() != "undefined" && $("#emotionsTopics").val() != "") {
+            var emotionsTopics = $("#emotionsTopics").val().split("###");
+            if (emotionsTopics.length != 0) {
+                $(".emotion_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>comments of the video</i> express the following <i>emotion(s)</i> towards the <i>topic(s)</i> mentioned above: </li>");
+                
+                $(".emotion_explanations").append("<ul class='emotions_topics'></ul>");
+                
+                for (i = 0; i < emotionsTopics.length; i ++) {
+                    $(".emotions_topics").append("<li style='font-size:14px; font-weight: normal;'><strong>" + emotionsTopics[i] + "</strong></li>");
+                }
+            }
+        }
+        if (($("#commentsEmotions").val() != "undefined" && $("#commentsEmotions").val() != "") || ($("#emotionsTopics").val() != "undefined" && $("#emotionsTopics").val() != "")) {
+            $(".emotion_explanations").append("</br>");
+        }
+
+        if ($("#sentiments").val() != "undefined" && $("#sentiments").val() != "") {
+            var sentiments = $("#sentiments").val().split("###");
+            if (sentiments.length != 0) {
+                $(".sentiment_explanations").append("<li style='font-size:14px; font-weight: normal;'> The <i>video subtitles and the video comments</i> express the following <i>sentiment(s)</i> towards the topic(s) mentioned above: </li>");
+                
+                $(".sentiment_explanations").append("<ul class='sentiments_topics'></ul>");
+                
+                for (i = 0; i < sentiments.length; i ++) {
+                    var sentComp = sentiments[i].split("|||");
+                    $(".sentiments_topics").append("<li style='font-size:14px; font-weight: normal;'><strong>" + sentComp[0] + "</strong>: depicted as <strong>" + sentComp[1] + "</strong> in the <i>video subtitles</i> and as <strong>" + sentComp[2] + "</strong> in the <i>video comments</i>.</li>");
+                }
+            }
+        }
+
+    }
+    
+    function update() {
+        if (trustworthy == 1 && accurate == 1 && useful == 1 && confident == 1 && alignment == 1 && alignment_topic == 1 && useful_explanations == 1 
+            && quantity1 == 1 && quantity2 == 1 && quality == 1 && relation == 1 && manner == 1) {
+            $('#next').attr('disabled',false);
+        }
+        
+        if (pressed == true) {
+            $('#submitButton').attr('disabled',false);
+        }
+    }
+    
+    
+    
+</script>
+<style type="text/css">
+#comments
+{
+  width: 600px;
+  padding: 17px;
+  margin: 10px;
+  border-radius: 0px;
+}
+
+#explanations_comments
+{
+  width: 600px;
+  padding: 17px;
+  margin: 10px;
+  border-radius: 0px;
+}
+
+/* Layout  */
+label {
+    font: 2rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+
+label {
+    font-size:12px
+}
+
+.likert {
+  list-style:none;
+  width:50%;
+  margin:0;
+  padding:0 0 35px;
+  display:block;
+  border-bottom:2px solid #efefef;
+}
+.likert:last-of-type {border-bottom:0;}
+.likert:before {
+  content: '';
+  position:relative;
+  top:11px;
+  left:9.5%;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:78%;
+}
+
+.likert li {
+  display:inline-block;
+  width:19%;
+  text-align:center;
+  vertical-align: top;
+}
+
+.likert li input[type=radio] {
+  display:block;
+  position:relative;
+  top:0;
+  left:50%;
+  margin-left:-6px;
+  
+}
+.likert li label {width:100%;font-size:12px}
+
+ .vimeo-wrapper {
+        max-width: 980px;
+        position: relative;
+        margin: 0 auto;
+        
+    }
+
+    .vimeo-standard {
+        float: left;
+        height: 300px;
+        width: 47%;
+        margin: 10px;
+    }
+
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+
+    @media (max-width:767px) {
+
+        .vimeo-standard {
+            float: none;
+            width: 80%;
+            margin: 0 auto;
+            padding-bottom: 10px;
+        }
+    }
+
+    .clearfix:before,
+    .clearfix:after {
+        content: " "; /* 1 */
+        display: table; /* 2 */
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+    
+.lastli
+{
+margin-bottom: 20px;
+}
+
+#breakdiv
+{
+height: 0px;
+}
+.inputgroup > #addnewtags
+{
+  width: 300px;
+  padding: 6px;
+  margin: 0px;
+  border-radius: 0px;
+  
+}
+
+fieldset { border: 1px solid #737373; padding: 10px; margin: 0px;      -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     border-radius: 5px; }
+.scenario { text-align:center; line-height:30px; }
+
+.inputgroup > #button_addnewtag
+{
+  color: white;
+  margin: 0px;
+  height: 37px;
+  background-color: #00B9FF;
+  border: 1px solid lightgray;
+  font-size: 14px;
+  font-weight: 200;
+  padding: 0px 11px;
+  text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+}
+.row
+{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#addtags_target
+{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+#imagecontainer
+{
+    max-width: 500px;
+}
+
+#videocontainer
+{
+    max-width: 500px;
+}
+#addtags_container
+{
+    text-align: left;
+
+    max-width: 500px;
+}
+#addtags_target > button
+{
+    float: left;
+    margin: 5px;
+}
+#addtags_container > h2
+{
+    margin-bottom:0px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+#footer > h2
+{
+    padding-top: 10px;
+}
+.container
+{
+    position: relative;
+}
+h2
+{
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+img
+{
+    max-width: 100%;
+}
+*{
+    box-sizing: border-box;
+    text-shadow: none;
+}
+
+#assignment-instructions{
+    display: none;
+}
+
+body>#content, #content{
+    margin: 0;
+    background-image:  linear-gradient(#EEF5F8 110px,#EEF5F8 110px,#FFFFFF 110px);
+    border: 0;
+    padding: 0;
+    margin-bottom: -155px;
+}
+
+
+.cml{
+    border: 0;
+    background: transparent;
+    padding: 0;
+    margin:0;
+    overflow: hidden;
+    padding-bottom: 2px;
+}
+
+/* Header  */
+
+h1.job-title{
+    margin: 0;
+    padding-left: 55px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 37px;
+    margin-bottom: 10px;
+    background-color: #EEF5F8;
+    font-size: 23px;
+    color: #000;
+    min-height: 65px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAO3SURBVHgB7VtNbtNAGJ0j9AbkCL1BcwN6g+QG6Q3SG/gIPoJXJXUAWd0gwYJI7aILkMyCBSyQBQsWsBj8PCRxbM+MZ/yNPVP1SU/Qqhn7fX/zzU8Ye8ZIuOHnbMOXbMtXLOVrdsvjA/Ezfv+KX1Z/9ySw4fNSXFQyKwUW5b/ckLvq8xgnGGxL7+Gl7QSrmFeR4m10CG9nxKJlREQtmBfY8NmIwtuGwPMnFH/tINTNifcYWfiUXpfXiFGiAbnug9e7I6Eop9Er5gyYw30UPkpKYNAQxDsxQiied2IE0diEJbzOQf2CqPZ5MGK7o6Cwnx38m+psmbOEnxlpD67o6ZiW6xMD8TNv5/oh7L2qFGv0cIT1Z6YXLwpfSKKIo8Bz788/cJ584zz7wfnVo9UYWbDeh/gm4q+UUYA9OY8E1zm74zz/zTvx4s54vEgW/vmUIlVMvnMpLt4bR0DR7gtu/G15rz/LxSMqrMZtpYGn4Y/QV+Hyo/XYUTP8kykEqnj2Rp73wPrTgPHTcsv9BB52fqjw5KFf56EOZOV/Bg6GUIXHqMRjjpeh+CueN/g5hzMGsadvLRxNyR7w2lBDYEyIlGFxT2Pk415BWp7HWQ6y+9V+QavmpEZV3kc5kXjB1T4CrLa8zt7KX9SyTdVOeZRpVh3I/o+ANbUBALSuJuMtH9TjkeT9KeNBBgCjL2qP9X1pVasLDJryXBoAUdBVB/ZAgewzTr2QNjG0pigYDaoBde+pqjaiRPV5Xd47CH3BQw0g2PdHS6rC4qH7c+fv1J8zXuiYcUW6EEKeylD8aXtyorw/8jV/SdYJ7qnK5eY0pmp1dz8diwdPbpsQ7QWgKKq8iu0s/J2q1XWa93U2VoMx1cDIa11RVIGs1VUzc7ofoPKwCsStroqN/QAHG6I6TzdBssTtyy2/YC0QnwXqmqQ6yJa4/ZizTgzoCGXUNUl7rB5pn6th3G0ATIcOdoa69vPrcNjqdlN5XJ5WV1vJHyprksiXuHpqzgcdng419/ZHznvBzuI3UhSAy3vRLSLs0S+MKl6a+yPVgslpdFUGFw5DEqfjYelrgtS/wxJL5swKYpWYByS0W/ygO8Sh3xfqVfX1RpizW84D5IqRIbTrslZFTwdcmw0hHZx+ncbv67M5Tc73M0LsmfgJvj8k6kI+qXCRkoTFztwIU0ZDPO23xuoY1xDJOLluAxgCqZFWX3ulFJ1XU5vxtfcpcTRGwkxrBXI7rTy9qqbfJwF4D6GLIynM1fDokYuKEDuyl/8B4+Y5RBFcp+4AAAAASUVORK5CYII=');
+    background-position: 10px 33px;
+    background-size: 32px;
+    background-repeat: no-repeat;
+}
+/* logo */
+
+#content::after{
+    position: absolute;
+    top: 0px;
+    right: 40px;
+    z-index: 99;
+    content: " ";
+    display: block;
+    width: 186px;
+    height: 104px;
+    background-size: 186px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+/*    background-image: url('data:image/png;base64,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');
+*/
+}
+
+@media (max-width: 768px) {
+    #content, body>#content{
+        padding-top: 60px;
+    }
+
+    #content::after{
+        width: 50%;
+        background-size: 100%;
+    }
+}
+
+/* Numbered list */
+
+ol{
+    position: relative;
+    counter-reset: item;
+    list-style-position: inside;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-left: 1px dotted #00B8FF;
+    margin-left: 25px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+
+ol>li{
+    padding-left: 30px;
+    z-index: 1;
+}
+
+ol>li::before{
+    font-size: 13px;
+    font-weight: bold;
+    content: counter(item);
+    counter-increment: item;
+    position: absolute;
+    left: -11px;
+    background-color: #00B9FF;
+    width: 20px;
+    height: 20px;
+    line-height: 19px;
+    border-radius: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+/* Step title */
+
+.cml h2{
+    font-size: 15px;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Additional comments list */
+
+ol>li>ul{
+    margin-bottom: 10px;
+}
+
+/* Video */
+
+video{
+    margin: 8px 0 20px 0;
+    border: 1px solid #eee;
+    width: 100%;
+}
+
+
+
+/* Actions */
+
+.form-actions{
+    background: transparent;
+    margin: 0;
+    margin-left: 25px;
+    border-left: 1px dotted #00B8FF;
+    padding: 20px 0;
+    position: relative;
+    margin-right: 15px;
+}
+
+.form-actions::after{
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: -3px;
+    width: 5px;
+    height:5px;
+    background-color: #00B8FF;
+    border-radius: 2px;
+}
+
+.submit.btn.btn-warning{
+    /* Readable text on warning buttons  */
+    color: #000;
+    font-weight: bold;
+}
+
+.submit.btn{
+    border-radius: 0;
+    padding: 15px 30px;
+}
+
+
+/* Footer */
+#footer{
+    background: #EEF5F8;
+    padding-bottom: 10px;
+
+}
+</style>
