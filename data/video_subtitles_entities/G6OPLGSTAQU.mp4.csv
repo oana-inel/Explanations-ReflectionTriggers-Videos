@@ -1,0 +1,101 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+G6OPLGSTAQU,Catalonia,Location,City,NONE,0.29001,neutral,0.0,0.658431,0.151621,0.121397,0.117147,0.12679,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8625,0.017,0.053,0.93,0.115625,0.40333333333333343,positive,0.469789,0.076913,0.610813,0.533831,0.142651,0.440802,0.0,3.700000047683716,Catalonia Independence,2017-09-11T11:59:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Thousands to rally for Catalonia's independence in Barcelona,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans were expected to rally on Monday to demand their region break away from Spain, in a show of strength three weeks ahead of a secession referendum banned by Madrid.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+G6OPLGSTAQU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.33807,neutral,0.0,0.658431,0.151621,0.121397,0.117147,0.12679,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8625,0.017,0.053,0.93,0.115625,0.40333333333333343,positive,0.469789,0.076913,0.610813,0.533831,0.142651,0.440802,0.0,3.700000047683716,Catalonia Independence,2017-09-11T11:59:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Thousands to rally for Catalonia's independence in Barcelona,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans were expected to rally on Monday to demand their region break away from Spain, in a show of strength three weeks ahead of a secession referendum banned by Madrid.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+G6OPLGSTAQU,bank of Spain,Company,"Location, Facility",http://dbpedia.org/resource/Bank_of_Spain,0.396154,neutral,0.0,0.658431,0.151621,0.121397,0.117147,0.12679,1,1,bank of Spain,bank of Spain,bank of Spain,bank of Spain,bank of spain,bank of spain,bank of spain,http://en.wikipedia.org/wiki/Bank_of_Spain,0.8625,0.017,0.053,0.93,0.115625,0.40333333333333343,positive,0.469789,0.076913,0.610813,0.533831,0.142651,0.440802,0.0,3.700000047683716,Catalonia Independence,2017-09-11T11:59:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Thousands to rally for Catalonia's independence in Barcelona,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans were expected to rally on Monday to demand their region break away from Spain, in a show of strength three weeks ahead of a secession referendum banned by Madrid.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+G6OPLGSTAQU,one kilometer,Quantity,NONE,NONE,0.29001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one kilometer,one kilomet,one kilomet,on kilomet,one kilomet,one kilomet,on kilomet,NONE,0.8625,0.017,0.053,0.93,0.115625,0.40333333333333343,positive,0.469789,0.076913,0.610813,0.533831,0.142651,0.440802,0.0,3.700000047683716,Catalonia Independence,2017-09-11T11:59:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Thousands to rally for Catalonia's independence in Barcelona,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans were expected to rally on Monday to demand their region break away from Spain, in a show of strength three weeks ahead of a secession referendum banned by Madrid.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+G6OPLGSTAQU,placa Catalunya,Location,City,NONE,0.828117,neutral,0.0,0.533101,0.173737,0.269992,0.072849,0.083227,3,1,placa Catalunya,placa Catalunya,placa Catalunya,plac Catalunya,placa catalunya,placa catalunya,plac cataluny,NONE,0.8625,0.017,0.053,0.93,0.115625,0.40333333333333343,positive,0.469789,0.076913,0.610813,0.533831,0.142651,0.440802,0.0,3.700000047683716,Catalonia Independence,2017-09-11T11:59:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Thousands to rally for Catalonia's independence in Barcelona,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans were expected to rally on Monday to demand their region break away from Spain, in a show of strength three weeks ahead of a secession referendum banned by Madrid.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2

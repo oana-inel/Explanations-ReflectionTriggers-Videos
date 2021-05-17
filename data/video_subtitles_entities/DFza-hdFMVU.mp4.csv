@@ -1,0 +1,11 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DFza-hdFMVU,Espanyol Uhura,Person,NONE,NONE,0.990311,positive,0.598125,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Espanyol Uhura,Espanyol Uhura,Espanyol Uhura,Espanyol Uhura,espanyol uhura,espanyol uhura,espanyol uhur,NONE,0.0,0.0,0.0,1.0,0.0,0.06666666666666668,neutral,0.0,0.07940599999999999,0.088058,0.180465,0.022412,0.354451,0.0,0.10000000149011612,Catalonia Independence,2017-10-27T18:58:24.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Spanish flag removed from Girona city hall following Catalonia independence vote,"The Spanish flag was removed from atop the city hall of the northern Catalan town of Girona on Friday, following the Catalan parliament’s vote for an independent republic of Catalonia. 
+
+Hundreds of supporters of Catalan independence gathered in the central Placa del Vi square in Girona, in front of the city hall, to follow the vote of the Catalan parliament and to call for the release of imprisoned activists Jordi Cuixart and Jordi Sanchez. Numerous pro-Catalan independence flags (known as ‘Estreladas’) dotted the square and the crowd erupted in celebrations once the voting results came in. 
+
+Video ID: 20171027 042
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Spanish flag removed from Girona', 'Spanish flag', 'Catalonia independence vote', 'Catalonia independence', 'independent republic of Catalonia', 'Catalan parliament', 'Catalan independence', 'politics', 'Spain'",PT2M24S,144,3

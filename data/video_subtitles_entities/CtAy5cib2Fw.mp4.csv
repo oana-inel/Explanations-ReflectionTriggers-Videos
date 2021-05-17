@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+CtAy5cib2Fw,Bulgaria,Location,Country,NONE,0.11141500000000001,neutral,0.0,0.038078,0.33966999999999997,0.160771,0.016447,0.019933000000000003,1,1,Bulgaria,Bulgaria,Bulgaria,Bulgaria,bulgaria,bulgaria,bulgar,NONE,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5
+CtAy5cib2Fw,Dani rodrik,Person,AwardWinner,http://dbpedia.org/resource/Dani_Rodrik,0.125841,negative,-0.582218,0.21527,0.09177300000000001,0.24480300000000002,0.28437399999999996,0.25031,1,1,Dani rodrik,Dani rodrik,Dani rodrik,Dani rodrik,dani rodrik,dani rodrik,dan rodrik,http://en.wikipedia.org/wiki/Dani_Rodrik,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5
+CtAy5cib2Fw,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.123676,positive,0.6560189999999999,0.170998,0.047455000000000004,0.239612,0.173129,0.331175,1,1,Google,Google,Google,Google,googl,googl,googl,http://en.wikipedia.org/wiki/Google,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5
+CtAy5cib2Fw,Philippines,Location,Country,NONE,0.11091500000000001,negative,-0.537615,0.526465,0.129832,0.20568000000000008,0.19776,0.146483,1,1,Philippines,Philippines,Philippines,Philippines,philippin,philippin,philippin,NONE,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5
+CtAy5cib2Fw,Traders free Traders,Company,NONE,NONE,0.198125,positive,0.880969,0.305123,0.019625,0.511887,0.106977,0.098483,1,1,Traders free Traders,trader free trader,trader free trader,trad fre trad,trader free trader,trader free trader,trad fre trad,NONE,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5
+CtAy5cib2Fw,maida,Person,NONE,NONE,0.12096900000000001,negative,-0.582218,0.21527,0.09177300000000001,0.24480300000000002,0.28437399999999996,0.25031,1,1,maida,maida,maida,maid,maida,maida,maid,NONE,0.9992,0.04,0.226,0.7340000000000001,0.2203869047619048,0.4806875,positive,0.630867,0.121127,0.557268,0.185813,0.100631,0.122438,0.20000000298023224,10.0,Free Trade,2015-06-19T14:48:54.000Z,UCnkEhPBMZcEO0QGu51fDFDg,Who Supports Free Trade?,"What are predictors of pro or anti-free trade sentiment? This video discusses data from the paper ""Why are Some People (and Countries) more Protectionist than Others?"" by Anna Maria Mayda and Dani Rodrik. This video also covers which countries are the most and least pro-free trade, how men and women view trade free trade differently, and how factors models come into play.
+
+International Trade course: http://mruniversity.com/courses/international-trade
+
+Ask a question about the video: http://mruniversity.com/courses/international-trade/who-supports-free-trade#QandA
+
+Next video: http://mruniversity.com/courses/international-trade/does-trade-help-environment
+
+Help us caption & translate this video!
+
+http://amara.org/v/GipP/",Marginal Revolution University,,PT4M15S,255,5

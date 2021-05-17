@@ -1,0 +1,926 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ob2RLqqOG90,40 Years,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 Years,40 year,40 year,40 year,40 year,40 year,40 year,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,40 years,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 year,40 year,40 year,40 year,40 year,40 year,40 year,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,41%,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,41 %,41 %,41 %,41 %,41 %,41 %,41 %,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,49%,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,49 %,49 %,49 %,49 %,49 %,49 %,49 %,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,70 percent,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,70 percent,70 percent,70 percent,70 perc,70 percent,70 percent,70 perc,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,70%,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,70 %,70 %,70 %,70 %,70 %,70 %,70 %,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,73%,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,73 %,73 %,73 %,73 %,73 %,73 %,73 %,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Angela Sia,Person,NONE,NONE,0.26474699999999995,negative,-0.48917700000000003,0.331683,0.332863,0.030437,0.188476,0.382375,1,1,Angela Sia,Angela Sia,Angela Sia,Angela Sia,angela sia,angela sia,angel sia,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Atlanta,Location,"AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/Atlanta,0.34121599999999996,negative,-0.7453,0.506,0.31149,0.021205,0.298628,0.23231500000000002,1,1,Atlanta,Atlanta,Atlanta,Atlanta,atlanta,atlanta,atlant,http://en.wikipedia.org/wiki/Atlanta,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.394972,negative,-0.561128,0.24368499999999998,0.183312,0.20288699999999998,0.345052,0.266993,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,CNN,Company,"Broadcast, AwardWinner, RadioNetwork, TVNetwork",http://dbpedia.org/resource/CNN,0.37655700000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,CNN,CNN,CNN,CNN,cnn,cnn,cnn,http://en.wikipedia.org/wiki/CNN,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Catalonia,Location,City,NONE,0.692607,negative,-0.309803,0.45099399999999995,0.139073,0.114008,0.270131,0.322707,5,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Catalonia,Location,Country,NONE,0.331731,negative,-0.561128,0.45099399999999995,0.139073,0.114008,0.270131,0.322707,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Emily Eklund,Person,NONE,NONE,0.377372,negative,-0.37392,0.272853,0.200379,0.174751,0.43849499999999997,0.159607,2,1,Emily Eklund,Emily Eklund,Emily Eklund,Emily Eklund,emili eklund,emili eklund,emy eklund,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Ethan,Person,NONE,NONE,0.27215100000000003,neutral,0.0,0.106063,0.100312,0.652706,0.039744,0.050177,1,1,Ethan,Ethan,Ethan,Ethan,ethan,ethan,eth,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Franco,Person,NONE,NONE,0.25631,neutral,0.0,0.26468800000000003,0.070586,0.35854899999999995,0.184105,0.037769,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Girona,Location,City,http://dbpedia.org/resource/Girona,0.361737,negative,-0.37392,0.376139,0.265435,0.053349,0.487964,0.113979,1,1,Girona,Girona,Girona,Girona,girona,girona,giron,http://en.wikipedia.org/wiki/Girona,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Girona Sienna,Location,City,NONE,0.335208,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Girona Sienna,Girona Sienna,Girona Sienna,Girona Sienna,girona sienna,girona sienna,giron sienn,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,International Community,Organization,NONE,NONE,0.28657699999999997,negative,-0.5491090000000001,0.203444,0.739542,0.008406,0.1559,0.19343,1,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Isa Suarez,Person,NONE,NONE,0.31707199999999996,neutral,0.0,0.06792100000000001,0.056251,0.618608,0.167678,0.070975,1,1,Isa Suarez,Isa Suarez,Isa Suarez,Isa Suarez,isa suarez,isa suarez,is suarez,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Issa,Person,NONE,NONE,0.298734,neutral,0.0,0.10728900000000001,0.034359,0.11129000000000001,0.049472,0.063441,1,1,Issa,Issa,Issa,Issa,issa,issa,iss,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,King's College London,Organization,NONE,NONE,0.269369,neutral,0.0,0.19255899999999998,0.147768,0.388934,0.194009,0.163471,2,1,King 's College London,King 's College London,King 's College London,King 's College London,king 's colleg london,king 's colleg london,king 's colleg london,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,La vanguardia,Location,City,NONE,0.26915300000000003,negative,-0.561128,0.415155,0.25238499999999997,0.02,0.340702,0.33778800000000003,1,1,La vanguardia,La vanguardia,La vanguardia,La vanguardia,La vanguardia,la vanguardia,la vanguard,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,London,Location,"AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/London,0.313833,neutral,0.0,0.392704,0.044605,0.22252,0.098109,0.18249100000000001,1,1,London,London,London,London,london,london,london,http://en.wikipedia.org/wiki/London,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Natalie Allen,Person,NONE,NONE,0.606329,negative,-0.5883149999999999,0.424414,0.203494,0.056884000000000004,0.287711,0.394515,5,1,Natalie Allen,natali Allen,natali Allen,nata Allen,natali allen,natali allen,nata al,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,National Police,Organization,NONE,NONE,0.453479,negative,-0.48917700000000003,0.300379,0.22816599999999998,0.021238999999999997,0.22415900000000002,0.507832,3,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Ona,Person,NONE,NONE,0.278679,negative,-0.561128,0.415155,0.25238499999999997,0.02,0.340702,0.33778800000000003,1,1,Ona,Ona,Ona,Ona,ona,ona,on,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Regional Police,Organization,NONE,NONE,0.333057,negative,-0.233305,0.440562,0.274387,0.23941500000000002,0.09997400000000001,0.170742,1,1,Regional Police,Regional Police,Regional Police,Regional Police,region polic,region polic,reg pol,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.766546,positive,0.20869899999999997,0.528208,0.181946,0.20327,0.157376,0.125075,10,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,Spanish government,Organization,NONE,NONE,0.7005279999999999,positive,0.710713,0.087779,0.053602,0.141774,0.048541,0.099557,4,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,State Police,Organization,NONE,NONE,0.348327,neutral,0.0,0.37406999999999996,0.126683,0.44353400000000004,0.007367,0.045037,1,1,State Police,State Police,State Police,State Police,state polic,state polic,stat pol,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.359494,positive,0.884266,0.195161,0.073276,0.565738,0.043144,0.074408,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,central government,Organization,NONE,NONE,0.496963,neutral,0.0,0.0,0.0,0.0,0.0,0.0,3,1,central government,central govern,central govern,cent govern,central govern,central govern,cent govern,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,lecturer,JobTitle,NONE,NONE,0.26711,positive,0.710713,0.23959699999999998,0.034612000000000004,0.195497,0.05654500000000001,0.15523,1,1,lecturer,lectur,lectur,lect,lectur,lectur,lect,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,president,JobTitle,NONE,NONE,0.365128,negative,-0.561128,0.24368499999999998,0.183312,0.20288699999999998,0.345052,0.266993,2,1,president,presid,presid,presid,presid,presid,presid,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,representative,JobTitle,NONE,NONE,0.281744,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,representative,repres,repres,repres,repres,repres,repres,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10
+ob2RLqqOG90,two days,Quantity,NONE,NONE,0.25631,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two day,two day,two day,two day,two day,two day,two day,NONE,0.999,0.035,0.101,0.8640000000000001,0.14469611217562034,0.40982858443924025,positive,0.322338,0.134448,0.5735680000000001,0.512888,0.136509,0.179647,0.0,19.600000381469727,Catalonia Independence,2017-10-01T10:30:37.000Z,UCqVeMUffsoeo9idMRcse0lQ,Spanish Government Declares Catalonia Independence Vote Illegal And Deploys Riot Police!,"October 01, 2017 MSM News  http://MOXNews.com
+
+MOX NEWS NEEDS YOUR HELP TO CONTINUE!! 
+
+NEW! My Patreon Page: https://www.patreon.com/moxnews
+
+Paypal Donations
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHT8PM5BPSVC8 
+
+My Bitcoin Wallet Is: 18atzCBj9zt7HgMnSYajcpGJwq8BipDcta
+
+$5.00 FIVE DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BNNGYSFS3XBW4
+
+$10.00 TEN DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDLM8TUJ8459S
+
+$20.00 TWENTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNMQ7S22BPY5Q
+
+$50.00 FIFTY DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZY2M9PUG3U7UA
+
+$100.00 ONE HUNDRED DOLLARS PER MONTH SUBSCRIPTION
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JATR49EVASLLQ",wwwMOXNEWScom,"Riot Police', 'Catalonia', 'Independence', 'vote', 'Spanish', 'Government', 'rubber', 'bullets', 'police', 'shoot', 'referendum', 'brutality', 'free', 'freedom', 'censorship', 'tyranny', '2017', 'news'",PT9M51S,591,10

@@ -1,0 +1,19 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zNIxXNyjv2s,10%,Quantity,NONE,NONE,0.7525609999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 %,10 %,10 %,10 %,10 %,10 %,10 %,NONE,-0.9817,0.14300000000000002,0.07200000000000001,0.785,0.1933155080213904,0.3963458110516933,negative,-0.311865,0.049374,0.59249,0.547984,0.654944,0.08093600000000001,0.10000000149011612,4.5,Vaccination,2014-03-31T21:15:20.000Z,UCvHCw-Pc9Cl9VeZrvEVldEw,Reduce vaccination pain in babies - Part 1: How and why?*,"This is the first video in a series on reducing vaccination pain in your baby.
+For more information about pain-free injections for babies, visit: 
+www.aboutkidshealth.ca/Article?contentid=989&language=English
+
+____________________________
+
+This video is provided for general information only. It does not replace a diagnosis or medical advice from a healthcare professional who has examined your child and understands their unique needs.  Please speak with your doctor to check if the content is suitable for your situation. 
+
+Cette vidéo sert à donner des renseignements généraux seulement. Elle ne remplace pas le diagnostic ou les conseils médicaux d'un professionnel de la santé qui a examiné votre enfant et comprend ses besoins uniques. Veuillez consulter votre médecin pour vérifier si le contenu convient à votre situation.",AboutKidsHealth,"vaccination', 'immunization', 'pain', 'infants'",PT2M1S,121,3
+zNIxXNyjv2s,18 months,Quantity,NONE,NONE,0.7525609999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18 month,18 month,18 month,18 month,18 month,18 month,18 month,NONE,-0.9817,0.14300000000000002,0.07200000000000001,0.785,0.1933155080213904,0.3963458110516933,negative,-0.311865,0.049374,0.59249,0.547984,0.654944,0.08093600000000001,0.10000000149011612,4.5,Vaccination,2014-03-31T21:15:20.000Z,UCvHCw-Pc9Cl9VeZrvEVldEw,Reduce vaccination pain in babies - Part 1: How and why?*,"This is the first video in a series on reducing vaccination pain in your baby.
+For more information about pain-free injections for babies, visit: 
+www.aboutkidshealth.ca/Article?contentid=989&language=English
+
+____________________________
+
+This video is provided for general information only. It does not replace a diagnosis or medical advice from a healthcare professional who has examined your child and understands their unique needs.  Please speak with your doctor to check if the content is suitable for your situation. 
+
+Cette vidéo sert à donner des renseignements généraux seulement. Elle ne remplace pas le diagnostic ou les conseils médicaux d'un professionnel de la santé qui a examiné votre enfant et comprend ses besoins uniques. Veuillez consulter votre médecin pour vérifier si le contenu convient à votre situation.",AboutKidsHealth,"vaccination', 'immunization', 'pain', 'infants'",PT2M1S,121,3

@@ -1,0 +1,64 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+0voOSqFeqCk,24 hours,Quantity,NONE,NONE,0.116791,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,24 hour,24 hour,24 hour,24 hour,24 hour,24 hour,24 hour,NONE,0.3811,0.071,0.102,0.8270000000000001,0.08544913419913419,0.5032287157287157,negative,-0.555477,0.092959,0.197661,0.6686979999999999,0.186836,0.099602,0.6000000238418579,3.5999999046325684,Vaccination,2019-03-15T16:16:21.000Z,UCiMg06DjcUk5FRiM3g5sqoQ,What to expect when your child is vaccinated | How Vaccines Work,"What should parents expect after their child’s vaccine visit? Learn more here: https://www.cdc.gov/vaccines/parents/childhood-vaccines 
+
+Find out how baby Jack’s mom and dad comfort him after a checkup where he was vaccinated, part of #HowVaccinesWork.
+
+Baby Jack has some pain, redness and swelling where he got his shots. These are all common reactions that will soon go away. His mom uses a cool, wet cloth to help him feel better.
+
+The doctor gave them some more tips for keeping Jack comfortable after his vaccines. The pediatrician recommended giving Jack lots of liquid, as Jack may eat less than usual for the first 24 hours after vaccination. 
+
+Jack’s dad is reading over some information the doctor gave him, which explains other mild side effects Jack could experience over the next few days. 
+
+Serious reactions to #vaccines are very rare. But, Jack’s parents will call his doctor if they notice anything that concerns them. 
+
+Like all parents, Jack’s mom and dad become a little upset that he is uncomfortable after he gets his shots; but when they think about the risk of Jack becoming sick from any of the 14 vaccine-preventable #diseases, they know it’s worth it to protect him in the long run.
+
+Learn more about childhood immunization by visiting https://www.cdc.gov/vaccines/parents/childhood-vaccines or talk with your child’s doctor.
+
+Comments on this video are allowed in accordance with our comment policy:
+http://www.cdc.gov/SocialMedia/Tools/CommentPolicy.html 
+
+This video can also be viewed at
+https://www.cdc.gov/vaccines/videos/low-res/CDC_How_Vaccines_Script_3_69sec_LowRes.mp4",Centers for Disease Control and Prevention (CDC),"CDC', 'Centers for Disease Control and Prevention', 'Public Health', 'Government', 'childhood vaccines', 'how vaccines work', '#howvaccineswork', 'vaccine safety', 'immune system', 'immunity', 'vaccine immunity', 'vaccine reactions', 'shot reactions', 'vaccine side effects', 'baby vaccines', 'childhood shots', 'baby shots', 'shots', 'vaccine shots', 'shots for kids', 'childhood', 'vaccines', 'baby health', 'child health', 'sick baby', 'sick kid', 'redness', 'swelling', 'pain'",PT1M10S,70,2
+0voOSqFeqCk,Fever,HealthCondition,NONE,NONE,0.116791,positive,0.497937,0.635315,0.437805,0.046813,0.036632,0.054679,1,1,Fever,Fever,Fever,Fever,fever,fever,fev,NONE,0.3811,0.071,0.102,0.8270000000000001,0.08544913419913419,0.5032287157287157,negative,-0.555477,0.092959,0.197661,0.6686979999999999,0.186836,0.099602,0.6000000238418579,3.5999999046325684,Vaccination,2019-03-15T16:16:21.000Z,UCiMg06DjcUk5FRiM3g5sqoQ,What to expect when your child is vaccinated | How Vaccines Work,"What should parents expect after their child’s vaccine visit? Learn more here: https://www.cdc.gov/vaccines/parents/childhood-vaccines 
+
+Find out how baby Jack’s mom and dad comfort him after a checkup where he was vaccinated, part of #HowVaccinesWork.
+
+Baby Jack has some pain, redness and swelling where he got his shots. These are all common reactions that will soon go away. His mom uses a cool, wet cloth to help him feel better.
+
+The doctor gave them some more tips for keeping Jack comfortable after his vaccines. The pediatrician recommended giving Jack lots of liquid, as Jack may eat less than usual for the first 24 hours after vaccination. 
+
+Jack’s dad is reading over some information the doctor gave him, which explains other mild side effects Jack could experience over the next few days. 
+
+Serious reactions to #vaccines are very rare. But, Jack’s parents will call his doctor if they notice anything that concerns them. 
+
+Like all parents, Jack’s mom and dad become a little upset that he is uncomfortable after he gets his shots; but when they think about the risk of Jack becoming sick from any of the 14 vaccine-preventable #diseases, they know it’s worth it to protect him in the long run.
+
+Learn more about childhood immunization by visiting https://www.cdc.gov/vaccines/parents/childhood-vaccines or talk with your child’s doctor.
+
+Comments on this video are allowed in accordance with our comment policy:
+http://www.cdc.gov/SocialMedia/Tools/CommentPolicy.html 
+
+This video can also be viewed at
+https://www.cdc.gov/vaccines/videos/low-res/CDC_How_Vaccines_Script_3_69sec_LowRes.mp4",Centers for Disease Control and Prevention (CDC),"CDC', 'Centers for Disease Control and Prevention', 'Public Health', 'Government', 'childhood vaccines', 'how vaccines work', '#howvaccineswork', 'vaccine safety', 'immune system', 'immunity', 'vaccine immunity', 'vaccine reactions', 'shot reactions', 'vaccine side effects', 'baby vaccines', 'childhood shots', 'baby shots', 'shots', 'vaccine shots', 'shots for kids', 'childhood', 'vaccines', 'baby health', 'child health', 'sick baby', 'sick kid', 'redness', 'swelling', 'pain'",PT1M10S,70,2
+0voOSqFeqCk,Jack,Person,NONE,NONE,0.937548,negative,-0.520687,0.681129,0.55215,0.099014,0.092746,0.174747,11,1,Jack,Jack,Jack,Jack,jack,jack,jack,NONE,0.3811,0.071,0.102,0.8270000000000001,0.08544913419913419,0.5032287157287157,negative,-0.555477,0.092959,0.197661,0.6686979999999999,0.186836,0.099602,0.6000000238418579,3.5999999046325684,Vaccination,2019-03-15T16:16:21.000Z,UCiMg06DjcUk5FRiM3g5sqoQ,What to expect when your child is vaccinated | How Vaccines Work,"What should parents expect after their child’s vaccine visit? Learn more here: https://www.cdc.gov/vaccines/parents/childhood-vaccines 
+
+Find out how baby Jack’s mom and dad comfort him after a checkup where he was vaccinated, part of #HowVaccinesWork.
+
+Baby Jack has some pain, redness and swelling where he got his shots. These are all common reactions that will soon go away. His mom uses a cool, wet cloth to help him feel better.
+
+The doctor gave them some more tips for keeping Jack comfortable after his vaccines. The pediatrician recommended giving Jack lots of liquid, as Jack may eat less than usual for the first 24 hours after vaccination. 
+
+Jack’s dad is reading over some information the doctor gave him, which explains other mild side effects Jack could experience over the next few days. 
+
+Serious reactions to #vaccines are very rare. But, Jack’s parents will call his doctor if they notice anything that concerns them. 
+
+Like all parents, Jack’s mom and dad become a little upset that he is uncomfortable after he gets his shots; but when they think about the risk of Jack becoming sick from any of the 14 vaccine-preventable #diseases, they know it’s worth it to protect him in the long run.
+
+Learn more about childhood immunization by visiting https://www.cdc.gov/vaccines/parents/childhood-vaccines or talk with your child’s doctor.
+
+Comments on this video are allowed in accordance with our comment policy:
+http://www.cdc.gov/SocialMedia/Tools/CommentPolicy.html 
+
+This video can also be viewed at
+https://www.cdc.gov/vaccines/videos/low-res/CDC_How_Vaccines_Script_3_69sec_LowRes.mp4",Centers for Disease Control and Prevention (CDC),"CDC', 'Centers for Disease Control and Prevention', 'Public Health', 'Government', 'childhood vaccines', 'how vaccines work', '#howvaccineswork', 'vaccine safety', 'immune system', 'immunity', 'vaccine immunity', 'vaccine reactions', 'shot reactions', 'vaccine side effects', 'baby vaccines', 'childhood shots', 'baby shots', 'shots', 'vaccine shots', 'shots for kids', 'childhood', 'vaccines', 'baby health', 'child health', 'sick baby', 'sick kid', 'redness', 'swelling', 'pain'",PT1M10S,70,2

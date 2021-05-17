@@ -1,0 +1,811 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+fI1DRGcSets,10 years,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,15%,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15 %,15 %,15 %,15 %,15 %,15 %,15 %,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,19 percent,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,19 percent,19 percent,19 percent,19 perc,19 percent,19 percent,19 perc,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,25%,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,3,1,25 %,25 %,25 %,25 %,25 %,25 %,25 %,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,40%,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 %,40 %,40 %,40 %,40 %,40 %,40 %,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,60 60 percent,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,60 60 percent,60 60 percent,60 60 percent,60 60 perc,60 60 percent,60 60 percent,60 60 perc,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,75%,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,75 %,75 %,75 %,75 %,75 %,75 %,75 %,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Bangladesh,Location,Country,NONE,0.175575,negative,-0.893669,0.22433000000000008,0.093592,0.059870000000000013,0.1246,0.065731,1,1,Bangladesh,Bangladesh,Bangladesh,Bangladesh,bangladesh,bangladesh,bangladesh,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Bill Gates,Person,"BoardMember, ChivalricOrderMember, CompanyFounder, TVActor, VideoGameDeveloper",http://dbpedia.org/resource/Bill_Gates,0.774709,negative,-0.33644,0.212486,0.038088,0.11099,0.18038800000000002,0.150842,8,1,Bill Gates,Bill Gates,Bill Gates,Bill Gates,bill gate,bill gate,bil gat,http://en.wikipedia.org/wiki/Bill_Gates,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Gabby,Person,NONE,NONE,0.190342,negative,-0.609741,0.4823939999999999,0.20082,0.30493600000000004,0.07599199999999999,0.077309,1,1,Gabby,Gabby,Gabby,Gabby,gabbi,gabbi,gabby,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Healthcare reproductive Health Services,Organization,NONE,NONE,0.26471,positive,0.714482,0.398733,0.086612,0.380011,0.048966,0.025167,1,1,Healthcare reproductive Health Services,Healthcare reproduct Health Services,Healthcare reproduct Health Services,Healthcare reproduc Health Services,healthcar reproduct health servic,healthcar reproduct health servic,healthc reproduc heal serv,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Mali,Location,Country,NONE,0.343826,negative,-0.670525,0.345989,0.174144,0.091928,0.21484299999999998,0.10916600000000001,4,1,Mali,Mali,Mali,Mali,mali,mali,mal,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Melinda Gates,Person,"AwardWinner, BoardMember",http://dbpedia.org/resource/Melinda_Gates,0.278993,positive,0.46238199999999996,0.024852000000000003,0.0084,0.389581,0.059525,0.005261999999999999,1,1,Melinda Gates,Melinda Gates,Melinda Gates,Melinda Gates,melinda gate,melinda gate,melind gat,http://en.wikipedia.org/wiki/Melinda_Gates,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Melinda Gates Foundation,Organization,NONE,NONE,0.36289099999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,Melinda Gates Foundation,Melinda Gates Foundation,Melinda Gates Foundation,Melinda Gates Foundation,melinda gate foundat,melinda gate foundat,melind gat found,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Molly rotavirus,Person,NONE,NONE,0.230256,negative,-0.751152,0.5411630000000001,0.180811,0.177918,0.101424,0.23014099999999998,1,1,Molly rotavirus,Molly rotaviru,Molly rotavirus,Molly rotavir,molli rotaviru,molli rotavirus,mol rotavir,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,Reproductive Rights,Organization,NONE,NONE,0.22190900000000002,negative,-0.893669,0.23763499999999999,0.101634,0.038137,0.14515899999999998,0.06930900000000001,2,1,Reproductive Rights,Reproductive Rights,Reproductive Rights,Reproductive Rights,reproduct right,reproduct right,reproduc right,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,The Gates Foundation,Organization,"Company, Non-ProfitOrganisation",http://dbpedia.org/resource/Bill_&_Melinda_Gates_Foundation,0.284065,negative,-0.6856399999999999,0.565271,0.198678,0.141259,0.063225,0.124824,1,1,The Gates Foundation,the Gates Foundation,the Gates Foundation,the Gates Foundation,the gate foundat,the gate foundat,the gat found,http://en.wikipedia.org/wiki/Bill_&_Melinda_Gates_Foundation,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,UN,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.196365,negative,-0.465499,0.45665100000000003,0.159344,0.12839,0.191832,0.083088,3,1,UN,UN,UN,UN,UN,un,un,http://en.wikipedia.org/wiki/United_Nations,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,UND population fund,Organization,NONE,NONE,0.273541,neutral,0.0,0.097601,0.024203,0.011696,0.371133,0.108118,1,1,UND population fund,UND popul fund,UND popul fund,UND pop fund,und popul fund,und popul fund,und pop fund,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,diarrhea,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, RiskFactor, Symptom, Disease",http://dbpedia.org/resource/Diarrhea,0.298667,neutral,0.0,0.11243099999999999,0.022645,0.12770499999999999,0.18476900000000002,0.139899,3,1,diarrhea,diarrhea,diarrhea,diarrhe,diarrhea,diarrhea,diarrhe,http://en.wikipedia.org/wiki/Diarrhea,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,four years,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,gavi,Company,NONE,NONE,0.234719,negative,-0.29888200000000004,0.549446,0.049931,0.211432,0.23719,0.053524,1,1,gavi,gavi,gavi,gav,gavi,gavi,gav,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,one day,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one day,one day,one day,on day,one day,one day,on day,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,pneumonia,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, RiskFactor, Symptom, Disease",http://dbpedia.org/resource/Pneumonia,0.195821,neutral,0.0,0.166604,0.031118,0.151568,0.119978,0.087997,1,1,pneumonia,pneumonia,pneumonia,pneumon,pneumonia,pneumonia,pneumon,http://en.wikipedia.org/wiki/Pneumonia,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,rotavirus,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause",http://dbpedia.org/resource/Rotavirus,0.304768,neutral,0.0,0.302089,0.049942,0.628093,0.015479,0.022785,2,1,rotavirus,rotaviru,rotavirus,rotavir,rotaviru,rotavirus,rotavir,http://en.wikipedia.org/wiki/Rotavirus,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,ten billion dollar,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ten billion dollar,ten billion dollar,ten billion dollar,ten bil doll,ten billion dollar,ten billion dollar,ten bil doll,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8
+fI1DRGcSets,twenty five percent,Quantity,NONE,NONE,0.175575,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,twenty five percent,twenti five percent,twenti five percent,twenty fiv perc,twenti five percent,twenti five percent,twenty fiv perc,NONE,0.9969,0.06,0.122,0.818,0.10774828853317228,0.41745092117185134,negative,-0.370478,0.112382,0.5191899999999999,0.503468,0.12558699999999998,0.100127,0.0,18.299999237060547,Vaccination,2010-03-03T01:14:55.000Z,UC-sgHphfnBhikBxyF2GbMdw,"Bill Gates, "" Vaccinate to Depopulate"": His Logic Explained","TrutherGirls T-Shirts: http://thetruthergirls.spreadshirt.com/
+Bill Gates recently went on record at a TED conference declaring that his foundation's vaccine programs' goals were to reduce the poulation. This has led a lot of people to jump to the conclusion that he was saying his vaccines affect fertility. However, if you look at previous interviews on teh subject, you will see that it's not tat simple and that there is a lot of twisted logic involved. Bottom line: Gates is an admitted depopulationist. Would you trust his intentions when it comes to people's health?
+Prison Planet article on Gates, vaccines and depopulation with TED video embedded
+""The world today has 6.8 billion people. That's heading up to about nine billion. Now if we do a really great job on new vaccines, health care, reproductive health services, we could lower that by perhaps 10 or 15 percent!"" [About 1 Billion People!]- Bill Gates
+http://www.prisonplanet.com/bill-gates-use-vaccines-to-lower-population.html
+
+Transcript of 2008 CNN interview with Gates where he explains how vaccine slower birth rate by lowering child mortality rate. 
+http://transcripts.cnn.com/TRANSCRIPTS/0810/05/fzgps.01.html
+
+GAVI alliance- pushing vaccines for 3rd world countries. Major contributor: Bill and Melinda Gates Foundation.
+http://www.gavialliance.org/
+
+Bill and Melinda Gates foundation: emphasis on vaccines
+We invest heavily in vaccines across our portfolio in the hope that one day they can be used to prevent HIV, malaria and TB; wipe out polio; and help save children from dying of diarrhea and pneumonia.
+http://www.gatesfoundation.org/global-health/Pages/global-health-strategies.aspx
+
+Infant mortality by country:
+http://en.wikipedia.org/wiki/List_of_countries_by_infant_mortality_rate
+Breast feeding prevents disease. Info on infant mortality
+http://www.deathreference.com/Me-Nu/Mortality-Infant.html
+More on infant mortality
+http://www.cwru.edu/med/epidbio/mphp439/Infant_Mortality.htm
+Mali stats on water, vaccines, etc
+http://www.unicef.org/infobycountry/mali_statistics.html
+effect of fertility reduction on infant and child mortality: Evidence form Matlab, Bangladesh
+http://www.jstor.org/pss/2175030
+GAVI on Rotavirus Vaccine: 60% efficacy (that is not equivalent to effectiveness. No stats on whether it has actually lowered death rate or hospitalizations, of course)
+http://www.gavialliance.org/media_centre/news/2010_02_04_Media_Global_rotavirus.php
+UNFPA calls for increased abortion to decrease child mortality, increase education:
+http://www.c-fam.org/publications/id.414/pub_detail.asp",thetruthergirls,"bill', 'gates', 'vaccination', 'gavi', 'depopulation', 'birth', 'rate', 'decline'",PT7M38S,458,8

@@ -1,0 +1,155 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+374u-EtIFLU,75%,Quantity,NONE,NONE,0.179281,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,75 %,75 %,75 %,75 %,75 %,75 %,75 %,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,99%,Quantity,NONE,NONE,0.179281,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,99 %,99 %,99 %,99 %,99 %,99 %,99 %,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Alex Canada,Company,NONE,NONE,0.254618,neutral,0.0,0.414242,0.053266999999999995,0.32416100000000003,0.106556,0.044364999999999995,1,1,Alex Canada,Alex Canada,Alex Canada,Alex Canada,alex canada,alex canada,alex canad,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Artie,Person,NONE,NONE,0.2184760000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Artie,Artie,Artie,Artie,arti,arti,arty,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Belgium,Location,"HumanLanguage, Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Belgium,0.22791199999999998,negative,-0.39778600000000003,0.42560200000000004,0.240312,0.07422999999999999,0.202526,0.196483,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,http://en.wikipedia.org/wiki/Belgium,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.327757,neutral,0.0,0.534937,0.153309,0.258842,0.11401700000000001,0.084578,3,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Donald Tusk,Person,Politician,http://dbpedia.org/resource/Donald_Tusk,0.245479,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Donald Tusk,Donald Tusk,Donald Tusk,Donald Tusk,donald tusk,donald tusk,donald tusk,http://en.wikipedia.org/wiki/Donald_Tusk,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.204048,neutral,0.0,0.521107,0.287619,0.126575,0.10601500000000001,0.09283999999999999,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.254873,negative,-0.422034,0.186746,0.1271,0.5373319999999999,0.025792000000000002,0.21181599999999998,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Justin Trudeau,Person,"Politician, MemberOfParliament",http://dbpedia.org/resource/Justin_Trudeau,0.4271390000000001,neutral,0.0,0.503261,0.055072,0.314835,0.142059,0.044267,3,1,Justin Trudeau,Justin Trudeau,Justin Trudeau,Justin Trudeau,justin trudeau,justin trudeau,justin trudeau,http://en.wikipedia.org/wiki/Justin_Trudeau,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,LCBO,Organization,Company,http://dbpedia.org/resource/Liquor_Control_Board_of_Ontario,0.20208299999999998,neutral,0.0,0.11189,0.028076999999999998,0.681251,0.060440999999999995,0.034622,1,1,LCBO,LCBO,LCBO,LCBO,lcbo,lcbo,lcbo,http://en.wikipedia.org/wiki/Liquor_Control_Board_of_Ontario,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Ontario,Location,StateOrCounty,NONE,0.19374,neutral,0.0,0.312127,0.039582,0.402623,0.14725,0.082194,2,1,Ontario,Ontario,Ontario,Ontario,ontario,ontario,ontario,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Ottawa,Location,City,NONE,0.179281,neutral,0.0,0.367263,0.170178,0.16493,0.172705,0.190608,1,1,Ottawa,Ottawa,Ottawa,Ottawa,ottawa,ottawa,ottaw,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,President,JobTitle,NONE,NONE,0.209152,neutral,0.0,0.414242,0.053266999999999995,0.32416100000000003,0.106556,0.044364999999999995,1,1,President,President,President,President,presid,presid,presid,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Prime Minister,JobTitle,NONE,NONE,0.21924000000000002,neutral,0.0,0.414242,0.053266999999999995,0.32416100000000003,0.106556,0.044364999999999995,1,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Quebec,Location,StateOrCounty,NONE,0.185098,neutral,0.0,0.216125,0.33720900000000004,0.23479899999999998,0.162391,0.083849,1,1,Quebec,Quebec,Quebec,Quebec,quebec,quebec,quebec,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Toronto,Location,"AdministrativeDivision, GovernmentalJurisdiction, OlympicBiddingCity, SchoolDistrict, City",http://dbpedia.org/resource/Toronto,0.271748,negative,-0.632768,0.449615,0.09400900000000001,0.25871,0.083764,0.039291,2,1,Toronto,Toronto,Toronto,Toronto,toronto,toronto,toronto,http://en.wikipedia.org/wiki/Toronto,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,Vilonia,Location,City,"http://dbpedia.org/resource/Vilonia,_Arkansas",0.260432,negative,-0.39778600000000003,0.405014,0.23242,0.077484,0.20606799999999997,0.21196900000000002,2,1,Vilonia,Vilonia,Vilonia,Vilonia,vilonia,vilonia,vilon,"http://en.wikipedia.org/wiki/Vilonia,_Arkansas",0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,official,JobTitle,NONE,NONE,0.221203,neutral,0.0,0.051125,0.099685,0.540399,0.232971,0.121323,1,1,official,offici,offici,off,offici,offici,off,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,seven years,Quantity,NONE,NONE,0.179281,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,seven year,seven year,seven year,sev year,seven year,seven year,sev year,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,two weeks,Quantity,NONE,NONE,0.179281,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two week,two week,two week,two week,two week,two week,two week,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4
+374u-EtIFLU,wallonia,Location,Country,NONE,0.29542399999999996,neutral,0.0,0.274914,0.12108,0.375429,0.176566,0.102274,2,1,wallonia,wallonia,wallonia,wallon,wallonia,wallonia,wallon,NONE,0.9573,0.068,0.098,0.8340000000000001,0.092232411837675,0.4329584061163007,positive,0.331826,0.116029,0.547157,0.567025,0.163731,0.110216,0.0,9.300000190734863,Free Trade,2016-10-31T23:19:59.000Z,UCczrL-2b-gYK3l4yDld4XlQ,"EU, Canada sign historic CETA free trade agreement","After seven years of negotiations the European Union and Canada signed the Comprehensive Economic & Trade Agreement (CETA) in Brussels, Belgium. The deal eliminates 99 percent of tariffs between the EU and Canada. RT correspondent Alex Mihailovich joins RT America’s Simone Del Rosario to break down the deal. 
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"CETA', 'Free Trade', 'Free Trade agreement', 'EU', 'brexit', 'TPP', 'TPA', 'Donald Trump', 'trade deals', 'canada', 'rt', 'rt america'",PT3M50S,230,4

@@ -1,0 +1,210 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+7aqkZUlQZsM,Carlos,Person,NONE,NONE,0.421098,neutral,0.0,0.34233,0.41293199999999997,0.24151999999999998,0.035118,0.042464999999999996,2,1,Carlos,Carlos,Carlos,Carlos,carlo,carlo,carlo,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Catalonia,Location,Region,NONE,0.419195,positive,0.8194450000000001,0.476394,0.064069,0.151989,0.2263010000000001,0.141428,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,El Mundo,Company,NONE,NONE,0.472604,positive,0.8194450000000001,0.476394,0.064069,0.151989,0.2263010000000001,0.141428,1,1,El Mundo,El Mundo,El Mundo,El Mundo,El mundo,el mundo,el mundo,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Justice Minister Rafael,Person,NONE,NONE,0.547551,positive,0.754517,0.565235,0.05978500000000001,0.149335,0.18518199999999999,0.069223,1,1,Justice Minister Rafael,Justice Minister Rafael,Justice Minister Rafael,Justice Minister Rafael,justic minist rafael,justic minist rafael,just min rafael,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Khattala,Person,NONE,NONE,0.6758810000000001,neutral,0.0,0.40780700000000003,0.205634,0.133787,0.203824,0.221863,5,1,Khattala,Khattala,Khattala,Khattala,khattala,khattala,khattal,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Marianna rompuy,Person,NONE,NONE,0.519092,neutral,0.0,0.106866,0.090291,0.020784999999999998,0.09387999999999999,0.202959,1,1,Marianna rompuy,Marianna rompuy,Marianna rompuy,Marianna rompuy,marianna rompuy,marianna rompuy,mariann rompuy,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Prime Minister,JobTitle,NONE,NONE,0.509851,neutral,0.0,0.445792,0.19705899999999998,0.194275,0.13800199999999999,0.158105,1,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,Rocco,Person,NONE,NONE,0.874158,negative,-0.433487,0.325325,0.281898,0.196526,0.179626,0.215356,4,1,Rocco,Rocco,Rocco,Rocco,rocco,rocco,rocco,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,t,Person,NONE,NONE,0.45988500000000004,negative,-0.5693189999999999,0.486378,0.246928,0.063231,0.114532,0.319306,1,1,t,t,t,t,t,t,t,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,three months,Quantity,NONE,NONE,0.419195,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,three month,three month,three month,three month,three month,three month,three month,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4
+7aqkZUlQZsM,two two months,Quantity,NONE,NONE,0.419195,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two two month,two two month,two two month,two two month,two two month,two two month,two two month,NONE,0.9255,0.039,0.065,0.8959999999999999,0.12402210884353745,0.28133503401360543,positive,0.295673,0.177344,0.113968,0.504624,0.495916,0.166258,-0.20000000298023224,6.199999809265138,Catalonia Independence,2017-10-16T10:46:41.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia independence: Madrid demands ""a simple Yes or No response""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Responding to a Monday morning deadline set by Madrid, Catalonia's separatist leader Carles Puigdemont said he wanted to suspend any steps towards Catalan independence for two months to allow time for talks with Spain's central government.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'france24', 'news', 'Catalunya', 'Sarah Morris', 'Deadline', 'Independence', 'Independent', 'Madrid', 'Barcelona', 'Rajoy', 'Secession'",PT3M18S,198,4

@@ -1,0 +1,818 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tQema_A6coQ,Alanis,Person,NONE,NONE,0.223852,negative,-0.503822,0.460747,0.1845,0.283521,0.098855,0.094814,1,1,Alanis,Alanis,Alanis,Alanis,alani,alani,al,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.379698,negative,-0.5620029999999999,0.337843,0.070296,0.266863,0.244777,0.31506100000000004,5,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Barcelona Spain,Company,NONE,NONE,0.319234,neutral,0.0,0.275276,0.034206,0.34581,0.089363,0.15573599999999999,1,1,Barcelona Spain,Barcelona Spain,Barcelona Spain,Barcelona Spain,barcelona spain,barcelona spain,barcelon spain,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Carla Wills,Person,NONE,NONE,0.234767,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Carla Wills,Carla Wills,Carla Wills,Carla Wills,carla will,carla will,carl wil,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Carlos puy,Person,NONE,NONE,0.24342199999999997,negative,-0.339361,0.247007,0.5101720000000001,0.073959,0.277645,0.213114,1,1,Carlos puy,Carlos puy,Carlos puy,Carlos puy,carlo puy,carlo puy,carlo puy,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Catalan Regional government,Organization,NONE,NONE,0.375069,neutral,0.0,0.222347,0.20141900000000001,0.114619,0.329898,0.088642,1,1,Catalan Regional government,Catalan Regional govern,Catalan Regional govern,Catalan Regional govern,catalan region govern,catalan region govern,cat reg govern,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Catalonia,Location,City,NONE,0.813699,negative,-0.563041,0.569154,0.429274,0.535987,0.14348,0.13881500000000002,11,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Catalonia,Location,Region,NONE,0.39647899999999997,negative,-0.575662,0.569154,0.429274,0.535987,0.14348,0.13881500000000002,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Cleveland,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/Cleveland,0.23801799999999998,negative,-0.513896,0.491045,0.272258,0.093993,0.11293399999999999,0.111268,1,1,Cleveland,Cleveland,Cleveland,Cleveland,cleveland,cleveland,cleveland,http://en.wikipedia.org/wiki/Cleveland,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Davila Sam,Person,NONE,NONE,0.180599,neutral,0.0,0.145341,0.087858,0.16200699999999998,0.620578,0.143513,1,1,Davila Sam,Davila Sam,Davila Sam,Davila Sam,davila sam,davila sam,davil sam,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Dean Augustine,Person,NONE,NONE,0.23419600000000002,positive,0.8224959999999999,0.018187000000000002,0.011928,0.182676,0.044752999999999994,0.019280000000000002,1,1,Dean Augustine,Dean Augustine,Dean Augustine,Dean Augustine,dean augustin,dean augustin,dean augustin,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.31596,negative,-0.257137,0.260705,0.587653,0.07167000000000001,0.49423500000000004,0.219165,7,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Franco,Person,NONE,NONE,0.22064499999999998,negative,-0.513896,0.491045,0.272258,0.093993,0.11293399999999999,0.111268,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Internal Affairs of Spain,Organization,NONE,NONE,0.252726,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Internal Affairs of Spain,Internal Affairs of Spain,Internal Affairs of Spain,Internal Affairs of Spain,intern affair of spain,intern affair of spain,intern affair of spain,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,John Hamilton,Person,"Actor, FilmActor, FilmDirector, FilmProducer, TVActor, FilmWriter",http://dbpedia.org/resource/John_Hamilton_(actor),0.193924,neutral,0.0,0.065334,0.091102,0.229251,0.230215,0.09771200000000001,1,1,John Hamilton,John Hamilton,John Hamilton,John Hamilton,john hamilton,john hamilton,john hamilton,http://en.wikipedia.org/wiki/John_Hamilton_(actor),0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Juan Carlos,Person,NONE,NONE,0.399081,negative,-0.325522,0.10030599999999999,0.047938,0.542117,0.10005399999999999,0.155799,3,1,Juan Carlos,Juan Carlos,Juan Carlos,Juan Carlos,juan carlo,juan carlo,juan carlo,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Juan Gonzalez,Person,NONE,NONE,0.32306799999999997,negative,-0.575662,0.499737,0.187117,0.131662,0.29892399999999997,0.17236600000000002,2,1,Juan Gonzalez,Juan Gonzalez,Juan Gonzalez,Juan Gonzalez,juan gonzalez,juan gonzalez,juan gonzalez,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Laura,Person,NONE,NONE,0.21422800000000009,positive,0.53481,0.15043800000000002,0.079669,0.285523,0.233104,0.14019,1,1,Laura,Laura,Laura,Laura,laura,laura,laur,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.22774499999999998,negative,-0.7895449999999999,0.493084,0.178234,0.028201,0.210916,0.378076,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Nermeen Shaikh,Person,NONE,NONE,0.240457,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Nermeen Shaikh,Nermeen Shaikh,Nermeen Shaikh,Nermeen Shaikh,nermeen shaikh,nermeen shaikh,nermeen shaikh,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,New Brunswick,Location,City,"http://dbpedia.org/resource/New_Brunswick,_Indiana",0.266271,negative,-0.575662,0.492633,0.317075,0.022986000000000003,0.39516,0.143289,1,1,New Brunswick,New Brunswick,New Brunswick,New Brunswick,new brunswick,new brunswick,new brunswick,"http://en.wikipedia.org/wiki/New_Brunswick,_Indiana",0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,New York,Location,"PoliticalDistrict, GovernmentalJurisdiction, PlaceWithNeighborhoods, WineRegion, FilmScreeningVenue, City",http://dbpedia.org/resource/New_York_City,0.312261,positive,0.81257,0.284068,0.029164,0.342654,0.10596400000000004,0.166652,2,1,New York,New York,New York,New York,new york,new york,new york,http://en.wikipedia.org/wiki/New_York_City,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Oberlin College,Organization,"Location, CollegeUniversity, University",http://dbpedia.org/resource/Oberlin_College,0.29349000000000003,neutral,0.0,0.258184,0.027096,0.672283,0.0070290000000000005,0.041908999999999995,2,1,Oberlin College,Oberlin College,Oberlin College,Oberlin College,oberlin colleg,oberlin colleg,oberlin colleg,http://en.wikipedia.org/wiki/Oberlin_College,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Ohio,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Ohio,0.24634699999999998,neutral,0.0,0.366804,0.07130399999999999,0.5608,0.005958,0.027061,1,1,Ohio,Ohio,Ohio,Ohio,ohio,ohio,ohio,http://en.wikipedia.org/wiki/Ohio,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Powell,Person,NONE,NONE,0.212281,positive,0.737078,0.0,0.0,0.0,0.0,0.0,1,1,Powell,Powell,Powell,Powell,powel,powel,powel,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Robbie Karen,Person,NONE,NONE,0.188177,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Robbie Karen,Robbie Karen,Robbie Karen,Robbie Karen,robbi karen,robbi karen,robby kar,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Rutgers University,Facility,NONE,NONE,0.250959,negative,-0.575662,0.499737,0.187117,0.131662,0.29892399999999997,0.17236600000000002,1,1,Rutgers University,Rutgers University,Rutgers University,Rutgers University,rutger univers,rutger univers,rutg univers,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Rutgers University,Organization,"Location, AcademicInstitution, CollegeUniversity, University",http://dbpedia.org/resource/Rutgers_University,0.213475,neutral,0.0,0.499737,0.187117,0.131662,0.29892399999999997,0.17236600000000002,1,1,Rutgers University,Rutgers University,Rutgers University,Rutgers University,rutger univers,rutger univers,rutg univers,http://en.wikipedia.org/wiki/Rutgers_University,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,San Juan,Location,City,"http://dbpedia.org/resource/San_Juan,_Puerto_Rico",0.254762,neutral,0.0,0.179976,0.079761,0.464869,0.34643,0.036323,1,1,San Juan,San Juan,San Juan,San Juan,san juan,san juan,san juan,"http://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Sebastian,Person,NONE,NONE,0.356081,negative,-0.035262,0.191338,0.075775,0.540195,0.13200599999999998,0.12701300000000001,3,1,Sebastian,Sebastian,Sebastian,Sebastian,sebastian,sebastian,sebast,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.504731,negative,-0.56752,0.5582,0.21873,0.12992599999999999,0.505889,0.205146,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Spain,Location,Country,http://dbpedia.org/resource/Francoist_Spain,0.494859,negative,-0.613841,0.5582,0.21873,0.12992599999999999,0.505889,0.205146,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Francoist_Spain,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,Spain Catalonia,Facility,NONE,NONE,0.384193,neutral,0.0,0.21688200000000002,0.103593,0.136107,0.586489,0.139602,1,1,Spain Catalonia,Spain Catalonia,Spain Catalonia,Spain Catalonia,spain catalonia,spain catalonia,spain catalon,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,kalau,Location,City,NONE,0.214211,negative,-0.6520199999999999,0.172539,0.344852,0.024133,0.365981,0.48825799999999997,1,1,kalau,kalau,kalau,kalau,kalau,kalau,kalau,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,nation magazine,PrintMedia,Newspaper,http://dbpedia.org/resource/The_Nation,0.25867399999999996,neutral,0.0,0.275276,0.034206,0.34581,0.089363,0.15573599999999999,1,1,nation magazine,nation magazin,nation magazin,nat magazin,nation magazin,nation magazin,nat magazin,http://en.wikipedia.org/wiki/The_Nation,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,president,JobTitle,NONE,NONE,0.326531,negative,-0.514095,0.31590799999999997,0.280142,0.037339,0.29083200000000003,0.45706,3,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,prime minister,JobTitle,NONE,NONE,0.219584,neutral,0.0,0.65668,0.145518,0.10708800000000004,0.217581,0.087171,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,professor of Hispanic studies,JobTitle,NONE,NONE,0.27769499999999997,neutral,0.0,0.258184,0.027096,0.672283,0.0070290000000000005,0.041908999999999995,2,1,professor of Hispanic study,professor of hispan studi,professor of hispan studi,profess of hisp study,professor of hispan studi,professor of hispan studi,profess of hisp study,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,rajoy,Person,NONE,NONE,0.218486,neutral,0.0,0.65668,0.145518,0.10708800000000004,0.217581,0.087171,1,1,rajoy,rajoy,rajoy,rajoy,rajoy,rajoy,rajoy,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,seven years,Quantity,NONE,NONE,0.180599,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,seven year,seven year,seven year,sev year,seven year,seven year,sev year,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,tata,Company,NONE,NONE,0.23197800000000002,negative,-0.6191800000000001,0.278397,0.238384,0.24801199999999998,0.289122,0.146622,1,1,tata,tata,tata,tat,tata,tata,tat,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,three weeks,Quantity,NONE,NONE,0.180599,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10
+tQema_A6coQ,writer,JobTitle,NONE,NONE,0.21581199999999998,neutral,0.0,0.275276,0.034206,0.34581,0.089363,0.15573599999999999,1,1,writer,writer,writer,writ,writer,writer,writ,NONE,0.9922,0.062,0.09,0.848,0.0731023934742943,0.3931235018425102,negative,-0.277446,0.135941,0.523407,0.502841,0.128299,0.444449,-0.10000000149011612,14.300000190734865,Catalonia Independence,2017-10-02T15:48:34.000Z,UCzuqE7-t13O4NIDYJfakrhw,Spanish Police Injure 800 in Crackdown on Catalonia Independence Referendum as Crisis Escalates,"https://democracynow.org - In Spain, tensions are escalating over Sunday’s independence referendum in the northeast region of Catalonia. More than 800 people were injured after Spanish police stormed polling stations and tried to forcibly prevent people from voting, firing tear gas and physically attacking prospective voters. Late on Sunday night, the Catalan regional government said 90 percent of Catalan voters chose independence. The Catalan government now says it plans to unilaterally declare independence from Spain within 48 hours. Spain says it will recognize neither the results of the referendum nor a declaration of independence. The escalating conflict is being described as the biggest constitutional crisis in Spain since the end of the Franco dictatorship in the 1970s. For more, we speak with Sebastiaan Faber, professor of Hispanic studies at Oberlin College and author of the forthcoming book ""Memory Battles of the Spanish Civil War: History, Fiction, Photography."" He’s the co-author of an article in The Nation headlined ""Have Spain and Catalonia Reached a Point of No Return?"" We also speak with Pau Faus, filmmaker and writer from Barcelona, Spain. His recent documentary ""Ada for Mayor"" follows the campaign of Barcelona Mayor Ada Colau.
+
+Democracy Now! is an independent global news hour that airs weekdays on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org
+
+Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate
+
+FOLLOW DEMOCRACY NOW! ONLINE:
+Facebook: http://facebook.com/democracynow 
+Twitter: https://twitter.com/democracynow
+YouTube: http://youtube.com/democracynow 
+SoundCloud: http://soundcloud.com/democracynow 
+Daily Email: https://democracynow.org/subscribe 
+Google+: https://plus.google.com/+DemocracyNow
+Instagram: http://instagram.com/democracynow
+Tumblr: http://democracynow.tumblr.com
+Pinterest: http://pinterest.com/democracynow
+iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 
+TuneIn: http://tunein.com/radio/Democracy-Now-p90/
+Stitcher Radio: http://www.stitcher.com/podcast/democracy-now",Democracy Now!,"Democracy Now', 'Amy Goodman', 'DN', 'News', 'Politics', 'democracynow.org', 'Video', 'Independent Media', 'Daily News', 'Breaking News', 'World News', 'Interview', 'Catalan referendum', 'voting rights', 'police brutality', 'Spain', 'declaration of independence', 'Sebastiaan Faber', 'Pau Faus', 'Barcelona', 'Catalonia', 'autonomous region', 'european union', 'Hispanic studies', 'Oberlin College', 'Ada Colau', 'Franco', 'constitution', 'regional government', 'The Nation', 'separatism', 'nationalism', 'regionalism', 'protest'",PT9M24S,564,10

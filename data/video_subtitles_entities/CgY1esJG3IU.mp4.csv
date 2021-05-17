@@ -1,0 +1,484 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+CgY1esJG3IU,47 percent,Quantity,NONE,NONE,0.22519699999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,47 percent,47 percent,47 percent,47 perc,47 percent,47 percent,47 perc,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.28474299999999997,neutral,0.0,0.22938699999999998,0.037124000000000004,0.329351,0.061511,0.136255,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.43382299999999996,negative,-0.6979420000000001,0.258666,0.262794,0.310157,0.114744,0.26318,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Catalan society,Organization,NONE,NONE,0.313146,neutral,0.0,0.48649899999999996,0.14163,0.090152,0.144676,0.14898499999999998,1,1,Catalan society,Catalan societi,Catalan societi,Catalan socy,catalan societi,catalan societi,cat socy,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Catalonia,Location,City,NONE,0.408725,negative,-0.644228,0.38595799999999997,0.404727,0.176096,0.17745999999999998,0.108794,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.24796100000000001,positive,0.6202449999999999,0.125143,0.07864600000000001,0.578551,0.034488,0.030784,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,European Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/European_Parliament,0.539126,positive,0.053157,0.11336900000000001,0.039833999999999994,0.6294420000000001,0.03417,0.057976,3,1,European Parliament,European Parliament,European Parliament,European Parliament,european parliament,european parliament,europ parlia,http://en.wikipedia.org/wiki/European_Parliament,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.29843800000000004,positive,0.9338270000000001,0.034365,0.033975,0.5972149999999999,0.004338,0.049507999999999996,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Javy Lopez,Person,Athlete,http://dbpedia.org/resource/Javy_López,0.779254,positive,0.24218699999999999,0.170401,0.11416400000000004,0.62644,0.107733,0.11579400000000001,6,1,Javy Lopez,Javy Lopez,Javy Lopez,Javy Lopez,javi lopez,javi lopez,javy lopez,http://en.wikipedia.org/wiki/Javy_López,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.258467,negative,-0.51393,0.207569,0.161512,0.21544000000000002,0.36796100000000004,0.300241,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.635582,negative,-0.4258770000000001,0.716276,0.24379800000000001,0.057132,0.088185,0.148544,5,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Mattoon,Location,City,NONE,0.236873,positive,0.714558,0.220243,0.0291,0.416997,0.389175,0.10054600000000001,1,1,Mattoon,Mattoon,Mattoon,Mattoon,mattoon,mattoon,mattoon,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Parliament,Organization,NONE,NONE,0.4186470000000001,negative,-0.069634,0.197458,0.057291999999999996,0.450437,0.194701,0.073946,3,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Socialist Party,Organization,NONE,NONE,0.397729,negative,-0.357817,0.25842600000000004,0.057918,0.17963099999999999,0.262468,0.149903,2,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Socialist Party of Spain,Organization,NONE,NONE,0.34930700000000003,neutral,0.0,0.318422,0.175361,0.035289,0.478504,0.14735499999999999,1,1,Socialist Party of Spain,Socialist Party of Spain,Socialist Party of Spain,Socialist Party of Spain,socialist parti of spain,socialist parti of spain,soc party of spain,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.449511,negative,-0.311488,0.558892,0.086177,0.148111,0.20793299999999998,0.167783,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.460689,negative,-0.59391,0.558892,0.086177,0.148111,0.20793299999999998,0.167783,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,Strasbourg,Location,City,http://dbpedia.org/resource/Strasbourg,0.240826,negative,-0.7108979999999999,0.368127,0.045769,0.31668,0.08809700000000001,0.13028299999999998,1,1,Strasbourg,Strasbourg,Strasbourg,Strasbourg,strasbourg,strasbourg,strasbourg,http://en.wikipedia.org/wiki/Strasbourg,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,executive,JobTitle,NONE,NONE,0.22519699999999998,negative,-0.51393,0.207569,0.161512,0.21544000000000002,0.36796100000000004,0.300241,1,1,executive,execut,execut,execut,execut,execut,execut,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,five years,Quantity,NONE,NONE,0.22519699999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,parliament Catalonia,Facility,NONE,NONE,0.36594499999999996,negative,-0.51393,0.207569,0.161512,0.21544000000000002,0.36796100000000004,0.300241,1,1,parliament Catalonia,parliament Catalonia,parliament Catalonia,parlia Catalonia,parliament catalonia,parliament catalonia,parlia catalon,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,president,JobTitle,NONE,NONE,0.400427,negative,-0.311488,0.4644680000000001,0.138744,0.141084,0.07158400000000001,0.226435,3,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9
+CgY1esJG3IU,vice president,JobTitle,NONE,NONE,0.257998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,vice president,vice presid,vice presid,vic presid,vice presid,vice presid,vic presid,NONE,0.9865,0.09,0.119,0.7909999999999999,0.10780251494537207,0.453356266749124,negative,-0.34310100000000004,0.15179700000000002,0.5789529999999999,0.537423,0.152982,0.14511300000000002,0.0,20.299999237060547,Catalonia Independence,2017-10-05T12:53:04.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia independence vote: What next?,"Javi Lopez, MEP, Progressive Alliance of Socialists and Democrats
+
+Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Javi Lopez, member of the European parliament from the Spanish Socialists, speaks to France 24 about the situation in Catalonia.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Spain', 'Independence', 'vote', 'referendum', 'catalan', 'declare', 'france 24', 'the debate', 'news'",PT8M32S,512,9

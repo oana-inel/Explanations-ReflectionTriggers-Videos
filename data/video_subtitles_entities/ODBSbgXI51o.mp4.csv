@@ -1,0 +1,289 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ODBSbgXI51o,1 year,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1 year,1 year,1 year,1 year,1 year,1 year,1 year,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,12 months,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,12 month,12 month,12 month,12 month,12 month,12 month,12 month,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,6 months,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,6 month,6 month,6 month,6 month,6 month,6 month,6 month,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,DMV,Organization,NONE,NONE,0.365122,negative,-0.822682,0.41689899999999996,0.513373,0.050487,0.021687,0.267357,2,1,DMV,DMV,DMV,DMV,dmv,dmv,dmv,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,DTaP,Company,NONE,NONE,0.339351,negative,-0.686974,0.44873599999999997,0.11867,0.198679,0.034843,0.084385,1,1,DTaP,DTaP,DTaP,DTaP,dtap,dtap,dtap,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,HPV,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Human_papillomavirus,0.452636,negative,-0.8195969999999999,0.14563199999999998,0.08302899999999999,0.014159999999999999,0.0499,0.8951969999999999,1,1,HPV,HPV,HPV,HPV,hpv,hpv,hpv,http://en.wikipedia.org/wiki/Human_papillomavirus,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,MMR,HealthCondition,NONE,NONE,0.408668,negative,-0.686974,0.4607020000000001,0.13607,0.179008,0.039688,0.155698,2,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.527077,neutral,0.0,0.06957100000000001,0.07417699999999999,0.383106,0.048936,0.060183000000000014,2,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,dr. Hip,Person,NONE,NONE,0.816829,negative,-0.42117,0.139999,0.069481,0.48547799999999997,0.05699,0.032667,5,1,dr. Hip,dr. Hip,dr. Hip,dr. Hip,dr. hip,dr. hip,dr. hip,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,four months,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,four month,four month,four month,four month,four month,four month,four month,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,four years,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,influenza,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.67995,negative,-0.510108,0.47103900000000004,0.139786,0.10454400000000001,0.06245700000000001,0.072591,3,1,influenza,influenza,influenza,influenz,influenza,influenza,influenz,http://en.wikipedia.org/wiki/Influenza,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,one year,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one year,one year,one year,on year,one year,one year,on year,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.47858500000000004,negative,-0.7625609999999999,0.525506,0.230194,0.035095999999999995,0.153471,0.327131,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,six months,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,4,1,six month,six month,six month,six month,six month,six month,six month,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6
+ODBSbgXI51o,two months,Quantity,NONE,NONE,0.339351,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two month,two month,two month,two month,two month,two month,two month,NONE,0.8995,0.048,0.07200000000000001,0.879,0.004770833333333337,0.5067738095238095,negative,-0.408651,0.595769,0.213795,0.469208,0.140774,0.071482,0.0,9.699999809265137,Vaccination,2017-02-10T06:21:33.000Z,UCW7KIxBx749BO-YssE_gdLg,Vaccine schedule made easy,"*LEGEND in description! 
+
+The first one is from a usmle video that can be found on YouTube.  Please type in USMLE Vaccine Schedule.
+
+The second one is the one I made with a friend.
+
+A= HEP
+B=Hep B
+D= DTAP
+H= Hib
+Human= HPV
+I= Polio
+M= MMR
+Men= Meningitis
+P= Pneumococcal
+R= Rota virus
+T= Tdap
+V= Varicella",Burger Wolf,"Wcu', 'Vaccine', 'Vaccinations', 'Schedule', 'Munir', 'Burger', 'Wolf', 'Khan', 'Immunizations', 'Immunization', 'Yeah', 'RN', 'Nurse', 'Nursing', 'Registered', 'Doctor', 'USMLE', 'vaccines', 'healthy', 'health'",PT5M32S,332,6

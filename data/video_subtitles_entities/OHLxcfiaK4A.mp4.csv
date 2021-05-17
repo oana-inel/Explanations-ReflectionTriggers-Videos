@@ -1,0 +1,433 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+OHLxcfiaK4A,Alabama,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Alabama,0.5054770000000001,negative,-0.8689549999999999,0.26098299999999997,0.06189400000000001,0.138959,0.150198,0.363242,2,1,Alabama,Alabama,Alabama,Alabama,alabama,alabama,alabam,http://en.wikipedia.org/wiki/Alabama,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Army,Organization,NONE,NONE,0.414842,neutral,0.0,0.12875599999999998,0.033934,0.08594,0.257019,0.220732,1,1,Army,Army,Army,Army,armi,armi,army,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,California,Location,"PoliticalDistrict, AdministrativeDivision, Appellation, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/California,0.583936,negative,-0.639037,0.136489,0.207472,0.050752,0.188072,0.725789,3,1,California,California,California,California,california,california,californ,http://en.wikipedia.org/wiki/California,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Catalonia,Location,City,NONE,0.616246,neutral,0.0,0.288983,0.072727,0.13258599999999998,0.432017,0.101175,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Donald Trump,Person,"AwardNominee, AwardWinner, Celebrity, CompanyFounder, TVPersonality, TVProducer, FilmActor, TVActor",http://dbpedia.org/resource/Donald_Trump,0.452933,negative,-0.8300639999999999,0.135147,0.661029,0.042449,0.16428800000000002,0.289067,1,1,Donald Trump,Donald Trump,Donald Trump,Donald Trump,donald trump,donald trump,donald trump,http://en.wikipedia.org/wiki/Donald_Trump,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Honduras,Location,Country,NONE,0.8660030000000001,negative,-0.565988,0.47683400000000004,0.06955399999999999,0.27339,0.22550900000000001,0.09525499999999999,3,1,Honduras,Honduras,Honduras,Honduras,hondura,hondura,hondura,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Hong Kong,Location,"HumanLanguage, AdministrativeDivision, Country, GovernmentalJurisdiction, BodyOfWater, Cuisine, City",http://dbpedia.org/resource/Hong_Kong,0.561476,neutral,0.0,0.23748200000000005,0.034513999999999996,0.596096,0.10990699999999999,0.060934,1,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,http://en.wikipedia.org/wiki/Hong_Kong,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Hong Kong,Person,NONE,NONE,0.561429,positive,0.483271,0.23748200000000005,0.034513999999999996,0.596096,0.10990699999999999,0.060934,1,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,ISIS,Organization,"MusicalGroup, MusicalArtist, MusicalGroupMember",http://dbpedia.org/resource/Isis_(band),0.515672,negative,-0.26455500000000004,0.380816,0.06289,0.155772,0.2532,0.23850700000000002,1,1,ISIS,ISIS,ISIS,ISIS,isi,isi,is,http://en.wikipedia.org/wiki/Isis_(band),0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Iraq,Location,"GovernmentalJurisdiction, MilitaryPost, CityTown, Country",http://dbpedia.org/resource/Iraq,0.783066,negative,-0.41794499999999996,0.153173,0.058668,0.12358599999999999,0.411127,0.2768,3,1,Iraq,Iraq,Iraq,Iraq,iraq,iraq,iraq,http://en.wikipedia.org/wiki/Iraq,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Lou,Person,NONE,NONE,0.471415,negative,-0.8325899999999999,0.384144,0.131449,0.176033,0.048288,0.184758,2,1,Lou,Lou,Lou,Lou,lou,lou,lou,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Michael Strong,Person,NONE,NONE,0.673132,negative,-0.312923,0.412521,0.05585,0.315215,0.15695499999999998,0.13378299999999999,3,1,Michael Strong,Michael Strong,Michael Strong,Michael Strong,michael strong,michael strong,michael strong,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,San Francisco,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, PlaceWithNeighborhoods, USCounty, FilmScreeningVenue, City",http://dbpedia.org/resource/San_Francisco,0.545931,negative,-0.8689549999999999,0.26098299999999997,0.06189400000000001,0.138959,0.150198,0.363242,2,1,San Francisco,San Francisco,San Francisco,San Francisco,san francisco,san francisco,san francisco,http://en.wikipedia.org/wiki/San_Francisco,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.46361899999999995,neutral,0.0,0.43035,0.066203,0.265532,0.26721999999999996,0.09152300000000001,1,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Singapore Hong Kong,Company,NONE,NONE,0.584609,neutral,0.0,0.43035,0.066203,0.265532,0.26721999999999996,0.09152300000000001,1,1,Singapore Hong Kong,Singapore Hong Kong,Singapore Hong Kong,Singapore Hong Kong,singapor hong kong,singapor hong kong,singap hong kong,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.62437,neutral,0.0,0.288983,0.072727,0.13258599999999998,0.432017,0.101175,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.724244,negative,-0.8300639999999999,0.119174,0.329527,0.133155,0.16858099999999998,0.554187,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4
+OHLxcfiaK4A,five years,Quantity,NONE,NONE,0.414842,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9637,0.105,0.14,0.755,0.048200757575757584,0.5561958874458873,negative,-0.339748,0.16146300000000002,0.5471729999999999,0.549074,0.12219,0.184176,-0.10000000149011612,7.0,Catalonia Independence,2017-11-07T16:00:02.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Stossel: Let Them Leave!,"In 2018, California may vote on leaving the US. Regions around the world want independence from countries that control them. Stossel says if people want to secede—let them!
+
+------------------------------------------------------
+
+Subscribe to our YouTube channel: http://youtube.com/reasontv
+Like us on Facebook: https://www.facebook.com/Reason.Magazine/
+Follow us on Twitter: https://twitter.com/reason
+Subscribe to our podcast at iTunes: https://goo.gl/az3a7a
+
+Reason is the planet's leading source of news, politics, and culture from a libertarian perspective. Go to reason.com for a point of view you won't get from legacy media and old left-right opinion magazines.
+
+------------------------------------------------------
+
+Many Californians are upset about Donald Trump. Some are so upset that they are working to get a referendum on the ballot in 2018. It would ask Californians if their state should leave the United States and become an independent country — which it once was, back in 1846.
+
+But IF they vote to leave — will the rest of America let them? Maybe not, if Spain's reaction to a similar movement is any guide. A region called Catalonia wants to secede from the rest of Spain. But the Spanish government says that is illegal and sent thousands of police to stop Catalonians from even voting about whether they want to leave. The police brutally assaulted many people trying to vote.
+
+Catalonia's regional Parliament responded with a declaration of independence from Spain — but the Spanish authorities then dissolved the parliament and arrested many leaders who favored secession. Other leaders have fled the country and are trying to convince the EU to give Catalonia independence.
+
+Stossel hopes they succeed, because if people don't want to be governed by their government — and would prefer another — let them choose! It also means more governments, and more competition among governments, which should lead to better laws.
+
+As libertarian Michael Strong puts it, ""we need lots of experiments. It's funny — in the world of science, we believe in freedom to experiment; now we need to go to the world of government and believe in freedom to experiment.""
+
+Produced by Maxim Lott. Edited by Joshua Swain.",ReasonTV,"libertarian', 'Reason magazine', 'reason.com', 'reason.tv', 'reasontv'",PT3M33S,213,4

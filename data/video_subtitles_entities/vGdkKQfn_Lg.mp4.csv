@@ -1,0 +1,71 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+vGdkKQfn_Lg,Catalonia,Location,City,NONE,0.799376,positive,0.083052,0.392052,0.232829,0.269349,0.12700899999999998,0.21637800000000001,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Dominique,Person,NONE,NONE,0.422372,neutral,0.0,0.28817600000000004,0.09500399999999999,0.603147,0.031988,0.019652,2,1,Dominique,Dominique,Dominique,Dominique,dominiqu,dominiqu,domin,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Karl penhaul Al Jazeera,Person,NONE,NONE,0.43306999999999995,positive,0.773341,0.113276,0.11078699999999997,0.584707,0.101734,0.15794,1,1,Karl penhaul Al Jazeera,Karl penhaul Al Jazeera,Karl penhaul Al Jazeera,Karl penha Al Jazeera,karl penhaul Al jazeera,karl penhaul al jazeera,karl penha al jazeer,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Orioles,Organization,NONE,NONE,0.36538699999999996,neutral,0.0,0.254168,0.086745,0.52084,0.11881900000000001,0.044775,1,1,Orioles,Orioles,Orioles,Orioles,oriol,oriol,oriol,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Pablo Delhi,Location,City,NONE,0.406085,negative,-0.502267,0.4618020000000001,0.186851,0.146596,0.056369,0.165206,1,1,Pablo Delhi,Pablo Delhi,Pablo Delhi,Pablo Delhi,pablo delhi,pablo delhi,pablo delh,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Peter casals,Person,NONE,NONE,0.4108100000000001,neutral,0.0,0.079763,0.123625,0.289473,0.125182,0.063592,1,1,Peter casals,Peter casal,Peter casal,Peter cas,peter casal,peter casal,pet cas,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.379457,positive,0.773341,0.333513,0.18021199999999998,0.323289,0.14919200000000002,0.223252,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Spain,Location,Country,NONE,0.373031,negative,-0.607238,0.333513,0.18021199999999998,0.323289,0.14919200000000002,0.223252,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,Stone Villages,Facility,NONE,NONE,0.389327,negative,-0.363476,0.265261,0.088282,0.344389,0.08091,0.09137,1,1,Stone Villages,Stone Villages,Stone Villages,Stone Villages,stone villag,stone villag,ston vil,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3
+vGdkKQfn_Lg,catalans,Location,Country,NONE,0.371839,neutral,0.0,0.292788,0.165244,0.530982,0.012676999999999999,0.021682,1,1,catalan,catalan,catalan,cat,catalan,catalan,cat,NONE,0.9658,0.068,0.126,0.8059999999999999,0.012895622895622908,0.4119023569023569,negative,-0.262901,0.097767,0.54342,0.5519109999999999,0.180685,0.102914,0.20000000298023224,8.899999618530273,Catalonia Independence,2017-09-25T19:55:46.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan villagers uncertain about independence referendum,"There is a week to go until residents of Catalonia hold a controversial independence referendum, which the Spanish government has dismissed as illegal. 
+But to many residents living in the heartland, this vote is bigger than politics or money, it is about retaking control of the region's cultural destiny. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5588253320001', 'latestnews', 'independence referendum', 'package', 'cultural', 'catalan', 'Catalan villagers', 'Catalonia', 'Europe', 'News', 'English', 'politics', 'al Jazeera', 'europenews', 'spanish government', 'heartland', 'youtube', 'AJE', 'aljazeera'",PT2M33S,153,3

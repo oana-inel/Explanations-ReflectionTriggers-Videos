@@ -1,0 +1,714 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+33IiD0fRSlQ,30 40 years,Quantity,NONE,NONE,0.14135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 40 year,30 40 year,30 40 year,30 40 year,30 40 year,30 40 year,30 40 year,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Adam Smith,Person,Philosopher,http://dbpedia.org/resource/Adam_Smith,0.175464,negative,-0.724583,0.618845,0.14413199999999998,0.030611000000000006,0.181105,0.211419,2,1,Adam Smith,Adam Smith,Adam Smith,Adam Smith,adam smith,adam smith,adam smi,http://en.wikipedia.org/wiki/Adam_Smith,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,America,Location,Continent,NONE,0.157048,positive,0.638023,0.32498699999999997,0.09665800000000001,0.35843200000000003,0.21934800000000002,0.10122300000000001,1,1,America,America,America,America,america,america,americ,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Bernie Sanders,Person,"Politician, Senator, U.S.Congressperson, FilmActor",http://dbpedia.org/resource/Bernie_Sanders,0.18332400000000001,neutral,0.0,0.118568,0.074037,0.019239,0.807495,0.135251,1,1,Bernie Sanders,Bernie Sanders,Bernie Sanders,Bernie Sanders,berni sander,berni sander,berny sand,http://en.wikipedia.org/wiki/Bernie_Sanders,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,CEO,JobTitle,NONE,NONE,0.14613800000000002,positive,0.638023,0.32498699999999997,0.09665800000000001,0.35843200000000003,0.21934800000000002,0.10122300000000001,1,1,CEO,CEO,CEO,CEO,ceo,ceo,ceo,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,CNBC,Broadcaster,"Broadcast, AwardWinner, RadioStation, TVNetwork, TVProducer, TelevisionStation",http://dbpedia.org/resource/CNBC,0.184949,positive,0.884832,0.052572,0.012324,0.5424260000000001,0.044645,0.044294,1,1,CNBC,CNBC,CNBC,CNBC,cnbc,cnbc,cnbc,http://en.wikipedia.org/wiki/CNBC,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.213731,negative,-0.45842,0.140303,0.073324,0.642951,0.030683999999999996,0.03166,3,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.166721,neutral,0.0,0.20512600000000009,0.041530000000000004,0.052291,0.21395100000000009,0.344869,1,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Dan D'Amico,Person,NONE,NONE,0.29743400000000003,positive,0.752147,0.081078,0.05366,0.80038,0.061233,0.028723000000000002,4,1,Dan D'Amico,Dan D'Amico,Dan D'Amico,Dan D'Amico,dan d'amico,dan d'amico,dan d'amico,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Danny,Person,NONE,NONE,0.168033,positive,0.715518,0.328376,0.047648,0.561037,0.003812,0.06507,1,1,Danny,Danny,Danny,Danny,danni,danni,danny,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Donald Trump,Person,"AwardNominee, AwardWinner, Celebrity, CompanyFounder, TVPersonality, TVProducer, FilmActor, TVActor",http://dbpedia.org/resource/Donald_Trump,0.36107,positive,0.595008,0.118272,0.096611,0.027773000000000003,0.7681899999999999,0.279869,4,1,Donald Trump,Donald Trump,Donald Trump,Donald Trump,donald trump,donald trump,donald trump,http://en.wikipedia.org/wiki/Donald_Trump,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Gloria Jam,Person,NONE,NONE,0.171964,positive,0.852345,0.011786,0.016018,0.874574,0.055358000000000004,0.050495,1,1,Gloria Jam,Gloria Jam,Gloria Jam,Gloria Jam,gloria jam,gloria jam,glor jam,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Jim Cramer,Person,"CompanyFounder, TVPersonality, BroadcastArtist, FilmActor, TVActor",http://dbpedia.org/resource/Jim_Cramer,0.182238,negative,-0.673737,0.123926,0.028072000000000003,0.025078,0.185331,0.815385,1,1,Jim Cramer,Jim Cramer,Jim Cramer,Jim Cramer,jim cramer,jim cramer,jim cram,http://en.wikipedia.org/wiki/Jim_Cramer,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Jim Wright,Person,NONE,NONE,0.14135,negative,-0.22268600000000002,0.32306399999999996,0.027606,0.12423699999999999,0.034537,0.188149,1,1,Jim Wright,Jim Wright,Jim Wright,Jim Wright,jim wright,jim wright,jim wright,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Mad Money,Company,NONE,NONE,0.265814,positive,0.272961,0.131417,0.064604,0.13131600000000002,0.06602899999999999,0.772903,3,1,Mad Money,Mad Money,Mad Money,Mad Money,mad money,mad money,mad money,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Obama Administration,Organization,NONE,NONE,0.17802,negative,-0.8747520000000001,0.487926,0.12270299999999999,0.23998899999999998,0.069451,0.24893400000000002,1,1,Obama Administration,Obama Administration,Obama Administration,Obama Administration,obama administr,obama administr,obam admin,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Ronald Reagan,Person,"Politician, President, AwardWinner, ChivalricOrderMember, MilitaryPerson, PoliticalAppointer, USPresident, FilmActor, TVActor",http://dbpedia.org/resource/Ronald_Reagan,0.188576,neutral,0.0,0.209606,0.096787,0.5478649999999999,0.046382,0.082467,2,1,Ronald Reagan,Ronald Reagan,Ronald Reagan,Ronald Reagan,ronald reagan,ronald reagan,ronald reag,http://en.wikipedia.org/wiki/Ronald_Reagan,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Tipping Point,GeographicFeature,NONE,NONE,0.166348,negative,-0.48244899999999996,0.5243479999999999,0.212648,0.028319,0.127295,0.437571,1,1,Tipping Point,tip Point,tip Point,tip Point,tip point,tip point,tip point,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Trey,Person,NONE,NONE,0.15174200000000002,positive,0.9803930000000001,0.04383,0.066165,0.8593379999999999,0.025667000000000002,0.014419999999999999,1,1,Trey,Trey,Trey,Trey,trey,trey,trey,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.147839,negative,-0.414038,0.4824270000000001,0.087389,0.181071,0.08923400000000001,0.194682,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Wall Street Journal,PrintMedia,"AwardWinner, Newspaper",http://dbpedia.org/resource/The_Wall_Street_Journal,0.17788099999999998,neutral,0.0,0.39563000000000004,0.250004,0.309133,0.11262799999999999,0.08241699999999999,1,1,Wall Street Journal,Wall Street Journal,Wall Street Journal,Wall Street Journal,wall street journal,wall street journal,wal street journ,http://en.wikipedia.org/wiki/The_Wall_Street_Journal,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,Washington,Location,City,NONE,0.15119200000000002,negative,-0.561078,0.720891,0.206107,0.03094,0.140234,0.151395,1,1,Washington,Washington,Washington,Washington,washington,washington,washington,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,White House,Facility,NONE,NONE,0.15773,positive,0.578417,0.343515,0.165279,0.022474,0.450513,0.327189,1,1,White House,White House,White House,White House,white hous,white hous,whit hous,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.166919,positive,0.884832,0.052572,0.012324,0.5424260000000001,0.044645,0.044294,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,chairman emeritus,JobTitle,NONE,NONE,0.202531,positive,0.809208,0.09006499999999999,0.056627,0.793237,0.061085,0.024561000000000003,2,1,chairman emeritus,chairman emeritu,chairman emeritus,chairm emerit,chairman emeritu,chairman emeritus,chairm emerit,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,hundred percent,Quantity,NONE,NONE,0.14135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred percent,hundr percent,hundr percent,hundr perc,hundr percent,hundr percent,hundr perc,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,partner,JobTitle,NONE,NONE,0.165941,negative,-0.813647,0.7252,0.41005600000000003,0.015931,0.004924,0.047056,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,president,JobTitle,NONE,NONE,0.14469300000000002,neutral,0.0,0.20512600000000009,0.041530000000000004,0.052291,0.21395100000000009,0.344869,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,sixty-six percent,Quantity,NONE,NONE,0.14135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,sixty-six percent,sixty-six percent,sixty-six percent,sixty-six perc,sixty-six percent,sixty-six percent,sixty-six perc,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,twenty percent,Quantity,NONE,NONE,0.14135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,twenty percent,twenti percent,twenti percent,twenty perc,twenti percent,twenti percent,twenty perc,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7
+33IiD0fRSlQ,two decades,Quantity,NONE,NONE,0.14135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two decade,two decad,two decad,two decad,two decad,two decad,two decad,NONE,0.9992,0.06,0.14800000000000002,0.792,0.12439130689130687,0.4539425464425464,positive,0.334122,0.5585829999999999,0.543021,0.561567,0.128603,0.133881,0.0,21.100000381469727,Free Trade,2016-04-14T00:58:00.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Dan DiMicco: Future Of Free Trade | Mad Money | CNBC,"With presidential candidates questioning trade agreements, Jim Cramer speaks with Dan DiMicco on the impact of free trade in the U.S.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+» Watch more Mad Money here: http://bit.ly/WatchMadMoney
+» Read more about DiMicco here: http://cnb.cx/23vVixe
+""Mad Money"" takes viewers inside the mind of one of Wall Street's most respected and successful money managers. Jim Cramer is your personal guide through the confusing jungle of Wall Street investing, navigating through both opportunities and pitfalls with one goal in mind -- to try to help you make money.
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Get More Mad Money!
+Read the latest news: http://madmoney.cnbc.com  
+Watch full episodes: http://bit.ly/MadMoneyEpisodes
+Follow Mad Money on Twitter: http://bit.ly/MadMoneyTwitter
+Like Mad Money on Facebook: http://bit.ly/LikeMadMoney
+Follow Cramer on Twitter: http://bit.ly/FollowCramer
+
+Connect with CNBC News Online!
+Visit CNBC.com: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Dan DiMicco: Future Of Free Trade | Mad Money | CNBC",CNBC,"CNBC', 'business news', 'finance', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips mad money (tv program)', 'Jim Cramer', 'stock advice', 'Jim Cramer interview', 'CEO interview', 'interview', 'mad money interview', 'stock market', 'stock performance', 'market news', 'stock picks', 'Free Trade', 'Dan DiMicco', 'NuCor', 'Donald Trump', 'Bernie Sanders'",PT6M57S,417,7

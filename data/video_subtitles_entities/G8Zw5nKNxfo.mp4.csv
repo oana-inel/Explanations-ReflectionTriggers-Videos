@@ -1,0 +1,22 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+G8Zw5nKNxfo,Catalonia,Location,City,NONE,0.9418690000000001,positive,0.9527209999999999,0.275338,0.11064600000000001,0.32264899999999996,0.228861,0.131857,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9798,0.012,0.165,0.823,0.2648735119047619,0.5750297619047621,positive,0.794864,0.08756900000000001,0.706828,0.100287,0.062556,0.098737,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-09-22T10:05:31.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,Scots show Catalan solidarity over independence referendum,"Scottish National Party leader Nicola Sturgeon​ and the people of Scotland show Catalonia solidarity over their right to have an independence referendum. 
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Catalan', 'Spain', 'Referendum', 'Vote', 'Independence', 'Scottish National Party', 'SNP'",PT1M7S,67,2
+G8Zw5nKNxfo,Europe,Location,Continent,NONE,0.39889600000000003,neutral,0.0,0.232062,0.198901,0.48352799999999996,0.085667,0.025879000000000003,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,NONE,0.9798,0.012,0.165,0.823,0.2648735119047619,0.5750297619047621,positive,0.794864,0.08756900000000001,0.706828,0.100287,0.062556,0.098737,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-09-22T10:05:31.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,Scots show Catalan solidarity over independence referendum,"Scottish National Party leader Nicola Sturgeon​ and the people of Scotland show Catalonia solidarity over their right to have an independence referendum. 
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Catalan', 'Spain', 'Referendum', 'Vote', 'Independence', 'Scottish National Party', 'SNP'",PT1M7S,67,2
+G8Zw5nKNxfo,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.434515,neutral,0.0,0.232062,0.198901,0.48352799999999996,0.085667,0.025879000000000003,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,0.9798,0.012,0.165,0.823,0.2648735119047619,0.5750297619047621,positive,0.794864,0.08756900000000001,0.706828,0.100287,0.062556,0.098737,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-09-22T10:05:31.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,Scots show Catalan solidarity over independence referendum,"Scottish National Party leader Nicola Sturgeon​ and the people of Scotland show Catalonia solidarity over their right to have an independence referendum. 
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Catalan', 'Spain', 'Referendum', 'Vote', 'Independence', 'Scottish National Party', 'SNP'",PT1M7S,67,2

@@ -1,0 +1,210 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+OFLRuMHAK_w,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.182534,neutral,0.0,0.283516,0.438129,0.150603,0.022391,0.103229,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.39314499999999997,negative,-0.184666,0.14036500000000002,0.028107999999999998,0.12419300000000001,0.354101,0.48213900000000004,4,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Congressman,JobTitle,NONE,NONE,0.30283000000000004,negative,-0.842742,0.567447,0.293249,0.12120399999999999,0.091985,0.116847,2,1,Congressman,Congressman,Congressman,Congressman,congressman,congressman,congressm,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Lou fire,Person,NONE,NONE,0.225954,positive,0.507392,0.09880499999999999,0.039179000000000005,0.698954,0.041873,0.11674000000000001,1,1,Lou fire,lou fire,lou fire,lou fir,lou fire,lou fire,lou fir,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Mexico,Location,Country,NONE,0.185804,neutral,0.0,0.283516,0.438129,0.150603,0.022391,0.103229,1,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,North American Union,Organization,NONE,NONE,0.274119,negative,-0.614787,0.5249560000000001,0.278433,0.032744,0.21259699999999998,0.22426999999999997,2,1,North American Union,north American Union,north American Union,nor American Union,north american union,north american union,nor am un,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Ron Paul,Person,"Physician, Politician, U.S.Congressperson, MilitaryPerson, FilmActor, TVActor",http://dbpedia.org/resource/Ron_Paul,0.243479,neutral,0.0,0.159152,0.081949,0.491504,0.057533,0.079581,1,1,Ron Paul,Ron Paul,Ron Paul,Ron Paul,ron paul,ron paul,ron paul,http://en.wikipedia.org/wiki/Ron_Paul,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,Vietnam,Location,Country,NONE,0.20873699999999998,neutral,0.0,0.23911300000000002,0.23325,0.104985,0.228618,0.219229,1,1,Vietnam,Vietnam,Vietnam,Vietnam,vietnam,vietnam,vietnam,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,executive,JobTitle,NONE,NONE,0.18501800000000002,negative,-0.8274370000000001,0.10595299999999999,0.059315999999999994,0.062362,0.16027,0.228686,1,1,executive,execut,execut,execut,execut,execut,execut,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,president,JobTitle,NONE,NONE,0.297181,positive,0.359295,0.079057,0.030108999999999997,0.312839,0.185289,0.45678,3,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4
+OFLRuMHAK_w,two minutes,Quantity,NONE,NONE,0.182534,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two minute,two minut,two minut,two minut,two minut,two minut,two minut,NONE,0.9697,0.091,0.14400000000000002,0.765,0.1640450861195542,0.4839585060329742,negative,-0.357504,0.126497,0.5871109999999999,0.492708,0.114228,0.112091,0.0,12.699999809265135,Free Trade,2013-08-16T00:04:44.000Z,UC_D1mVegcJk9bIrXIgweJug,"Ron Paul: Oppose Free Trade Agreements | NAFTA, Trans-Pacific Partnership, TTIP","Ron Paul says Free Trade Agreements erode National sovereignty, destroy jobs, and only serves the special interests. So-called ""Free Trade"" is Government-managed trade.
+
+Action:
+
+Email Congress: No Trans-Pacific Partnership Trade Agreement
+https://www.votervoice.net/JBS/Campaigns/29931/Respond
+
+Articles:
+
+TPP Trade Agreement a ""Top Priority"" for Second Obama Administration
+http://www.thenewamerican.com/world-news/item/14221-tpp-trade-agreement-a-top-priority-for-second-obama-administration
+President Obama Wants TPP Finished by End of 2013
+http://www.thenewamerican.com/world-news/asia/item/13756-president-obama-wants-tpp-finished-by-end-of-2013
+Trans-Pacific Partnership: Secret Surrender of Sovereignty
+http://www.thenewamerican.com/usnews/foreign-policy/item/13485-trans-pacific-partnership-secret-surrender-of-sovereignty
+U.S. Lawmakers Demand Transparency in Secret Trans-Pacific Partnership Talks
+http://www.thenewamerican.com/usnews/item/12838-us-lawmakers-demand-transparency-in-secret-trans-pacific-partnership-talks
+TPP Copyright Provisions Threaten Internet Freedom, U.S. Sovereignty
+http://www.thenewamerican.com/tech/computers/item/12685-tpp-copyright-provisions-threaten-internet-freedom-and-us-sovereignty",VisionLiberty,"NAFTA', 'TPP', 'TTIP', 'Trans-Pacific Partnership', 'Ron Paul', 'Free Trade', 'Transatlantic Trade and Investment Partnership', 'Transatlantic', 'John Birch Society', 'Free Trade Area', 'North American Free Trade Agreement (Organization)', 'Transatlantic Free Trade Area', 'Trans-Pacific Strategic Economic Partnership', 'Partnership (Organization Legal Structure)', 'Economy'",PT3M19S,199,4

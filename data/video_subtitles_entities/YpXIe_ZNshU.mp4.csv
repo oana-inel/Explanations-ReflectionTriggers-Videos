@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+YpXIe_ZNshU,200 years,Quantity,NONE,NONE,0.223453,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,200 year,200 year,200 year,200 year,200 year,200 year,200 year,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,American Goods,Company,NONE,NONE,0.888367,negative,-0.584685,0.589407,0.057583,0.659561,0.09981799999999999,0.13003900000000002,9,1,American Goods,american Goods,american Goods,am Goods,american good,american good,am good,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,George meany,Person,BoardMember,http://dbpedia.org/resource/George_Meany,0.30489099999999997,negative,-0.864772,0.5308039999999999,0.05819,0.025271000000000002,0.48,0.202474,1,1,George meany,George meani,George meani,George meany,georg meani,georg meani,georg meany,http://en.wikipedia.org/wiki/George_Meany,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,Japan,Location,Country,NONE,0.697371,negative,-0.41444899999999996,0.253612,0.07209,0.5663819999999999,0.102993,0.150285,16,1,Japan,Japan,Japan,Japan,japan,japan,jap,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,Japanese Goods,Company,NONE,NONE,0.706025,negative,-0.615081,0.538409,0.060308000000000014,0.22635999999999998,0.025710000000000004,0.232859,3,1,Japanese Goods,japanes good,japanes good,japanes good,japanes good,japanes good,japanes good,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/North_Korea,0.249763,negative,-0.864772,0.5308039999999999,0.05819,0.025271000000000002,0.48,0.202474,1,1,Korea,Korea,Korea,Korea,korea,korea,kore,http://en.wikipedia.org/wiki/North_Korea,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,Pacific Ocean Oh,GeographicFeature,NONE,NONE,0.25989,negative,-0.294274,0.483796,0.14760399999999999,0.270807,0.052827,0.10743,1,1,Pacific Ocean Oh,Pacific Ocean Oh,Pacific Ocean Oh,Pacific Ocean Oh,pacif ocean Oh,pacif ocean oh,pac oc oh,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.31603000000000003,negative,-0.501341,0.518997,0.030331999999999998,0.173219,0.09893500000000001,0.213178,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,Yan,Person,NONE,NONE,0.223453,positive,0.652794,0.278431,0.074383,0.440662,0.106576,0.10064400000000001,1,1,Yan,Yan,Yan,Yan,yan,yan,yan,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6
+YpXIe_ZNshU,one dollar,Quantity,NONE,NONE,0.223453,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one dollar,one dollar,one dollar,on doll,one dollar,one dollar,on doll,NONE,0.9513,0.042,0.065,0.893,0.08476666666666667,0.4110111111111109,negative,-0.512012,0.185626,0.193179,0.53872,0.076071,0.149018,-0.10000000149011612,14.5,Free Trade,2013-02-11T06:00:27.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman Explains: How Free Trade Works,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'free trade', 'common sense capitalism'",PT5M26S,326,6

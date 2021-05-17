@@ -1,0 +1,659 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+7mpxbenv6PA,45 years,Quantity,NONE,NONE,0.12981700000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,45 year,45 year,45 year,45 year,45 year,45 year,45 year,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,CEO,JobTitle,NONE,NONE,0.177781,neutral,0.0,0.159212,0.09414299999999999,0.131241,0.331453,0.126895,2,1,CEO,ceo,ceo,ceo,ceo,ceo,ceo,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,EU,Location,Country,NONE,0.355713,neutral,0.0,0.281395,0.162923,0.558297,0.070095,0.077839,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.886576,negative,-0.400354,0.281395,0.162923,0.558297,0.070095,0.077839,11,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,EU Grant Singapore,Organization,NONE,NONE,0.503687,neutral,0.0,0.357112,0.134168,0.092816,0.09666699999999999,0.048083,1,1,EU Grant Singapore,EU Grant Singapore,EU Grant Singapore,EU Grant Singapore,EU grant singapor,eu grant singapor,eu grant singap,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,Germany,Location,Country,NONE,0.139544,neutral,0.0,0.0289,0.060786,0.799296,0.043731,0.013365,1,1,Germany,Germany,Germany,Germany,germani,germani,germany,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,Mr. Chair,Person,NONE,NONE,0.166142,neutral,0.0,0.12241400000000001,0.106143,0.15400999999999998,0.058948,0.18906900000000001,1,1,Mr . Chair,Mr . Chair,Mr . Chair,Mr . Chair,Mr . chair,mr . chair,mr . chair,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,Mr. Donald tusks,Person,NONE,NONE,0.19903099999999999,negative,-0.49617100000000003,0.220978,0.14877200000000002,0.116244,0.115803,0.164293,1,1,Mr. Donald tusk,Mr. Donald tusk,Mr. Donald tusk,Mr. Donald tusk,mr. donald tusk,mr. donald tusk,mr. donald tusk,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,Mr. Todd,Person,NONE,NONE,0.135365,neutral,0.0,0.202872,0.076797,0.140004,0.093425,0.230334,1,1,Mr. Todd,Mr. Todd,Mr. Todd,Mr. Todd,mr. todd,mr. todd,mr. tod,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.567613,negative,-0.279573,0.210977,0.14432999999999999,0.647253,0.066815,0.073658,8,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Northern_Ireland,0.283903,negative,-0.590192,0.296416,0.245196,0.4702,0.080966,0.121379,5,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/Northern_Ireland,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,one day,Quantity,NONE,NONE,0.12981700000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one day,one day,one day,on day,one day,one day,on day,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,president,JobTitle,NONE,NONE,0.12981700000000002,negative,-0.387899,0.19691,0.103834,0.176467,0.350624,0.08635599999999999,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3
+7mpxbenv6PA,representative,JobTitle,NONE,NONE,0.139645,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,representative,repres,repres,repres,repres,repres,repres,NONE,0.9263,0.057,0.114,0.8290000000000001,0.11653679653679655,0.4477344877344878,positive,0.532726,0.136325,0.63658,0.5955550000000001,0.10295,0.095323,0.0,6.300000190734862,Free Trade,2019-02-12T20:40:43.000Z,UC-XsHHcuGtyzQMmuITIQCpg,EU-Singapore free trade deal exposes EU falsity over Brexit - William Dartmouth MEP,"• European Parliament, Strasbourg, 12 February 2019
+
+• William Dartmouth MEP  (South West), Europe of Freedom and Direct Democracy group (EFDD) http://www.williamdartmouth.com
+
+• Joint Debate: EU-Singapore Partnership Agreement
+
+1. EU-Singapore Free Trade Agreement
+Recommendation:  David Martin (A8-0053/2019)
+Recommendation on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[07971/2018 - C8-0446/2018 - 2018/0093(NLE)]
+Committee on International Trade
+
+2. EU-Singapore Free Trade Agreement (resolution)
+Report:  David Martin (A8-0048/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion of the Free Trade Agreement between the European Union and the Republic of Singapore
+[2018/0093M(NLE)]
+Committee on International Trade
+
+3. EU-Singapore Investment Protection Agreement
+Recommendation:  David Martin (A8-0054/2019)
+Recommendation on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[07979/2018 - C8-0447/2018 - 2018/0095(NLE)]
+Committee on International Trade
+
+4. EU-Singapore Investment Protection Agreement (resolution)
+Report:  David Martin (A8-0049/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion on behalf of the European Union of the Investment Protection Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0095M(NLE)]
+Committee on International Trade
+
+5. EU-Singapore Partnership and Cooperation Agreement
+Recommendation:  Antonio López-Istúriz White (A8-0020/2019)
+Recommendation on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[15375/2018 - C8-0026/2019 - 2018/0403(NLE)]
+Committee on Foreign Affairs
+
+6. EU-Singapore Partnership and Cooperation Agreement (resolution)
+Report:  Antonio López-Istúriz White (A8-0023/2019)
+Report containing a motion for a non-legislative resolution on the draft Council decision on the conclusion, on behalf of the European Union, of the Partnership and Cooperation Agreement between the European Union and its Member States, of the one part, and the Republic of Singapore, of the other part
+[2018/0403M(NLE)]
+Committee on Foreign Affairs
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",Brexit Party MEPs,"William Dartmouth', 'ukip', 'efdd', 'brexit', 'singapore', 'agreement', 'deal', 'free trade', 'canada', 'CETA', 'trade', 'inta', 'international trade', 'corporations', 'corporatism', 'globalism', 'globalisation', 'foreign affairs', 'eu governance', 'financial', 'economic', 'unemployment', 'fiscal union', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'troika', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'european parliament', 'parliament', 'eu', 'referendum', 'council president', 'jeremy corbyn', 'boris johnson', 'theresa may', 'donald trump'",PT2M55S,175,3

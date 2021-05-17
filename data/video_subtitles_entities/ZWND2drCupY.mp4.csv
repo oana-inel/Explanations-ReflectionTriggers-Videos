@@ -1,0 +1,21 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZWND2drCupY,Whole Foods,Company,NONE,NONE,0.789768,negative,-0.398646,0.45073199999999997,0.322355,0.096397,0.133245,0.277008,1,1,Whole Foods,Whole Foods,Whole Foods,Whole Foods,whole food,whole food,whol food,NONE,0.9358,0.07400000000000001,0.1,0.8270000000000001,0.24942564745196324,0.4790517961570594,negative,-0.392593,0.084012,0.612025,0.473828,0.097414,0.089627,0.0,8.399999618530272,Vaccination,2016-02-08T16:51:10.000Z,UC-JblcinswY50lrUdSaRNEg,Kevin Gates on His Daughter and Vaccines,"Kevin Gates weighs in on medicine parenting and why he chose not to vaccinate his children. 
+
+Get the full story at: http://rol.st/1NZW5Zi
+
+Subscribe to Rolling Stone on YouTube:  http://bit.ly/1uGwgGg",Rolling Stone,"rolling stone', 'rolling stone channel', 'rolling stone magazine', 'rolling stone youtube', 'Kevin Gates', 'Islah', 'Really Really', '2 Phones', 'Gates', 'vaccine'",PT2M11S,131,3
+ZWND2drCupY,investigator,JobTitle,NONE,NONE,0.729163,negative,-0.620192,0.53269,0.26553000000000004,0.039133,0.11436600000000001,0.34360300000000005,1,1,investigator,investig,investig,investig,investig,investig,investig,NONE,0.9358,0.07400000000000001,0.1,0.8270000000000001,0.24942564745196324,0.4790517961570594,negative,-0.392593,0.084012,0.612025,0.473828,0.097414,0.089627,0.0,8.399999618530272,Vaccination,2016-02-08T16:51:10.000Z,UC-JblcinswY50lrUdSaRNEg,Kevin Gates on His Daughter and Vaccines,"Kevin Gates weighs in on medicine parenting and why he chose not to vaccinate his children. 
+
+Get the full story at: http://rol.st/1NZW5Zi
+
+Subscribe to Rolling Stone on YouTube:  http://bit.ly/1uGwgGg",Rolling Stone,"rolling stone', 'rolling stone channel', 'rolling stone magazine', 'rolling stone youtube', 'Kevin Gates', 'Islah', 'Really Really', '2 Phones', 'Gates', 'vaccine'",PT2M11S,131,3
+ZWND2drCupY,one day,Quantity,NONE,NONE,0.729163,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one day,one day,one day,on day,one day,one day,on day,NONE,0.9358,0.07400000000000001,0.1,0.8270000000000001,0.24942564745196324,0.4790517961570594,negative,-0.392593,0.084012,0.612025,0.473828,0.097414,0.089627,0.0,8.399999618530272,Vaccination,2016-02-08T16:51:10.000Z,UC-JblcinswY50lrUdSaRNEg,Kevin Gates on His Daughter and Vaccines,"Kevin Gates weighs in on medicine parenting and why he chose not to vaccinate his children. 
+
+Get the full story at: http://rol.st/1NZW5Zi
+
+Subscribe to Rolling Stone on YouTube:  http://bit.ly/1uGwgGg",Rolling Stone,"rolling stone', 'rolling stone channel', 'rolling stone magazine', 'rolling stone youtube', 'Kevin Gates', 'Islah', 'Really Really', '2 Phones', 'Gates', 'vaccine'",PT2M11S,131,3
+ZWND2drCupY,three year,Quantity,NONE,NONE,0.729163,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three year,three year,three year,three year,three year,three year,three year,NONE,0.9358,0.07400000000000001,0.1,0.8270000000000001,0.24942564745196324,0.4790517961570594,negative,-0.392593,0.084012,0.612025,0.473828,0.097414,0.089627,0.0,8.399999618530272,Vaccination,2016-02-08T16:51:10.000Z,UC-JblcinswY50lrUdSaRNEg,Kevin Gates on His Daughter and Vaccines,"Kevin Gates weighs in on medicine parenting and why he chose not to vaccinate his children. 
+
+Get the full story at: http://rol.st/1NZW5Zi
+
+Subscribe to Rolling Stone on YouTube:  http://bit.ly/1uGwgGg",Rolling Stone,"rolling stone', 'rolling stone channel', 'rolling stone magazine', 'rolling stone youtube', 'Kevin Gates', 'Islah', 'Really Really', '2 Phones', 'Gates', 'vaccine'",PT2M11S,131,3

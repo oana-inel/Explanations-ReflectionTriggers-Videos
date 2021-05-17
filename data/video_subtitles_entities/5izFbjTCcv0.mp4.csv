@@ -1,0 +1,157 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+5izFbjTCcv0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.618049,neutral,0.0,0.280217,0.046083,0.44145,0.093627,0.200802,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Carlos Pooch Daman,Person,NONE,NONE,0.690797,negative,-0.255272,0.12005299999999999,0.23854499999999998,0.5033449999999999,0.112392,0.155686,2,1,Carlos Pooch Daman,Carlos Pooch Daman,Carlos Pooch Daman,Carlos Pooch Daman,carlo pooch daman,carlo pooch daman,carlo pooch dam,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Catalonia,Person,NONE,NONE,0.790461,positive,0.528329,0.531506,0.25354299999999996,0.106002,0.138378,0.168037,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Freddy,Person,NONE,NONE,0.381677,negative,-0.455297,0.0,0.0,0.0,0.0,0.0,1,1,Freddy,Freddy,Freddy,Freddy,freddi,freddi,freddy,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,London,Location,City,NONE,0.317681,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,London,London,London,London,london,london,london,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,MPS,Organization,NONE,NONE,0.529216,positive,0.032926,0.096282,0.044422,0.447154,0.334933,0.05315399999999999,2,1,MPS,MPS,MPS,MPS,mp,mps,mps,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.38058000000000003,positive,0.5092300000000001,0.039320999999999995,0.855974,0.138837,0.009016,0.012983000000000001,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.5132909999999999,neutral,0.0,0.237905,0.105974,0.096847,0.577172,0.18270899999999998,2,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Senate,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/United_States_Senate,0.375025,neutral,0.0,0.368578,0.201569,0.14769100000000002,0.230946,0.175149,1,1,Senate,Senate,Senate,Senate,senat,senat,sen,http://en.wikipedia.org/wiki/United_States_Senate,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.536678,negative,-0.462478,0.345767,0.15053,0.072503,0.381094,0.16137,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,president,JobTitle,NONE,NONE,0.347046,neutral,0.0,0.07270700000000001,0.025159,0.062081,0.759478,0.135509,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,prime minister,JobTitle,NONE,NONE,0.56033,neutral,0.0,0.396298,0.2431760000000001,0.17523699999999998,0.188358,0.175745,2,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3
+5izFbjTCcv0,yunnan,Location,Country,NONE,0.40189400000000003,negative,-0.455297,0.0,0.0,0.0,0.0,0.0,1,1,yunnan,yunnan,yunnan,yun,yunnan,yunnan,yun,NONE,0.136,0.066,0.08199999999999999,0.853,0.17805981896890988,0.4595139708776074,negative,-0.285121,0.13222799999999998,0.55029,0.443179,0.664813,0.583643,0.0,4.400000095367432,Catalonia Independence,2017-10-28T02:46:39.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Spanish PM axes Catalan government after region declares independence,"Catalan lawmakers declared independence from Spain Friday after a controversial and widely disputed vote in favour of secession. Hours later, Spanish Prime Minister Mariano Rajoy labelled the vote ""criminal,"" fired Catalonia's political leaders and dissolved its regional parliament. 
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'Catalan government', 'Secession vote', 'Spain', 'Spanish PM', 'Mariano Rajoy', 'independence', 'declaration', 'special constitutional powers', 'Carles Puigdemont', 'regional parliament', 'dissolved', 'criminal', 'vote', 'Thomas Daigle', 'National', 'CBC'",PT2M21S,141,3

@@ -1,0 +1,49 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+3_VtBA27fpw,La,Location,StateOrCounty,NONE,0.5906640000000001,positive,0.500488,0.196579,0.023459999999999998,0.066203,0.44695,0.06387899999999999,1,1,La,La,La,La,La,la,la,NONE,0.8823,0.084,0.214,0.7020000000000001,0.0375,0.3875,negative,-0.325548,0.156124,0.112226,0.167994,0.463444,0.10362,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2017-10-10T12:06:45.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Catalonia-Spain border town wrestles with independence crisis,"(5 Oct 2017) In San Rafael del Rio residents are suddenly feeling under threat by the increasing possibility that the all but invisible regional border that cuts through their secluded rural town could become something more concrete. 
+The border was up to now considered a mere curiosity, but the unrest over a recent independence referendum held by the Catalan regional government has changed that. 
+The time-worn bell tower offers the only panorama of the dried-up Senia river that serves as a natural boundary between the Valencian region and Catalonia.
+Although both communities pertain to parallel administrations, the town is mainly thought-of as one.
+On Tuesday many employees in the wealthy northeastern Catalan region of Spain stopped work and massive street protests were held in Barcelona. There tens of thousands marched against what they consider repression of their civil rights by the Spanish government after it tried to stop the independence vote on Sunday.
+Many concerned citizens remain on edge, with San Rafael residents especially worried about the possibility that the brewing conflict could literally split their community in two.
+San Rafael shares with Catalonia irrigation, roads, electricity supply and even the phone telephone prefix. 
+Another issue appears to be the diminishing political conversation, especially among the elderly.
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/d9fbfbece5cb93347136f7a37606f7f6 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4119662', 'd9fbfbece5cb93347136f7a37606f7f6', 'Spain Border Town', 'Spain', 'Western Europe', 'Valencia', 'Government and politics'",PT4M23S,263,5
+3_VtBA27fpw,MD,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, AirportOperator, StateOrCounty",http://dbpedia.org/resource/Maryland,0.620012,positive,0.500488,0.196579,0.023459999999999998,0.066203,0.44695,0.06387899999999999,1,1,MD,MD,MD,MD,MD,md,md,http://en.wikipedia.org/wiki/Maryland,0.8823,0.084,0.214,0.7020000000000001,0.0375,0.3875,negative,-0.325548,0.156124,0.112226,0.167994,0.463444,0.10362,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2017-10-10T12:06:45.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Catalonia-Spain border town wrestles with independence crisis,"(5 Oct 2017) In San Rafael del Rio residents are suddenly feeling under threat by the increasing possibility that the all but invisible regional border that cuts through their secluded rural town could become something more concrete. 
+The border was up to now considered a mere curiosity, but the unrest over a recent independence referendum held by the Catalan regional government has changed that. 
+The time-worn bell tower offers the only panorama of the dried-up Senia river that serves as a natural boundary between the Valencian region and Catalonia.
+Although both communities pertain to parallel administrations, the town is mainly thought-of as one.
+On Tuesday many employees in the wealthy northeastern Catalan region of Spain stopped work and massive street protests were held in Barcelona. There tens of thousands marched against what they consider repression of their civil rights by the Spanish government after it tried to stop the independence vote on Sunday.
+Many concerned citizens remain on edge, with San Rafael residents especially worried about the possibility that the brewing conflict could literally split their community in two.
+San Rafael shares with Catalonia irrigation, roads, electricity supply and even the phone telephone prefix. 
+Another issue appears to be the diminishing political conversation, especially among the elderly.
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/d9fbfbece5cb93347136f7a37606f7f6 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4119662', 'd9fbfbece5cb93347136f7a37606f7f6', 'Spain Border Town', 'Spain', 'Western Europe', 'Valencia', 'Government and politics'",PT4M23S,263,5
+3_VtBA27fpw,Mabel Marie,Person,NONE,NONE,0.884259,positive,0.625512,0.09160700000000001,0.094253,0.460959,0.046787,0.096108,1,1,Mabel Marie,Mabel Marie,Mabel Marie,Mabel Marie,mabel mari,mabel mari,mabel mary,NONE,0.8823,0.084,0.214,0.7020000000000001,0.0375,0.3875,negative,-0.325548,0.156124,0.112226,0.167994,0.463444,0.10362,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2017-10-10T12:06:45.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Catalonia-Spain border town wrestles with independence crisis,"(5 Oct 2017) In San Rafael del Rio residents are suddenly feeling under threat by the increasing possibility that the all but invisible regional border that cuts through their secluded rural town could become something more concrete. 
+The border was up to now considered a mere curiosity, but the unrest over a recent independence referendum held by the Catalan regional government has changed that. 
+The time-worn bell tower offers the only panorama of the dried-up Senia river that serves as a natural boundary between the Valencian region and Catalonia.
+Although both communities pertain to parallel administrations, the town is mainly thought-of as one.
+On Tuesday many employees in the wealthy northeastern Catalan region of Spain stopped work and massive street protests were held in Barcelona. There tens of thousands marched against what they consider repression of their civil rights by the Spanish government after it tried to stop the independence vote on Sunday.
+Many concerned citizens remain on edge, with San Rafael residents especially worried about the possibility that the brewing conflict could literally split their community in two.
+San Rafael shares with Catalonia irrigation, roads, electricity supply and even the phone telephone prefix. 
+Another issue appears to be the diminishing political conversation, especially among the elderly.
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/d9fbfbece5cb93347136f7a37606f7f6 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4119662', 'd9fbfbece5cb93347136f7a37606f7f6', 'Spain Border Town', 'Spain', 'Western Europe', 'Valencia', 'Government and politics'",PT4M23S,263,5
+3_VtBA27fpw,st. Louis,Location,City,NONE,0.590516,neutral,0.0,0.24385900000000002,0.334305,0.074374,0.158735,0.44706899999999994,1,1,st. Louis,st. Louis,st. Louis,st. Louis,st. loui,st. loui,st. lou,NONE,0.8823,0.084,0.214,0.7020000000000001,0.0375,0.3875,negative,-0.325548,0.156124,0.112226,0.167994,0.463444,0.10362,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2017-10-10T12:06:45.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Catalonia-Spain border town wrestles with independence crisis,"(5 Oct 2017) In San Rafael del Rio residents are suddenly feeling under threat by the increasing possibility that the all but invisible regional border that cuts through their secluded rural town could become something more concrete. 
+The border was up to now considered a mere curiosity, but the unrest over a recent independence referendum held by the Catalan regional government has changed that. 
+The time-worn bell tower offers the only panorama of the dried-up Senia river that serves as a natural boundary between the Valencian region and Catalonia.
+Although both communities pertain to parallel administrations, the town is mainly thought-of as one.
+On Tuesday many employees in the wealthy northeastern Catalan region of Spain stopped work and massive street protests were held in Barcelona. There tens of thousands marched against what they consider repression of their civil rights by the Spanish government after it tried to stop the independence vote on Sunday.
+Many concerned citizens remain on edge, with San Rafael residents especially worried about the possibility that the brewing conflict could literally split their community in two.
+San Rafael shares with Catalonia irrigation, roads, electricity supply and even the phone telephone prefix. 
+Another issue appears to be the diminishing political conversation, especially among the elderly.
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/d9fbfbece5cb93347136f7a37606f7f6 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4119662', 'd9fbfbece5cb93347136f7a37606f7f6', 'Spain Border Town', 'Spain', 'Western Europe', 'Valencia', 'Government and politics'",PT4M23S,263,5

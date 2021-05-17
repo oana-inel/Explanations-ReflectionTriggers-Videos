@@ -1,0 +1,19 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+foZv7ly-HD8,MMR,HealthCondition,NONE,NONE,0.820408,negative,-0.623252,0.5014529999999999,0.18278,0.010624,0.27767,0.41092,2,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,-0.9798,0.13,0.055,0.815,0.16402691511387166,0.6320910973084886,negative,-0.783036,0.130088,0.116357,0.6376229999999999,0.126694,0.110572,-0.5,7.300000190734862,Vaccination,2019-04-25T10:22:13.000Z,UCb1Ti1WKPauPpXkYKVHNpsw,MMR Vaccine Conspiracy Is Demolished - James O'Brien - LBC,"As the number of children not receiving the MMR vaccine rises, James O'Brien took apart the argument against it.
+
+New figures show more than half a million children in the UK weren't vaccinated against measles over an eight-year period. 
+Unicef says it's trying to fight the so-called ""anti-vax"" movement, which wrongly believes the jabs are harmful.
+
+Subscribe to LBC: http://bit.ly/SubscribeToLBC
+
+LBC: Leading Britain's Conversation
+DAB Digital Radio | 97.3FM FM London",LBC,"antivax', 'anti-vax', 'anti-vaccination', 'mmr', 'measles', 'conspiracy theory', 'lbc live', 'lbc', 'live lbc', '97.3', 'internet radio', 'talk radio', 'debate', 'today current affairs', 'current affairs 2019', 'current affairs', 'current affairs in english', 'radio broadcast', 'daily current affairs', 'best current affairs', 'phone in', 'radio talk show', 'radio stream', 'radio online', 'radio debate', 'april 2019'",PT2M27S,147,3
+foZv7ly-HD8,Russia,Location,Country,NONE,0.430012,negative,-0.891697,0.466836,0.24059699999999998,0.013475,0.23429699999999998,0.42482200000000003,1,1,Russia,Russia,Russia,Russia,russia,russia,russ,NONE,-0.9798,0.13,0.055,0.815,0.16402691511387166,0.6320910973084886,negative,-0.783036,0.130088,0.116357,0.6376229999999999,0.126694,0.110572,-0.5,7.300000190734862,Vaccination,2019-04-25T10:22:13.000Z,UCb1Ti1WKPauPpXkYKVHNpsw,MMR Vaccine Conspiracy Is Demolished - James O'Brien - LBC,"As the number of children not receiving the MMR vaccine rises, James O'Brien took apart the argument against it.
+
+New figures show more than half a million children in the UK weren't vaccinated against measles over an eight-year period. 
+Unicef says it's trying to fight the so-called ""anti-vax"" movement, which wrongly believes the jabs are harmful.
+
+Subscribe to LBC: http://bit.ly/SubscribeToLBC
+
+LBC: Leading Britain's Conversation
+DAB Digital Radio | 97.3FM FM London",LBC,"antivax', 'anti-vax', 'anti-vaccination', 'mmr', 'measles', 'conspiracy theory', 'lbc live', 'lbc', 'live lbc', '97.3', 'internet radio', 'talk radio', 'debate', 'today current affairs', 'current affairs 2019', 'current affairs', 'current affairs in english', 'radio broadcast', 'daily current affairs', 'best current affairs', 'phone in', 'radio talk show', 'radio stream', 'radio online', 'radio debate', 'april 2019'",PT2M27S,147,3

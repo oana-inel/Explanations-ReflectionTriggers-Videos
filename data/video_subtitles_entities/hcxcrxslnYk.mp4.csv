@@ -1,0 +1,523 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+hcxcrxslnYk,Catalonia,Location,City,NONE,0.42286,positive,0.551914,0.203725,0.061422000000000004,0.07207000000000001,0.504108,0.47045,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Court of Human Rights,Organization,NONE,NONE,0.391167,negative,-0.395251,0.22086,0.208114,0.055123,0.193354,0.12775799999999998,1,1,Court of Human Rights,Court of Human Rights,Court of Human Rights,Court of Human Rights,court of human right,court of human right,court of hum right,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.792722,negative,-0.201429,0.352894,0.666722,0.027531,0.135373,0.11724200000000001,4,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Florence,Location,City,NONE,0.358317,neutral,0.0,0.18956800000000001,0.11642000000000001,0.315023,0.083511,0.062968,1,1,Florence,Florence,Florence,Florence,florenc,florenc,flor,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Gendarme Marie,Person,NONE,NONE,0.4426060000000001,positive,0.539098,0.29337399999999997,0.286058,0.050051,0.10918699999999999,0.232181,1,1,Gendarme Marie,Gendarme Marie,Gendarme Marie,Gendarme Marie,gendarm mari,gendarm mari,gendarm mary,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Manchester,Location,"AdministrativeDivision, EnglishMetropolitanBorough, GovernmentalJurisdiction, OlympicBiddingCity, City",http://dbpedia.org/resource/Manchester,0.389889,negative,-0.450563,0.19508399999999998,0.39761399999999997,0.1325,0.40805,0.145346,1,1,Manchester,Manchester,Manchester,Manchester,manchest,manchest,manchest,http://en.wikipedia.org/wiki/Manchester,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Mr. Younger,Person,NONE,NONE,0.412584,neutral,0.0,0.27666799999999997,0.159467,0.189695,0.052221000000000004,0.277462,1,1,Mr . Younger,Mr . younger,Mr . younger,Mr . young,Mr . younger,mr . younger,mr . young,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Mrs. May,Person,NONE,NONE,0.764437,negative,-0.758937,0.6492760000000001,0.139078,0.657018,0.116978,0.136149,9,1,Mrs. May,Mrs. May,Mrs. May,Mrs. May,mrs. may,mrs. may,mrs. may,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Sherrod,Person,NONE,NONE,0.410893,negative,-0.6294270000000001,0.323368,0.036518,0.401964,0.21381799999999998,0.066117,1,1,Sherrod,Sherrod,Sherrod,Sherrod,sherrod,sherrod,sherrod,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,Strasbourg,Location,City,http://dbpedia.org/resource/Strasbourg,0.43889300000000003,neutral,0.0,0.30833499999999997,0.21570799999999998,0.133102,0.173221,0.21504600000000001,1,1,Strasbourg,Strasbourg,Strasbourg,Strasbourg,strasbourg,strasbourg,strasbourg,http://en.wikipedia.org/wiki/Strasbourg,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.410282,negative,-0.43741899999999995,0.153096,0.211675,0.24469699999999997,0.218496,0.204465,1,1,UK,UK,uk,uk,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,United Kingdom,Organization,"Location, AdministrativeDivision, Country, GovernmentalJurisdiction, Kingdom, MeteorologicalService",http://dbpedia.org/resource/United_Kingdom,0.42226400000000003,negative,-0.395251,0.22086,0.208114,0.055123,0.193354,0.12775799999999998,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,brexit,Location,City,NONE,0.552951,negative,-0.07950800000000001,0.452074,0.465462,0.023681,0.256868,0.187878,2,1,brexit,brexit,brexit,brexit,brexit,brexit,brexit,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,brexit,Person,NONE,NONE,0.635147,negative,-0.603834,0.452074,0.465462,0.023681,0.256868,0.187878,3,1,brexit,brexit,brexit,brexit,brexit,brexit,brexit,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,monsieur Barney,Person,NONE,NONE,0.418914,positive,0.7563770000000001,0.391152,0.088936,0.190808,0.133143,0.041675,1,1,monsieur Barney,monsieur Barney,monsieur Barney,monsy Barney,monsieur barney,monsieur barney,monsy barney,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,mr. Young,Person,NONE,NONE,0.401936,neutral,0.0,0.30833499999999997,0.21570799999999998,0.133102,0.173221,0.21504600000000001,1,1,mr. Young,mr. Young,mr. Young,mr. Young,mr. young,mr. young,mr. young,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,murder,Crime,NONE,NONE,0.394715,negative,-0.9197569999999999,0.446121,0.428518,0.048843,0.24558000000000002,0.19358499999999998,1,1,murder,murder,murder,murd,murder,murder,murd,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5
+hcxcrxslnYk,prime minister,JobTitle,NONE,NONE,0.584245,positive,0.7563770000000001,0.273855,0.105261,0.29698800000000003,0.1097,0.057914999999999994,2,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.5189,0.097,0.098,0.805,0.08412698412698412,0.4227425044091711,negative,-0.373484,0.148809,0.5761270000000001,0.550176,0.6212489999999999,0.15295699999999998,-0.10000000149011612,10.800000190734863,Catalonia Independence,2017-10-03T08:35:13.000Z,UC3iZzCe7M5nLMPjm5Yh91hw,Catalonia crackdown a foretaste of EU political suppression - Nigel Farage MEP,"http://www.ukipmeps.org | http://www.ukip.org/join
+• European Parliament, Strasbourg, 03 October 2017
+
+• Nigel Farage MEP, UK Independence Party (UKIP), President of the Europe of Freedom and Direct Democracy Group (EFDD) in the European Parliament - http://www.nigelfaragemep.co.uk @Nigel_Farage
+
+• Debate: State of play of negotiations with the United Kingdom
+[2017/2847(RSP)]
+
+Transcript:
+Aside from the really important issue of Brexit, I think European citizens, those that do take any interest in what happens here, will be stunned that Mr Juncker comes here for his one appearance in the Strasbourg session this week and there is absolutely no mention made of the dramatic events that have taken place inside a European Union member state, that is allegedly a modern democracy.
+
+One of the reasons that I always wanted Brexit was because I thought the system of law making whereby the Commission has the sole right to initiate legislation was something that would in fact damage, and in the end destroy, any concept of national democracy. And yeah, I’ve called the European Union undemocratic, I’ve called it antidemocratic, but never, ever in my fiercest criticisms here did I think we would see the police of a member state of the union injuring 900 people in an attempt to stop them going out to vote.
+
+Whether or not it was legal nationally for people in Catalonia to have a vote, surely people are allowed to express an opinion. We saw women being dragged out of polling stations by their hair, old ladies with gashes in their forehead. The most extraordinary display and what do we get from Mr Juncker today? Not a dickie-bird.
+
+In fact previously we had that the rule of law must be maintained and I think it is quite extraordinary to realise that this union is prepared to turn a blind eye. Can you imagine the British police would have roughed up a couple of Scottish National Party protestors or if something happened against a pro-Remain rally you’d all be screaming blue murder, indeed the calls would be that the United Kingdom must go before the European Court of Human Rights and yet with this you don’t even want to talk about it. Knowing as I do, your advance plans, seven of you members states here with your military police, your euro gendarmerie force, all I can say once again is thank god we’re leaving.
+
+Brexit was an act of liberation, it was a voice of national self-determination that cannot and will not be stopped, but through this negotiating process I’m afraid from the start you’ve treated us as if we’re some kind of hostage. Unless we pay a ransom, unless we meet all of your demands, all of your demands, then you won’t even have an intelligent conversation with us about trade heading on from here.
+
+There are no guarantees that whatever Mrs May says or does that you will ever, even when we’ve met your demands, that you will ever come to us and want to have a sensible trade agreement. And I have to say, that it is sad, in fact it was pitiful, to see the British Prime Minister in Florence. I heard you say that you thought she was being conciliatory, that she’s been grown up, people are happy with what she’s said. Actually Mrs May I’m sad to say isn’t worldly enough to recognise that when you face up to a bully the one thing that you do not do is try to appease them. She’s begging you to give her a transition period and there’s no guarantee that you will do it.
+
+So I do actually agree with the criticisms that I’ve heard around the room about the mixed messages coming out from the UK government. I just hope that in Manchester the Conservative Party start to say in public what they’re all saying to me in private, that she’s a waste of space, she needs to go, that we need a proper Prime Minister who says to Monsieur Barnier ‘okay, here’s a deadline. Here’s a date, we work towards that date and if we can’t reach a sensible deal on trade and everything else then we are simply leaving and reverting to WTO rules.’ This charade cannot go on for year after year, after all we voted for Brexit.  
+
+....................
+•  Video: EbS (European Parliament)
+..................................
+
+•  EU Member States:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, United Kingdom",UKIP MEPs,"nigel farage', 'mep', 'ukip', 'efdd', 'brexit', 'negotiations', 'membership', 'banks', 'corporations', 'migration', 'eu army', 'military', 'european army', 'expansionism', 'immigration', 'migrants', 'eu governance', 'financial', 'economic', 'unemployment', 'martin schulz', 'donald tusk', 'jean-claude juncker', 'imf', 'ecb', 'euro', 'eurozone', 'european union', 'parliament', 'eu', 'referendum', 'council president', 'tim farron', 'jeremy corbyn', 'ron paul', 'alex jones', 'david icke', 'nwo', 'donald trump', 'theresa may', 'spain', 'catalunya', 'catalonia', 'police', 'tyranny'",PT4M35S,275,5

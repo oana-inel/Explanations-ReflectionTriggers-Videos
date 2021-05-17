@@ -1,0 +1,41 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+yEQblDNbf7g,Catalonia,Location,City,NONE,0.8868309999999999,neutral,0.0,0.275608,0.12081099999999999,0.204414,0.150502,0.266849,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9085,0.014,0.075,0.911,0.08555555555555555,0.5472222222222222,positive,0.385807,0.153694,0.522644,0.574801,0.11200999999999996,0.084011,-0.10000000149011612,1.0,Catalonia Independence,2017-10-27T19:53:39.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia independence: Rajoy dissolves Catalan parliament - BBC News,"Spanish Prime Minister Mariano Rajoy is dissolving the Catalan parliament and calling snap elections after MPs there voted to declare independence.
+Mr Rajoy said the unprecedented imposition of direct rule on Catalonia was essential to ""recover normality"".
+He is also firing Catalan leader Carles Puigdemont and his cabinet.
+The crisis began when Catalonia held an independence referendum, despite it being deemed illegal by the constitutional court.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia independence', 'Spanish Prime Minister', 'Mariano Rajoy', 'Catalan'",PT1M24S,84,2
+yEQblDNbf7g,Mr. President,Person,NONE,NONE,0.326575,neutral,0.0,0.28410100000000005,0.0068969999999999995,0.10166599999999999,0.109037,0.257092,1,1,Mr. President,Mr. President,Mr. President,Mr. President,mr. presid,mr. presid,mr. presid,NONE,0.9085,0.014,0.075,0.911,0.08555555555555555,0.5472222222222222,positive,0.385807,0.153694,0.522644,0.574801,0.11200999999999996,0.084011,-0.10000000149011612,1.0,Catalonia Independence,2017-10-27T19:53:39.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia independence: Rajoy dissolves Catalan parliament - BBC News,"Spanish Prime Minister Mariano Rajoy is dissolving the Catalan parliament and calling snap elections after MPs there voted to declare independence.
+Mr Rajoy said the unprecedented imposition of direct rule on Catalonia was essential to ""recover normality"".
+He is also firing Catalan leader Carles Puigdemont and his cabinet.
+The crisis began when Catalonia held an independence referendum, despite it being deemed illegal by the constitutional court.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia independence', 'Spanish Prime Minister', 'Mariano Rajoy', 'Catalan'",PT1M24S,84,2
+yEQblDNbf7g,Society of Catalonia,Organization,NONE,NONE,0.599649,neutral,0.0,0.28410100000000005,0.0068969999999999995,0.10166599999999999,0.109037,0.257092,1,1,Society of Catalonia,Society of Catalonia,Society of Catalonia,Society of Catalonia,societi of catalonia,societi of catalonia,socy of catalon,NONE,0.9085,0.014,0.075,0.911,0.08555555555555555,0.5472222222222222,positive,0.385807,0.153694,0.522644,0.574801,0.11200999999999996,0.084011,-0.10000000149011612,1.0,Catalonia Independence,2017-10-27T19:53:39.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia independence: Rajoy dissolves Catalan parliament - BBC News,"Spanish Prime Minister Mariano Rajoy is dissolving the Catalan parliament and calling snap elections after MPs there voted to declare independence.
+Mr Rajoy said the unprecedented imposition of direct rule on Catalonia was essential to ""recover normality"".
+He is also firing Catalan leader Carles Puigdemont and his cabinet.
+The crisis began when Catalonia held an independence referendum, despite it being deemed illegal by the constitutional court.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia independence', 'Spanish Prime Minister', 'Mariano Rajoy', 'Catalan'",PT1M24S,84,2
+yEQblDNbf7g,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.32905700000000004,neutral,0.0,0.250682,0.195839,0.045945,0.163053,0.22654699999999997,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9085,0.014,0.075,0.911,0.08555555555555555,0.5472222222222222,positive,0.385807,0.153694,0.522644,0.574801,0.11200999999999996,0.084011,-0.10000000149011612,1.0,Catalonia Independence,2017-10-27T19:53:39.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia independence: Rajoy dissolves Catalan parliament - BBC News,"Spanish Prime Minister Mariano Rajoy is dissolving the Catalan parliament and calling snap elections after MPs there voted to declare independence.
+Mr Rajoy said the unprecedented imposition of direct rule on Catalonia was essential to ""recover normality"".
+He is also firing Catalan leader Carles Puigdemont and his cabinet.
+The crisis began when Catalonia held an independence referendum, despite it being deemed illegal by the constitutional court.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia independence', 'Spanish Prime Minister', 'Mariano Rajoy', 'Catalan'",PT1M24S,84,2

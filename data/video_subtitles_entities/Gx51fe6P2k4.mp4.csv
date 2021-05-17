@@ -1,0 +1,35 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Gx51fe6P2k4,90%,Quantity,NONE,NONE,0.603431,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,0.9761,0.075,0.215,0.71,0.4133333333333333,0.7263888888888891,positive,0.468669,0.04204,0.6409590000000001,0.097222,0.517526,0.122925,0.30000001192092896,3.9000000953674316,Vaccination,2018-10-02T01:27:02.000Z,UC7hfW3ycC3xHEJ6CaKcGR0A,Vaccination is safe,"Vaccination is one of the safest ways to protect against contagious disease and life-threatening illness. By the time a vaccine comes to market, there has been decades of work to make sure the vaccine is effective and safe. Life-saving vaccines include the MMR, for measles, mumps and rubella. A very small and inaccurate study claimed the MMR vaccine caused autism but has been completely discredited. The study’s researchers even retracted their claims. The benefits of vaccination outweigh the minor side effects. 
+
+Thanks for watching! Click subscribe and the notification bell to see our videos in your feed. 
+
+For more videos and articles like and follow our Facebook page and our other social pages. 
+
+Facebook: https://www.facebook.com/AustralianAcademyofScience/
+Instagram: https://www.instagram.com/ausacademyofscience/
+Twitter: https://twitter.com/Science_Academy
+
+About us:
+The Australian Academy of Science is an independent organisation representing Australia's leading scientists. It recognises excellence, advises government and promotes science education and public awareness of science.
+
+About our channel:
+We create and upload videos reviewed by experts in scientific fields and other leading academics to ensure scientific accuracy. You can also find some amazing lectures given by top scientists at one of our events held at our HQ-the Shine Dome in Canberra or across Australia.
+
+Thanks for watching and please subscribe and give our Facebook page a like!",Australian Academy of Science,"science', 'Australian Academy of Science', 'scientific', 'science behind', 'science academy', 'technology', 'science news', 'tech', 'tech news', 'latest science', 'scientists', 'immunisation', 'immunization', 'vaccine', 'vaccination', 'health'",PT1M57S,117,2
+Gx51fe6P2k4,MMR vaccine,Drug,NONE,NONE,0.9911190000000001,negative,-0.804692,0.15873900000000002,0.642505,0.053671,0.11740199999999999,0.096702,1,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,0.9761,0.075,0.215,0.71,0.4133333333333333,0.7263888888888891,positive,0.468669,0.04204,0.6409590000000001,0.097222,0.517526,0.122925,0.30000001192092896,3.9000000953674316,Vaccination,2018-10-02T01:27:02.000Z,UC7hfW3ycC3xHEJ6CaKcGR0A,Vaccination is safe,"Vaccination is one of the safest ways to protect against contagious disease and life-threatening illness. By the time a vaccine comes to market, there has been decades of work to make sure the vaccine is effective and safe. Life-saving vaccines include the MMR, for measles, mumps and rubella. A very small and inaccurate study claimed the MMR vaccine caused autism but has been completely discredited. The study’s researchers even retracted their claims. The benefits of vaccination outweigh the minor side effects. 
+
+Thanks for watching! Click subscribe and the notification bell to see our videos in your feed. 
+
+For more videos and articles like and follow our Facebook page and our other social pages. 
+
+Facebook: https://www.facebook.com/AustralianAcademyofScience/
+Instagram: https://www.instagram.com/ausacademyofscience/
+Twitter: https://twitter.com/Science_Academy
+
+About us:
+The Australian Academy of Science is an independent organisation representing Australia's leading scientists. It recognises excellence, advises government and promotes science education and public awareness of science.
+
+About our channel:
+We create and upload videos reviewed by experts in scientific fields and other leading academics to ensure scientific accuracy. You can also find some amazing lectures given by top scientists at one of our events held at our HQ-the Shine Dome in Canberra or across Australia.
+
+Thanks for watching and please subscribe and give our Facebook page a like!",Australian Academy of Science,"science', 'Australian Academy of Science', 'scientific', 'science behind', 'science academy', 'technology', 'science news', 'tech', 'tech news', 'latest science', 'scientists', 'immunisation', 'immunization', 'vaccine', 'vaccination', 'health'",PT1M57S,117,2

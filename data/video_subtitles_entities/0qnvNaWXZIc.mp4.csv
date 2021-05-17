@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+0qnvNaWXZIc,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.704692,negative,-0.07812899999999999,0.244692,0.107928,0.481437,0.112461,0.177265,5,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,Cairo,Location,City,NONE,0.351558,neutral,0.0,0.307361,0.043092,0.51661,0.117749,0.051665,1,1,Cairo,Cairo,Cairo,Cairo,cairo,cairo,cairo,NONE,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,Cairo Egypt,Location,City,NONE,0.617217,neutral,0.0,0.271781,0.026163,0.053663,0.101471,0.132773,2,1,Cairo Egypt,Cairo Egypt,Cairo Egypt,Cairo Egypt,cairo egypt,cairo egypt,cairo egypt,NONE,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,East African Community,Organization,"Location, GovernmentalJurisdiction",http://dbpedia.org/resource/East_African_Community,0.466184,neutral,0.0,0.229633,0.042851,0.539467,0.087839,0.06411499999999999,1,1,East African Community,East African Community,East African Community,East African Community,east african commun,east african communiti,east afr commun,http://en.wikipedia.org/wiki/East_African_Community,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,East Coast,Location,Region,NONE,0.308135,neutral,0.0,0.307361,0.043092,0.51661,0.117749,0.051665,1,1,East Coast,East Coast,East Coast,East Coast,east coast,east coast,east coast,NONE,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,Matt LeBlanc,Person,"Actor, AwardNominee, Celebrity, FilmActor, FilmProducer, TVActor",http://dbpedia.org/resource/Matt_LeBlanc,0.330021,neutral,0.0,0.494273,0.09012,0.183811,0.295443,0.078152,2,1,Matt LeBlanc,Matt LeBlanc,Matt LeBlanc,Matt LeBlanc,matt leblanc,matt leblanc,mat lebl,http://en.wikipedia.org/wiki/Matt_LeBlanc,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,Meza,Person,NONE,NONE,0.266987,positive,0.7999729999999999,0.316022,0.121796,0.316817,0.144904,0.066478,1,1,Meza,Meza,Meza,Meza,meza,meza,mez,NONE,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,Peng,Person,NONE,NONE,0.28578400000000004,neutral,0.0,0.086136,0.048888,0.105142,0.118317,0.119671,1,1,Peng,Peng,Peng,Peng,peng,peng,peng,NONE,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,South Africa,Location,Country,http://dbpedia.org/resource/Union_of_South_Africa,0.447342,neutral,0.0,0.142684,0.033839,0.309253,0.06512899999999999,0.035927999999999995,1,1,South Africa,South Africa,South Africa,South Africa,south africa,south africa,sou afric,http://en.wikipedia.org/wiki/Union_of_South_Africa,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,South Africa,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/South_Africa,0.4606560000000001,positive,0.8223950000000001,0.142684,0.033839,0.309253,0.06512899999999999,0.035927999999999995,1,1,South Africa,South Africa,South Africa,South Africa,south africa,south africa,sou afric,http://en.wikipedia.org/wiki/South_Africa,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3
+0qnvNaWXZIc,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.257123,neutral,0.0,0.307361,0.043092,0.51661,0.117749,0.051665,1,1,US,US,us,us,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9943,0.021,0.165,0.8140000000000001,0.1425,0.40741666666666665,positive,0.7567119999999999,0.11061199999999999,0.48411000000000004,0.49614899999999995,0.08565199999999999,0.147489,0.10000000149011612,3.5999999046325684,Free Trade,2018-12-13T05:15:50.000Z,UC8yH-uI81UUtEMDsowQyx1g,Intra - Africa free trade agreement,"A ratification instrument has been deposited by the South Africa government in Cairo, Egypt.
+This will enhance free trade among three trading blocks on the African Continent.
+The agreement will see the East African Community, the Common Market For Eastern and Southern Africa as well as SADC, trading freely.
+Naledi Matlapeng reports from Cairo, Egypt.
+
+For more news, visit: sabcnews.com",SABC Digital News,"SABC News', 'actuality', 'world news', 'local news', 'Cairo', 'Egypt', 'East African Community', 'the Common Market For Eastern and Southern Africa'",PT2M36S,156,3

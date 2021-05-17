@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+PMwyirfoJsU,Adonis,Person,NONE,NONE,0.710627,neutral,0.0,0.070658,0.134601,0.519965,0.016668000000000002,0.012620999999999999,2,1,Adonis,Adonis,Adonis,Adonis,adoni,adoni,adon,NONE,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Ben,Person,NONE,NONE,0.424392,neutral,0.0,0.273028,0.172749,0.357202,0.130615,0.070159,1,1,Ben,Ben,Ben,Ben,ben,ben,ben,NONE,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Catalonia,Location,City,NONE,0.702539,neutral,0.0,0.5132680000000001,0.098253,0.140176,0.135624,0.22728299999999999,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.771826,negative,-0.583175,0.423171,0.056558000000000004,0.056241,0.20529299999999998,0.237281,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Sanchez,Person,NONE,NONE,0.473487,negative,-0.414149,0.183141,0.130867,0.422468,0.111588,0.233893,1,1,Sanchez,Sanchez,Sanchez,Sanchez,sanchez,sanchez,sanchez,NONE,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Socialist Party,Organization,PoliticalParty,http://dbpedia.org/resource/Socialist_Party_USA,0.6172949999999999,positive,0.535702,0.277586,0.16862,0.419592,0.086287,0.056119,1,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,http://en.wikipedia.org/wiki/Socialist_Party_USA,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.955181,negative,-0.6990850000000001,0.6919029999999999,0.06417300000000001,0.136094,0.0765,0.150457,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3
+PMwyirfoJsU,two years,Quantity,NONE,NONE,0.424392,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,-0.3805,0.098,0.103,0.799,0.058951263789973465,0.3885421030582321,negative,-0.426247,0.689037,0.5465939999999999,0.527633,0.110229,0.084065,0.0,4.0,Catalonia Independence,2019-04-23T18:28:15.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalan independence: 'This is a coup, and it cannot be ignored'","Toni Roldan Monés, Barcelona MP candidate for Ciudadnos, on whether his party would get in a coalition with Sanchez's PSOE.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Spain', 'Spain elections', 'Catalan Independence', 'Barcelona', 'Catalonia', 'Pedro Sanchez', 'Sanchez', 'Spanish', '28 Abril'",PT2M14S,134,3

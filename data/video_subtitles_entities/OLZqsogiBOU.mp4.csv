@@ -1,0 +1,562 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+OLZqsogiBOU,40 years,Quantity,NONE,NONE,0.196331,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 year,40 year,40 year,40 year,40 year,40 year,40 year,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.336647,neutral,0.0,0.121821,0.120554,0.138009,0.156774,0.12217599999999999,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Brussels,Location,"AdministrativeDivision, SchoolDistrict, City",http://dbpedia.org/resource/Brussels,0.2108,positive,0.42772299999999996,0.03229,0.011018,0.480753,0.026307,0.11188800000000004,1,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,http://en.wikipedia.org/wiki/Brussels,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Burma,Location,Country,http://dbpedia.org/resource/Burma,0.200124,negative,-0.584812,0.673829,0.142719,0.067646,0.08137799999999999,0.158987,1,1,Burma,Burma,Burma,Burma,burma,burma,burm,http://en.wikipedia.org/wiki/Burma,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Catalonia,Location,City,NONE,0.847932,negative,-0.225609,0.565415,0.170398,0.562537,0.115531,0.104974,9,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Catalonia,Location,Country,NONE,0.43709,positive,0.42772299999999996,0.565415,0.170398,0.562537,0.115531,0.104974,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Catalonia,Location,Region,NONE,0.350873,positive,0.905,0.565415,0.170398,0.562537,0.115531,0.104974,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,EU,Location,Country,NONE,0.277325,negative,-0.708819,0.75503,0.29536999999999997,0.008834,0.082664,0.136261,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.309041,positive,0.384625,0.432964,0.151745,0.177866,0.1834,0.2457550000000001,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.614977,negative,-0.15906800000000001,0.5529310000000001,0.117594,0.6370140000000001,0.06557,0.097834,11,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,European economic Community Spain,Organization,NONE,NONE,0.35745,neutral,0.0,0.170234,0.102046,0.594861,0.031902999999999994,0.086642,1,1,European economic Community Spain,european econom Community Spain,european econom Community Spain,europ econom Community Spain,european econom commun spain,european econom communiti spain,europ econom commun spain,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,France,Location,Country,http://dbpedia.org/resource/Vichy_France,0.25979,negative,-0.423975,0.6878029999999999,0.069659,0.120898,0.16744900000000001,0.150775,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/Vichy_France,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,France Germany,Company,NONE,NONE,0.250375,neutral,0.0,0.23546199999999998,0.085701,0.34469299999999997,0.036888,0.078887,1,1,France Germany,France Germany,France Germany,France Germany,franc germani,franc germani,frant germany,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Franco,Person,NONE,NONE,0.209263,negative,-0.564643,0.394381,0.250258,0.14366600000000002,0.26458899999999996,0.209319,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Iraq,Location,"GovernmentalJurisdiction, MilitaryPost, CityTown, Country",http://dbpedia.org/resource/Iraq,0.20984299999999997,negative,-0.584812,0.673829,0.142719,0.067646,0.08137799999999999,0.158987,1,1,Iraq,Iraq,Iraq,Iraq,iraq,iraq,iraq,http://en.wikipedia.org/wiki/Iraq,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.25781,neutral,0.0,0.48523299999999997,0.058614,0.167934,0.087473,0.240525,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Parliament,Organization,NONE,NONE,0.268791,neutral,0.0,0.2409550000000001,0.086267,0.538447,0.107048,0.014486,1,1,Parliament,parliament,parliament,parlia,parliament,parliament,parlia,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Regional National,Organization,NONE,NONE,0.245245,neutral,0.0,0.36113,0.074866,0.126594,0.378222,0.21373699999999998,1,1,Regional National,Regional National,Regional National,Regional National,region nation,region nation,reg nat,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Scotland,Location,Country,NONE,0.199746,positive,0.7853829999999999,0.05983400000000001,0.028472000000000008,0.803769,0.035927,0.034713,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.8199629999999999,positive,0.339841,0.57909,0.151254,0.605757,0.116039,0.092047,12,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.361904,negative,-0.667138,0.57909,0.151254,0.605757,0.116039,0.092047,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Spanish government,Organization,NONE,NONE,0.321779,negative,-0.644112,0.525393,0.13250499999999998,0.024829,0.44413800000000003,0.163154,2,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,Travis,Person,NONE,NONE,0.2271050000000001,positive,0.9576950000000001,0.030136000000000007,0.020597999999999998,0.12785,0.11140699999999999,0.086947,1,1,Travis,Travis,Travis,Travis,travi,travi,trav,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.245054,neutral,0.0,0.23546199999999998,0.085701,0.34469299999999997,0.036888,0.078887,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,catalonian parliament,Organization,NONE,NONE,0.284733,negative,-0.22340300000000002,0.37656,0.021606999999999998,0.45176099999999997,0.018953,0.172977,1,1,catalonian parliament,catalonian parliament,catalonian parliament,catalon parlia,catalonian parliament,catalonian parliament,catalon parlia,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,customs Union,Organization,NONE,NONE,0.228726,positive,0.905,0.287951,0.162029,0.339618,0.24055100000000001,0.143151,1,1,custom Union,custom Union,custom Union,custom Union,custom union,custom union,custom un,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,five years,Quantity,NONE,NONE,0.196331,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,nine percent,Quantity,NONE,NONE,0.196331,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,nine percent,nine percent,nine percent,nin perc,nine percent,nine percent,nin perc,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,one hand,Quantity,NONE,NONE,0.196331,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one hand,one hand,one hand,on hand,one hand,one hand,on hand,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,president,JobTitle,NONE,NONE,0.267843,positive,0.42772299999999996,0.157331,0.026391,0.424975,0.139847,0.10888900000000001,2,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,producer,JobTitle,NONE,NONE,0.22870500000000002,positive,0.799127,0.017731999999999998,0.025388,0.540747,0.048905000000000004,0.021818,1,1,producer,produc,produc,produc,produc,produc,produc,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,representative,JobTitle,NONE,NONE,0.219225,neutral,0.0,0.306736,0.05757200000000001,0.21530500000000002,0.408763,0.14083199999999998,1,1,representative,repres,repres,repres,repres,repres,repres,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9
+OLZqsogiBOU,ten years,Quantity,NONE,NONE,0.196331,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ten year,ten year,ten year,ten year,ten year,ten year,ten year,NONE,0.9965,0.11,0.156,0.7340000000000001,0.1189027998380516,0.4184518359338504,positive,0.303734,0.116045,0.597492,0.563517,0.117268,0.098599,0.0,16.5,Catalonia Independence,2018-03-06T23:28:03.000Z,UC49HGm2XU_KFINcAoLu1OjA,The Catalan Independence Struggle Is Europe's Future,"Catalan Independence is not just about Spain. It shows one path forward for Europe. Not a good one. 
+
+Visit our Website at http://www.morefreedomfoundation.com
+
+Please subscribe to the  e-mail newsletter which can be found here: 
+http://eepurl.com/MNoEj
+
+If you are interested in supporting our work you can donate on Patreon:
+
+https://www.patreon.com/user?u=493721
+
+Or you can buy one of our essays:
+
+http://www.amazon.com/Robert-Morris/e/B006DS0Q2U/ref=ntt_athr_dp_pel_1
+
+Check out our Reddit!
+https://www.reddit.com/r/MoFreedomFoundation/",MoFreedomFoundation,"Catalonia', 'Catalan', 'EU', 'European Union', 'Barcelona', 'Barca', 'Generalitat de Catalunya', 'Referendum', 'Independence', 'Catalan government', 'Madrid', 'Spain', 'Spanish government', 'Devolution', 'Scotland', 'Scottish', 'Nations', 'Nationalism', 'Cornish', 'Occitan', 'Brussels', 'Napoleon', 'Goya', 'Spanish history', 'Guernica', 'Picasso', 'Phillip II', 'Franco', 'Francoist', 'Rob Morris', 'Robert Morris', 'MFF', 'MoFreedom', 'More Freedom Foundation', 'MoreFreedomFoundation'",PT8M28S,508,9

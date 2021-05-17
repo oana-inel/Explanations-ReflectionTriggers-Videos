@@ -1,0 +1,57 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qeivZGAtBBg,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.6068479999999999,neutral,0.0,0.353879,0.13636900000000002,0.12066400000000001,0.194706,0.11793900000000004,1,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.95,0.032,0.113,0.855,0.14356060606060608,0.3427489177489177,negative,-0.329681,0.141227,0.216128,0.494515,0.154361,0.603733,0.0,3.4000000953674316,Free Trade,2018-11-06T11:25:42.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,"Bill Gates, on China trip, talks futuristic toilets and lauds free trade","US billionaire philanthropist Bill Gates unveiled on Tuesday a futuristic toilet that doesn't need water or sewers and uses chemicals to turn human waste into fertilizer. The Microsoft co-founder also lauded the globalised and free trade systems that made the toilet technology possible. His trip comes amid trade tension between China and the United States, the world's two largest economies, which have slapped tit-for-tat tariffs on goods worth billions of dollars.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'US billionaires', 'Bill Gates on China trip', 'futuristic toilets'",PT1M37S,97,2
+qeivZGAtBBg,China,Location,Country,NONE,0.512735,neutral,0.0,0.19498900000000002,0.161931,0.08547300000000001,0.303719,0.206756,1,1,China,China,China,China,china,china,chin,NONE,0.95,0.032,0.113,0.855,0.14356060606060608,0.3427489177489177,negative,-0.329681,0.141227,0.216128,0.494515,0.154361,0.603733,0.0,3.4000000953674316,Free Trade,2018-11-06T11:25:42.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,"Bill Gates, on China trip, talks futuristic toilets and lauds free trade","US billionaire philanthropist Bill Gates unveiled on Tuesday a futuristic toilet that doesn't need water or sewers and uses chemicals to turn human waste into fertilizer. The Microsoft co-founder also lauded the globalised and free trade systems that made the toilet technology possible. His trip comes amid trade tension between China and the United States, the world's two largest economies, which have slapped tit-for-tat tariffs on goods worth billions of dollars.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'US billionaires', 'Bill Gates on China trip', 'futuristic toilets'",PT1M37S,97,2
+qeivZGAtBBg,Thailand,Location,Country,NONE,0.517522,neutral,0.0,0.19498900000000002,0.161931,0.08547300000000001,0.303719,0.206756,1,1,Thailand,Thailand,Thailand,Thailand,thailand,thailand,thailand,NONE,0.95,0.032,0.113,0.855,0.14356060606060608,0.3427489177489177,negative,-0.329681,0.141227,0.216128,0.494515,0.154361,0.603733,0.0,3.4000000953674316,Free Trade,2018-11-06T11:25:42.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,"Bill Gates, on China trip, talks futuristic toilets and lauds free trade","US billionaire philanthropist Bill Gates unveiled on Tuesday a futuristic toilet that doesn't need water or sewers and uses chemicals to turn human waste into fertilizer. The Microsoft co-founder also lauded the globalised and free trade systems that made the toilet technology possible. His trip comes amid trade tension between China and the United States, the world's two largest economies, which have slapped tit-for-tat tariffs on goods worth billions of dollars.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'US billionaires', 'Bill Gates on China trip', 'futuristic toilets'",PT1M37S,97,2
+qeivZGAtBBg,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.5520010000000001,neutral,0.0,0.136094,0.082465,0.395432,0.093684,0.095247,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.95,0.032,0.113,0.855,0.14356060606060608,0.3427489177489177,negative,-0.329681,0.141227,0.216128,0.494515,0.154361,0.603733,0.0,3.4000000953674316,Free Trade,2018-11-06T11:25:42.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,"Bill Gates, on China trip, talks futuristic toilets and lauds free trade","US billionaire philanthropist Bill Gates unveiled on Tuesday a futuristic toilet that doesn't need water or sewers and uses chemicals to turn human waste into fertilizer. The Microsoft co-founder also lauded the globalised and free trade systems that made the toilet technology possible. His trip comes amid trade tension between China and the United States, the world's two largest economies, which have slapped tit-for-tat tariffs on goods worth billions of dollars.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'US billionaires', 'Bill Gates on China trip', 'futuristic toilets'",PT1M37S,97,2

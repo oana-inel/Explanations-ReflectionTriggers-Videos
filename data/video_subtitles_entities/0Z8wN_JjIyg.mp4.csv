@@ -1,0 +1,136 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+0Z8wN_JjIyg,10 years,Quantity,NONE,NONE,0.5591119999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,83%,Quantity,NONE,NONE,0.5591119999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,83 %,83 %,83 %,83 %,83 %,83 %,83 %,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.59097,neutral,0.0,0.185663,0.020193,0.474294,0.326064,0.08176699999999999,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Britain,Location,Country,NONE,0.5591119999999999,neutral,0.0,0.381006,0.196381,0.191176,0.182734,0.238586,1,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Catalonia,Location,City,NONE,0.739621,negative,-0.30800500000000003,0.309185,0.06214,0.403025,0.127416,0.137793,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Creekside Crossings,Location,City,NONE,0.567098,neutral,0.0,0.354065,0.17133800000000002,0.296062,0.101721,0.11893900000000004,1,1,Creekside Crossings,Creekside Crossings,Creekside Crossings,Creekside Crossings,creeksid cross,creeksid cross,creeksid cross,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.90362,neutral,0.0,0.330933,0.261192,0.235099,0.067076,0.184661,2,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Fine Wines,Company,NONE,NONE,0.566064,positive,0.323673,0.102164,0.033523000000000004,0.730273,0.035336,0.080974,1,1,Fine Wines,Fine Wines,Fine Wines,Fine Wines,fine wine,fine wine,fin win,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,John hendren Al Jazeera,Person,NONE,NONE,0.743743,positive,0.5711609999999999,0.121681,0.091387,0.506238,0.097666,0.205202,1,1,John hendren Al Jazeera,John hendren Al Jazeera,John hendren Al Jazeera,John hendr Al Jazeera,john hendren Al jazeera,john hendren al jazeera,john hendr al jazeer,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Mainland Spain,Location,City,NONE,0.576757,negative,-0.30800500000000003,0.182276,0.135072,0.196573,0.067972,0.075888,1,1,Mainland Spain,Mainland Spain,Mainland Spain,Mainland Spain,mainland spain,mainland spain,mainland spain,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,NATO,Organization,"Location, MembershipOrganization",http://dbpedia.org/resource/NATO,0.607209,neutral,0.0,0.035673,0.19487,0.605274,0.013736000000000002,0.10039,1,1,NATO,NATO,NATO,NATO,nato,nato,nato,http://en.wikipedia.org/wiki/NATO,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.95257,neutral,0.0,0.077078,0.071719,0.46716,0.221286,0.04905,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,United Nations,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.587799,neutral,0.0,0.199831,0.035055,0.237662,0.037539,0.111773,1,1,United Nations,United Nations,United Nations,United Nations,unit nation,unit nation,unit nat,http://en.wikipedia.org/wiki/United_Nations,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,josep Maria Albert,Person,NONE,NONE,0.679791,neutral,0.0,0.032128,0.112058,0.544704,0.17498,0.16481800000000002,1,1,josep Maria Albert,josep Maria Albert,josep Maria Albert,josep Maria Albert,josep maria albert,josep maria albert,josep mar albert,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3
+0Z8wN_JjIyg,two weeks,Quantity,NONE,NONE,0.5591119999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two week,two week,two week,two week,two week,two week,two week,NONE,0.9908,0.009000000000000001,0.135,0.856,0.12765151515151513,0.3813479623824451,positive,0.528561,0.101256,0.53623,0.561952,0.11258299999999999,0.097914,0.0,3.7000000476837163,Catalonia Independence,2017-09-27T14:54:41.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What would Catalan independence look like?,"People in the Catalonia region of Spain are insisting on going ahead with a referendum for independence on Sunday, despite the government declaring it illegal.
+Catalan leaders will not say where the ballot boxes are, but if they manage to pull off the vote - and if Catalans vote yes - they must create a republic from scratch. 
+
+Al Jazeera's John Hendren reports from the Catalan town of La Senia. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"republic', 'illegal', 'Catalan leaders', 'Catalonia', 'spain', 'English', 'al Jazeera', 'catalan independence', 'referendum', 'youtube', 'independence', 'aljazeera', 'catalans', 'catalan', 'barcelona', 'government', 'aljazeera english', 'al jazeera english', 'catalonia independence', 'catalunya', 'catalonia independence movement', 'catalonia referendum', 'independence from spain', 'Catalan independence', 'catalonia', 'catalan independence referendum 2017'",PT2M20S,140,3

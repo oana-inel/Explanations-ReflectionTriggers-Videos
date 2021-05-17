@@ -1,0 +1,375 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Wfl-uMVbNn8,5150 M,Quantity,NONE,NONE,0.294973,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,5150 M,5150 M,5150 M,5150 M,5150 M,5150 m,5150 m,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Abby Huntsman,Person,NONE,NONE,0.48011000000000004,positive,0.507269,0.11203800000000001,0.037107999999999995,0.301663,0.029189,0.049312,2,1,Abby Huntsman,Abby Huntsman,Abby Huntsman,Abby Huntsman,abbi huntsman,abbi huntsman,abby huntsm,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Arizona,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Arizona,0.394456,positive,0.626339,0.326439,0.027094,0.26648499999999997,0.196125,0.331865,2,1,Arizona,Arizona,Arizona,Arizona,arizona,arizona,arizon,http://en.wikipedia.org/wiki/Arizona,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Barack Obama,Person,"Politician, President, Appointer, AwardWinner, Celebrity, PoliticalAppointer, U.S.Congressperson, USPresident, TVActor",http://dbpedia.org/resource/Barack_Obama,0.33222399999999996,neutral,0.0,0.189852,0.132742,0.225775,0.139768,0.171901,1,1,Barack Obama,Barack Obama,Barack Obama,Barack Obama,barack obama,barack obama,barack obam,http://en.wikipedia.org/wiki/Barack_Obama,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Donnie Wahlberg,Person,"Actor, MusicalArtist, FilmActor, MusicalGroupMember, TVActor, TVProducer, FilmWriter",http://dbpedia.org/resource/Donnie_Wahlberg,0.5975090000000001,positive,0.46805699999999995,0.160136,0.14819000000000002,0.409184,0.10761099999999996,0.163305,5,1,Donnie Wahlberg,Donnie Wahlberg,Donnie Wahlberg,Donnie Wahlberg,donni wahlberg,donni wahlberg,donny wahlberg,http://en.wikipedia.org/wiki/Donnie_Wahlberg,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.294973,neutral,0.0,0.18492999999999998,0.086115,0.538184,0.19883399999999998,0.054583000000000007,1,1,Google,Google,Google,Google,googl,googl,googl,http://en.wikipedia.org/wiki/Google,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Hamlin,Person,NONE,NONE,0.335231,neutral,0.0,0.279923,0.028179000000000006,0.304492,0.20135,0.287186,1,1,Hamlin,Hamlin,Hamlin,Hamlin,hamlin,hamlin,hamlin,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Jenny McCarthy,Person,"AwardNominee, AwardWinner, Celebrity, DietFollower, FilmProducer, FilmActor, FilmWriter, TVActor, VideoGameActor",http://dbpedia.org/resource/Jenny_McCarthy,0.358614,neutral,0.0,0.12551199999999998,0.063064,0.160707,0.5163760000000001,0.373909,1,1,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,jenni mccarthi,jenni mccarthi,jenny mccarthy,http://en.wikipedia.org/wiki/Jenny_McCarthy,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Jim,Person,NONE,NONE,0.303733,negative,-0.646618,0.258395,0.060184,0.28979299999999997,0.349521,0.111024,1,1,Jim,Jim,Jim,Jim,jim,jim,jim,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Kirsten Nelson,Person,TVActor,http://dbpedia.org/resource/Kirsten_Nelson,0.716508,negative,-0.295021,0.192295,0.079679,0.21451599999999998,0.304553,0.402412,5,1,Kirsten Nelson,Kirsten Nelson,Kirsten Nelson,Kirsten Nelson,kirsten nelson,kirsten nelson,kirst nelson,http://en.wikipedia.org/wiki/Kirsten_Nelson,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Mr. Trump,Person,NONE,NONE,0.776684,neutral,0.0,0.0,0.0,0.0,0.0,0.0,4,1,Mr. Trump,Mr. Trump,Mr. Trump,Mr. Trump,mr. trump,mr. trump,mr. trump,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Paul Rudd,Person,"Actor, AwardNominee, Celebrity, FilmActor, TheaterActor, TVActor, TVProducer, FilmWriter",http://dbpedia.org/resource/Paul_Rudd,0.42495900000000003,negative,-0.52663,0.343014,0.455719,0.13614,0.161083,0.10043200000000001,4,1,Paul Rudd,Paul Rudd,Paul Rudd,Paul Rudd,paul rudd,paul rudd,paul rud,http://en.wikipedia.org/wiki/Paul_Rudd,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,President,JobTitle,NONE,NONE,0.35198,negative,-0.533523,0.356668,0.171252,0.096953,0.22344699999999998,0.34510599999999997,1,1,President,President,President,President,presid,presid,presid,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Reddit,Company,Website,http://dbpedia.org/resource/Reddit,0.325973,negative,-0.8499969999999999,0.597785,0.133374,0.119831,0.11101400000000004,0.104899,1,1,Reddit,Reddit,Reddit,Reddit,reddit,reddit,reddit,http://en.wikipedia.org/wiki/Reddit,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Steven Miller,Person,NONE,NONE,0.321269,positive,0.9089440000000001,0.374983,0.06919299999999999,0.496142,0.09513300000000001,0.046543,1,1,Steven Miller,Steven Miller,Steven Miller,Steven Miller,steven miller,steven miller,stev mil,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Twitter,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Twitter,0.302435,positive,0.46805699999999995,0.13819,0.13631400000000002,0.451942,0.10814700000000001,0.17185,1,1,Twitter,Twitter,Twitter,Twitter,twitter,twitter,twit,http://en.wikipedia.org/wiki/Twitter,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,Whoopi Goldberg,Person,"Actor, AwardNominee, AwardWinner, Celebrity, FilmActor, TVActor, TVPersonality, TVProducer, BroadcastArtist",http://dbpedia.org/resource/Whoopi_Goldberg,0.466171,positive,0.9829100000000001,0.014361,0.060261,0.67893,0.07308200000000001,0.022613,2,1,Whoopi Goldberg,whoopi Goldberg,whoopi Goldberg,whoop Goldberg,whoopi goldberg,whoopi goldberg,whoop goldberg,http://en.wikipedia.org/wiki/Whoopi_Goldberg,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.365665,positive,0.46805699999999995,0.162683,0.16633199999999998,0.385212,0.106403,0.157331,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.340348,negative,-0.8499959999999999,0.597785,0.133374,0.119831,0.11101400000000004,0.104899,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,polio vaccine,Drug,NONE,NONE,0.358669,negative,-0.025695,0.281024,0.120626,0.412551,0.093481,0.17652400000000001,1,1,polio vaccine,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,scientist,JobTitle,NONE,NONE,0.31705,neutral,0.0,0.202489,0.13911199999999999,0.204842,0.127057,0.15808599999999998,2,1,scientist,scientist,scientist,sci,scientist,scientist,sci,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6
+Wfl-uMVbNn8,secretary,JobTitle,NONE,NONE,0.31485599999999997,neutral,0.0,0.12551199999999998,0.063064,0.160707,0.5163760000000001,0.373909,1,1,secretary,secretari,secretari,secret,secretari,secretari,secret,NONE,0.9597,0.112,0.15,0.737,0.13765287535779336,0.4892011449388499,negative,-0.288273,0.144279,0.544825,0.567789,0.101697,0.103929,0.0,19.399999618530273,Vaccination,2019-04-14T05:56:52.000Z,UCqFzWxSCi39LnW1JKFR3efg,The View: Jenny McCarthy on Vaccines - SNL,"The women of The View (Leslie Jones, Aidy Bryant, Kate McKinnon, Cecily Strong, Melissa Villaseñor) welcome Jenny McCarthy (Emma Stone) to the show.
+
+#SNL #EmmaStone #BTS #SNL44
+
+Subscribe to SNL: https://goo.gl/tUsXwM
+Stream Current Full Episodes: http://www.nbc.com/saturday-night-live
+
+Watch Past SNL Seasons: 
+Google Play - http://bit.ly/SNLGooglePlay 
+iTunes - http://bit.ly/SNLiTunes
+
+Follow SNL Social -
+SNL Instagram: http://instagram.com/nbcsnl 
+SNL Facebook: https://www.facebook.com/snl
+SNL Twitter: https://twitter.com/nbcsnl
+SNL Tumblr: http://nbcsnl.tumblr.com/
+SNL Pinterest: http://www.pinterest.com/nbcsnl/",Saturday Night Live,"snl', 'saturday night live', 'snl season 44', 'snl 44', 'the view', 'emma stone', 'aidy bryant', 'leslie jones', 'kate mckinnon', 'cecily strong', 'melissa villaseñor', 'heidi gardner', 'lori laughlin', 'felicity huffman', 'college admissions scandal', 'college scandal', 'college', 'the view snl', 's44', 's44e18', 'episode 18', 'live', 'comedy', 'sketch', 'funny', 'hilarious', 'laugh', 'impersonation', 'actor', 'musician', 'Emma Stone', 'The Favourite', 'BTS', 'Mic Drop', 'Persona album', 'Jungkook', 'Jimin', 'Suga', 'Jin', 'RM', 'J-Hope', 'Kpop'",PT5M9S,309,6

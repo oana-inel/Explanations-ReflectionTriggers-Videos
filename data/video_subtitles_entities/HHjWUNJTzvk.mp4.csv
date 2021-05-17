@@ -1,0 +1,89 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+HHjWUNJTzvk,Al Jazeera Barcelona,Facility,NONE,NONE,0.4229350000000001,negative,-0.8223959999999999,0.405625,0.171506,0.135101,0.25985,0.183645,1,1,Al Jazeera Barcelona,Al Jazeera Barcelona,Al Jazeera Barcelona,Al Jazeera Barcelona,Al jazeera barcelona,al jazeera barcelona,al jazeer barcelon,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.47070500000000004,negative,-0.043833,0.418149,0.171916,0.16654000000000002,0.209515,0.34202,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Catalonia,Location,City,NONE,0.464764,negative,-0.8223959999999999,0.283377,0.10626300000000001,0.248398,0.413405,0.094925,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Catalonia,Location,Country,NONE,0.8647219999999999,neutral,0.0,0.283377,0.10626300000000001,0.248398,0.413405,0.094925,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.30551300000000003,negative,-0.560569,0.639407,0.068506,0.024704,0.166159,0.141596,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.27513899999999997,neutral,0.0,0.278161,0.131024,0.23588499999999998,0.355434,0.060367,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.3132,neutral,0.0,0.278161,0.131024,0.23588499999999998,0.355434,0.060367,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.7347,negative,-0.313791,0.404423,0.07995,0.366935,0.107296,0.17735,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,Spanish National Police,Organization,NONE,NONE,0.619079,negative,-0.8338059999999999,0.280856,0.13294,0.037845,0.445618,0.48232299999999995,3,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,de Montcalm,Person,NONE,NONE,0.305942,positive,0.493651,0.10279,0.065094,0.698391,0.02519,0.040718,1,1,de Montcalm,de Montcalm,de Montcalm,de Montcalm,de montcalm,de montcalm,de montcalm,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3
+HHjWUNJTzvk,prime minister,JobTitle,NONE,NONE,0.285617,neutral,0.0,0.278161,0.131024,0.23588499999999998,0.355434,0.060367,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.9423,0.134,0.078,0.7879999999999999,0.1147878787878788,0.3965151515151515,negative,-0.28573200000000004,0.500062,0.590396,0.540028,0.092163,0.190752,0.0,4.099999904632568,Catalonia Independence,2017-10-02T16:59:12.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia leader urges world to back vote for independence from Spain,"The leader of Spain's Catalan region has appealed for international mediation after Sunday's independence referendum and violent security crackdown. Hundreds of people were injured when Spanish police tried to disrupt the vote by closing down polling stations. Regional officials say 90 percent of voters chose secession from Spain, but Madrid says the referendum was illegal.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"catalonia independence', 'catalan', 'Catalonia', 'News', 'catalonia news', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'independence', 'spain protests', 'aljazeera', 'barcelona'",PT2M1S,121,3

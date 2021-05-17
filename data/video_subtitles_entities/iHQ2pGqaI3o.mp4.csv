@@ -1,0 +1,229 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+iHQ2pGqaI3o,80%,Quantity,NONE,NONE,0.4549470000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,80 %,80 %,80 %,80 %,80 %,80 %,80 %,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,Alexander,Person,NONE,NONE,0.509845,positive,0.63856,0.02456,0.017455000000000002,0.485493,0.020886000000000002,0.031667,1,1,Alexander,Alexander,Alexander,Alexander,alexand,alexand,alexand,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,America,Location,Continent,NONE,0.4549470000000001,neutral,0.0,0.5908329999999999,0.075085,0.190445,0.095951,0.260191,1,1,America,America,America,America,america,america,americ,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,CDC,Organization,NONE,NONE,0.642405,negative,-0.825203,0.45570900000000003,0.616978,0.036711,0.070721,0.103828,2,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,Ethan,Person,NONE,NONE,0.523876,positive,0.7871020000000001,0.28641,0.124883,0.220494,0.174543,0.074347,1,1,Ethan,Ethan,Ethan,Ethan,ethan,ethan,eth,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,Iraq high school,Organization,NONE,NONE,0.538817,positive,0.787101,0.28641,0.124883,0.220494,0.174543,0.074347,1,1,Iraq high school,Iraq high school,Iraq high school,Iraq high school,iraq high school,iraq high school,iraq high school,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,Senator Murray,Person,NONE,NONE,0.520732,neutral,0.0,0.197243,0.039389,0.23149,0.11846500000000001,0.108079,1,1,Senator Murray,Senator Murray,Senator Murray,Senator Murray,senat murray,senat murray,sen murray,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,chairman,JobTitle,NONE,NONE,0.573573,positive,0.63856,0.02456,0.017455000000000002,0.485493,0.020886000000000002,0.031667,1,1,chairman,chairman,chairman,chairm,chairman,chairman,chairm,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.779984,negative,-0.834283,0.696386,0.095277,0.10863800000000001,0.112153,0.225321,2,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.535226,negative,-0.834283,0.660208,0.070734,0.120529,0.184041,0.115889,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,scientific Community,Organization,NONE,NONE,0.526567,negative,-0.377519,0.308606,0.078961,0.363618,0.145494,0.191422,1,1,scientific Community,scientif Community,scientif Community,sci Community,scientif commun,scientif communiti,sci commun,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5
+iHQ2pGqaI3o,vax,Company,NONE,NONE,0.550501,negative,-0.659275,0.307435,0.08025399999999999,0.23374899999999998,0.306167,0.267567,1,1,vax,vax,vax,vax,vax,vax,vax,NONE,0.987,0.078,0.118,0.804,0.12696938775510205,0.5568231292517006,negative,-0.409586,0.11747,0.623434,0.511479,0.49832,0.109557,0.0,12.199999809265135,Vaccination,2019-03-05T17:01:22.000Z,UC6ZFN9Tx6xh-skXCuRHCDpQ,WATCH: Teen explains why he defied mother's anti-vaccination ideas,"An Ohio student who said he went his entire life without numerous vaccines testified before Congress on the dangers of misinformation and ideas that fuel the anti-vaxxer movement and put many young people at risk.
+
+Ethan Lindenberger notably got vaccinated without his parents' permission once he was old enough, acting against his mother's incorrect belief that vaccines cause autism, brain damage and other ailments.
+
+""My mother is an anti-vaxx advocate [who] believes that vaccines ... do not benefit the health and safety of society, despite the fact such opinions have been debunked numerous times by the scientific community,"" Lindenberger told a Senate committee on Tuesday.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+Facebook: http://www.pbs.org/newshour
+Twitter: http://www.twitter.com/newshour
+Instagram: http://www.instagram.com/newshour
+Snapchat: @pbsnews
+
+Subscribe:
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+Newsletters: https://www.pbs.org/newshour/subscribe",PBS NewsHour,"vaccine', 'vaccination', 'measles', 'hearing', 'antivaxx'",PT4M51S,291,5

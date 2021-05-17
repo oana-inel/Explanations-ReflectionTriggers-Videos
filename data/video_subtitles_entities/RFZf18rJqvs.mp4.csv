@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+RFZf18rJqvs,Arnold,Person,NONE,NONE,0.511898,negative,-0.47065,0.0,0.0,0.0,0.0,0.0,1,1,Arnold,Arnold,Arnold,Arnold,arnold,arnold,arnold,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,Belgium,Location,"HumanLanguage, Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Belgium,0.475934,neutral,0.0,0.183025,0.202184,0.18753499999999998,0.09716,0.26084,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,http://en.wikipedia.org/wiki/Belgium,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,European Union Station Rota,Facility,NONE,NONE,0.841534,neutral,0.0,0.33194,0.065149,0.059971000000000003,0.050397000000000004,0.165108,1,1,European Union Station Rota,European Union Station Rota,European Union Station Rota,European Union Station Rota,european union station rota,european union station rota,europ un stat rot,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,Mr. Beebe,Person,NONE,NONE,0.525687,positive,0.667799,0.16151400000000002,0.11315399999999999,0.166488,0.068927,0.171544,1,1,Mr. Beebe,Mr. Beebe,Mr. Beebe,Mr. Beebe,mr. beeb,mr. beeb,mr. beeb,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,New York Observer,PrintMedia,Newspaper,http://dbpedia.org/resource/The_New_York_Observer,0.6051340000000001,neutral,0.0,0.492093,0.18879200000000002,0.049951999999999996,0.106467,0.280434,1,1,New York Observer,New York Observer,New York Observer,New York Observer,new york observ,new york observ,new york observ,http://en.wikipedia.org/wiki/The_New_York_Observer,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,President,JobTitle,NONE,NONE,0.45193900000000004,neutral,0.0,0.183025,0.202184,0.18753499999999998,0.09716,0.26084,1,1,President,President,President,President,presid,presid,presid,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,Serena,Person,NONE,NONE,0.5233479999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Serena,Serena,Serena,Serena,serena,serena,seren,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3
+RFZf18rJqvs,Tamaki park,Facility,NONE,NONE,0.67406,neutral,0.0,0.33194,0.065149,0.059971000000000003,0.050397000000000004,0.165108,1,1,Tamaki park,Tamaki park,Tamaki park,Tamaki park,tamaki park,tamaki park,tamak park,NONE,0.2903,0.031,0.062,0.908,-0.04403409090909091,0.28551136363636365,negative,-0.473036,0.162735,0.135545,0.223114,0.139782,0.071529,0.0,0.8999999761581421,Catalonia Independence,2018-09-11T23:58:40.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: A MILLION pro-Catalan marchers commemorate 'Independence Day' in Barcelona,"The Catalan National Day 'La Diada' saw close to a million pro-independence protesters flooding the streets of Barcelona on Tuesday.
+
+In the rally organised by the National Catalan Assembly, protesters demanded the release of jailed Catalan politicians, while in the organised by the far-right Popular Unity Candidacy (CUP), the right to vote for Catalan's independence by its citizens was highlighted.
+
+Unlike most independence days, Catalan National Day 'La Diada' celebrated on September 11, commemorates the fall of Barcelona to the troops of King Philip V of Spain after a 14-month siege in 1714.
+
+______________________________
+
+SOT, Xavier, Protester (Catalan): ""For many years, we have been asking to express ourselves democratically to decide our future. We are in an EU country that does not let us vote to decide our future. We are here because our politicians and our government following our instructions put ballot boxes and the Spanish state remove them by the force, and for doing this, those people are in prison.""
+
+SOT, Joseph, Protester (Catalan): ""I believe that the Republic will arrive. I think that we have to push more, it will take some more years.""
+
+SOT, Rosa, Protester (Catalan): ""I think that we are not in a good situation. We know that it is not going to be a fair trial and they play with all advantages; I'm not optimistic. I think that there should not be any trial against them. There is no cause [for them] to be in court.""
+
+______________________________
+
+Subscribe to our channel! rupt.ly/subscribe
+
+Video ID: 20180911-048
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M59S,179,3

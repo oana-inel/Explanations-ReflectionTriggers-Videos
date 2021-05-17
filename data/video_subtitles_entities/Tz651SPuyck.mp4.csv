@@ -1,0 +1,381 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Tz651SPuyck,$13,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 13,$ 13,$ 13,$ 13,$ 13,$ 13,$ 13,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,$14,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 14,$ 14,$ 14,$ 14,$ 14,$ 14,$ 14,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,$25,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,$ 25,$ 25,$ 25,$ 25,$ 25,$ 25,$ 25,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,"$30,000",Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,"$ 30,000","$ 30,000","$ 30,000","$ 30,000","$ 30,000","$ 30,000","$ 30,000",NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,$6,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 6,$ 6,$ 6,$ 6,$ 6,$ 6,$ 6,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,1215 years,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1215 year,1215 year,1215 year,1215 year,1215 year,1215 year,1215 year,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,14 year,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,14 year,14 year,14 year,14 year,14 year,14 year,14 year,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,America,Location,Continent,NONE,0.716895,negative,-0.7657609999999999,0.224104,0.080104,0.34624,0.209365,0.28020300000000004,3,1,America,America,America,America,america,america,americ,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,American Business,Company,NONE,NONE,0.575853,neutral,0.0,0.33761399999999997,0.087351,0.112451,0.339424,0.316308,1,1,American Business,american Business,american Business,am Business,american busi,american busi,am busy,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,Bangladesh,Location,Country,NONE,0.783941,neutral,0.0,0.273565,0.041548,0.27458499999999997,0.237831,0.339016,3,1,Bangladesh,Bangladesh,Bangladesh,Bangladesh,bangladesh,bangladesh,bangladesh,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,Bill Clinton,Person,"MusicalArtist, Politician, Appointer, AwardWinner, Celebrity, MusicalGroupMember, OfficeHolder, PoliticalAppointer, TVPersonality, FilmActor, FilmWriter, USPresident",http://dbpedia.org/resource/Bill_Clinton,0.590115,neutral,0.0,0.141896,0.178228,0.07409199999999999,0.632243,0.21261599999999997,2,1,Bill Clinton,Bill Clinton,Bill Clinton,Bill Clinton,bill clinton,bill clinton,bil clinton,http://en.wikipedia.org/wiki/Bill_Clinton,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,George HW Bush,Person,"FilmCharacter, Politician, President, Appointer, BoardMember, ChivalricOrderMember, MilitaryPerson, PoliticalAppointer, U.S.Congressperson, USPresident, USVicePresident, FilmActor, TVActor",http://dbpedia.org/resource/George_H._W._Bush,0.49254499999999996,neutral,0.0,0.141896,0.178228,0.07409199999999999,0.632243,0.21261599999999997,1,1,George HW Bush,George HW Bush,George HW Bush,George HW Bush,georg HW bush,georg hw bush,georg hw bush,http://en.wikipedia.org/wiki/George_H._W._Bush,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,Mexico,Location,Country,NONE,0.5292600000000001,neutral,0.0,0.17790999999999998,0.036864999999999995,0.349323,0.236958,0.320996,2,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,Ross Perot,Person,"Politician, CompanyFounder, MilitaryPerson",http://dbpedia.org/resource/Ross_Perot,0.558509,neutral,0.0,0.141896,0.178228,0.07409199999999999,0.632243,0.21261599999999997,1,1,Ross Perot,Ross Perot,Ross Perot,Ross Perot,ross perot,ross perot,ross perot,http://en.wikipedia.org/wiki/Ross_Perot,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.504536,neutral,0.0,0.33761399999999997,0.087351,0.112451,0.339424,0.316308,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,Washington,Location,City,NONE,0.655576,negative,-0.568253,0.37655900000000003,0.164752,0.10333699999999996,0.36407399999999995,0.099325,2,1,Washington,Washington,Washington,Washington,washington,washington,washington,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,business Community,Organization,NONE,NONE,0.47784499999999996,neutral,0.0,0.196796,0.043172,0.41284,0.038306,0.131771,1,1,business Community,busi Community,busi Community,busy Community,busi commun,busi communiti,busy commun,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,business owner,JobTitle,NONE,NONE,0.447884,neutral,0.0,0.279375,0.046334,0.132495,0.5055970000000001,0.215738,1,1,business owner,busi owner,busi owner,busy own,busi owner,busi owner,busy own,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,president,JobTitle,NONE,NONE,0.49673999999999996,neutral,0.0,0.33761399999999997,0.087351,0.112451,0.339424,0.316308,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6
+Tz651SPuyck,six dollars,Quantity,NONE,NONE,0.447884,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six dollar,six dollar,six dollar,six doll,six dollar,six dollar,six doll,NONE,0.9848,0.06,0.08900000000000001,0.852,0.042443550190029065,0.4378353454057679,negative,-0.34215100000000004,0.150796,0.173237,0.503682,0.102241,0.134392,-0.10000000149011612,15.0,Free Trade,2013-12-28T20:26:30.000Z,UCldfgbzNILYZA4dmDt4Cd6A,Ross Perot Nailed It On Free Trade In 1992,"Clip from the Friday, December 27th 2013 edition of The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio monday - friday 4-6pm Eastern.
+
+Check out our website - and become a member - at:
+http://www.SecularTalkRadio.com
+
+Listen to the Live Show or On Demand archive at:
+http://www.blogtalkradio.com/kylekulinski
+
+Follow on Twitter:
+http://www.twitter.com/kylekulinski
+
+Like on Facebook:
+http://www.facebook.com/SecularTalk
+
+Friends Of SecularTalk:
+http://www.facebook.com/beastofreason
+
+AMAZON LINK: (Bookmark this link to support the show for free!!!)
+http://www.amazon.com/?tag=seculacom-20",Secular Talk,"news', 'politics', 'ross', 'perot', 'bill', 'clinton', 'george', 'hw', 'bush', '1992', 'debate', 'free', 'trade', 'outsourcing', 'protectionism', 'war', 'on', 'the', 'middle', 'class', 'american', 'jobs', 'shipped', 'overseas', 'cnn', 'msnbc', 'tyt', 'seculartalk', 'secular', 'talk', 'kyle', 'kulinski'",PT5M3S,303,6

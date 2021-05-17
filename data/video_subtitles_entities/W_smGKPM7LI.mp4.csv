@@ -1,0 +1,781 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+W_smGKPM7LI,39.8%,Quantity,NONE,NONE,0.073851,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,39.8 %,39.8 %,39.8 %,39.8 %,39.8 %,39.8 %,39.8 %,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,52.4%,Quantity,NONE,NONE,0.073851,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,52.4 %,52.4 %,52.4 %,52.4 %,52.4 %,52.4 %,52.4 %,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,64 years,Quantity,NONE,NONE,0.073851,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,64 year,64 year,64 year,64 year,64 year,64 year,64 year,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,Abraham,Person,NONE,NONE,0.089581,neutral,0.0,0.114819,0.306541,0.329769,0.26066300000000003,0.209625,2,1,Abraham,Abraham,Abraham,Abraham,abraham,abraham,abraham,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,COPD,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, RiskFactor, Disease",http://dbpedia.org/resource/Chronic_obstructive_pulmonary_disease,0.07824400000000001,negative,-0.5517489999999999,0.7710670000000001,0.30699699999999996,0.026114,0.052278,0.017274,1,1,COPD,COPD,COPD,COPD,copd,copd,copd,http://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,Jane,Person,NONE,NONE,0.073851,negative,-0.349067,0.27320900000000004,0.091522,0.231181,0.36512,0.190913,1,1,Jane,Jane,Jane,Jane,jane,jane,jan,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,Public Health England,Facility,NONE,NONE,0.090447,neutral,0.0,0.18703499999999998,0.090318,0.342046,0.366825,0.09081499999999999,2,1,Public Health England,public Health England,public Health England,publ Health England,public health england,public health england,publ heal england,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.083561,negative,-0.438388,0.087055,0.140702,0.280694,0.012605,0.023112999999999998,1,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,flu,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.42017,negative,-0.633637,0.593173,0.149331,0.134627,0.08256799999999999,0.046985,9,1,flu,flu,flu,flu,flu,flu,flu,http://en.wikipedia.org/wiki/Influenza,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5
+W_smGKPM7LI,flu vaccine,Drug,NONE,NONE,0.893885,negative,-0.543431,0.157723,0.076758,0.406773,0.09804500000000001,0.056076999999999995,20,1,flu vaccine,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,NONE,0.9425,0.163,0.18,0.657,0.10866684958234256,0.4911771131841554,positive,0.386866,0.083182,0.603246,0.493067,0.114985,0.094005,0.10000000149011612,15.699999809265135,Vaccination,2018-09-03T15:00:04.000Z,UC55HiTglyGMk1B33Lx9X7CQ,Flu Vaccine 2018 - 2019,"Whether you call it flu vaccine or flu shot this weeks video is about the NHS flu vaccine, its effectiveness, side effects & other ingredients.
+
+I've made this video in collaboration with Public Health England to support the NHS and all of its hard working amazing staff this winter. 
+
+Flu leads to hundreds of thousands of GP visits and tens of thousands of hospital stays a year. In the UK an average of 8,000 people die per year from complications of flu. Last year flu killed 15,000 people and the year before that it was 16,000 people.
+
+Apart from protecting individual people, getting the flu vaccine helps to reduce the spread of the disease, and so reduces the chance of passing on the flu virus to other people who may be at risk of flu.
+
+If you are eligible for the free NHS flu vaccine, let's play our part and get vaccinated to support the NHS and all of its hard working amazing staff this winter. Help spread the word to friends and family by sharing this video.
+
+WHAT IS FLU:
+Flu (influenza) is a common infectious viral illness spread by coughs and sneezes. For healthy adults under the age of 65 it can be very unpleasant,  you begin to feel better within about a week.
+
+You can catch flu all year round, but it's especially common in winter, which is why it's also known as seasonal flu.
+
+Some of the main symptoms of flu include:
+
+• High temperature (fever) of 38C (100.4F) or above
+• Extreme tiredness and weakness
+• Headache
+• General aches and pains
+• Dry, chesty cough
+• Cold-like symptoms
+
+Flu can make you feel so exhausted and unwell that you have to stay in bed and rest until you feel better.
+
+WHO SHOULD GET THE FLU VACCINE:
+Flu can lead to serious complications and death, especially for people in risk groups. In rare cases flu can kill people who are otherwise healthy.
+
+In the UK the NHS flu vaccine is available each year from late September or early October onwards. If you are in the risk group It is recommended to get the flu vaccine in the autumn, before outbreaks of flu have started. It takes up to two weeks after vaccination for you to be protected against flu.
+
+The inactivated flu vaccine does not contain any live flu viruses and cannot give you flu. In the 2018-19 season, two different types of inactivated flu vaccine will be offered in the UK.
+
+• Those aged 65 or over will be offered a trivalent flu vaccine (protecting against three strains of flu virus) which also contains an adjuvant.
+• Those aged under 64 years in eligible groups will be offered a quadrivalent flu vaccine (protecting against four strains of flu virus).
+
+WHO IS ELIGIBLE FOR THE FREE NHS FLU VACCINE:
+• Children aged 2 and 3
+• Children in reception class and school years 1, 2, 3, 4 and 5
+• Children aged 2 to 17 years at risk of flu
+• Anyone aged 65 and over
+• Pregnant women
+• Children and adults with an underlying health condition (such as long-term heart or respiratory disease)
+• Children and adults with weakened immune systems
+
+Please click the following link to see the full list of those eligible for the free NHS flu vaccine: https://www.nhs.uk/conditions/vaccinations/who-should-have-flu-vaccine/
+
+WHERE CAN YOU GET THE FREE NHS FLU VACCINE
+• Your local pharmacy
+• Your GP surgery
+• Your midwifery service if they offer it for pregnant women
+• Most children will be offered the flu vaccine at school: For more information please visit: https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine/
+
+MORE INFORMATION:
+https://www.nhs.uk/conditions/vaccinations/flu-influenza-vaccine/
+https://www.nhs.uk/conditions/vaccinations/child-flu-vaccine-questions-and-answers/
+
+
+Want to see more videos about everything health and pharmacy? Let me know in the comments below. Subscribe for new videos ▶https://www.youtube.com/c/AbrahamThePharmacist
+
+LET'S CONNECT:
+http://facebook.com/AbrahamThePharmacist
+http://instagram.com/AbrahamThePharmacist
+https://www.linkedin.com/in/AbrahamThePharmacist
+https://plus.google.com/u/4/109698449114086481589
+https://twitter.com/AbrahamThePharm
+https://www.AbrahamThePharmacist.com
+https://www.youtube.com/c/AbrahamThePharmacist
+
+ABOUT ME:
+Prescribing Media Pharmacist | Extreme Optimist | Bringing Science Through New Videos Every 2 Weeks - Monday 4PM(GMT).
+
+I'm a British - Persian - Iranian prescribing media pharmacist who loves science, making videos and helping people. I work in both GP surgeries and community pharmacy.
+
+DISCLAIMER: 
+This video is for information only and should not be used for the diagnosis or treatment of medical conditions. Abraham The Pharmacist has used all reasonable care in compiling the information but make no warranty as to its accuracy. Always consult a doctor or other healthcare professional for diagnosis and treatment of medical conditions.
+
+#FluVaccine #FluShot #FluVaccine2018",AbrahamThePharmacist,"flu vaccine', 'flu vaccine 2018', 'flu vaccine 2019', 'flu shot', 'flu shot 2018', 'flu shot 2019', 'flu vaccine side effects', 'flu vaccine effectiveness', 'flu vaccine ingredients', 'flu vaccine nhs'",PT4M42S,282,5

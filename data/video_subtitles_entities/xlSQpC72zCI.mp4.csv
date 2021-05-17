@@ -1,0 +1,208 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+xlSQpC72zCI,18 year,Quantity,NONE,NONE,0.236202,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18 year,18 year,18 year,18 year,18 year,18 year,18 year,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Aragon,Location,City,NONE,0.740445,neutral,0.0,0.251241,0.078032,0.580721,0.083714,0.07550599999999999,4,1,Aragon,Aragon,Aragon,Aragon,aragon,aragon,aragon,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.285683,neutral,0.0,0.393148,0.246408,0.275559,0.142981,0.096074,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Castilla y Leon,Location,City,NONE,0.339518,neutral,0.0,0.479299,0.033647,0.20774499999999999,0.272255,0.048717,1,1,Castilla y Leon,Castilla y Leon,Castilla y Leon,Castilla y Leon,castilla y leon,castilla y leon,castill y leon,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Castillo,Person,NONE,NONE,0.352835,neutral,0.0,0.305476,0.23564699999999997,0.422907,0.127822,0.01925,1,1,Castillo,Castillo,Castillo,Castillo,castillo,castillo,castillo,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Catalonia,Location,Region,NONE,0.6290399999999999,neutral,0.0,0.302977,0.071253,0.34026799999999996,0.307922,0.135759,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Catalunya,Location,City,NONE,0.365933,neutral,0.0,0.348508,0.05244,0.136262,0.087035,0.243691,1,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Conquer Navarre,Location,City,NONE,0.39486,neutral,0.0,0.393148,0.246408,0.275559,0.142981,0.096074,1,1,Conquer Navarre,Conquer Navarre,Conquer Navarre,Conquer Navarre,conquer navarr,conquer navarr,conqu navar,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Cortez,Person,NONE,NONE,0.309399,neutral,0.0,0.398623,0.167678,0.07889700000000001,0.25084,0.13135,1,1,Cortez,Cortez,Cortez,Cortez,cortez,cortez,cortez,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Epimetheus,Location,City,NONE,0.302536,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Epimetheus,Epimetheus,Epimetheus,Epimetheus,epimetheu,epimetheus,epimethe,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.359269,neutral,0.0,0.275424,0.172016,0.42568199999999995,0.13333699999999998,0.11471700000000001,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Fernando,Person,NONE,NONE,0.422914,neutral,0.0,0.48415699999999995,0.208367,0.228346,0.179271,0.10620299999999999,2,1,Fernando,Fernando,Fernando,Fernando,fernando,fernando,fernando,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Francisco Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.4808,positive,0.08648,0.166138,0.070765,0.49047399999999997,0.228985,0.194183,3,1,Francisco Franco,Francisco Franco,Francisco Franco,Francisco Franco,francisco franco,francisco franco,francisco franco,http://en.wikipedia.org/wiki/Francisco_Franco,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Granada,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Granada,0.363426,neutral,0.0,0.648401,0.14457899999999999,0.095841,0.18926700000000002,0.096901,1,1,Granada,Granada,Granada,Granada,granada,granada,granad,http://en.wikipedia.org/wiki/Granada,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Isabella,Person,NONE,NONE,0.384483,neutral,0.0,0.597183,0.11987300000000001,0.139783,0.202085,0.11130599999999999,2,1,Isabella,isabella,isabella,isabell,isabella,isabella,isabell,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Islamic Emirate of Granada,Organization,NONE,NONE,0.404383,neutral,0.0,0.147704,0.11826199999999999,0.133739,0.06427100000000001,0.153107,1,1,Islamic Emirate of Granada,Islamic Emirate of Granada,Islamic Emirate of Granada,Islamic Emirate of Granada,islam emir of granada,islam emir of granada,islam emir of granad,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Islamic Enclave,Facility,NONE,NONE,0.36330500000000004,neutral,0.0,0.648401,0.14457899999999999,0.095841,0.18926700000000002,0.096901,1,1,Islamic Enclave,Islamic Enclave,Islamic Enclave,Islamic Enclave,islam enclav,islam enclav,islam enclav,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.396321,neutral,0.0,0.348508,0.05244,0.136262,0.087035,0.243691,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Parliament,Organization,NONE,NONE,0.30437,neutral,0.0,0.479299,0.033647,0.20774499999999999,0.272255,0.048717,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Portugal,Location,"Organization, CompanyDivision, GovernmentalJurisdiction, Airline, Country",http://dbpedia.org/resource/Portugal,0.330386,neutral,0.0,0.147704,0.11826199999999999,0.133739,0.06427100000000001,0.153107,1,1,Portugal,Portugal,Portugal,Portugal,portug,portug,portug,http://en.wikipedia.org/wiki/Portugal,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.418671,neutral,0.0,0.230699,0.012706,0.31800300000000004,0.074839,0.126966,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,United Spain,Location,Country,NONE,0.308772,neutral,0.0,0.393148,0.246408,0.275559,0.142981,0.096074,1,1,United Spain,United Spain,United Spain,United Spain,unit spain,unit spain,unit spain,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4
+xlSQpC72zCI,four decades,Quantity,NONE,NONE,0.236202,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four decade,four decad,four decad,four decad,four decad,four decad,four decad,NONE,0.9671,0.073,0.119,0.8079999999999999,0.1065169992609017,0.37486696230598665,positive,0.8701139999999999,0.110572,0.593911,0.506768,0.082631,0.111686,0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-06T06:24:29.000Z,UCp9ZtilfKJds0iWytR_pnOQ,Catalonia History & independence from Spain explained in 3 minutes (Catalan history 2017),"Catalonia History & independence from Spain explained in 3 minutes 
+Catalan history 
+The history of Catalonia.
+Catalonia referendum 2017 Animated history explained 
+Catalonia independence from Spain
+Catalan independence vote 2017
+catalan independence referendum
+catalunya history
+Animated history explained",Epimetheus,"Catalonia independence', 'Catalonia referendum', 'Catalan independence vote 2017', 'catalonia independence from spain', 'catalan', 'España', 'Catalan y españoles', 'españoles', 'libertad', 'independence of catalonia', 'spain history', 'catalonia history', 'spain explained', 'catalonia explained', 'catalan independence vote', 'catalunya', 'catalunya history', '2017', 'catalonia news', 'catalan vote', 'spain sucede', 'spain regions', 'referendum', 'Catalan history', 'history of catalonia', 'history'",PT3M6S,186,4

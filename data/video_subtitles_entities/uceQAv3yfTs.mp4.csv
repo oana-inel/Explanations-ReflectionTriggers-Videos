@@ -1,0 +1,36 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uceQAv3yfTs,Catalonia,Location,City,NONE,0.854807,positive,0.336625,0.571902,0.20210699999999998,0.108003,0.172468,0.481063,6,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8455,0.071,0.11,0.8190000000000001,0.004818840579710145,0.4084420289855072,negative,-0.571049,0.460968,0.132952,0.539509,0.671607,0.114217,0.0,3.9000000953674316,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Renate Weber on Catalonia's independence,"Renate Weber is Member of the European Parliament (ALDE)
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia independence', 'european union', 'debating europe', 'catalonia referendum', 'catalonia'",PT2M14S,134,3
+uceQAv3yfTs,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.30135700000000004,negative,-0.594097,0.64274,0.045025,0.022109999999999998,0.13147799999999998,0.412071,2,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.8455,0.071,0.11,0.8190000000000001,0.004818840579710145,0.4084420289855072,negative,-0.571049,0.460968,0.132952,0.539509,0.671607,0.114217,0.0,3.9000000953674316,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Renate Weber on Catalonia's independence,"Renate Weber is Member of the European Parliament (ALDE)
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia independence', 'european union', 'debating europe', 'catalonia referendum', 'catalonia'",PT2M14S,134,3
+uceQAv3yfTs,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.345087,positive,0.110399,0.571764,0.289594,0.07079500000000001,0.083749,0.14566500000000002,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8455,0.071,0.11,0.8190000000000001,0.004818840579710145,0.4084420289855072,negative,-0.571049,0.460968,0.132952,0.539509,0.671607,0.114217,0.0,3.9000000953674316,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Renate Weber on Catalonia's independence,"Renate Weber is Member of the European Parliament (ALDE)
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia independence', 'european union', 'debating europe', 'catalonia referendum', 'catalonia'",PT2M14S,134,3
+uceQAv3yfTs,president,JobTitle,NONE,NONE,0.174428,negative,-0.633221,0.24947399999999997,0.130133,0.106895,0.23918299999999998,0.567434,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.8455,0.071,0.11,0.8190000000000001,0.004818840579710145,0.4084420289855072,negative,-0.571049,0.460968,0.132952,0.539509,0.671607,0.114217,0.0,3.9000000953674316,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Renate Weber on Catalonia's independence,"Renate Weber is Member of the European Parliament (ALDE)
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia independence', 'european union', 'debating europe', 'catalonia referendum', 'catalonia'",PT2M14S,134,3
+uceQAv3yfTs,president Timmerman,Person,NONE,NONE,0.217543,negative,-0.633221,0.0,0.0,0.0,0.0,0.0,1,1,president Timmerman,presid Timmerman,presid Timmerman,presid Timmerman,presid timmerman,presid timmerman,presid timmerm,NONE,0.8455,0.071,0.11,0.8190000000000001,0.004818840579710145,0.4084420289855072,negative,-0.571049,0.460968,0.132952,0.539509,0.671607,0.114217,0.0,3.9000000953674316,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Renate Weber on Catalonia's independence,"Renate Weber is Member of the European Parliament (ALDE)
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia independence', 'european union', 'debating europe', 'catalonia referendum', 'catalonia'",PT2M14S,134,3

@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+5k1CEnSoRpA,$1.00,Quantity,NONE,NONE,0.470167,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 1.00,$ 1.00,$ 1.00,$ 1.00,$ 1.00,$ 1.00,$ 1.00,NONE,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,Europe,Location,Continent,NONE,0.470167,negative,-0.640516,0.795713,0.209735,0.005966,0.153623,0.090167,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,NONE,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,Hong Kong,Location,"HumanLanguage, AdministrativeDivision, Country, GovernmentalJurisdiction, BodyOfWater, Cuisine, City",http://dbpedia.org/resource/Hong_Kong,0.528289,negative,-0.8830950000000001,0.146568,0.142729,0.334704,0.104048,0.08654400000000001,1,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,http://en.wikipedia.org/wiki/Hong_Kong,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,Japan,Location,"Kingdom, Country",http://dbpedia.org/resource/Empire_of_Japan,0.5111100000000001,negative,-0.640516,0.795713,0.209735,0.005966,0.153623,0.090167,1,1,Japan,Japan,Japan,Japan,japan,japan,jap,http://en.wikipedia.org/wiki/Empire_of_Japan,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,President Reagan,Person,"Politician, President, AwardWinner, ChivalricOrderMember, MilitaryPerson, PoliticalAppointer, USPresident, FilmActor, TVActor",http://dbpedia.org/resource/Ronald_Reagan,0.8229850000000001,neutral,0.0,0.122146,0.036025,0.453607,0.198076,0.24319699999999997,3,1,President Reagan,President Reagan,President Reagan,President Reagan,presid reagan,presid reagan,presid reag,http://en.wikipedia.org/wiki/Ronald_Reagan,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,San Francisco,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, PlaceWithNeighborhoods, USCounty, FilmScreeningVenue, City",http://dbpedia.org/resource/San_Francisco,0.5425300000000001,neutral,0.0,0.16206600000000002,0.05148,0.40085,0.203817,0.232064,1,1,San Francisco,San Francisco,San Francisco,San Francisco,san francisco,san francisco,san francisco,http://en.wikipedia.org/wiki/San_Francisco,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.48037799999999997,negative,-0.8830950000000001,0.146568,0.142729,0.334704,0.104048,0.08654400000000001,1,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3
+5k1CEnSoRpA,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.48908199999999996,positive,0.9815940000000001,0.09969299999999999,0.030061,0.5695479999999999,0.20503600000000002,0.14518499999999998,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9868,0.081,0.133,0.7859999999999999,0.26179138321995465,0.5582766439909296,positive,0.33265900000000004,0.4660220000000001,0.5621430000000001,0.555984,0.14085699999999998,0.155251,0.0,8.0,Free Trade,2017-08-25T16:13:36.000Z,UCqMmsKAQuWe1WviL0O8SgpQ,Milton Friedman | Free Trade,"SUBSCRIBE for more! Thanks for watching! Like & Share if you enjoyed!
+
+Buy my book! https://www.amazon.com/dp/B074YF3ZS9
+
+Milton Friedman talks about protectionism and free trade on the international stage.
+
+song: John Lennon - Imagine (acoustic karaoke)
+https://www.youtube.com/watch?v=8wSE2B35xb0
+
+Milton Friedman was an American economist who received the 1976 Nobel Memorial Prize in Economic Sciences for his research on consumption analysis, monetary history and theory, and the complexity of stabilization policy. - Wikipedia
+
+Want more from Milton Friedman? Let me know!
+
+#trade #economics",Morphing Reality,"friedman', 'milton friedman', 'free to choose milton friedman', 'milton friedman greed', 'milton', 'friedman economics', 'capitalism and freedom', 'friedman economist', 'milton friedman free trade', 'protectionism', 'free trade'",PT2M30S,150,3

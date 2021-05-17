@@ -1,0 +1,29 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+HgFjzowXaVQ,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.8190890000000001,positive,0.550367,0.20868899999999999,0.13328099999999998,0.21910500000000002,0.060863,0.042323,4,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9672,0.025,0.101,0.8740000000000001,0.19927899686520376,0.5631138975966562,positive,0.745627,0.442941,0.633412,0.12664,0.110344,0.039924,0.20000000298023224,4.300000190734863,Free Trade,2014-08-21T13:26:28.000Z,UCldvu4stPmKKMsHsAwlgMyg,Shanghai Free Trade Zone,"The Shanghai Free Trade Zone is a platform for the Chinese government to try out new reforms. Daryl Ngan from HSBC China takes a look at the potential for change in China and discusses how it is a test area for the rest of the nation. 
+
+HSBC NOW brings you stories from our colleagues around the world. 
+
+For more videos, and to stay up to date with HSBC NOW, subscribe to the channel. 
+
+Twitter: http://www.twitter.com/HSBC_NOW",HSBC NOW,"HSBC', 'NOW', 'Shanghai Free-Trade Zone', 'Free Trade Zone', 'Politics (TV Genre)', 'China', 'Live', 'trading', 'reforms', 'youtube', 'video', 'explain', 'how to'",PT1M53S,113,2
+HgFjzowXaVQ,Hong Kong,Location,"HumanLanguage, AdministrativeDivision, Country, GovernmentalJurisdiction, BodyOfWater, Cuisine, City",http://dbpedia.org/resource/Hong_Kong,0.363645,positive,0.549615,0.086311,0.185108,0.501444,0.029812,0.12167,1,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,http://en.wikipedia.org/wiki/Hong_Kong,0.9672,0.025,0.101,0.8740000000000001,0.19927899686520376,0.5631138975966562,positive,0.745627,0.442941,0.633412,0.12664,0.110344,0.039924,0.20000000298023224,4.300000190734863,Free Trade,2014-08-21T13:26:28.000Z,UCldvu4stPmKKMsHsAwlgMyg,Shanghai Free Trade Zone,"The Shanghai Free Trade Zone is a platform for the Chinese government to try out new reforms. Daryl Ngan from HSBC China takes a look at the potential for change in China and discusses how it is a test area for the rest of the nation. 
+
+HSBC NOW brings you stories from our colleagues around the world. 
+
+For more videos, and to stay up to date with HSBC NOW, subscribe to the channel. 
+
+Twitter: http://www.twitter.com/HSBC_NOW",HSBC NOW,"HSBC', 'NOW', 'Shanghai Free-Trade Zone', 'Free Trade Zone', 'Politics (TV Genre)', 'China', 'Live', 'trading', 'reforms', 'youtube', 'video', 'explain', 'how to'",PT1M53S,113,2
+HgFjzowXaVQ,Renminbi,Organization,NONE,NONE,0.315152,positive,0.549615,0.086311,0.185108,0.501444,0.029812,0.12167,1,1,Renminbi,Renminbi,Renminbi,Renminbi,renminbi,renminbi,renminb,NONE,0.9672,0.025,0.101,0.8740000000000001,0.19927899686520376,0.5631138975966562,positive,0.745627,0.442941,0.633412,0.12664,0.110344,0.039924,0.20000000298023224,4.300000190734863,Free Trade,2014-08-21T13:26:28.000Z,UCldvu4stPmKKMsHsAwlgMyg,Shanghai Free Trade Zone,"The Shanghai Free Trade Zone is a platform for the Chinese government to try out new reforms. Daryl Ngan from HSBC China takes a look at the potential for change in China and discusses how it is a test area for the rest of the nation. 
+
+HSBC NOW brings you stories from our colleagues around the world. 
+
+For more videos, and to stay up to date with HSBC NOW, subscribe to the channel. 
+
+Twitter: http://www.twitter.com/HSBC_NOW",HSBC NOW,"HSBC', 'NOW', 'Shanghai Free-Trade Zone', 'Free Trade Zone', 'Politics (TV Genre)', 'China', 'Live', 'trading', 'reforms', 'youtube', 'video', 'explain', 'how to'",PT1M53S,113,2
+HgFjzowXaVQ,Shanghai,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Shanghai,0.403314,positive,0.792922,0.186948,0.118065,0.538319,0.068896,0.10430999999999999,1,1,Shanghai,Shanghai,Shanghai,Shanghai,shanghai,shanghai,shangha,http://en.wikipedia.org/wiki/Shanghai,0.9672,0.025,0.101,0.8740000000000001,0.19927899686520376,0.5631138975966562,positive,0.745627,0.442941,0.633412,0.12664,0.110344,0.039924,0.20000000298023224,4.300000190734863,Free Trade,2014-08-21T13:26:28.000Z,UCldvu4stPmKKMsHsAwlgMyg,Shanghai Free Trade Zone,"The Shanghai Free Trade Zone is a platform for the Chinese government to try out new reforms. Daryl Ngan from HSBC China takes a look at the potential for change in China and discusses how it is a test area for the rest of the nation. 
+
+HSBC NOW brings you stories from our colleagues around the world. 
+
+For more videos, and to stay up to date with HSBC NOW, subscribe to the channel. 
+
+Twitter: http://www.twitter.com/HSBC_NOW",HSBC NOW,"HSBC', 'NOW', 'Shanghai Free-Trade Zone', 'Free Trade Zone', 'Politics (TV Genre)', 'China', 'Live', 'trading', 'reforms', 'youtube', 'video', 'explain', 'how to'",PT1M53S,113,2

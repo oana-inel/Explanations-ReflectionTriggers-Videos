@@ -1,0 +1,388 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+s_6QW9sNPEY,30%,Quantity,NONE,NONE,0.608796,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 %,30 %,30 %,30 %,30 %,30 %,30 %,NONE,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,Autism,HealthCondition,"DiseaseOrMedicalCondition, Disease, OrganizationSector",http://dbpedia.org/resource/Autism,0.9425600000000001,negative,-0.821076,0.462736,0.23371,0.029006,0.16880599999999998,0.40865300000000004,1,1,Autism,Autism,Autism,Autism,autism,autism,aut,http://en.wikipedia.org/wiki/Autism,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,Ethiopia,Location,Country,http://dbpedia.org/resource/Ethiopia,0.723958,positive,0.557711,0.194661,0.07369400000000001,0.6011989999999999,0.058782000000000015,0.034258,1,1,Ethiopia,Ethiopia,Ethiopia,Ethiopia,ethiopia,ethiopia,ethiop,http://en.wikipedia.org/wiki/Ethiopia,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,Fraud,Crime,NONE,NONE,0.650311,negative,-0.821076,0.462736,0.23371,0.029006,0.16880599999999998,0.40865300000000004,1,1,Fraud,Fraud,Fraud,Fraud,fraud,fraud,fraud,NONE,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,Ireland,Location,Country,NONE,0.608796,negative,-0.633046,0.286943,0.304865,0.172105,0.066932,0.20231400000000002,1,1,Ireland,Ireland,Ireland,Ireland,ireland,ireland,ireland,NONE,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,mumps,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor",http://dbpedia.org/resource/Mumps,0.7900659999999999,negative,-0.633046,0.286943,0.304865,0.172105,0.066932,0.20231400000000002,1,1,mumps,mump,mump,mump,mump,mump,mump,http://en.wikipedia.org/wiki/Mumps,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.737084,negative,-0.8301719999999999,0.4947470000000001,0.1097,0.339397,0.083928,0.024817,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,smallpox,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Smallpox,0.786712,negative,-0.8301719999999999,0.4947470000000001,0.1097,0.339397,0.083928,0.024817,1,1,smallpox,smallpox,smallpox,smallpox,smallpox,smallpox,smallpox,http://en.wikipedia.org/wiki/Smallpox,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3
+s_6QW9sNPEY,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.620898,neutral,0.0,0.584919,0.144753,0.00626,0.062931,0.145521,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.701,0.085,0.099,0.816,0.0625388933982684,0.478229843073593,negative,-0.8432780000000001,0.10489,0.485478,0.302214,0.568487,0.087131,0.0,5.0,Vaccination,2013-10-30T20:44:53.000Z,UCUL-pmhmDcZDwsA4cX2HO5w,Should you get Vaccinated?,"**Our new PODCAST: http://DanielAndJorge.com
+**ORDER our new book: http://WeHaveNoIdea.com
+
+Should you get vaccinated? Find out how vaccines work to protect the population and what can happen when celebrities get in the way of Science.
+Subscribe to PHD TV: http://youtube.com/subscription_center?add_user=phdcomics
+More at: http://phdcomics.com/tv
+
+Written and Illustrated by Dwayne Godwin and Jorge Cham
+Animated by Jorge Cham and Meg Rosenburg
+Narration by Meg Rosenburg
+Comic originally published in Scientific American Mind
+
+References:
+
+Richard A. Stein. (2011) Vaccination: A Public Health Intervention That Changed History & Is Changing with History. The American Biology Teacher 73:9, 513-519 http://www.bioone.org/doi/abs/10.1525/abt.2011.73.9.3 (abstract)
+
+Poland and Jacobson, ""The Age Old Struggle against the Antivaccinationists"", http://www.nejm.org/doi/full/10.1056/NEJMp1010594
+
+G. A. Poland. (2011) MMR Vaccine and Autism: Vaccine Nihilism and Postmodern Science. Mayo Clinic Proceedings 86:9, 869-871 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257990/
+
+Dobson, R (2003). Media misled the public over the MMR vaccine. BMJ. 326(7399): 1107. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1150987/
+
+Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N. (2012) The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 30(28):4292-8. http://www.ncbi.nlm.nih.gov/pubmed/22521285
+
+Fleck, F. (2004) MMR Controversy raises questions over publication ethics. Bulletin of the World Health organization 82 (4): 311-12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2585965/pdf/15296362.pdf
+
+Ahearn,WH (2010).What Every Behavior Analyst Should Know About the ""MMR Causes Autism"" Hypothesis. Behav Anal Pract. Spring; 3(1): 46--50. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004684/
+
+Perry, DM (2013). Destabilizing the Jenny McCarthy public health industrial complex. http://www.theatlantic.com/health/archive/2013/07/destabilizing-the-jenny-mccarthy-public-health-industrial-complex/277695/ The Atlantic, July 11 2013.
+
+Williams, ME (2011) Jenny McCarthy's autism fight grows more misguided. http://www.salon.com/2011/01/06/jenny_mccarthy_autism_debate/
+
+Institute of Medicine (US) Immunization Safety Review Committee (2004). Immunization Safety Review: Vaccines and Autism. Washington (DC): National Academies Press (US). http://www.ncbi.nlm.nih.gov/books/NBK25344/
+
+List of 25 studies failing to support MMR/autism link. http://www.immunize.org/catg.d/p4026.pdf
+
+Hyman, SL (2013) New DSM-5 includes changes to autism criteria. American Academy of Pediatrics News. http://aapnews.aappublications.org/content/early/2013/06/04/aapnews.20130604-1
+
+Deer, B. (2011) How the case against the MMR vaccine was fixed
+BMJ 342:c5347 http://www.bmj.com/content/342/bmj.c5347.full
+
+Deer, B. Exposed: Andrew Wakefield
+and the MMR-autism fraud. http://briandeer.com/mmr/lancet-summary.htm",Piled Higher and Deeper (PHD Comics),"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'Brain (Literature Subject)', 'PHD Comics', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)'",PT2M6S,126,3

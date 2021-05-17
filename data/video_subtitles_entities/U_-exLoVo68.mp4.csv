@@ -1,0 +1,495 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+U_-exLoVo68,Catalonia,Location,City,NONE,0.560513,neutral,0.0,0.168647,0.131459,0.570943,0.08559299999999999,0.10708499999999999,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Ernesto,Person,NONE,NONE,0.504771,negative,-0.516031,0.412997,0.21651199999999998,0.2409800000000001,0.041032,0.18859700000000001,1,1,Ernesto,Ernesto,Ernesto,Ernesto,ernesto,ernesto,ernesto,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Kira,Person,NONE,NONE,0.597961,neutral,0.0,0.039776,0.03348,0.121056,0.031699,0.019378,1,1,Kira,Kira,Kira,Kira,kira,kira,kir,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Kokomo,Location,City,NONE,0.648948,neutral,0.0,0.13692200000000002,0.093428,0.438928,0.299849,0.114429,1,1,Kokomo,Kokomo,Kokomo,Kokomo,kokomo,kokomo,kokomo,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Los medios de Grandes,GeographicFeature,NONE,NONE,0.7242569999999999,positive,0.346661,0.22581199999999998,0.13408299999999998,0.320965,0.099143,0.051368,1,1,Los medios de Grandes,Los medio de Grandes,Los medio de Grandes,Los medio de Grandes,lo medio de grand,los medio de grand,los medio de grand,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Mario,Person,NONE,NONE,0.6745140000000001,neutral,0.0,0.144175,0.104023,0.217214,0.47733000000000003,0.100927,1,1,Mario,Mario,Mario,Mario,mario,mario,mario,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Mo,Location,StateOrCounty,NONE,0.570194,neutral,0.0,0.168647,0.131459,0.570943,0.08559299999999999,0.10708499999999999,1,1,Mo,Mo,Mo,Mo,Mo,mo,mo,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Monaco problemas,Company,NONE,NONE,0.591697,neutral,0.0,0.269681,0.270956,0.193049,0.14563299999999998,0.146575,1,1,Monaco problemas,Monaco problema,Monaco problema,Monaco problema,monaco problema,monaco problema,monaco problema,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Paris,Location,City,NONE,0.529316,neutral,0.0,0.391049,0.191947,0.083618,0.13667200000000002,0.143045,1,1,Paris,Paris,Paris,Paris,pari,pari,par,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Sierra Vista Republica,Location,City,NONE,0.749452,neutral,0.0,0.11303900000000001,0.071146,0.162999,0.114874,0.1865,1,1,Sierra Vista Republica,Sierra Vista Republica,Sierra Vista Republica,Sierra Vista Republica,sierra vista republica,sierra vista republica,sierr vist republic,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Thomas kriticos,Person,NONE,NONE,0.634338,negative,-0.516031,0.412997,0.21651199999999998,0.2409800000000001,0.041032,0.18859700000000001,1,1,Thomas kriticos,Thomas kritico,Thomas kritico,Thomas kritico,thoma kritico,thoma kritico,thoma kritico,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,Trina,Person,"MusicalArtist, BroadcastArtist, MusicalGroupMember, TVActor",http://dbpedia.org/resource/Trina,0.7474430000000001,neutral,0.0,0.254258,0.25764499999999996,0.21520999999999998,0.147448,0.154894,2,1,Trina,Trina,Trina,Trina,trina,trina,trin,http://en.wikipedia.org/wiki/Trina,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3
+U_-exLoVo68,mr. Galan,Person,NONE,NONE,0.69868,negative,-0.294903,0.490569,0.189167,0.206492,0.107563,0.06337899999999999,1,1,mr. Galan,mr. Galan,mr. Galan,mr. Galan,mr. galan,mr. galan,mr. gal,NONE,0.933,0.063,0.131,0.8059999999999999,0.059090909090909076,0.5522727272727272,negative,-0.356622,0.090781,0.477899,0.189525,0.565237,0.096549,0.0,3.2000000476837163,Catalonia Independence,2017-10-09T08:47:26.000Z,UCHpw8xwDNhU9gdohEcJu4aA,’Independence is not a final destination’ | I am Catalan,"Catalonian identity is about more than a yes or no vote. While the north-eastern Spanish region prepares for the potential declaration of independence, many of the 7 million-strong Catalonian population worry that mainstream media are not representing their voice. We went to Catalonia to ask a variety of people about their identity and what independence means for them. 
+
+Subscribe to The Guardian ► http://is.gd/subscribeguardian
+
+This is one of five opinions in our 'I am Catalan' series here this week ► gu.com/i-am-catalan 
+
+Support the Guardian ► https://theguardian.com/supportus
+
+The Guardian ► https://www.theguardian.com
+
+Suggested videos:
+
+Erica: Man Made ► http://bit.ly/EricaManMade
+Battle for Mosul ► http://bit.ly/MosulDoc
+Radical Brownies ► http://bit.ly/RadicalBrowniesFilm
+Desert Fire ► http://bit.ly/DesertFire
+6x9: experience solitary confinement ► http://bit.ly/6x9gdn
+Gun Nation ► http://bit.ly/GunNationDoc
+We Walk Together ► http://bit.ly/WeWalkTogetherFilm
+The last job on Earth ► http://bit.ly/LastJobOnEarth
+Patrick Stewart: the ECHR and us ► http://bit.ly/PatrickStewartS
+
+Guardian playlists:
+
+Guardian Bertha Documentaries ► http://bit.ly/GuardianBertha
+In my opinion ► http://bit.ly/InMyOpinion
+Owen Jones meets ► http://bit.ly/CorbynJones
+US elections 2016 ► http://bit.ly/elections2016gdn
+Guardian Animations & Explanations ►http://is.gd/explainers
+Guardian Investigations ► http://is.gd/guardianinvestigations
+
+The Guardian's YouTube channels:
+
+Owen Jones talks ► http://bit.ly/subsowenjones
+Guardian Football ► http://is.gd/guardianfootball
+Guardian Science and Tech ► http://is.gd/guardiantech
+Guardian Culture ► http://is.gd/guardianculture
+Guardian Wires ► http://is.gd/guardianwires",The Guardian,"catalan', 'catalonia', 'catalunya', 'catalan independence', 'catalan language', 'catalan vs spanish', 'i am catalan', 'catalan culture', 'identity', 'spain', 'spanish', 'independence', 'referendum', 'nationalism', 'government', 'mariano rajoy', 'franco', 'spanish civil war', 'rajoy', 'church', 'catholic', 'religion', 'general franco', 'media', 'msm', 'catalan referendum', 'police', 'police in spain', 'riot police', 'podemos', 'ada colau', 'barcelona', 'barcalona', '2017', 'catalonia news', 'spain news', 'opinion', 'spain referendum', 'politics', 'psoe', 'europe', 'european union'",PT2M31S,151,3

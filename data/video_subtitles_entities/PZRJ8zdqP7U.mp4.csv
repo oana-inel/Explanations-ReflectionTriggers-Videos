@@ -1,0 +1,71 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+PZRJ8zdqP7U,12 months,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,12 month,12 month,12 month,12 month,12 month,12 month,12 month,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,20 years,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 year,20 year,20 year,20 year,20 year,20 year,20 year,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,30 years,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,5%,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,5 %,5 %,5 %,5 %,5 %,5 %,5 %,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,50 years,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,hundred years,Quantity,NONE,NONE,0.8512569999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred year,hundr year,hundr year,hundr year,hundr year,hundr year,hundr year,NONE,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3
+PZRJ8zdqP7U,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.8512569999999999,negative,-0.710198,0.710006,0.279476,0.02399,0.164976,0.071591,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.9453,0.07,0.13,0.8,0.05343822843822843,0.4599825174825175,negative,-0.287578,0.065084,0.5123840000000001,0.556974,0.488899,0.092043,0.20000000298023224,4.800000190734863,Vaccination,2018-02-09T11:42:48.000Z,UC3NXgSmwiD0fepBY8XW78vA,A world without vaccines - Vaccinate for Life,"According to the World Health Organization, next to clean drinking water nothing rivals vaccination in its ability to save lives. This is GSK’s part in the vaccination story.
+
+GSK - Do more, feel better, live longer. 
+Find out more on http://www.gsk.com 
+
+Follow @GSK on Twitter: http://twitter.com/GSK 
+Like GSK on Facebook: http://www.facebook.com/GSK 
+Follow GSK on LinkedIn: http://www.linkedin.com/company/glaxosmithkline 
+Subscribe to GSK on YouTube: http://www.youtube.com/subscription_center?add_user=gskvision
+Follow GSK on Instagram: https://www.instagram.com/gsk/",GSK,"GSK', 'GlaxoSmithKline', 'Glaxo', 'Science', 'Healthcare', 'Pharmaceutical', '#GlaxoSmithKline', 'vaccines'",PT2M4S,124,3

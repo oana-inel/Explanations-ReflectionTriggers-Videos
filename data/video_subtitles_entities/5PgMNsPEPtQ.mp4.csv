@@ -1,0 +1,27 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+5PgMNsPEPtQ,Sickness,HealthCondition,NONE,NONE,0.48459399999999997,negative,-0.704271,0.361238,0.24061100000000002,0.057659,0.4772050000000001,0.172505,2,1,Sickness,sick,sick,sick,sick,sick,sick,NONE,-0.1605,0.096,0.106,0.7979999999999999,-0.22728571428571426,0.587920634920635,negative,-0.650558,0.07997,0.492624,0.210539,0.722931,0.106009,0.0,3.5,Vaccination,2015-09-18T15:16:09.000Z,UC6ZXNYiuVra9HdM_ghjF1ig,Cate's Story: Getting Vaccinated is a Foundation for a Healthy Life,"Getting Vaccinated is a Foundation for a Healthy Life: Cate Parker | La vaccination est à la base de la santé : Cate Parker | 
+
+Cate Parker’s son Thomas was diagnosed with Common Variable Immune Deficiency (CVID), a disorder that impairs the immune system. People with CVID are highly susceptible to catching infection. Unless we all get vaccinated, we put people like Thomas at risk of becoming seriously ill from vaccine-preventable diseases.
+
+A descriptive transcript for this video is available by visiting the following link:
+
+http://media.ontarionewsroom.com/desctxt/getting-vaccinated-is-a-foundation-for-a-healthy-life-cate-parker.html
+
+Thomas, le fils de Cate Parker, souffre d’immunodéficience commune variable, un trouble du système immunitaire. C’est très grave pour lui de contracter une infection. À moins d’être tous vaccinés, nous faisons courir aux enfants comme Thomas des risques de maladies graves que l’on peut pourtant prévenir par la vaccination.
+
+Pour obtenir une transcription descriptive de cette vidéo, cliquer sur le lien suivant :
+
+http://media.ontarionewsroom.com/desctxt/la-vaccination-est-a-la-base-de-la-sante---cate-parker.html",ONgov,"Ontario Canada', 'Government of Ontario', 'Ontario', 'Toronto', 'Premier of Ontario', ""Queen's Park"", 'Legislature', 'Toronto Ontario', 'service Ontario', 'ontario jobs', 'boy', 'baby', 'big', 'brother', 'sister', 'little', 'grandmother', 'mom', 'dad', 'vaccines', 'get', 'vaccinated', 'protect', 'protection', 'waiting', 'window', 'playing', 'home', 'greeting', 'kisses', 'children', 'infants', 'health', 'vaccinations', 'tv', 'immunization', 'family', 'story', 'cvid', 'baseball', 'immunity'",PT1M2S,62,2
+5PgMNsPEPtQ,Thomas,Person,NONE,NONE,0.8439540000000001,negative,-0.899982,0.37385100000000004,0.371527,0.069381,0.15457200000000001,0.117621,5,1,Thomas,Thomas,Thomas,Thomas,thoma,thoma,thoma,NONE,-0.1605,0.096,0.106,0.7979999999999999,-0.22728571428571426,0.587920634920635,negative,-0.650558,0.07997,0.492624,0.210539,0.722931,0.106009,0.0,3.5,Vaccination,2015-09-18T15:16:09.000Z,UC6ZXNYiuVra9HdM_ghjF1ig,Cate's Story: Getting Vaccinated is a Foundation for a Healthy Life,"Getting Vaccinated is a Foundation for a Healthy Life: Cate Parker | La vaccination est à la base de la santé : Cate Parker | 
+
+Cate Parker’s son Thomas was diagnosed with Common Variable Immune Deficiency (CVID), a disorder that impairs the immune system. People with CVID are highly susceptible to catching infection. Unless we all get vaccinated, we put people like Thomas at risk of becoming seriously ill from vaccine-preventable diseases.
+
+A descriptive transcript for this video is available by visiting the following link:
+
+http://media.ontarionewsroom.com/desctxt/getting-vaccinated-is-a-foundation-for-a-healthy-life-cate-parker.html
+
+Thomas, le fils de Cate Parker, souffre d’immunodéficience commune variable, un trouble du système immunitaire. C’est très grave pour lui de contracter une infection. À moins d’être tous vaccinés, nous faisons courir aux enfants comme Thomas des risques de maladies graves que l’on peut pourtant prévenir par la vaccination.
+
+Pour obtenir une transcription descriptive de cette vidéo, cliquer sur le lien suivant :
+
+http://media.ontarionewsroom.com/desctxt/la-vaccination-est-a-la-base-de-la-sante---cate-parker.html",ONgov,"Ontario Canada', 'Government of Ontario', 'Ontario', 'Toronto', 'Premier of Ontario', ""Queen's Park"", 'Legislature', 'Toronto Ontario', 'service Ontario', 'ontario jobs', 'boy', 'baby', 'big', 'brother', 'sister', 'little', 'grandmother', 'mom', 'dad', 'vaccines', 'get', 'vaccinated', 'protect', 'protection', 'waiting', 'window', 'playing', 'home', 'greeting', 'kisses', 'children', 'infants', 'health', 'vaccinations', 'tv', 'immunization', 'family', 'story', 'cvid', 'baseball', 'immunity'",PT1M2S,62,2

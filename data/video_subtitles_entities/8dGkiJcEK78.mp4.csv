@@ -1,0 +1,45 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+8dGkiJcEK78,Kobe,Person,NONE,NONE,0.431019,negative,-0.730517,0.409023,0.088405,0.057579999999999985,0.281929,0.118092,1,1,Kobe,Kobe,Kobe,Kobe,kobe,kobe,kob,NONE,0.906,0.084,0.147,0.768,0.3219047619047619,0.6207936507936507,positive,0.61212,0.098083,0.202127,0.469664,0.06464299999999999,0.098299,0.10000000149011612,4.800000190734863,Free Trade,2016-09-05T20:13:33.000Z,UCi2FwfaPTs8TfkbwczStYSw,Toby Ziegler From the West Wing Explains the Benefits of Free Trade,"TOBY
+You want the benefits of free trade? Food is cheaper.
+
+SACHS
+Yes.
+
+TOBY
+Food is cheaper. Clothes are cheaper, steel is cheaper, cars are cheaper, phone service is cheaper. You feel me building a rhythm here? That’s ‘cause I’m a speechwriter and I know how to make a point.
+
+SACHS
+Toby...
+
+TOBY
+It lowers prices, it raises income. You see what I did with “lowers” and “raises” there?
+
+SACHS
+Yes.
+
+TOBY
+It’s called the science of listener attention. We did repetition, we did floating opposites, and now you end with the one that’s not like the others. Ready?
+
+Free trade stops wars. And that’s it. Free trade stops wars! And we figure out a way to fix the rest. One world, one peace—I’m sure I’ve seen that on a sign somewhere.",Jonathan Rick,"the west wing', 'free trade', 'toby ziegler', 'aaron sorkin'",PT56S,56,1
+8dGkiJcEK78,writer,JobTitle,NONE,NONE,0.388192,neutral,0.0,0.142033,0.058569,0.43256999999999995,0.14152,0.269231,1,1,writer,writer,writer,writ,writer,writer,writ,NONE,0.906,0.084,0.147,0.768,0.3219047619047619,0.6207936507936507,positive,0.61212,0.098083,0.202127,0.469664,0.06464299999999999,0.098299,0.10000000149011612,4.800000190734863,Free Trade,2016-09-05T20:13:33.000Z,UCi2FwfaPTs8TfkbwczStYSw,Toby Ziegler From the West Wing Explains the Benefits of Free Trade,"TOBY
+You want the benefits of free trade? Food is cheaper.
+
+SACHS
+Yes.
+
+TOBY
+Food is cheaper. Clothes are cheaper, steel is cheaper, cars are cheaper, phone service is cheaper. You feel me building a rhythm here? That’s ‘cause I’m a speechwriter and I know how to make a point.
+
+SACHS
+Toby...
+
+TOBY
+It lowers prices, it raises income. You see what I did with “lowers” and “raises” there?
+
+SACHS
+Yes.
+
+TOBY
+It’s called the science of listener attention. We did repetition, we did floating opposites, and now you end with the one that’s not like the others. Ready?
+
+Free trade stops wars. And that’s it. Free trade stops wars! And we figure out a way to fix the rest. One world, one peace—I’m sure I’ve seen that on a sign somewhere.",Jonathan Rick,"the west wing', 'free trade', 'toby ziegler', 'aaron sorkin'",PT56S,56,1

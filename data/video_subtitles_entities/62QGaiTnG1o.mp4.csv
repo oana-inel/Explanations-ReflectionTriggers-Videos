@@ -1,0 +1,65 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+62QGaiTnG1o,Kamala Khan Academy,Organization,NONE,NONE,0.49621499999999996,positive,0.809284,0.146802,0.118969,0.589537,0.039944,0.047665,1,1,Kamala Khan Academy,Kamala Khan Academy,Kamala Khan Academy,Kamala Khan Academy,kamala khan academi,kamala khan academi,kamal khan academy,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,La Casa Di Da Bomb,Facility,NONE,NONE,0.9228700000000001,positive,0.809284,0.146802,0.118969,0.589537,0.039944,0.047665,1,1,La Casa Di Da Bomb,La Casa Di Da Bomb,La Casa Di Da Bomb,La Casa Di Da Bomb,La casa Di Da bomb,la casa di da bomb,la cas di da bomb,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,Missouri,Location,StateOrCounty,NONE,0.264412,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Missouri,Missouri,Missouri,Missouri,missouri,missouri,missour,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,Pakistan,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Pakistan,0.31371,positive,0.809284,0.146802,0.118969,0.589537,0.039944,0.047665,1,1,Pakistan,Pakistan,Pakistan,Pakistan,pakistan,pakistan,pak,http://en.wikipedia.org/wiki/Pakistan,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,Paris,Location,City,"http://dbpedia.org/resource/Paris,_Illinois",0.308589,positive,0.809284,0.146802,0.118969,0.589537,0.039944,0.047665,1,1,Paris,Paris,Paris,Paris,pari,pari,par,"http://en.wikipedia.org/wiki/Paris,_Illinois",-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,Sarah,Person,NONE,NONE,0.32932100000000003,positive,0.509827,0.639369,0.185084,0.01526,0.27081900000000003,0.215162,2,1,Sarah,Sarah,Sarah,Sarah,sarah,sarah,sarah,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,Sookie,Person,NONE,NONE,0.367295,neutral,0.0,0.15454500000000002,0.087573,0.183782,0.077654,0.090723,1,1,Sookie,Sookie,Sookie,Sookie,sooki,sooki,sooky,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2
+62QGaiTnG1o,coma,HealthCondition,NONE,NONE,0.45585200000000003,negative,-0.308832,0.190225,0.086826,0.09676699999999999,0.061929,0.13838,1,1,coma,coma,coma,com,coma,coma,com,NONE,-0.7656,0.083,0.044,0.873,0.035714285714285705,0.2380952380952381,negative,-0.37408,0.076632,0.667084,0.191676,0.067021,0.052387,0.20000000298023224,0.8999999761581421,Vaccination,2019-06-17T11:49:44.000Z,UCHEXnICV5i6yEu9UTgV_yBQ,DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination,"DPO Charsadda Irfan Ullah Khan Special Awareness Message about Polio vaccination in Pakistan
+We aim to bridge the gap between the police and the public of Pakistan.
+https://www.facebook.com/m.arifkhan11
+ https://www.google.com/m.arifkhan11
+ https://www.yahoo.com/m.arifkhan11
+https://dailymotion.com/m-arifkhan11-khan
+https://twitter.com/MArifkhan11
+https://www.youtube.com/channel/UCHEXnICV5i6yEu9UTgV_yBQ?sub_confirmation=1",Elite Force Khyber Pakhtunkhwa,"punjabelitepolice', 'kpk elite force', 'SCU', 'AP Archive', '2007223', '94d26561a67d6e3718d11f34abe2b2c2', '(HZ) Pakistan Female Cop', 'Karachi', 'Pakistan', 'South Asia', 'General news', 'Business', 'Social affairs', 'Government and politics', 'SWAT (Organization)', 'Sindh Police', 'Police', 'Hostage Rescue', 'Urban Warfare', 'SWAT Units', 'Tactical Units', 'Special Forces', 'traffic warden peshawar', 'traffic warden trinidad', 'punjab elite police', 'city traffic police', 'khyber pakhtunkhwa police'",PT1M31S,91,2

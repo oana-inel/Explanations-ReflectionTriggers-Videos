@@ -1,0 +1,115 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+cuwIk_G_lnY,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.9600540000000001,neutral,0.0,0.31259000000000003,0.037459,0.209497,0.1465,0.069895,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3
+cuwIk_G_lnY,Home Care,Organization,NONE,NONE,0.480872,negative,-0.520278,0.550127,0.284632,0.049609,0.214013,0.233952,1,1,Home Care,Home Care,Home Care,Home Care,home care,home care,hom car,NONE,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3
+cuwIk_G_lnY,La cancion de los segadores Los segadores,Location,City,NONE,0.9685090000000001,positive,0.448438,0.272896,0.16380899999999998,0.31003800000000004,0.14536,0.105351,1,1,La cancion de los segadores Los segadores,La cancion de lo segador Los segador,La cancion de los segador Los segador,La cant de los segad Los segad,La cancion de lo segador lo segador,la cancion de los segador los segador,la cant de los segad los segad,NONE,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3
+cuwIk_G_lnY,Madrid,Location,City,NONE,0.7298279999999999,positive,0.448438,0.228987,0.114071,0.42322200000000004,0.14224,0.122127,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3
+cuwIk_G_lnY,Mr. Sanchez,Person,NONE,NONE,0.564871,negative,-0.24787399999999998,0.37101100000000004,0.073268,0.380308,0.10968800000000001,0.10965899999999999,1,1,Mr. Sanchez,Mr. Sanchez,Mr. Sanchez,Mr. Sanchez,mr. sanchez,mr. sanchez,mr. sanchez,NONE,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3
+cuwIk_G_lnY,Parliament,Organization,NONE,NONE,0.610993,neutral,0.0,0.337619,0.028475,0.465584,0.177951,0.049727,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.8635,0.064,0.042,0.894,0.05673701298701299,0.2951839826839827,negative,-0.321366,0.072805,0.535135,0.471904,0.080497,0.119142,0.0,2.299999952316284,Catalonia Independence,2017-10-27T13:47:31.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Crisis: Catalan Parliament votes for independence from Spain,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Crisis: Catalan Parliament votes for independence from Spain
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT2M13S,133,3

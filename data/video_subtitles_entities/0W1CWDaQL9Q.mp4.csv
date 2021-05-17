@@ -1,0 +1,379 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+0W1CWDaQL9Q,16%,Quantity,NONE,NONE,0.212167,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,16 %,16 %,16 %,16 %,16 %,16 %,16 %,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,20 percent,Quantity,NONE,NONE,0.212167,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 percent,20 percent,20 percent,20 perc,20 percent,20 percent,20 perc,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,48%,Quantity,NONE,NONE,0.212167,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,48 %,48 %,48 %,48 %,48 %,48 %,48 %,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Army,Organization,ArmedForce,http://dbpedia.org/resource/French_Army,0.296107,neutral,0.0,0.359002,0.072371,0.249092,0.389533,0.024402,1,1,Army,Army,Army,Army,armi,armi,army,http://en.wikipedia.org/wiki/French_Army,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.490099,negative,-0.709195,0.172072,0.063788,0.436638,0.199779,0.071648,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Belgium,Location,Country,NONE,0.212167,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Capital Barcelona,Facility,NONE,NONE,0.465604,positive,0.462691,0.213822,0.0362,0.50336,0.249664,0.082358,2,1,Capital Barcelona,Capital Barcelona,Capital Barcelona,Capital Barcelona,capit barcelona,capit barcelona,capit barcelon,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Catalan Alliance for Independence,Organization,NONE,NONE,0.468274,neutral,0.0,0.359002,0.072371,0.249092,0.389533,0.024402,1,1,Catalan Alliance for Independence,Catalan Alliance for Independence,Catalan Alliance for Independence,Catalan Alliance for Independence,catalan allianc for independ,catalan allianc for independ,cat al for independ,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Catalonia,Location,City,NONE,0.772217,neutral,0.0,0.401197,0.283637,0.157429,0.319915,0.120321,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Champions Barcelona,Facility,NONE,NONE,0.310506,negative,-0.716838,0.4749640000000001,0.180352,0.095491,0.07106,0.389958,1,1,Champions Barcelona,Champions Barcelona,Champions Barcelona,Champions Barcelona,champion barcelona,champion barcelona,champ barcelon,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Denmark,Location,"Brand, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Denmark,0.2394,positive,0.58329,0.252531,0.03349,0.278279,0.165177,0.183795,1,1,Denmark,Denmark,Denmark,Denmark,denmark,denmark,denmark,http://en.wikipedia.org/wiki/Denmark,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,EU,Location,Country,NONE,0.333448,neutral,0.0,0.26308000000000004,0.252305,0.23081,0.215679,0.112346,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.5276569999999999,positive,0.479054,0.26308000000000004,0.252305,0.23081,0.215679,0.112346,4,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.26168,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Eurozone,Organization,NONE,NONE,0.236003,negative,-0.716838,0.4749640000000001,0.180352,0.095491,0.07106,0.389958,1,1,Eurozone,Eurozone,Eurozone,Eurozone,eurozon,eurozon,eurozon,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Finland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Profession, Country",http://dbpedia.org/resource/Finland,0.249774,positive,0.58329,0.252531,0.03349,0.278279,0.165177,0.183795,1,1,Finland,Finland,Finland,Finland,finland,finland,finland,http://en.wikipedia.org/wiki/Finland,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Flanders,Location,Country,http://dbpedia.org/resource/County_of_Flanders,0.227981,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Flanders,Flanders,Flanders,Flanders,flander,flander,fland,http://en.wikipedia.org/wiki/County_of_Flanders,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Italy,Location,"HumanLanguage, PoliticalDistrict, Region, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Italy,0.240914,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Italy,Italy,Italy,Italy,itali,itali,ita,http://en.wikipedia.org/wiki/Italy,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.393475,negative,-0.673211,0.437306,0.051796,0.206218,0.153969,0.290202,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,National League La Liga,Organization,NONE,NONE,0.381428,negative,-0.337322,0.254058,0.5066930000000001,0.115036,0.048196,0.330465,3,1,National League La Liga,National League La Liga,National League La Liga,National League La Liga,nation leagu La liga,nation leagu la liga,nat leagu la lig,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Scotland,Location,Country,NONE,0.2313530000000001,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.447387,negative,-0.193799,0.348979,0.326966,0.34130900000000003,0.015346,0.116559,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.25168,neutral,0.0,0.271862,0.132416,0.252585,0.086338,0.131036,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,Veneto,Location,"AdministrativeDivision, ItalianRegion, Region",http://dbpedia.org/resource/Veneto,0.274884,neutral,0.0,0.166426,0.189804,0.3941,0.362235,0.038775,1,1,Veneto,Veneto,Veneto,Veneto,veneto,veneto,veneto,http://en.wikipedia.org/wiki/Veneto,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,block Catalonia,Location,City,NONE,0.410716,neutral,0.0,0.378599,0.161799,0.33194,0.104094,0.122222,1,1,block Catalonia,block Catalonia,block Catalonia,block Catalonia,block catalonia,block catalonia,block catalon,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,football,Sport,NONE,NONE,0.303613,positive,0.060463,0.149062,0.754312,0.025301,0.242756,0.111056,2,1,football,footbal,footbal,footbal,footbal,footbal,footbal,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5
+0W1CWDaQL9Q,main Coalition,Organization,NONE,NONE,0.271991,negative,-0.50897,0.599479,0.171949,0.035424000000000004,0.260484,0.052108,1,1,main Coalition,main Coalition,main Coalition,main Coalition,main coalit,main coalit,main coalit,NONE,0.9769,0.073,0.105,0.8220000000000001,0.04983122036693465,0.4144506287363429,negative,-0.367847,0.134685,0.544713,0.5891770000000001,0.59424,0.156927,0.0,9.5,Catalonia Independence,2015-09-28T12:30:01.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia independent? Pros & cons of secession from Spain,"In Barcelona, thousands have been celebrating a pro-independence victory . They won a majority of seats in the Catalan parliament and promise to breakaway from Spain. But there are dire consequences being outlined for Catalans - an automatic exit from the Eurozone, a banking system collapse, re-application for membership of the EU. FC Barcelona would be kicked out of the national League as well...Does it worth it?
+
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain', 'Madrid', 'Catalonia', 'elections', 'independence', 'pro-independence', 'UN', 'UN-exit', 'split', 'parliament elections', 'parliament', 'catalan', 'catalans', 'secession', 'government'",PT4M11S,251,5

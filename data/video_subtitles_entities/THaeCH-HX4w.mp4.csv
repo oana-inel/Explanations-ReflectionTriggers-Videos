@@ -1,0 +1,673 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+THaeCH-HX4w,08020 bar,Quantity,NONE,NONE,0.374528,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,08020 bar,08020 bar,08020 bar,08020 bar,08020 bar,08020 bar,08020 bar,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Beauty Dish,Facility,NONE,NONE,0.520072,positive,0.30947800000000003,0.196052,0.066838,0.435478,0.078716,0.202198,1,1,Beauty Dish,Beauty Dish,Beauty Dish,Beauty Dish,beauti dish,beauti dish,beauty dish,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Civic Center,Facility,NONE,NONE,0.671214,neutral,0.0,0.187555,0.107902,0.172261,0.050955,0.07511,2,1,Civic Center,Civic Center,Civic Center,Civic Center,civic center,civic center,civ cent,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Coke,Company,NONE,NONE,0.463222,positive,0.542514,0.297725,0.170223,0.195348,0.143231,0.101613,1,1,Coke,Coke,Coke,Coke,coke,coke,cok,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Community mini Community,Organization,NONE,NONE,0.4805430000000001,neutral,0.0,0.521071,0.040551,0.17377,0.15174100000000001,0.25714899999999996,1,1,Community mini Community,Community mini Community,Community mini Community,Community mini Community,commun mini commun,communiti mini communiti,commun min commun,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Cosette,Person,NONE,NONE,0.537135,negative,-0.393328,0.125143,0.256626,0.23830199999999999,0.118217,0.302045,1,1,Cosette,Cosette,Cosette,Cosette,cosett,cosett,coset,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Daniel Belasco,Person,NONE,NONE,0.513387,negative,-0.551072,0.506285,0.045926,0.202587,0.012376999999999999,0.257169,1,1,Daniel Belasco,Daniel Belasco,Daniel Belasco,Daniel Belasco,daniel belasco,daniel belasco,daniel belasco,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Lisa,Person,NONE,NONE,0.693225,negative,-0.689575,0.421392,0.048853,0.039952,0.210182,0.13358299999999998,3,1,Lisa,Lisa,Lisa,Lisa,lisa,lisa,lis,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Lucas,Person,NONE,NONE,0.430238,negative,-0.295863,0.0,0.0,0.0,0.0,0.0,1,1,Lucas,Lucas,Lucas,Lucas,luca,luca,luca,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Mason,Person,NONE,NONE,0.448995,negative,-0.7886920000000001,0.5602050000000001,0.10803499999999999,0.003643,0.204044,0.46056400000000003,1,1,Mason,Mason,Mason,Mason,mason,mason,mason,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Mr. Joseph,Person,NONE,NONE,0.509096,positive,0.4525270000000001,0.363181,0.12923099999999998,0.296799,0.045205,0.283411,1,1,Mr. Joseph,Mr. Joseph,Mr. Joseph,Mr. Joseph,mr. joseph,mr. joseph,mr. joseph,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Sebastian oppa,Person,NONE,NONE,0.44765699999999997,neutral,0.0,0.203482,0.177466,0.119689,0.058605,0.11047799999999999,1,1,Sebastian oppa,Sebastian oppa,Sebastian oppa,Sebastian opp,sebastian oppa,sebastian oppa,sebast opp,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Shen,Person,NONE,NONE,0.4788600000000001,negative,-0.453604,0.207317,0.22701300000000002,0.301793,0.08795499999999999,0.274518,1,1,Shen,Shen,Shen,Shen,shen,shen,shen,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,Sita,Person,NONE,NONE,0.4496270000000001,neutral,0.0,0.086594,0.028887,0.077464,0.054907000000000004,0.039391,1,1,Sita,Sita,Sita,Sita,sita,sita,sit,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,University,Company,NONE,NONE,0.374528,negative,-0.6606890000000001,0.365173,0.064277,0.043991,0.20568899999999998,0.110849,1,1,University,University,University,University,univers,univers,univers,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,commander,JobTitle,NONE,NONE,0.45816599999999996,positive,0.588001,0.048635000000000005,0.248054,0.136944,0.373707,0.093203,1,1,commander,command,command,command,command,command,command,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,limited Bay,GeographicFeature,NONE,NONE,0.479904,negative,-0.40910799999999997,0.18623800000000001,0.067737,0.22699299999999997,0.066105,0.089053,1,1,limited Bay,limit Bay,limit Bay,limit Bay,limit bay,limit bay,limit bay,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,professor,JobTitle,NONE,NONE,0.493284,positive,0.4525270000000001,0.363181,0.12923099999999998,0.296799,0.045205,0.283411,1,1,professor,professor,professor,profess,professor,professor,profess,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,reporter,JobTitle,NONE,NONE,0.495299,negative,-0.393328,0.125143,0.256626,0.23830199999999999,0.118217,0.302045,1,1,reporter,report,report,report,report,report,report,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,tant De La Hoya,Facility,NONE,NONE,0.58426,neutral,0.0,0.21741799999999997,0.109046,0.43623599999999996,0.08967699999999999,0.034785,1,1,tant De La Hoya,tant De La Hoya,tant De La Hoya,tant De La Hoya,tant De La hoya,tant de la hoya,tant de la hoy,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9
+THaeCH-HX4w,vivi,Person,NONE,NONE,0.407221,negative,-0.6606890000000001,0.0,0.0,0.0,0.0,0.0,1,1,vivi,vivi,vivi,viv,vivi,vivi,viv,NONE,0.8911,0.097,0.121,0.7809999999999999,0.11090208810797048,0.4874416433239963,positive,0.311585,0.143146,0.4623930000000001,0.480009,0.123863,0.11155,0.0,8.800000190734863,Vaccination,2017-09-01T07:00:02.000Z,UCDg53Em9AHmMlpdlL9j7svw,"Vaccination, les vérités indésirables","Michel Georget nous livre le résultat de ses recherches sur la vaccination, le danger de certains vaccins et les dérives des laboratoires pharmaceutiques. Son livre: http://amzn.to/2uGO4H1.
+
+Il explique qu'un vaccin est destiné à stimuler une première réponse du système immunitaire avec un pathogène (virus, bactérie) inactivé ou diminué afin que celui-ci soit en mesure de se protéger une fois que l'individu rentrera en contact avec la maladie.
+
+Les 3 vaccins obligatoires sont ceux de la Dyphtérie, de la Polio et du Tétanos. Mais le vaccin DTP (ou DT-Polio) réunissant les 3 vaccins n'est plus fabriqué par les laboratoires sous prétexte qu'il provoquait des allergies. On a ainsi ajouté la Coqueluche puis l'Haemophilus (méningites) et enfin l'Hépatite B aux 3 vaccins obligatoires pour en faire un vaccin hexavalent (vaccin à 6 valences). C'est pour Michel Georget une manipulation financière car les vaccins hexavalents sont jusqu'à 7 fois plus chers. De plus, refaire un vaccin tétravalent moins cher ne serait pas rentable pour l'industrie pharmaceutique.
+
+Pour Michel Georget, cela amène la question du calendrier vaccinal et la charge de vaccins bien trop importante pour le corps des enfants, encore en développement. 92 stimulations avec les rappels pour les garçons et jusqu'à 110 pour les filles selon Michel Georget! Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. 
+
+Selon Michel Georget il y a aussi un problème de rigueur scientifique car il n'y a pas d'étude pharmacocinétique, c'est à dire qu'on ne sait pas ce que deviennent dans notre corps les produits injectés ! Alors que pour tout médicament mis sur le marché, des études rigoureuses sont obligatoires. Or, pour Michel Georget, cela permettrait de voir que l'aluminium contenu dans certains vaccins se fixe parfois dans des endroits indésirables (cerveau, muscles,etc.) et devient responsable de certaines maladies comme la myofasciite à macrophages.
+
+Le vaccin le plus dangereux était celui contre la variole, suivi à présent de la valence de la Coqueluche et celle de l'Hépatite B. Mais également la conjonction des vaccinations, car certains pédiatres font sur un enfant d'un côté le vaccin hexavalent et de l'autre le vaccin Pneumocoque (Prevenar 13), dans la même séance ! Ce qui constitue pour Michel Georget une surcharge certaine pour l'organisme des enfants et peut conduire à une réaction inflammatoire brutale pouvant conduire à la mort.
+
+Michel Georget regrette également que la mort d'un enfant à Barcelone de la dyphtérie, et celle d'un autre enfant de la rougeole à Berlin aientt complètement éclipsé la mort de 3 nourrissons suite à l'injection simultané de l'hexavalent et du prévenar.
+
+Enfin, il pense que nos fonctions biologiques peuvent à terme être atteintes par ces surcharges vaccinales. Pour preuve l'augmentation considérable des réactions allergiques, des allergies d'une part et une augmentation des maladies auto-immunes d'autre part, notamment celle que l'on ne trouvait avant que chez les adultes mais maintenant présentes chez les enfants dès 3 ou 4 ans.
+
+
+Son livre '""Vaccinations, les vérités indésirables': http://amzn.to/2uGO4H1. La qualité première de ce livre est de nous rendre lucides. L'auteur éclaire de façon incontestable certaines zones obscures de ce qui touche, en nous, l'essentiel : notre santé. Nous devrions tous lire cet ouvrage. À plus forte raison si nous avons des enfants. Mais aussi pour nous-mêmes, afin de pouvoir juger de l'opportunité de les accepter ou de les refuser et, pour les vaccinations obligatoires, obtenir la liberté totale de choix comme c'est le cas dans la plupart des pays européens.
+
+*****************************
+DES MAUX ET DES MOTS
+La plateforme santé des médecines complémentaires et alternatives.
+Notre mission : prévention, information, conseils.
+
+Emissions, interviews, conférences... Suivez notre actualité et rejoignez notre communauté !
+
+Facebook : https://www.facebook.com/DesMauxDesMots
+Twitter : https://twitter.com/desmauxdesmots
+Google + : https://plus.google.com/+Desmauxetdesmots
+
+Merci de votre soutien !
+.",Des Maux et Des Mots,"Santé', 'médecine naturelle', 'interview', 'michel georget', 'georget', 'vaccination', 'maladies', 'calendrier vaccinal', 'scandale', 'polémique', 'industrie', 'santé publique', 'information', 'vaccin', 'vaccins', 'dt-polio', 'polio', 'dtp', 'système immunitaire', 'pathogène', 'virus', 'bactérie', 'Dyphtérie', 'Polio', 'Tétanos', 'laboratoire', 'allergies', 'Coqueluche', 'Haemophilus', 'méningite', 'Hépatite B', 'hexavalent', 'trivalent', 'tétravalent', 'rentabilité', 'surcharge', 'pharmacocinétique', 'aluminium', 'myofasciite', 'macrophages', 'variole', 'Pneumocoque', 'Prevenar', 'maladies auto-immunes'",PT8M34S,514,9

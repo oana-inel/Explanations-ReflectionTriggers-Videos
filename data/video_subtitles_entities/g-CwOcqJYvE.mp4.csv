@@ -1,0 +1,45 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+g-CwOcqJYvE,Gordo Gordo,Person,NONE,NONE,0.950758,negative,-0.687046,0.47837399999999997,0.16955499999999998,0.114196,0.23566900000000002,0.239392,1,1,Gordo Gordo,Gordo Gordo,Gordo Gordo,Gordo Gordo,gordo gordo,gordo gordo,gordo gordo,NONE,0.0521,0.081,0.113,0.8059999999999999,0.10535714285714284,0.3642857142857143,negative,-0.41027,0.226055,0.440843,0.218798,0.094679,0.069676,0.0,0.8999999761581421,Catalonia Independence,2017-10-02T10:01:28.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Police brutality a ‘shame’ – Barcelona reacts to Catalan independence vote,"Barcelona locals on Monday described the Spanish police action to stop the Catalan referendum from going ahead as “exaggerated” and “a shame”.
+
+SOT, Jose Maria, Barcelona citizen (Spanish): ""A shame, we can agree or disagree, some with the Government and other with the Generalitat, but the right to vote is democracy, and what we lived yesterday is awful, that is not democracy or anything, it is violence. Seeing how innocent people were voting peacefully and how the state police took action without mercy, without any compromise with the people... a shame""
+
+C/U Newspaper
+
+C/U Newspaper headline reading (Spanish): ""Intolerable repression""
+
+
+SOT, Sergio Burgos, Barcelona citizen (Spanish): ""A shame, a shame. Honestly, if there was anyone doubting whether being independent or not being independent, apart from agreeing or not with the referendum... I think I am pretty sure right now. I am one of those people who supported the referendum, but I was not sure if I was independent or not. But after seeing the actions of the national police, while we have our own police that obeyed their orders peacefully, and seeing how the police of the Spanish state acted… I know, I repudiate all the actions that took place. It was a shame, a shame""
+
+SOT, Sergio Burgos, Barcelona citizen (Spanish): ""The central government and the Catalan government have not reached an agreement because of their own fault. And if they didn’t reach an agreement, I think it’s because they are not suitable for the position they are in.""
+
+
+SOT, Miriam, Barcelona citizen (Spanish): ""I think it is a shame, I think that what the police did was exaggerated, I think that it was a really bad management of Rajoy’s government, because they have always said 'no' to Catalans, and well, this opened a big breach that it will be very difficult to sew.”
+
+Video ID: 20171002 010
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M58S,178,3
+g-CwOcqJYvE,Pedro Guerrero,Person,NONE,NONE,0.413311,negative,-0.594205,0.268453,0.105698,0.09209400000000001,0.072594,0.097608,1,1,Pedro Guerrero,Pedro Guerrero,Pedro Guerrero,Pedro Guerrero,pedro guerrero,pedro guerrero,pedro guerrero,NONE,0.0521,0.081,0.113,0.8059999999999999,0.10535714285714284,0.3642857142857143,negative,-0.41027,0.226055,0.440843,0.218798,0.094679,0.069676,0.0,0.8999999761581421,Catalonia Independence,2017-10-02T10:01:28.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Police brutality a ‘shame’ – Barcelona reacts to Catalan independence vote,"Barcelona locals on Monday described the Spanish police action to stop the Catalan referendum from going ahead as “exaggerated” and “a shame”.
+
+SOT, Jose Maria, Barcelona citizen (Spanish): ""A shame, we can agree or disagree, some with the Government and other with the Generalitat, but the right to vote is democracy, and what we lived yesterday is awful, that is not democracy or anything, it is violence. Seeing how innocent people were voting peacefully and how the state police took action without mercy, without any compromise with the people... a shame""
+
+C/U Newspaper
+
+C/U Newspaper headline reading (Spanish): ""Intolerable repression""
+
+
+SOT, Sergio Burgos, Barcelona citizen (Spanish): ""A shame, a shame. Honestly, if there was anyone doubting whether being independent or not being independent, apart from agreeing or not with the referendum... I think I am pretty sure right now. I am one of those people who supported the referendum, but I was not sure if I was independent or not. But after seeing the actions of the national police, while we have our own police that obeyed their orders peacefully, and seeing how the police of the Spanish state acted… I know, I repudiate all the actions that took place. It was a shame, a shame""
+
+SOT, Sergio Burgos, Barcelona citizen (Spanish): ""The central government and the Catalan government have not reached an agreement because of their own fault. And if they didn’t reach an agreement, I think it’s because they are not suitable for the position they are in.""
+
+
+SOT, Miriam, Barcelona citizen (Spanish): ""I think it is a shame, I think that what the police did was exaggerated, I think that it was a really bad management of Rajoy’s government, because they have always said 'no' to Catalans, and well, this opened a big breach that it will be very difficult to sew.”
+
+Video ID: 20171002 010
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M58S,178,3

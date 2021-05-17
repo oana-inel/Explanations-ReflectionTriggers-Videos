@@ -1,0 +1,235 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tZr-Xe5Q7aY,11-year,Quantity,NONE,NONE,0.171074,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,11-year,11-year,11-year,11-year,11-year,11-year,11-year,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Beijing,Location,City,http://dbpedia.org/resource/Beijing,0.21046700000000002,positive,0.347164,0.121834,0.08114199999999999,0.23229699999999998,0.093971,0.052638,1,1,Beijing,Beijing,Beijing,Beijing,beij,beij,beid,http://en.wikipedia.org/wiki/Beijing,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Beijing Solberg,Location,City,NONE,0.278124,neutral,0.0,0.105843,0.049102999999999994,0.40995600000000004,0.11188800000000004,0.145532,1,1,Beijing Solberg,Beijing Solberg,Beijing Solberg,Beijing Solberg,beij solberg,beij solberg,beid solberg,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.892935,positive,0.677438,0.11988199999999999,0.054808,0.696488,0.082867,0.07561699999999999,9,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Erna Solberg,Person,Politician,http://dbpedia.org/resource/Erna_Solberg,0.298775,positive,0.8197639999999999,0.110775,0.030918,0.749854,0.028276999999999997,0.059939,1,1,Erna Solberg,Erna Solberg,Erna Solberg,Erna Solberg,erna solberg,erna solberg,ern solberg,http://en.wikipedia.org/wiki/Erna_Solberg,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Guangzhou,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Guangzhou,0.17815699999999998,neutral,0.0,0.228233,0.112355,0.38847600000000004,0.046044999999999996,0.068451,1,1,Guangzhou,Guangzhou,Guangzhou,Guangzhou,guangzhou,guangzhou,guangzhou,http://en.wikipedia.org/wiki/Guangzhou,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Nobel,Organization,NONE,NONE,0.191031,neutral,0.0,0.11278699999999996,0.03935,0.6768770000000001,0.13254200000000002,0.101482,1,1,Nobel,Nobel,Nobel,Nobel,nobel,nobel,nobel,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Norway,Location,"HumanLanguage, GovernmentalJurisdiction, Kingdom, AwardDiscipline, Country",http://dbpedia.org/resource/Norway,0.328631,positive,0.6835829999999999,0.034010000000000006,0.009034,0.8203889999999999,0.035095999999999995,0.103377,3,1,Norway,Norway,Norway,Norway,norway,norway,norway,http://en.wikipedia.org/wiki/Norway,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Premier Li keqiang,Person,"Politician, President",http://dbpedia.org/resource/Li_Keqiang,0.256336,positive,0.8197639999999999,0.110775,0.030918,0.749854,0.028276999999999997,0.059939,1,1,Premier Li keqiang,Premier Li keqiang,Premier Li keqiang,Premier Li keqiang,premier Li keqiang,premier li keqiang,premy li keqiang,http://en.wikipedia.org/wiki/Li_Keqiang,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Shanghai,Location,City,NONE,0.172681,neutral,0.0,0.228233,0.112355,0.38847600000000004,0.046044999999999996,0.068451,1,1,Shanghai,Shanghai,Shanghai,Shanghai,shanghai,shanghai,shangha,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,Winter Olympics,SportingEvent,NONE,NONE,0.18324000000000001,positive,0.6835829999999999,0.074853,0.025996,0.81558,0.022011000000000003,0.037257,1,1,Winter Olympics,Winter Olympics,Winter Olympics,Winter Olympics,winter olymp,winter olymp,wint olymp,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,prime minister,JobTitle,NONE,NONE,0.21180900000000005,positive,0.8197639999999999,0.110775,0.030918,0.749854,0.028276999999999997,0.059939,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3
+tZr-Xe5Q7aY,reporter,JobTitle,NONE,NONE,0.184866,positive,0.682738,0.040826,0.094703,0.43452299999999994,0.012104,0.061153999999999986,1,1,reporter,report,report,report,report,report,report,NONE,0.9739,0.016,0.114,0.87,0.12480909090909093,0.3788969696969697,positive,0.627076,0.07903099999999999,0.687296,0.132433,0.062186,0.064679,0.0,4.5,Free Trade,2017-04-07T15:29:23.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China-Norway free trade talks resume as PMs meet in Beijing,"Chinese Premier Li Keqiang welcomed Norwegian Prime Minister Erna Solberg in Beijing on Friday, as the two countries resume negotiations on a free trade agreement and continue to normalize relations after recent setbacks.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'PM', 'Li Keqiang', 'Beijing', 'Norway', 'Erna Solberg', 'FreeTrade', 'Normalize', 'Relations', 'BilateralRelations', 'Oslo', 'Deals', 'Shanghai', 'Hangzhou'",PT2M19S,139,3

@@ -1,0 +1,154 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+eUkwL103JSo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.6252340000000001,negative,-0.5630390000000001,0.332366,0.415207,0.10611099999999997,0.19134500000000002,0.25412399999999996,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Catalonia,Location,City,NONE,0.685758,positive,0.826024,0.30545,0.101538,0.45381499999999997,0.184727,0.055124,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Christy,Person,NONE,NONE,0.41553100000000004,positive,0.610908,0.193704,0.086998,0.27419299999999996,0.101582,0.078895,1,1,Christy,Christy,Christy,Christy,christi,christi,christy,NONE,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.812283,negative,-0.47356000000000004,0.29754899999999995,0.109742,0.021105000000000002,0.22298800000000002,0.67581,4,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Mark,Person,NONE,NONE,0.395617,negative,-0.69801,0.20956,0.11305899999999999,0.404731,0.13237100000000002,0.078775,1,1,Mark,Mark,Mark,Mark,mark,mark,mark,NONE,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,National Police,Organization,NONE,NONE,0.781844,negative,-0.495379,0.327918,0.19045499999999999,0.020436000000000003,0.31159899999999996,0.44273100000000004,2,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.5429229999999999,neutral,0.0,0.35110399999999997,0.185351,0.056122000000000005,0.229027,0.529072,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.52375,negative,-0.809236,0.35110399999999997,0.185351,0.056122000000000005,0.229027,0.529072,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10
+eUkwL103JSo,six months,Quantity,NONE,NONE,0.390778,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,-0.8345,0.075,0.079,0.846,0.11629523955281527,0.4034355459355458,negative,-0.324522,0.183106,0.474267,0.585175,0.545617,0.177424,0.0,16.5,Catalonia Independence,2018-08-01T11:32:31.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Riot police clash with activists in Catalonia,"As activists pushed for an independent Catalonia, Spanish riot police smashed their way into polling stations. 
+
+Sky's Mark Stone was there and explains what it was like.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'skynews', 'news', 'conflict', 'Barcelona', 'Spain', 'Catalonia', 'Independence', 'Referendum', 'Free speech', 'Carles Puigdemont', 'Police', 'Riot', 'Riot police', 'violence', 'democracy', 'voting', 'Pedro Sánchez', 'Mariano Rajoy', 'King Felipe VI', 'Europe'",PT9M57S,597,10

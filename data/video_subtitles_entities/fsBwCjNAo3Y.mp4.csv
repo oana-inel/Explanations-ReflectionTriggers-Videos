@@ -1,0 +1,21 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+fsBwCjNAo3Y,America,Location,Continent,NONE,0.554081,neutral,0.0,0.37647600000000003,0.027476,0.033877,0.157322,0.149497,1,1,America,America,America,America,america,america,americ,NONE,0.7783,0.08900000000000001,0.25,0.6609999999999999,0.2,0.5644444444444445,negative,-0.325233,0.311803,0.044843,0.5720569999999999,0.076271,0.304551,0.10000000149011612,1.0,Catalonia Independence,2017-12-07T19:33:53.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Thousands join Puigdemont in Brussels rally for Catalan independence,"Tens of thousands of Catalans descended on the streets of the Belgian capital of Brussels on Thursday to march in support of the Catalan independence.
+
+Former Catalan President Carles Puigdemont, who is currently in self-imposed exile in Belgium, joined protesters in Brussels to demand the backing of EU institutions for the separatist cause.
+
+Video ID: 20171207 054
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Brussels rally for Catalan independence', 'Puigdemont', 'Catalan independence', 'Catalans in Brussels', 'Catalonia independence'",PT2M36S,156,3
+fsBwCjNAo3Y,Mr. Feeny,Person,NONE,NONE,0.849339,neutral,0.0,0.37647600000000003,0.027476,0.033877,0.157322,0.149497,1,1,Mr. Feeny,Mr. Feeny,Mr. Feeny,Mr. Feeny,mr. feeni,mr. feeni,mr. feeny,NONE,0.7783,0.08900000000000001,0.25,0.6609999999999999,0.2,0.5644444444444445,negative,-0.325233,0.311803,0.044843,0.5720569999999999,0.076271,0.304551,0.10000000149011612,1.0,Catalonia Independence,2017-12-07T19:33:53.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Thousands join Puigdemont in Brussels rally for Catalan independence,"Tens of thousands of Catalans descended on the streets of the Belgian capital of Brussels on Thursday to march in support of the Catalan independence.
+
+Former Catalan President Carles Puigdemont, who is currently in self-imposed exile in Belgium, joined protesters in Brussels to demand the backing of EU institutions for the separatist cause.
+
+Video ID: 20171207 054
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Brussels rally for Catalan independence', 'Puigdemont', 'Catalan independence', 'Catalans in Brussels', 'Catalonia independence'",PT2M36S,156,3

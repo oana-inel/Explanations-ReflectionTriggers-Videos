@@ -1,0 +1,27 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+xRVXDY_BJoU,India,Location,Country,NONE,0.813027,positive,0.35289299999999996,0.205661,0.08805,0.264789,0.282862,0.183855,1,1,India,India,India,India,india,india,ind,NONE,0.6187,0.0,0.194,0.8059999999999999,0.25,1.0,positive,0.684084,0.082373,0.669738,0.095592,0.023172,0.099208,0.0,0.8000000119209291,Catalonia Independence,2016-10-12T14:35:49.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-Catalonian independence rally held on Spanish national day,"Thousands marched through the streets of Barcelona on Wednesday to demonstrate against Catalonian independence. The rally coincided with the Spanish national day which celebrates the anniversary of Christopher Columbus’ first arrival in the Americas in 1492. 
+
+SOT, Javier Megino, General Secretary of Espana y Catalans (Spanish): ""For this celebration, for Spanish day, the Virgin of Pilar day, congratulations to all Pilars, but especially to celebrate a day that they want to take out of the holiday calendar, they ignore it, declaring the opening of stores because it is our day, the day of all Catalans, the day of all Spaniards, the day of the Spanish nationals.""
+
+
+
+
+Video ID: 20161012-034
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT1M49S,109,2
+xRVXDY_BJoU,Paris,Location,City,NONE,0.9955620000000001,negative,-0.630798,0.07130800000000001,0.022401,0.156599,0.008771,0.016119,1,1,Paris,Paris,Paris,Paris,pari,pari,par,NONE,0.6187,0.0,0.194,0.8059999999999999,0.25,1.0,positive,0.684084,0.082373,0.669738,0.095592,0.023172,0.099208,0.0,0.8000000119209291,Catalonia Independence,2016-10-12T14:35:49.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-Catalonian independence rally held on Spanish national day,"Thousands marched through the streets of Barcelona on Wednesday to demonstrate against Catalonian independence. The rally coincided with the Spanish national day which celebrates the anniversary of Christopher Columbus’ first arrival in the Americas in 1492. 
+
+SOT, Javier Megino, General Secretary of Espana y Catalans (Spanish): ""For this celebration, for Spanish day, the Virgin of Pilar day, congratulations to all Pilars, but especially to celebrate a day that they want to take out of the holiday calendar, they ignore it, declaring the opening of stores because it is our day, the day of all Catalans, the day of all Spaniards, the day of the Spanish nationals.""
+
+
+
+
+Video ID: 20161012-034
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT1M49S,109,2

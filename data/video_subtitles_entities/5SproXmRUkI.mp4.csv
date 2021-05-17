@@ -1,0 +1,37 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+5SproXmRUkI,armor Lake,GeographicFeature,NONE,NONE,0.646226,negative,-0.801484,0.33100999999999997,0.5923069999999999,0.041552,0.027912,0.0539,1,1,armor Lake,armor Lake,armor Lake,arm Lake,armor lake,armor lake,arm lak,NONE,-0.9722,0.127,0.11,0.762,0.03048039923039922,0.5475408850408849,negative,-0.599568,0.135377,0.546549,0.5165270000000001,0.543956,0.129164,0.10000000149011612,10.5,Vaccination,2017-11-14T22:00:01.000Z,UCRFIPG2u1DxKLNuE3y2SjHA,Why Do We Get Vaccines?,"Jessi is about to go to the doctor's to get a vaccine and she's sort of nervous. But she knows that vaccines are really important, so she learned all about how they help us stay healthy! Now she wants to share what she learned with you!
+----------
+Hi there! We at SciShow want to learn more about you and your opinions! If you have time, please take a moment to fill out this survey: https://www.surveymonkey.com/r/SciShowSurvey2017
+Thank you! 
+----------
+Love SciShow Kids and want to help support it? Become a patron on Patreon: 
+https://www.patreon.com/scishowkids
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+SOURCES:
+http://kidshealth.org/en/kids/guide-shots.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+http://www.ducksters.com/science/biology/immune_system.php",SciShow Kids,"scishow', 'scishowkids', 'Jessi Knudsen', 'Jessi Knudsen Castaneda', 'Squeaks', 'science', 'kids', 'children', 'learning', 'education', 'school', 'sci', 'show', 'hank', 'green', 'home', 'curriculum', 'kindergarten', 'activities', 'doctor', 'health', 'medicine', 'animation', 'cartoon', 'virus', 'blood cell', 'immune system', 'medical science', 'nurse', ""doctor's office"", 'kids questions', 'questions', 'puppet', 'fun', 'medical procedure', 'booster shot', 'vaccine', 'germ', 'sick', 'colf', 'flu'",PT3M31S,211,4
+5SproXmRUkI,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.719809,negative,-0.894789,0.582589,0.319678,0.054342999999999995,0.17641400000000002,0.151449,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,-0.9722,0.127,0.11,0.762,0.03048039923039922,0.5475408850408849,negative,-0.599568,0.135377,0.546549,0.5165270000000001,0.543956,0.129164,0.10000000149011612,10.5,Vaccination,2017-11-14T22:00:01.000Z,UCRFIPG2u1DxKLNuE3y2SjHA,Why Do We Get Vaccines?,"Jessi is about to go to the doctor's to get a vaccine and she's sort of nervous. But she knows that vaccines are really important, so she learned all about how they help us stay healthy! Now she wants to share what she learned with you!
+----------
+Hi there! We at SciShow want to learn more about you and your opinions! If you have time, please take a moment to fill out this survey: https://www.surveymonkey.com/r/SciShowSurvey2017
+Thank you! 
+----------
+Love SciShow Kids and want to help support it? Become a patron on Patreon: 
+https://www.patreon.com/scishowkids
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+SOURCES:
+http://kidshealth.org/en/kids/guide-shots.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+http://www.ducksters.com/science/biology/immune_system.php",SciShow Kids,"scishow', 'scishowkids', 'Jessi Knudsen', 'Jessi Knudsen Castaneda', 'Squeaks', 'science', 'kids', 'children', 'learning', 'education', 'school', 'sci', 'show', 'hank', 'green', 'home', 'curriculum', 'kindergarten', 'activities', 'doctor', 'health', 'medicine', 'animation', 'cartoon', 'virus', 'blood cell', 'immune system', 'medical science', 'nurse', ""doctor's office"", 'kids questions', 'questions', 'puppet', 'fun', 'medical procedure', 'booster shot', 'vaccine', 'germ', 'sick', 'colf', 'flu'",PT3M31S,211,4

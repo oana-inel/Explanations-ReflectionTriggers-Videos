@@ -1,0 +1,351 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+41gMQpy7Cok,25 years,Quantity,NONE,NONE,0.282222,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Artie,Person,NONE,NONE,0.354135,negative,-0.697952,0.0,0.0,0.0,0.0,0.0,1,1,Artie,Artie,Artie,Artie,arti,arti,arty,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.532069,negative,-0.653626,0.461603,0.203657,0.256375,0.184148,0.111651,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Belgium,Location,Country,NONE,0.29299899999999995,neutral,0.0,0.311279,0.139543,0.12128399999999999,0.30612,0.109382,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Carlos,Person,NONE,NONE,0.309661,neutral,0.0,0.172727,0.173565,0.42145,0.242493,0.077912,1,1,Carlos,Carlos,Carlos,Carlos,carlo,carlo,carlo,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.52308,neutral,0.0,0.277652,0.083343,0.273012,0.411318,0.119652,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Catalan Society,Organization,NONE,NONE,0.399273,neutral,0.0,0.462337,0.102237,0.100232,0.30458,0.32434,2,1,Catalan Society,Catalan Society,Catalan Society,Catalan Society,catalan societi,catalan societi,cat socy,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Catalonia,Location,Country,NONE,0.656708,negative,-0.6082420000000001,0.365624,0.012740999999999999,0.057970000000000015,0.6487970000000001,0.138822,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Catalonia sap,Location,City,NONE,0.391971,neutral,0.0,0.394073,0.012145999999999999,0.067561,0.440125,0.15647,1,1,Catalonia sap,Catalonia sap,Catalonia sap,Catalonia sap,catalonia sap,catalonia sap,catalon sap,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Charlotte dubinsky,Person,NONE,NONE,0.343348,negative,-0.697952,0.192578,0.07411799999999999,0.24919899999999998,0.025162999999999998,0.08539400000000001,1,1,Charlotte dubinsky,Charlotte dubinski,Charlotte dubinski,Charlotte dubinsky,charlott dubinski,charlott dubinski,charlot dubinsky,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.329442,neutral,0.0,0.340494,0.057642,0.107003,0.100467,0.09328,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,European Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/European_Parliament,0.5908640000000001,negative,-0.598053,0.377443,0.014761000000000003,0.026082,0.655892,0.193379,3,1,European Parliament,European Parliament,European Parliament,European Parliament,european parliament,european parliament,europ parlia,http://en.wikipedia.org/wiki/European_Parliament,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Josep Maria,Person,NONE,NONE,0.30638699999999996,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Josep Maria,Josep Maria,Josep Maria,Josep Maria,josep maria,josep maria,josep mar,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.46817600000000004,neutral,0.0,0.294858,0.143075,0.182867,0.218971,0.211966,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Prime Minister,JobTitle,NONE,NONE,0.422152,neutral,0.0,0.217917,0.061804,0.347472,0.38574400000000003,0.12934500000000002,2,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.36992800000000003,neutral,0.0,0.281977,0.013923,0.11414400000000001,0.657083,0.156433,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.35288200000000003,neutral,0.0,0.281977,0.013923,0.11414400000000001,0.657083,0.156433,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Terry cabras,Person,NONE,NONE,0.282222,neutral,0.0,0.096217,0.087175,0.243497,0.026654,0.017213,1,1,Terry cabras,Terry cabra,Terry cabra,Terry cabra,terri cabra,terri cabra,terry cabra,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,Twitter,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Twitter,0.371367,positive,0.674984,0.204821,0.097945,0.243878,0.089442,0.029925,1,1,Twitter,Twitter,Twitter,Twitter,twitter,twitter,twit,http://en.wikipedia.org/wiki/Twitter,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,president,JobTitle,NONE,NONE,0.753735,negative,-0.598053,0.29173899999999997,0.046257,0.076274,0.6412399999999999,0.21915,5,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,prime minister,JobTitle,NONE,NONE,0.339432,neutral,0.0,0.34823000000000004,0.023526,0.08389400000000001,0.655036,0.090531,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,regional Parliament,Organization,NONE,NONE,0.42386899999999994,neutral,0.0,0.340494,0.057642,0.107003,0.100467,0.09328,1,1,regional Parliament,region Parliament,region Parliament,reg Parliament,region parliament,region parliament,reg parlia,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,representative,JobTitle,NONE,NONE,0.301894,neutral,0.0,0.340494,0.057642,0.107003,0.100467,0.09328,1,1,representative,repres,repres,repres,repres,repres,repres,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,two years,Quantity,NONE,NONE,0.282222,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5
+41gMQpy7Cok,vice president,JobTitle,NONE,NONE,0.354073,neutral,0.0,0.277652,0.083343,0.273012,0.411318,0.119652,1,1,vice president,vice presid,vice presid,vic presid,vice presid,vice presid,vic presid,NONE,-0.9619,0.098,0.07,0.8320000000000001,-0.02879877645502647,0.28115492724867724,negative,-0.595551,0.146345,0.162617,0.575625,0.1299,0.501186,-0.10000000149011612,7.699999809265138,Catalonia Independence,2017-10-30T17:07:26.000Z,UCpwvZwUam-URkxB7g4USKpg,Spain Divided: Country deeply split over Catalan independence,"Spanish prosecutors have filed charges of rebellion and sedition against Catalonia's former leadership. RT's Charlotte Dubenskij is following developments in Barcelona.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Spain Divided', 'Catalan independence', 'Spanish', 'Charlotte Dubenskij', 'Barcelona', 'rebellion', ""Catalonia's former leadership"", 'Catalonia'",PT4M34S,274,5

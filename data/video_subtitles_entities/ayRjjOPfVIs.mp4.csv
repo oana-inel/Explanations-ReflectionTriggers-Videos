@@ -1,0 +1,221 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ayRjjOPfVIs,20 days,Quantity,NONE,NONE,0.247629,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 day,20 day,20 day,20 day,20 day,20 day,20 day,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.280071,positive,0.7366550000000001,0.10194,0.119029,0.733138,0.071845,0.013071000000000001,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Carlos Pooja,Person,NONE,NONE,0.269855,neutral,0.0,0.144548,0.087573,0.183162,0.077654,0.107748,1,1,Carlos Pooja,Carlos Pooja,Carlos Pooja,Carlos Pooja,carlo pooja,carlo pooja,carlo pooj,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.4129140000000001,negative,-0.817489,0.578657,0.099125,0.025351,0.409996,0.200326,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Catalonia,Location,City,NONE,0.808921,positive,0.738328,0.080935,0.046998000000000005,0.750743,0.06880800000000001,0.08405399999999999,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.247629,neutral,0.0,0.21224200000000001,0.11663499999999999,0.170933,0.25695100000000004,0.235105,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.497338,negative,-0.574049,0.493392,0.082013,0.12353800000000001,0.30959000000000003,0.097981,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,Spanish government,Organization,NONE,NONE,0.284494,negative,-0.689896,0.445989,0.22470500000000002,0.108297,0.151889,0.190807,1,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,president,JobTitle,NONE,NONE,0.327362,negative,-0.817489,0.548037,0.085529,0.028769,0.425368,0.224568,2,1,president,presid,presid,presid,presid,presid,presid,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,prosecutor,JobTitle,NONE,NONE,0.264575,negative,-0.817489,0.548421,0.085375,0.033063,0.422785,0.226041,2,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2
+ayRjjOPfVIs,three weeks,Quantity,NONE,NONE,0.247629,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.815,0.081,0.124,0.795,0.16798319327731093,0.5235994397759103,positive,0.567697,0.13301500000000002,0.610635,0.483676,0.077,0.150066,0.0,3.9000000953674316,Catalonia Independence,2017-09-12T10:02:05.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Hundreds of thousands rally for Catalonia's independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Hundreds of thousands of Catalans rallied in Barcelona on Monday, waving red and yellow striped flags and banging drums in support of independence.
+
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalonia', 'Catalan independence', 'demonstrations', 'Not Specified', 'france24', 'news'",PT1M43S,103,2

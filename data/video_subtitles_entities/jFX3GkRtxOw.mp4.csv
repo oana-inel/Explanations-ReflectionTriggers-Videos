@@ -1,0 +1,106 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jFX3GkRtxOw,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.255304,neutral,0.0,0.338598,0.017231,0.42583699999999997,0.073676,0.087094,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,Nigeria,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Nigeria,0.8737379999999999,negative,-0.5930479999999999,0.170694,0.094813,0.18383,0.06912599999999999,0.050047,7,1,Nigeria,Nigeria,Nigeria,Nigeria,nigeria,nigeria,niger,http://en.wikipedia.org/wiki/Nigeria,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,Rhonda,Person,NONE,NONE,0.261135,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Rhonda,Rhonda,Rhonda,Rhonda,rhonda,rhonda,rhond,NONE,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.211706,negative,-0.73277,0.617591,0.090402,0.126585,0.145197,0.142092,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,Uganda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Uganda,0.226242,negative,-0.619661,0.25378,0.158978,0.242063,0.075365,0.143627,1,1,Uganda,Uganda,Uganda,Uganda,uganda,uganda,ugand,http://en.wikipedia.org/wiki/Uganda,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,muhammadu buhari,Person,"Politician, President",http://dbpedia.org/resource/Muhammadu_Buhari,0.273758,negative,-0.678657,0.455561,0.367285,0.121894,0.101746,0.15266300000000002,2,1,muhammadu buhari,muhammadu buhari,muhammadu buhari,muhammadu buhar,muhammadu buhari,muhammadu buhari,muhammadu buhar,http://en.wikipedia.org/wiki/Muhammadu_Buhari,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3
+jFX3GkRtxOw,president,JobTitle,NONE,NONE,0.20826,negative,-0.619661,0.25378,0.158978,0.242063,0.075365,0.143627,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9492,0.041,0.102,0.858,0.08364661654135337,0.2773809523809524,negative,-0.31874600000000003,0.087759,0.542758,0.511166,0.465056,0.07212,0.10000000149011612,3.4000000953674316,Free Trade,2018-03-21T14:15:23.000Z,UC1_E8NeF5QHY2dtdLRBCCLA,Forty-four countries sign historic Africa Union free trade agreement,"Forty-four African countries have signed up to a historic trade agreement aimed at paving the way for a liberalized market for goods and services across the continent.
+
+The African Continental Free Trade Area (AfCFTA), an agreement cast in the mold of the European Union's version was signed during the 10th Ordinary Session of African Union Heads of State summit held in the Rwandan capital, Kigali.
+
+The AfCFTA gives birth to the world's largest free trade area since the World Trade Organization w…
+READ MORE : http://www.africanews.com/2018/03/21/forty-four-countries-sign-historic-africa-union-free-trade-agreement
+
+Africanews on YouTube brings you a daily dose of news, produced and realised in Africa, by and for Africans.
+Africanews is the first pan-African multilingual media outlet, unique in its concept and vision.
+Subscribe on our Youtube channel https://www.youtube.com/c/africanews and receive all the latest news from the continent.
+
+Africanews is available in English and French.
+Website : www.africanews.com
+Facebook : https://www.facebook.com/africanews.channel/
+Twitter : https://twitter.com/africanews",africanews,"africanews', 'af_business'",PT2M1S,121,3

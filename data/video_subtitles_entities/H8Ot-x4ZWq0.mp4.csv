@@ -1,0 +1,211 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+H8Ot-x4ZWq0,90 percent,Quantity,NONE,NONE,0.34065,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 percent,90 percent,90 percent,90 perc,90 percent,90 percent,90 perc,NONE,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,China,Location,"GeographicFeature, Island, Country",http://dbpedia.org/resource/Taiwan,0.46572399999999997,negative,-0.622309,0.11573599999999999,0.45766599999999996,0.45162299999999994,0.0074340000000000005,0.077016,2,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/Taiwan,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,Germany,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Germany,0.375282,neutral,0.0,0.42684399999999995,0.099677,0.29401900000000003,0.032563,0.15712,1,1,Germany,Germany,Germany,Germany,germani,germani,germany,http://en.wikipedia.org/wiki/Germany,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,Greece,Location,Country,NONE,0.34065,neutral,0.0,0.173923,0.07844,0.241965,0.179801,0.441287,1,1,Greece,Greece,Greece,Greece,greec,greec,greec,NONE,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,India,Location,"HumanLanguage, Region, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/India,0.480991,negative,-0.622309,0.11573599999999999,0.45766599999999996,0.45162299999999994,0.0074340000000000005,0.077016,2,1,India,India,India,India,india,india,ind,http://en.wikipedia.org/wiki/India,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,International Trade,Company,NONE,NONE,0.9097930000000001,positive,0.06515800000000001,0.626683,0.17358099999999999,0.50183,0.115855,0.252125,8,1,International Trade,International Trade,International Trade,International Trade,intern trade,intern trade,intern trad,NONE,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.831299,negative,-0.406593,0.262023,0.065673,0.46208699999999997,0.08092200000000001,0.079444,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,Zimbabwe,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Zimbabwe,0.369171,neutral,0.0,0.174264,0.416975,0.079526,0.137847,0.100132,1,1,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,zimbabw,zimbabw,zimbabw,http://en.wikipedia.org/wiki/Zimbabwe,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,partner,JobTitle,NONE,NONE,0.347715,neutral,0.0,0.42684399999999995,0.099677,0.29401900000000003,0.032563,0.15712,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7
+H8Ot-x4ZWq0,president,JobTitle,NONE,NONE,0.407551,negative,-0.8263530000000001,0.123242,0.036136,0.6424489999999999,0.084901,0.188589,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9847,0.077,0.114,0.8079999999999999,0.16086226851851854,0.5107137345679015,positive,0.336689,0.17718399999999998,0.5202060000000001,0.518896,0.14245,0.084406,-0.10000000149011612,8.399999618530272,Free Trade,2010-04-09T11:24:41.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Obama and Free Trade: Q&A With Jagdish Bhagwati,"Free trade is never more necessary - or vulnerable - than in times of economic distress. The current global downturn is no exception. Protectionist barriers have shot up all over the world, including the United States.
+
+Last year, Congress killed a pilot program allowing Mexican trucks to transport goods across America and included Buy America provisions in the stimulus bill banning foreign steel and iron from infrastructure projects funded by the legislation. 
+
+More disturbingly, President Barack Obama, after chiding Congress for flirting with protectionism, initiated his own ill-advised affair by imposing a 35 percent tariff on cheap Chinese tires. 
+
+If the world manages to avoid an all-out trade war of the kind that helped trigger the Great Depression after the U.S. imposed the Smoot-Hawley tariffs in 1930, it will be in no small part due to the efforts of one man: Jagdish N. Bhagwati, an ebullient and irreverent 76-year-old professor of economics at Columbia University. 
+
+Bhagwati has done more than perhaps any other person alive to advance the cause of unfettered global trade. A native of India, Bhagwati immigrated to the United States in the late 60s after a brief stint on the Indian Planning Commission, where he learned first-hand the insanity of an economic approach that tried to modernize a country by cutting it off from world trade.
+
+Since then, he has devoted his efforts, both in academia and in the popular press, to showing that there is no better way of improving the lot of both advanced countries and the developing world than through free trade. His path-breaking contributions to trade theory have put him on the short list for a Nobel Prize in economics. 
+
+Though a dogged trade advocate, Bhagwati is anything but dogmatic. He is a free spirit who draws intellectual inspiration from many disparate ideological camps. A self-avowed liberal, he is also something of a Gandhian social progressive, though Gandhi himself supported economic autarky. Bhagwati works with numerous Third World NGOs on a host of human rights issues. Yet he has no problem taking on these groups - or his famous student, Nobel laureate Paul Krugman - when they question the benefits of trade. 
+
+In fact, he devoted his 2004 magnum opus, In Defense of Globalization, to a point-by-point rebuttal of these critics. Although he doesnt vote Republican because he dislikes the partys nationalistic jingoism, he readily declares that Democrats pose a far bigger threat to international exchange than Republicans. 
+
+Last summer, Shikha Dalmia, a senior analyst at the Reason Foundation, interviewed Bhagwati in his New York office. For a transcript of that interview, go to http://reason.com.
+
+This video interview was filmed on the same day and conducted by Dalmia, Reason Associate Editor Damon W. Root, and Reason.tv's Dan Hayes, who shot and edited the video. Approximately 6 minutes.
+
+Go to Reason.tv for downloadabe iPod, HD, and audio versions. And subscribe to Reason.tv's YouTube channel and receive automatic notifications when new material goes live.",ReasonTV,"reason.tv', 'reason.com', 'reason.org', 'reason magazine', 'reason foundation', 'free trade', 'globalization', 'jagdish bhagwati', 'barack obama', 'smoot hawley', 'dan hayes', 'damon w root', 'shikha dalmia'",PT6M17S,377,7

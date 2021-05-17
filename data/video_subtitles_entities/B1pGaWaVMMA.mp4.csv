@@ -1,0 +1,76 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+B1pGaWaVMMA,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.895784,neutral,0.0,0.683441,0.14895999999999998,0.548665,0.14269600000000002,0.19154000000000002,12,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Cardiff,Location,"AdministrativeDivision, GovernmentalJurisdiction, WelshPrincipalArea, City",http://dbpedia.org/resource/Cardiff,0.172954,neutral,0.0,0.274009,0.040563999999999996,0.493971,0.124366,0.087122,1,1,Cardiff,Cardiff,Cardiff,Cardiff,cardiff,cardiff,cardiff,http://en.wikipedia.org/wiki/Cardiff,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Catalonia,Location,City,NONE,0.454549,positive,0.540909,0.30591799999999997,0.1049,0.539092,0.123324,0.20614899999999997,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Catalonia,Location,Country,NONE,0.49746899999999994,positive,0.658109,0.30591799999999997,0.1049,0.539092,0.123324,0.20614899999999997,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,El Clasico,GeographicFeature,NONE,NONE,0.19555899999999998,negative,-0.708747,0.4743979999999999,0.2260800000000001,0.022371000000000002,0.209286,0.317311,1,1,El Clasico,El Clasico,El Clasico,El Clasico,El clasico,el clasico,el clasico,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,La Liga,Location,City,NONE,0.662234,negative,-0.488367,0.50613,0.114745,0.565248,0.148701,0.269365,8,1,La Liga,La Liga,La Liga,La Liga,La liga,la liga,la lig,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Las Vegas,Location,City,http://dbpedia.org/resource/Las_Vegas,0.196329,negative,-0.657116,0.824142,0.14339200000000002,0.058728999999999996,0.080334,0.023763,1,1,Las Vegas,Las Vegas,Las Vegas,Las Vegas,la vega,las vega,las vega,http://en.wikipedia.org/wiki/Las_Vegas,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Peter,Person,NONE,NONE,0.225752,neutral,0.0,0.21661,0.125374,0.467929,0.219698,0.11002,1,1,Peter,Peter,Peter,Peter,peter,peter,pet,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Premier League of England,Organization,NONE,NONE,0.213214,neutral,0.0,0.274009,0.040563999999999996,0.493971,0.124366,0.087122,1,1,Premier League of England,Premier League of England,Premier League of England,Premier League of England,premier leagu of england,premier leagu of england,premy leagu of england,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Real Madrid,Location,City,NONE,0.233129,negative,-0.708747,0.478462,0.27221599999999996,0.042427,0.26692,0.30299499999999996,2,1,Real Madrid,Real Madrid,Real Madrid,Real Madrid,real madrid,real madrid,real madrid,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,Swansea,Location,"AdministrativeDivision, GovernmentalJurisdiction, WelshPrincipalArea, City",http://dbpedia.org/resource/Swansea,0.165232,neutral,0.0,0.274009,0.040563999999999996,0.493971,0.124366,0.087122,1,1,Swansea,Swansea,Swansea,Swansea,swansea,swansea,swanse,http://en.wikipedia.org/wiki/Swansea,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,United Kingdom,Organization,"Location, AdministrativeDivision, Country, GovernmentalJurisdiction, Kingdom, MeteorologicalService",http://dbpedia.org/resource/United_Kingdom,0.17876,neutral,0.0,0.28943800000000003,0.333239,0.075,0.053786,0.11539500000000001,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,football,Sport,NONE,NONE,0.334993,positive,0.8543780000000001,0.31308400000000003,0.116559,0.45927399999999996,0.095411,0.165746,4,1,football,footbal,footbal,footbal,footbal,footbal,footbal,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,official,JobTitle,NONE,NONE,0.28197300000000003,negative,-0.152924,0.292404,0.16380699999999998,0.318302,0.20965,0.186638,3,1,official,offici,offici,off,offici,offici,off,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5
+B1pGaWaVMMA,prime minister,JobTitle,NONE,NONE,0.20318599999999998,positive,0.4360189999999999,0.0,0.0,0.0,0.0,0.0,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9926,0.041,0.091,0.868,0.11063179953629396,0.5180020510076688,negative,-0.28388800000000003,0.165218,0.514288,0.532895,0.138712,0.150401,0.0,12.800000190734865,Catalonia Independence,2017-10-02T22:30:02.000Z,UCvExuGSwx1Yw30dDY8JEJ3w,What league will Barcelona play in if Catalonia becomes independent?,"TWITTER - http://www.twitter.com/FCBNewsRoom
+
+FACEBOOK - http://www.facebook.com/TalKFCB
+
+SUPPORT ME ON PATREON  - https://www.patreon.com/TalkFCB",TalkFCB,,PT4M55S,295,5

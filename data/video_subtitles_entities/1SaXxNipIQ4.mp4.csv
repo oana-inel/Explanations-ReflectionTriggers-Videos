@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+1SaXxNipIQ4,180 days,Quantity,NONE,NONE,0.2497780000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,3,1,180 day,180 day,180 day,180 day,180 day,180 day,180 day,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,50 years,Quantity,NONE,NONE,0.2497780000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.83165,positive,0.6274850000000001,0.11306500000000001,0.059026999999999996,0.731116,0.022141,0.009512,7,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,African Market,Company,NONE,NONE,0.428091,positive,0.629351,0.06372,0.05032,0.537419,0.06169400000000001,0.129876,1,1,African Market,african Market,african Market,afr Market,african market,african market,afr market,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,African Union Summit,Organization,NONE,NONE,0.388444,neutral,0.0,0.388602,0.106801,0.242215,0.12145999999999996,0.28342,1,1,African Union Summit,African Union Summit,African Union Summit,African Union Summit,african union summit,african union summit,afr un summit,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Africans Civil Society,Organization,NONE,NONE,0.27954,positive,0.9133389999999999,0.181647,0.022264,0.554646,0.012154,0.029066,1,1,Africans Civil Society,Africans Civil Society,Africans Civil Society,Africans Civil Society,african civil societi,african civil societi,afr civil socy,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.306001,negative,-0.560476,0.32269699999999996,0.296711,0.335952,0.086089,0.076137,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,FDA,Organization,NONE,NONE,0.320013,neutral,0.0,0.413037,0.181099,0.176921,0.147232,0.11866199999999999,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Kenya,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Kenya,0.358087,positive,0.44682299999999997,0.0,0.0,0.0,0.0,0.0,1,1,Kenya,Kenya,Kenya,Kenya,kenya,kenya,keny,http://en.wikipedia.org/wiki/Kenya,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Kenyatta South Africa,Location,City,NONE,0.395194,positive,0.44682299999999997,0.0,0.0,0.0,0.0,0.0,1,1,Kenyatta South Africa,Kenyatta South Africa,Kenyatta South Africa,Kenyatta South Africa,kenyatta south africa,kenyatta south africa,kenyatt sou afric,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Kigali,Location,City,http://dbpedia.org/resource/Kigali,0.599729,negative,-0.765473,0.19203299999999998,0.161464,0.41670100000000004,0.09818500000000001,0.159358,3,1,Kigali,Kigali,Kigali,Kigali,kigali,kigali,kigal,http://en.wikipedia.org/wiki/Kigali,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Michael Cote,Person,NONE,NONE,0.415016,positive,0.602503,0.09933099999999999,0.108999,0.529043,0.085185,0.12239900000000001,2,1,Michael Cote,Michael Cote,Michael Cote,Michael Cote,michael cote,michael cote,michael cot,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Nigeria,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Nigeria,0.355792,neutral,0.0,0.101025,0.154597,0.36999899999999997,0.047458,0.242042,1,1,Nigeria,Nigeria,Nigeria,Nigeria,nigeria,nigeria,niger,http://en.wikipedia.org/wiki/Nigeria,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Rama,Person,NONE,NONE,0.432939,positive,0.578041,0.090147,0.068858,0.646456,0.023986,0.026876999999999998,2,1,Rama,Rama,Rama,Rama,rama,rama,ram,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Rwanda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Rwanda,0.350426,neutral,0.0,0.413037,0.181099,0.176921,0.147232,0.11866199999999999,1,1,Rwanda,Rwanda,Rwanda,Rwanda,rwanda,rwanda,rwand,http://en.wikipedia.org/wiki/Rwanda,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Secretariat,Organization,NONE,NONE,0.298173,neutral,0.0,0.248299,0.137139,0.3835,0.089576,0.16819800000000001,1,1,Secretariat,Secretariat,Secretariat,Secretariat,secretariat,secretariat,secret,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,Uganda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Uganda,0.37363,neutral,0.0,0.4129020000000001,0.096323,0.256319,0.045311000000000004,0.131909,1,1,Uganda,Uganda,Uganda,Uganda,uganda,uganda,ugand,http://en.wikipedia.org/wiki/Uganda,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,business Community,Organization,NONE,NONE,0.27731300000000003,negative,-0.685415,0.157953,0.10486500000000001,0.239096,0.052814,0.145783,1,1,business Community,busi Community,busi Community,busy Community,busi commun,busi communiti,busy commun,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,chief strategist,JobTitle,NONE,NONE,0.4250850000000001,positive,0.739647,0.05843200000000001,0.106521,0.611554,0.051777,0.156987,2,1,chief strategist,chief strategist,chief strategist,chief strategist,chief strategist,chief strategist,chief strategist,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,eighty days,Quantity,NONE,NONE,0.2497780000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eighty day,eighti day,eighti day,eighty day,eighti day,eighti day,eighty day,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,forty three liters,Quantity,NONE,NONE,0.2497780000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,forty three liter,forti three liter,forti three liter,forty three lit,forti three liter,forti three liter,forty three lit,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,ganas Nana,GeographicFeature,NONE,NONE,0.348105,positive,0.44682299999999997,0.067357,0.04155,0.430382,0.020031999999999998,0.028265,1,1,ganas Nana,gana Nana,gana Nana,gana Nana,gana nana,gana nana,gana nan,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,lausanne,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Lausanne,0.323972,positive,0.718376,0.45561,0.21176599999999998,0.090836,0.340595,0.19719,1,1,lausanne,lausann,lausann,lausan,lausann,lausann,lausan,http://en.wikipedia.org/wiki/Lausanne,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8
+1SaXxNipIQ4,president,JobTitle,NONE,NONE,0.317774,neutral,0.0,0.413037,0.181099,0.176921,0.147232,0.11866199999999999,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9997,0.028,0.185,0.787,0.19669324075264674,0.4655451259411655,positive,0.727837,0.116562,0.599823,0.230094,0.12584800000000002,0.078687,0.10000000149011612,13.899999618530273,Free Trade,2018-03-21T18:46:42.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,44 countries sign Continental Free Trade Area deal in Kigali,"Africa's dream of establishing a continental free trade area has moved one step closer to realization after 44 countries signed the agreement in Kigali, Rwanda. About 18 heads of state were present at the signing, including Kenya's Uhuru Kenyatta, South Africa's Cyril Ramaphosa and Ghana's Nana Akufo Addo. 
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', '44 countries', 'Continental Free Trade Area', 'Kigali', ""Kenya's Uhuru Kenyatta"", ""South Africa's Cyril Ramaphosa"", ""Ghana's Nana Akufo Addo""",PT7M29S,449,8

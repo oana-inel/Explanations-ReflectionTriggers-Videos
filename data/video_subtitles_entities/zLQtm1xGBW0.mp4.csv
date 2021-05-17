@@ -1,0 +1,169 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zLQtm1xGBW0,55%,Quantity,NONE,NONE,0.168648,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,55 %,55 %,55 %,55 %,55 %,55 %,55 %,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,80%,Quantity,NONE,NONE,0.168648,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,80 %,80 %,80 %,80 %,80 %,80 %,80 %,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.234487,positive,0.8367399999999999,0.354867,0.06219400000000001,0.39628800000000003,0.101262,0.21273000000000009,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Catalonia,Location,City,NONE,0.957722,positive,0.322373,0.47927,0.08718,0.214773,0.47162299999999996,0.550728,10,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.22537100000000002,positive,0.8367399999999999,0.354867,0.06219400000000001,0.39628800000000003,0.101262,0.21273000000000009,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.200902,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.314131,positive,0.083677,0.299041,0.049532,0.129712,0.168753,0.583622,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Nash,Person,NONE,NONE,0.178705,neutral,0.0,0.391006,0.197689,0.317795,0.136708,0.06294,3,1,Nash,Nash,Nash,Nash,nash,nash,nash,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Norway,Location,"HumanLanguage, GovernmentalJurisdiction, Kingdom, AwardDiscipline, Country",http://dbpedia.org/resource/Norway,0.178563,positive,0.710491,0.062054,0.083009,0.588122,0.062891,0.144555,1,1,Norway,Norway,Norway,Norway,norway,norway,norway,http://en.wikipedia.org/wiki/Norway,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.563159,negative,-0.045816,0.4703100000000001,0.183854,0.08065900000000001,0.45446499999999995,0.560561,8,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Spanish Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Cortes_Generales,0.19615,neutral,0.0,0.33620500000000003,0.057114,0.031403,0.508945,0.334146,1,1,Spanish Parliament,spanish Parliament,spanish Parliament,span Parliament,spanish parliament,spanish parliament,span parlia,http://en.wikipedia.org/wiki/Cortes_Generales,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,Sweden,Location,"SportsTeam, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Sweden,0.169762,positive,0.710491,0.062054,0.083009,0.588122,0.062891,0.144555,1,1,Sweden,Sweden,Sweden,Sweden,sweden,sweden,swed,http://en.wikipedia.org/wiki/Sweden,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,prime minister,JobTitle,NONE,NONE,0.168914,neutral,0.0,0.33620500000000003,0.057114,0.031403,0.508945,0.334146,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4
+zLQtm1xGBW0,rajoy,Person,NONE,NONE,0.18069000000000002,neutral,0.0,0.305374,0.052395000000000004,0.04462,0.510416,0.34589899999999996,3,1,rajoy,rajoy,rajoy,rajoy,rajoy,rajoy,rajoy,NONE,0.9752,0.05,0.095,0.855,0.13316666666666666,0.4599285714285714,positive,0.58302,0.171127,0.606317,0.235202,0.127328,0.153807,0.10000000149011612,7.099999904632568,Catalonia Independence,2014-06-02T08:00:16.000Z,UCpwvZwUam-URkxB7g4USKpg,Degrees of Separation: Catalonia independence cries get louder,"The European parliamentary election has highlighted a widening gap between Madrid and Catalonia. More than 55% of Catalans voted for parties calling for a referendum on independence from Spain. RT's Egor Piskunov investigates the growing mood of separatism in the region.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'right for self-determination', 'democracy', 'spain', 'referendum', 'eu', 'eu election', 'parliament', 'madrid', 'Egor Piskunov'",PT3M57S,237,4

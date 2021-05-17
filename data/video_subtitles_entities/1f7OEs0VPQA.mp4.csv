@@ -1,0 +1,79 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+1f7OEs0VPQA,Catalonia,Location,City,NONE,0.870202,neutral,0.0,0.162363,0.238916,0.204819,0.10717,0.07371,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3
+1f7OEs0VPQA,Charlie,Person,NONE,NONE,0.664439,negative,-0.64291,0.0,0.0,0.0,0.0,0.0,1,1,Charlie,Charlie,Charlie,Charlie,charli,charli,char,NONE,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3
+1f7OEs0VPQA,Peugeot,Company,NONE,NONE,0.687002,negative,-0.64291,0.16589600000000002,0.039351,0.5552560000000001,0.18979200000000002,0.106491,1,1,Peugeot,Peugeot,Peugeot,Peugeot,peugeot,peugeot,peugeot,NONE,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3
+1f7OEs0VPQA,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.701318,neutral,0.0,0.162363,0.238916,0.204819,0.10717,0.07371,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3
+1f7OEs0VPQA,Theresa,Person,NONE,NONE,0.6813020000000001,positive,0.8366319999999999,0.10621400000000003,0.054765999999999995,0.742329,0.05239,0.031555,1,1,Theresa,Theresa,Theresa,Theresa,theresa,theresa,theres,NONE,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3
+1f7OEs0VPQA,prime minister,JobTitle,NONE,NONE,0.768928,positive,0.8366319999999999,0.10621400000000003,0.054765999999999995,0.742329,0.05239,0.031555,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9966,0.015,0.229,0.757,0.2348051948051948,0.4691197691197691,positive,0.593383,0.124216,0.601104,0.233715,0.077544,0.091843,0.30000001192092896,6.300000190734862,Catalonia Independence,2017-10-06T16:30:49.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,"Catalonia's independence referendum, cartooned | The Economist","Catalonia's independence referendum has ended with the Catalan president, Carles Puigdemont, stuck in a quagmire. Our cartoonist KAL talks through how he expressed those difficulties for his latest cartoon.
+
+Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7 
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://films.economist.com/ 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: https://medium.com/@the_economist",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'Catalan referendum', 'Catalonia', 'Spain', 'independence referendum', 'Spanish government', 'spanish constitution', 'Carles Puigdemont', 'Brexit', 'theresa may', 'economist', 'the economist', 'economist films'",PT2M4S,124,3

@@ -1,0 +1,82 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+eaKAKtGod7s,12 months,Quantity,NONE,NONE,0.260846,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,12 month,12 month,12 month,12 month,12 month,12 month,12 month,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Brussels,Location,"AdministrativeDivision, SchoolDistrict, City",http://dbpedia.org/resource/Brussels,0.260846,neutral,0.0,0.287864,0.057039,0.155005,0.06566699999999999,0.207605,1,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,http://en.wikipedia.org/wiki/Brussels,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.557606,neutral,0.0,0.597228,0.090883,0.166297,0.135647,0.171471,2,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Declaration of Independence,Organization,NONE,NONE,0.570142,neutral,0.0,0.271283,0.107396,0.4876470000000001,0.092419,0.077174,1,1,Declaration of Independence,declar of Independence,declar of Independence,decl of Independence,declar of independ,declar of independ,decl of independ,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.275912,positive,0.5573600000000001,0.313332,0.06629600000000001,0.4000530000000001,0.087492,0.240806,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,European Union Artemis,Organization,NONE,NONE,0.265023,neutral,0.0,0.287864,0.057039,0.155005,0.06566699999999999,0.207605,1,1,European Union Artemis,European Union Artemis,European Union Artemis,European Union Artemis,european union artemi,european union artemi,europ un artem,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Madrid,Person,NONE,NONE,0.970923,positive,0.195099,0.563914,0.130441,0.24754600000000002,0.161591,0.137353,7,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,Parliament,Organization,NONE,NONE,0.302994,neutral,0.0,0.153925,0.059349,0.25259899999999996,0.4112810000000001,0.10015700000000001,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4
+eaKAKtGod7s,president,JobTitle,NONE,NONE,0.347246,positive,0.5573600000000001,0.580767,0.06843099999999999,0.163197,0.116086,0.245573,2,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9911,0.038,0.133,0.83,0.0693347338935574,0.39310924369747896,positive,0.432511,0.122697,0.678082,0.549303,0.124775,0.124302,0.0,5.0,Catalonia Independence,2017-10-11T10:54:50.000Z,UC6o-wWU-v2ClFMwougmK7dA,"Former Catalan leader Artur Mas on the referendum, independence and plan for talks  - BBC Newsnight","Former Catalan leader Artur Mas speaks to Emily Maitlis as current president Carles Puigdemont says he will deliver the on independence vote - but asks the Catalan parliament to suspend the result to enable talks with Madrid.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'catalan', 'catalonia', 'talks', 'madrid', 'barcelona', 'Puigdemont', 'arthur mas', 'referendum', 'vote'",PT3M31S,211,4

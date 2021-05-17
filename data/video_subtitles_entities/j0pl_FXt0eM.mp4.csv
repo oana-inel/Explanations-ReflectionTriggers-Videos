@@ -1,0 +1,496 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+j0pl_FXt0eM,Adam Smith,Person,Philosopher,http://dbpedia.org/resource/Adam_Smith,0.202603,neutral,0.0,0.160725,0.043696,0.502504,0.24810900000000002,0.14185,2,1,Adam Smith,Adam Smith,Adam Smith,Adam Smith,adam smith,adam smith,adam smi,http://en.wikipedia.org/wiki/Adam_Smith,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,America,Location,Continent,NONE,0.16886600000000002,negative,-0.270201,0.339381,0.12651099999999998,0.064649,0.194297,0.08855700000000001,1,1,America,America,America,America,america,america,americ,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,Brazil,Location,Country,NONE,0.146029,negative,-0.26760500000000004,0.339559,0.306936,0.20258900000000002,0.018721,0.084156,1,1,Brazil,Brazil,Brazil,Brazil,brazil,brazil,brazil,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,China,Location,"GeographicFeature, Island, Country",http://dbpedia.org/resource/Taiwan,0.143896,negative,-0.26760500000000004,0.339559,0.306936,0.20258900000000002,0.018721,0.084156,1,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/Taiwan,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,Germany,Location,Country,NONE,0.12225799999999999,negative,-0.26760500000000004,0.339559,0.306936,0.20258900000000002,0.018721,0.084156,1,1,Germany,Germany,Germany,Germany,germani,germani,germany,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,Japan,Location,Country,NONE,0.398737,negative,-0.6307590000000001,0.45820900000000003,0.103439,0.160271,0.128019,0.5330550000000001,18,1,Japan,Japan,Japan,Japan,japan,japan,jap,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,Logan Utah,Location,City,NONE,0.16384500000000002,positive,0.45311899999999994,0.082576,0.07678,0.6713399999999999,0.070579,0.075824,1,1,Logan Utah,Logan Utah,Logan Utah,Logan Utah,logan utah,logan utah,log utah,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.265378,positive,0.553339,0.060384,0.027197000000000002,0.429684,0.041259,0.186657,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7
+j0pl_FXt0eM,export Industries,Company,NONE,NONE,0.177023,negative,-0.792443,0.5037520000000001,0.133929,0.022636,0.122695,0.44232,1,1,export Industries,export industri,export industri,export industry,export industri,export industri,export industry,NONE,0.996,0.069,0.122,0.8079999999999999,0.17948914431673052,0.4481955847473088,negative,-0.314349,0.524145,0.5297609999999999,0.523609,0.091115,0.095276,0.0,12.199999809265135,Free Trade,2009-07-15T00:44:12.000Z,UCGWWzMfkObMozqdLWr_aTtg,Free Trade and the Steel Industry,"Dr. Milton Friedman gives a concise and lucid argument for international free trade at Utah State University in 1978.
+
+A common belief is that big companies will sell below cost to drive out their competitors and then raise their prices.  This is a fallacy and there are few professional economists who believe otherwise. Historian Thomas E. Woods offers a simple explanation in this video: 
+http://www.youtube.com/watch?v=V6dD-ifIr8s
+
+For an example of the steel industry's anti-free enterprise rhetoric listen to Dan DiMicco, CEO of Nucor, one of the largest steel producers in the United States, during this interview with Lesley Stahl of '60 minutes'. In this example, just as Dr. Friedman professed, Nucor benefits at the expense of Caterpillar which relies not only on steel, but exports as well.
+http://www.youtube.com/watch?v=lYyrqSmhals
+
+The anti-free trade protectionists will say we need exports to create American jobs. But, they say, we need tariffs and import quotas to protect American jobs from ""unfair"" competition. This is another fallacy as Dr. Friedman explains. When you impose tariffs on imports you hurt exports as well! To understand this better read the following:
+
+Debunking the Mercantilist Trade Doctrine
+http://mjperry.blogspot.com/2011/04/best-trade-policy-being-free-to-choose.html
+
+Another Name for ""Trade Deficit"" is ""Capital Account Surplus,"" Balance of Payments Always = 0
+http://mjperry.blogspot.com/2011/04/another-name-for-trade-deficit-capital.html#
+
+Lerner Symmetry Theorem
+http://en.wikipedia.org/wiki/Lerner_symmetry_theorem
+
+Balance of Payments
+http://www.econlib.org/library/Enc/BalanceofPayments.html
+
+International Capital Flows
+http://www.econlib.org/library/Enc/InternationalCapitalFlows.html
+
+Doubling U.S. Exports = Doubling U.S. Imports
+http://mjperry.blogspot.com/2011/01/pathological-plan-to-double-exports.html
+
+Trade is Mutually Advantageous -- and Its Advantages, for All Parties, are Measured in Imports
+http://cafehayek.com/2011/01/trade-is-mutually-advantageous-and-its-advantages-for-all-parties-are-measured-in-imports.html
+
+Chapter 12 of Economics in One Lesson by Henry Hazlitt
+http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+That Which is Seen and That Which is Not Seen by Frédéric Bastiat
+http://bastiat.org/en/twisatwins.html
+
+We hear many people constantly lamenting the fact that the American manufacturing sector is dead or dying. (Just read the comments section of this video!) This has been repeated so often that it has become conventional wisdom. This is another myth not supported by any evidence. In fact, the data shows the opposite is true: America is BY FAR the world's largest manufacturing nation. Our output is higher now than it has EVER been in history.
+http://mjperry.blogspot.com/2011/06/us-manufactuing-germany-italy-france.html
+http://blog.american.com/?p=25164
+http://mjperry.blogspot.com/2011/05/americas-amazing-manufacturing.html
+http://mjperry.blogspot.com/2011/05/made-in-usa-again-manufacturing-is.html
+
+Even though this video focuses on the steel industry, it applies to all others as well. Did you know that American consumers pay, on average, twice the world price for sugar? Once again, special interests benefit at the expense of everyone else. Read:
+http://mjperry.blogspot.com/2009/08/big-sugars-sickeningly-sweet-deal.html
+http://mjperry.blogspot.com/2010/01/sugar-tariffs-cost-americans-25-billion.html
+http://mjperry.blogspot.com/2010/02/few-days-ago-i-posted-about-tariffs.html
+http://mjperry.blogspot.com/2010/02/blog-post.html
+http://mjperry.blogspot.com/2010/03/more-on-sickeningly-sweet-deal-for-big.html
+http://mjperry.blogspot.com/2011/01/big-sugar-cartel-cost-consumers-45b.html
+http://cafehayek.com/2011/01/not-so-sweet-sugar-program.html
+http://www.youtube.com/watch?v=8oijbOTeXWw
+
+This video is an excerpt from Milton Friedman Speaks: Lecture 02, ""Myths That Conceal Reality""
+http://www.freetochoose.net/store/product_info.php?products_id=86",brittle13,"Buy', 'American', 'Predatory', 'Pricing', 'Japan', 'Protectionism', 'Protectionist', 'Foreign', 'Aid', 'Enterprise', 'Pollution', 'Clean', 'Air', 'Tax', 'Tariff', 'Trade', 'Subsidy', 'Subsidize', 'Subvention', 'Ecology', 'Ecologist', 'Crony', 'Capitalism', 'Capitalist', 'Socialism', 'Socialist', 'Marx', 'Marxist', 'Marxism', 'Fabian', 'Fabianism', 'Mercantilist', 'Mercantilism', 'Democracy', 'Democratic', 'Liberal', 'Liberalism', 'Libertarian', 'Libertarianism', 'Keynes', 'Keynesian', 'Keynesianism'",PT6M3S,363,7

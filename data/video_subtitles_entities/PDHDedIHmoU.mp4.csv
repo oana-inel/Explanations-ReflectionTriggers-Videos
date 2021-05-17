@@ -1,0 +1,111 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+PDHDedIHmoU,18-month,Quantity,NONE,NONE,0.30600700000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18-month,18-month,18-month,18-month,18-month,18-month,18-month,NONE,0.9639,0.07,0.13699999999999998,0.7929999999999999,0.12394179894179892,0.4546296296296297,negative,-0.337098,0.121558,0.6891189999999999,0.766015,0.696615,0.687589,0.0,4.699999809265137,Catalonia Independence,2015-09-27T08:26:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalonia decides between pro and anti independence parties in regional election,"Voting is underway across the Spanish region of Catalonia in an election that is considered by pro-separatist parties as a proxy-vote on independence. 
+
+The campaign has been split down the middle between parties in favour or against secession from Spain. 
+
+Polls in recent weeks have given Catalan separatist parties a slight majority, which they claim gives them the authority to begin an 18-month process towards a full declaration of independence.
+
+Madrid has warned it will block any attempt to …
+READ MORE : http://www.euronews.com/2015/09/27/catalonia-decides-between-pro-and-anti-independence-parties-in-regional-election
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Elections', 'Spain'",PT1M27S,87,2
+PDHDedIHmoU,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.43737200000000004,negative,-0.625692,0.397319,0.32312199999999996,0.012105,0.257627,0.412829,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9639,0.07,0.13699999999999998,0.7929999999999999,0.12394179894179892,0.4546296296296297,negative,-0.337098,0.121558,0.6891189999999999,0.766015,0.696615,0.687589,0.0,4.699999809265137,Catalonia Independence,2015-09-27T08:26:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalonia decides between pro and anti independence parties in regional election,"Voting is underway across the Spanish region of Catalonia in an election that is considered by pro-separatist parties as a proxy-vote on independence. 
+
+The campaign has been split down the middle between parties in favour or against secession from Spain. 
+
+Polls in recent weeks have given Catalan separatist parties a slight majority, which they claim gives them the authority to begin an 18-month process towards a full declaration of independence.
+
+Madrid has warned it will block any attempt to …
+READ MORE : http://www.euronews.com/2015/09/27/catalonia-decides-between-pro-and-anti-independence-parties-in-regional-election
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Elections', 'Spain'",PT1M27S,87,2
+PDHDedIHmoU,Catalonia,Location,Region,NONE,0.347364,neutral,0.0,0.23150300000000001,0.228356,0.4618310000000001,0.045511,0.117574,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9639,0.07,0.13699999999999998,0.7929999999999999,0.12394179894179892,0.4546296296296297,negative,-0.337098,0.121558,0.6891189999999999,0.766015,0.696615,0.687589,0.0,4.699999809265137,Catalonia Independence,2015-09-27T08:26:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalonia decides between pro and anti independence parties in regional election,"Voting is underway across the Spanish region of Catalonia in an election that is considered by pro-separatist parties as a proxy-vote on independence. 
+
+The campaign has been split down the middle between parties in favour or against secession from Spain. 
+
+Polls in recent weeks have given Catalan separatist parties a slight majority, which they claim gives them the authority to begin an 18-month process towards a full declaration of independence.
+
+Madrid has warned it will block any attempt to …
+READ MORE : http://www.euronews.com/2015/09/27/catalonia-decides-between-pro-and-anti-independence-parties-in-regional-election
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Elections', 'Spain'",PT1M27S,87,2
+PDHDedIHmoU,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.30600700000000003,negative,-0.625692,0.478104,0.400269,0.009067,0.210666,0.29549200000000003,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9639,0.07,0.13699999999999998,0.7929999999999999,0.12394179894179892,0.4546296296296297,negative,-0.337098,0.121558,0.6891189999999999,0.766015,0.696615,0.687589,0.0,4.699999809265137,Catalonia Independence,2015-09-27T08:26:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalonia decides between pro and anti independence parties in regional election,"Voting is underway across the Spanish region of Catalonia in an election that is considered by pro-separatist parties as a proxy-vote on independence. 
+
+The campaign has been split down the middle between parties in favour or against secession from Spain. 
+
+Polls in recent weeks have given Catalan separatist parties a slight majority, which they claim gives them the authority to begin an 18-month process towards a full declaration of independence.
+
+Madrid has warned it will block any attempt to …
+READ MORE : http://www.euronews.com/2015/09/27/catalonia-decides-between-pro-and-anti-independence-parties-in-regional-election
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Elections', 'Spain'",PT1M27S,87,2
+PDHDedIHmoU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.897854,negative,-0.621765,0.49537200000000003,0.338469,0.043757,0.271437,0.228248,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9639,0.07,0.13699999999999998,0.7929999999999999,0.12394179894179892,0.4546296296296297,negative,-0.337098,0.121558,0.6891189999999999,0.766015,0.696615,0.687589,0.0,4.699999809265137,Catalonia Independence,2015-09-27T08:26:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalonia decides between pro and anti independence parties in regional election,"Voting is underway across the Spanish region of Catalonia in an election that is considered by pro-separatist parties as a proxy-vote on independence. 
+
+The campaign has been split down the middle between parties in favour or against secession from Spain. 
+
+Polls in recent weeks have given Catalan separatist parties a slight majority, which they claim gives them the authority to begin an 18-month process towards a full declaration of independence.
+
+Madrid has warned it will block any attempt to …
+READ MORE : http://www.euronews.com/2015/09/27/catalonia-decides-between-pro-and-anti-independence-parties-in-regional-election
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Elections', 'Spain'",PT1M27S,87,2

@@ -1,0 +1,199 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+AlUjGsykFuE,Anna Cobain,Person,NONE,NONE,0.20969699999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Anna Cobain,Anna Cobain,Anna Cobain,Anna Cobain,anna cobain,anna cobain,ann cobain,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,China,Location,Country,http://dbpedia.org/resource/Republic_of_China_(1912–1949),0.408721,positive,0.674245,0.048088,0.043643,0.808679,0.036492000000000004,0.039972,4,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/Republic_of_China_(1912–1949),0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,Chongqing,Location,StateOrCounty,NONE,0.23132199999999997,neutral,0.0,0.323248,0.0822,0.23037800000000005,0.07567,0.28661,1,1,Chongqing,Chongqing,Chongqing,Chongqing,chongq,chongq,chongq,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,Chongqing Citron,Company,NONE,NONE,0.280509,positive,0.825714,0.142355,0.161179,0.4234100000000001,0.032658,0.077687,1,1,Chongqing Citron,Chongqing Citron,Chongqing Citron,Chongqing Citron,chongq citron,chongq citron,chongq citron,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,John,Person,NONE,NONE,0.159173,positive,0.5514899999999999,0.10154400000000001,0.047093,0.40992,0.052815,0.051620000000000006,1,1,John,John,John,John,john,john,john,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,Minister Wang,Person,NONE,NONE,0.202421,positive,0.8981450000000001,0.324158,0.111419,0.21590900000000002,0.11868800000000004,0.015616,1,1,Minister Wang,Minister Wang,Minister Wang,Minister Wang,minist wang,minist wang,min wang,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,River economic belt,Facility,NONE,NONE,0.235328,neutral,0.0,0.187423,0.169072,0.386849,0.058214,0.169415,1,1,River economic belt,river econom belt,river econom belt,riv econom belt,river econom belt,river econom belt,riv econom belt,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,Shanghai,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Shanghai,0.21855700000000008,positive,0.748837,0.302419,0.13583599999999998,0.471739,0.052657,0.11796,2,1,Shanghai,Shanghai,Shanghai,Shanghai,shanghai,shanghai,shangha,http://en.wikipedia.org/wiki/Shanghai,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,Xuan,Person,NONE,NONE,0.193904,positive,0.26105500000000004,0.549966,0.135517,0.129522,0.188143,0.17168,1,1,Xuan,Xuan,Xuan,Xuan,xuan,xuan,xuan,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,ftc,Organization,NONE,NONE,0.193235,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ftc,ftc,ftc,ftc,ftc,ftc,ftc,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3
+AlUjGsykFuE,three years,Quantity,NONE,NONE,0.159173,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,three year,three year,three year,three year,three year,three year,three year,NONE,0.9942,0.01,0.168,0.8220000000000001,0.16081882656350746,0.4234977433913605,positive,0.670953,0.495925,0.547711,0.478146,0.100242,0.070641,0.20000000298023224,6.4000000953674325,Free Trade,2017-03-31T13:56:00.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China sets to launch seven new free trade zones,"China’s free trade zone club is set to welcome seven new members, as the country’s State Council issues general plans for new FTZs in seven provincial-level areas. The provinces of Liaoning, Zhejiang, Henan, Hubei, Sichuan and Shaanxi as well as Chongqing Municipality have been approved to establish FTZs, which will open on April 1. According to the plans, the new FTZs are part of a “strategic measure” aiming to further deepen China’s opening-up and reforms.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'China', 'free trade zone', 'FTZ', 'business', 'economic development', 'policy', 'economic plan', 'strategy'",PT2M14S,134,3

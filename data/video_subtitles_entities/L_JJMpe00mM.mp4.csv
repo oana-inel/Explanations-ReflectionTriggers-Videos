@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+L_JJMpe00mM,Doctor,PrintMedia,NONE,NONE,0.385596,neutral,0.0,0.06013200000000001,0.189558,0.10289100000000001,0.039073000000000004,0.027433,1,1,Doctor,Doctor,Doctor,Doctor,doctor,doctor,doct,NONE,0.9887,0.004,0.117,0.879,0.07003607503607504,0.4881096681096681,positive,0.718713,0.108076,0.64058,0.168278,0.119398,0.11252,0.0,4.5,Vaccination,2018-04-04T12:08:18.000Z,UCTSBAh1axMACG1w_AYJsclg,Proof vaccines are NOT tested properly before approval -- WATCH NOW!,"The US Vaccine Advisory Panel, called the Advisory Committee on Immunization Practices (ACIP), is the group that approves vaccines for public use in the United States. Most members have connections to the pharmaceutical (aka vaccine) industry.
+
+This 4-minute video was taken from a recent ACIP meeting discussing the approval of a new Hepatitis B vaccine for ADULTS. The vaccine uses a new ingredient that has NEVER been used before...
+
+Pre-approval studies signaled an increase in heart attacks…but under pressure from vaccine makers, the committee unanimously APPROVES the vaccine.
+
+Meaning…YOU ARE THE TEST SUBJECT!
+
+But your doctor won’t tell you that...
+
+Learn The Risk is a parent-driven grassroots campaign to raise awareness of the real dangers of pharmaceutical products. The non-profit organization was founded by an ex-pharmaceutical employee and parent in response to the industry’s unprecedented assault on parental rights and health freedom by funding laws that take our right to say “NO” away.
+
+Follow us on FaceBook: www.facebook.com/LearnTheRisk
+Join our FB group for support or questions: www.facebook.com/groups/learntherisk
+Instagram: #LearnTheRisk
+Twitter: @LearnTheRisk
+Support the campaign: www.LearnTheRisk.org/DONATE
+Contact: info@LearnTheRisk.org",Learn the Risk,,PT4M34S,274,5
+L_JJMpe00mM,Dr. Hunter adjuvanted,Person,NONE,NONE,0.4980020000000001,neutral,0.0,0.136028,0.20367000000000002,0.053575,0.257565,0.279252,1,1,Dr. Hunter adjuvanted,Dr. Hunter adjuv,Dr. Hunter adjuv,Dr. Hunter adjuv,dr. hunter adjuv,dr. hunter adjuv,dr. hunt adjuv,NONE,0.9887,0.004,0.117,0.879,0.07003607503607504,0.4881096681096681,positive,0.718713,0.108076,0.64058,0.168278,0.119398,0.11252,0.0,4.5,Vaccination,2018-04-04T12:08:18.000Z,UCTSBAh1axMACG1w_AYJsclg,Proof vaccines are NOT tested properly before approval -- WATCH NOW!,"The US Vaccine Advisory Panel, called the Advisory Committee on Immunization Practices (ACIP), is the group that approves vaccines for public use in the United States. Most members have connections to the pharmaceutical (aka vaccine) industry.
+
+This 4-minute video was taken from a recent ACIP meeting discussing the approval of a new Hepatitis B vaccine for ADULTS. The vaccine uses a new ingredient that has NEVER been used before...
+
+Pre-approval studies signaled an increase in heart attacks…but under pressure from vaccine makers, the committee unanimously APPROVES the vaccine.
+
+Meaning…YOU ARE THE TEST SUBJECT!
+
+But your doctor won’t tell you that...
+
+Learn The Risk is a parent-driven grassroots campaign to raise awareness of the real dangers of pharmaceutical products. The non-profit organization was founded by an ex-pharmaceutical employee and parent in response to the industry’s unprecedented assault on parental rights and health freedom by funding laws that take our right to say “NO” away.
+
+Follow us on FaceBook: www.facebook.com/LearnTheRisk
+Join our FB group for support or questions: www.facebook.com/groups/learntherisk
+Instagram: #LearnTheRisk
+Twitter: @LearnTheRisk
+Support the campaign: www.LearnTheRisk.org/DONATE
+Contact: info@LearnTheRisk.org",Learn the Risk,,PT4M34S,274,5
+L_JJMpe00mM,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.415703,neutral,0.0,0.136028,0.20367000000000002,0.053575,0.257565,0.279252,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9887,0.004,0.117,0.879,0.07003607503607504,0.4881096681096681,positive,0.718713,0.108076,0.64058,0.168278,0.119398,0.11252,0.0,4.5,Vaccination,2018-04-04T12:08:18.000Z,UCTSBAh1axMACG1w_AYJsclg,Proof vaccines are NOT tested properly before approval -- WATCH NOW!,"The US Vaccine Advisory Panel, called the Advisory Committee on Immunization Practices (ACIP), is the group that approves vaccines for public use in the United States. Most members have connections to the pharmaceutical (aka vaccine) industry.
+
+This 4-minute video was taken from a recent ACIP meeting discussing the approval of a new Hepatitis B vaccine for ADULTS. The vaccine uses a new ingredient that has NEVER been used before...
+
+Pre-approval studies signaled an increase in heart attacks…but under pressure from vaccine makers, the committee unanimously APPROVES the vaccine.
+
+Meaning…YOU ARE THE TEST SUBJECT!
+
+But your doctor won’t tell you that...
+
+Learn The Risk is a parent-driven grassroots campaign to raise awareness of the real dangers of pharmaceutical products. The non-profit organization was founded by an ex-pharmaceutical employee and parent in response to the industry’s unprecedented assault on parental rights and health freedom by funding laws that take our right to say “NO” away.
+
+Follow us on FaceBook: www.facebook.com/LearnTheRisk
+Join our FB group for support or questions: www.facebook.com/groups/learntherisk
+Instagram: #LearnTheRisk
+Twitter: @LearnTheRisk
+Support the campaign: www.LearnTheRisk.org/DONATE
+Contact: info@LearnTheRisk.org",Learn the Risk,,PT4M34S,274,5
+L_JJMpe00mM,FDA,Organization,GovernmentAgency,http://dbpedia.org/resource/Food_and_Drug_Administration,0.44047,negative,-0.608106,0.185798,0.27407600000000004,0.15329700000000002,0.020819,0.022900999999999998,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,http://en.wikipedia.org/wiki/Food_and_Drug_Administration,0.9887,0.004,0.117,0.879,0.07003607503607504,0.4881096681096681,positive,0.718713,0.108076,0.64058,0.168278,0.119398,0.11252,0.0,4.5,Vaccination,2018-04-04T12:08:18.000Z,UCTSBAh1axMACG1w_AYJsclg,Proof vaccines are NOT tested properly before approval -- WATCH NOW!,"The US Vaccine Advisory Panel, called the Advisory Committee on Immunization Practices (ACIP), is the group that approves vaccines for public use in the United States. Most members have connections to the pharmaceutical (aka vaccine) industry.
+
+This 4-minute video was taken from a recent ACIP meeting discussing the approval of a new Hepatitis B vaccine for ADULTS. The vaccine uses a new ingredient that has NEVER been used before...
+
+Pre-approval studies signaled an increase in heart attacks…but under pressure from vaccine makers, the committee unanimously APPROVES the vaccine.
+
+Meaning…YOU ARE THE TEST SUBJECT!
+
+But your doctor won’t tell you that...
+
+Learn The Risk is a parent-driven grassroots campaign to raise awareness of the real dangers of pharmaceutical products. The non-profit organization was founded by an ex-pharmaceutical employee and parent in response to the industry’s unprecedented assault on parental rights and health freedom by funding laws that take our right to say “NO” away.
+
+Follow us on FaceBook: www.facebook.com/LearnTheRisk
+Join our FB group for support or questions: www.facebook.com/groups/learntherisk
+Instagram: #LearnTheRisk
+Twitter: @LearnTheRisk
+Support the campaign: www.LearnTheRisk.org/DONATE
+Contact: info@LearnTheRisk.org",Learn the Risk,,PT4M34S,274,5
+L_JJMpe00mM,infarction,HealthCondition,DiseaseOrMedicalCondition,http://dbpedia.org/resource/Infarction,0.751258,negative,-0.608106,0.328671,0.347436,0.11897999999999999,0.006756999999999999,0.017464,2,1,infarction,infarct,infarct,infarct,infarct,infarct,infarct,http://en.wikipedia.org/wiki/Infarction,0.9887,0.004,0.117,0.879,0.07003607503607504,0.4881096681096681,positive,0.718713,0.108076,0.64058,0.168278,0.119398,0.11252,0.0,4.5,Vaccination,2018-04-04T12:08:18.000Z,UCTSBAh1axMACG1w_AYJsclg,Proof vaccines are NOT tested properly before approval -- WATCH NOW!,"The US Vaccine Advisory Panel, called the Advisory Committee on Immunization Practices (ACIP), is the group that approves vaccines for public use in the United States. Most members have connections to the pharmaceutical (aka vaccine) industry.
+
+This 4-minute video was taken from a recent ACIP meeting discussing the approval of a new Hepatitis B vaccine for ADULTS. The vaccine uses a new ingredient that has NEVER been used before...
+
+Pre-approval studies signaled an increase in heart attacks…but under pressure from vaccine makers, the committee unanimously APPROVES the vaccine.
+
+Meaning…YOU ARE THE TEST SUBJECT!
+
+But your doctor won’t tell you that...
+
+Learn The Risk is a parent-driven grassroots campaign to raise awareness of the real dangers of pharmaceutical products. The non-profit organization was founded by an ex-pharmaceutical employee and parent in response to the industry’s unprecedented assault on parental rights and health freedom by funding laws that take our right to say “NO” away.
+
+Follow us on FaceBook: www.facebook.com/LearnTheRisk
+Join our FB group for support or questions: www.facebook.com/groups/learntherisk
+Instagram: #LearnTheRisk
+Twitter: @LearnTheRisk
+Support the campaign: www.LearnTheRisk.org/DONATE
+Contact: info@LearnTheRisk.org",Learn the Risk,,PT4M34S,274,5

@@ -1,0 +1,105 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DIFh9aOJeZ0,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.8812840000000001,positive,0.65342,0.126934,0.112575,0.725018,0.010419,0.061291,4,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,Northern Ireland,Location,Region,NONE,0.491648,negative,-0.673912,0.183869,0.10403299999999999,0.477417,0.204076,0.046892,1,1,Northern Ireland,Northern Ireland,Northern Ireland,Northern Ireland,northern ireland,northern ireland,northern ireland,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,Parliament,Organization,NONE,NONE,0.659478,positive,0.569689,0.301653,0.012502,0.548746,0.031313,0.004769,2,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,Priya,Person,NONE,NONE,0.502884,positive,0.761357,0.090974,0.042397000000000004,0.733985,0.01864,0.011925,1,1,Priya,Priya,Priya,Priya,priya,priya,priy,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,Two years,Quantity,NONE,NONE,0.46645,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Two year,two year,two year,two year,two year,two year,two year,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.538853,positive,0.731159,0.06904099999999999,0.016812,0.8759959999999999,0.00415,0.015006,2,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,Veronica,Person,NONE,NONE,0.5018600000000001,positive,0.162101,0.077775,0.012315000000000001,0.8481709999999999,0.009059999999999999,0.024347999999999998,2,1,Veronica,Veronica,Veronica,Veronica,veronica,veronica,veronic,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3
+DIFh9aOJeZ0,prime minister,JobTitle,NONE,NONE,0.46645,positive,0.684789,0.27874899999999997,0.015616,0.62279,0.03108,0.003631,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9983,0.033,0.212,0.755,0.17885606060606066,0.5283863636363637,positive,0.806054,0.062081,0.7242569999999999,0.146839,0.064223,0.052071000000000006,0.30000001192092896,9.199999809265137,Free Trade,2018-07-06T22:34:14.000Z,UCw3fku0sH3qA3c3pZeJwdAw,PM Theresa May confirms agreement of UK-EU free trade area,"The PM insisted she had united the warring factions in her team after a high stakes showdown at her Chequers country residence. Despite fears half-a-dozen Eurosceptics led by Boris Johnson could quit, Mrs May said ministers had signed off a package that will see the UK sign up to EU rules on goods - potentially hampering prospects for a trade deal with the US. She said the model thrashed out during the marathon away-day would allow Britain to 'avoid friction' that could harm business while preventing a hard Irish border. But amid signs the EU will immediately reject the ideas, the Cabinet also agreed to step up planning for 'no deal'. ‘Today in detailed discussions the Cabinet has agreed our collective position for the future of our negotiations with the EU,' Mrs May said. ‘Now we must all move at pace to negotiate our proposal with the EU to deliver the prosperous and secure future all our people deserve.'
+
+Original Article: http://www.dailymail.co.uk/news/article-5924435/May-dares-Brexiteers-QUIT-crunch-Chequers-showdown.html
+Original Video: http://www.dailymail.co.uk/video/news/video-1722322/PM-Theresa-confirms-agreement-UK-EU-free-trade-area.html
+
+Daily Mail Facebook: http://facebook.com/dailymail
+Daily Mail IG: http://instagram.com/dailymail
+Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033
+Daily Mail Twitter: http://twitter.com/MailOnline
+Daily Mail Pinterest: http://pinterest.co.uk/dailymail
+Daily Mail Google+: https://plus.google.com/+DailyMail
+
+Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile",Daily Mail,"pm theresa may', 'agreement of uk eu', 'trade area', 'Theresa May', 'brexit', 'news', 'britain', 'politics', 'european union', 'uk', 'eu', 'brexit latest', 'brexit news', 'conservatives', 'prime minister', 'chequers', 'brexit negotiations', 'theresa may speech', 'theresa may brexit', 'theresa may parliament', 'theresa may interview'",PT2M51S,171,3

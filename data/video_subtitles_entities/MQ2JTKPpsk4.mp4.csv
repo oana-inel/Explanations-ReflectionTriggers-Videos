@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+MQ2JTKPpsk4,Carlos,Person,NONE,NONE,0.281513,neutral,0.0,0.4171760000000001,0.173787,0.11116,0.144518,0.241864,1,1,Carlos,Carlos,Carlos,Carlos,carlo,carlo,carlo,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Catalonia,Location,City,NONE,0.871157,negative,-0.601942,0.130917,0.7349640000000001,0.127184,0.051965,0.107439,5,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Constitutional Court,Organization,NONE,NONE,0.25395999999999996,neutral,0.0,0.357628,0.143245,0.06299,0.401844,0.38519699999999996,1,1,Constitutional Court,Constitutional Court,Constitutional Court,Constitutional Court,constitut court,constitut court,constitut court,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Declaration of Independence,Organization,NONE,NONE,0.514768,positive,0.817346,0.488043,0.230971,0.17041900000000001,0.06918300000000001,0.15876800000000002,1,1,Declaration of Independence,declar of Independence,declar of Independence,decl of Independence,declar of independ,declar of independ,decl of independ,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Jonah Hill Al Jazeera Barcelona,Facility,NONE,NONE,0.388152,neutral,0.0,0.039937,0.117521,0.21895100000000006,0.113843,0.130769,1,1,Jonah Hill Al Jazeera Barcelona,Jonah Hill Al Jazeera Barcelona,Jonah Hill Al Jazeera Barcelona,Jonah Hill Al Jazeera Barcelona,jonah hill Al jazeera barcelona,jonah hill al jazeera barcelona,jonah hil al jazeer barcelon,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Madrid,Location,City,NONE,0.519135,negative,-0.601942,0.167995,0.6884020000000001,0.174476,0.055647,0.069871,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Minge,Person,NONE,NONE,0.36562,neutral,0.0,0.41218999999999995,0.14915699999999998,0.061965,0.331239,0.394912,2,1,Minge,Minge,Minge,Minge,ming,ming,ming,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Regional government,Organization,NONE,NONE,0.42476800000000003,neutral,0.0,0.357352,0.117954,0.07510900000000001,0.36889099999999997,0.422497,3,1,Regional government,region govern,region govern,reg govern,region govern,region govern,reg govern,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,Troy,Location,Country,NONE,0.261957,neutral,0.0,0.357628,0.143245,0.06299,0.401844,0.38519699999999996,1,1,Troy,Troy,Troy,Troy,troy,troy,troy,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,hundred years,Quantity,NONE,NONE,0.25395999999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred year,hundr year,hundr year,hundr year,hundr year,hundr year,hundr year,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,0.55653,positive,0.817346,0.278981,0.253467,0.35854400000000003,0.07139,0.20933800000000002,3,1,parliament,parliament,parliament,parlia,parliament,parliament,parlia,http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3
+MQ2JTKPpsk4,president,JobTitle,NONE,NONE,0.6067640000000001,positive,0.42860699999999996,0.40533600000000003,0.130131,0.088991,0.261436,0.42824300000000004,4,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.1351,0.104,0.108,0.7879999999999999,0.1055,0.4475,positive,0.293439,0.15745499999999998,0.54286,0.215783,0.607043,0.109676,0.0,5.300000190734863,Catalonia Independence,2017-10-11T08:08:44.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Catalonia president suspends independence, seeks talks with Madrid","Catalonia's leader has stepped back from declaring independence, instead calling for talks to resolve Spain's worst political crisis in decades.
+
+Carles Puigdemont did sign a symbolic declaration, although it's unclear if it has any legal status.
+
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5605260764001', 'Carles Puigdemont', 'nocms', 'catalonia vote', 'independence referendum', 'madrid', 'Catalonia parliament', 'Catalonia secession vote', 'package', 'Catalonia', 'News', 'spain', 'English', 'al Jazeera', 'spain news', 'youtube', 'catalonia referendum', 'AJE', 'aljazeera', 'barcelona', 'politics & law', 'jonah hull', 'Catalonia President'",PT2M32S,152,3

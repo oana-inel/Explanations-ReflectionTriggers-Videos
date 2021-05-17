@@ -1,0 +1,286 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+u6UK9Fb24po,Anna RK,Person,NONE,NONE,0.529993,neutral,0.0,0.339803,0.146068,0.221255,0.01192,0.129046,1,1,Anna RK,Anna RK,Anna RK,Anna RK,anna RK,anna rk,ann rk,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.488779,positive,0.47884799999999994,0.081328,0.071423,0.361041,0.374637,0.13364700000000002,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Catalonia,Location,City,NONE,0.803886,negative,-0.643675,0.283754,0.360605,0.04604,0.31450100000000003,0.30717300000000003,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Declaration of Independence,Organization,NONE,NONE,0.671752,positive,0.47884799999999994,0.081328,0.071423,0.361041,0.374637,0.13364700000000002,1,1,Declaration of Independence,Declaration of Independence,Declaration of Independence,Declaration of Independence,declar of independ,declar of independ,decl of independ,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.537173,neutral,0.0,0.35947399999999996,0.10915,0.16134300000000001,0.26879400000000003,0.077222,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.538213,negative,-0.691721,0.43283299999999997,0.059130999999999996,0.142692,0.08834,0.374752,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.894601,negative,-0.657985,0.4562729999999999,0.254259,0.066073,0.25592800000000004,0.313079,4,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,President,JobTitle,NONE,NONE,0.42292799999999997,neutral,0.0,0.24539699999999998,0.055765999999999996,0.11310999999999999,0.373037,0.285355,1,1,President,President,President,President,presid,presid,presid,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.619417,negative,-0.752925,0.41644200000000003,0.240394,0.08636,0.372962,0.22830799999999998,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,Unser,Person,NONE,NONE,0.444155,negative,-0.752925,0.43481499999999995,0.252377,0.071215,0.37451599999999996,0.21964499999999998,1,1,Unser,Unser,Unser,Unser,unser,unser,uns,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,international Commission of European,Organization,NONE,NONE,0.568639,neutral,0.0,0.339803,0.146068,0.221255,0.01192,0.129046,1,1,international Commission of European,intern Commission of european,intern Commission of european,intern Commission of europ,intern commiss of european,intern commiss of european,intern commit of europ,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,new Estates,Company,NONE,NONE,0.473236,positive,0.806074,0.03692,0.18581,0.621498,0.037913,0.038666000000000006,1,1,new Estates,new estat,new estat,new est,new estat,new estat,new est,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,president,JobTitle,NONE,NONE,0.44144399999999995,neutral,0.0,0.24539699999999998,0.055765999999999996,0.11310999999999999,0.373037,0.285355,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,senate,Organization,NONE,NONE,0.41331599999999996,neutral,0.0,0.142543,0.072466,0.106879,0.113871,0.134352,1,1,senate,senat,senat,sen,senat,senat,sen,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6
+u6UK9Fb24po,shannan,Person,NONE,NONE,0.47542,negative,-0.666575,0.581047,0.146537,0.031175,0.29593800000000003,0.279302,1,1,shannan,shannan,shannan,shan,shannan,shannan,shan,NONE,-0.9837,0.094,0.068,0.838,0.011668384525527386,0.3134360612932041,negative,-0.294867,0.189245,0.530105,0.53187,0.501939,0.161379,0.0,10.600000381469727,Catalonia Independence,2017-10-27T16:01:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""Spanish government has gone beyond democratic standards these past months"", Anna Arque says to FRANCE24''s Aurore Cloé Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M12S,312,6

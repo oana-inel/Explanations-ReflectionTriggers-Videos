@@ -1,0 +1,89 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+wIpj5snYwko,12 liters,Quantity,NONE,NONE,0.302541,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,12 liter,12 liter,12 liter,12 lit,12 liter,12 liter,12 lit,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.806863,negative,-0.056037000000000003,0.33654,0.23504,0.298672,0.234046,0.05108,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,Catalonia,Location,City,NONE,0.838565,negative,-0.763997,0.579488,0.233971,0.011539,0.266233,0.286889,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,Civil Society,Organization,NONE,NONE,0.302541,negative,-0.763997,0.583246,0.213428,0.013363,0.274878,0.28925700000000004,1,1,Civil Society,Civil Society,Civil Society,Civil Society,civil societi,civil societi,civil socy,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.8325739999999999,negative,-0.25646199999999997,0.6368560000000001,0.140746,0.16528900000000002,0.058519000000000015,0.085684,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,Spain Supreme Court,Organization,NONE,NONE,0.66642,neutral,0.0,0.11425199999999999,0.25148200000000004,0.355712,0.3441,0.041586,1,1,Spain Supreme Court,Spain Supreme Court,Spain Supreme Court,Spain Supreme Court,spain suprem court,spain suprem court,spain suprem court,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,four Decades,Quantity,NONE,NONE,0.302541,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four Decades,four decad,four decad,four decad,four decad,four decad,four decad,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2
+wIpj5snYwko,one week,Quantity,NONE,NONE,0.302541,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one week,one week,one week,on week,one week,one week,on week,NONE,0.3665,0.071,0.09,0.838,0.16043956043956045,0.5719780219780219,negative,-0.552633,0.153814,0.12704,0.621866,0.617448,0.178033,-0.10000000149011612,3.0999999046325684,Catalonia Independence,2019-02-19T12:34:21.000Z,UCaFxVc4xHOea6s5CO0eBxIA,Catalan independence movement stages mass protest in Barcelona,"Thousands of pro-independence Catalans take part in a rally against the trial of 12 of the movement's leaders. As our correspondent in Barcelona, Kusai Kedri reports, the march comes at a time of heightened tensions in Spain on the eve of a snap national election. 
+
+Watch Live:   http://www.presstv.com/live.html
+YouTube:       https://www.youtube.com/user/videosptv/
+Twitter:          http://twitter.com/PressTV
+LiveLeak:       http://www.liveleak.com/c/PressTV
+Facebook:     http://www.facebook.com/PRESSTV
+Google+:        http://plus.google.com/+VideosPTV
+Instagram:     http://instagram.com/presstvchannel
+
+#PressTV #News #Iran",PressTV,"News', 'Press TV', 'Iran', 'presstv', 'press tv debate', 'syria', 'press tv the debate', 'iranian food', 'persian food', 'Catalan', 'Catalan independence', 'Barcelona', 'Kusai Kedri', 'pro-independence'",PT1M58S,118,2

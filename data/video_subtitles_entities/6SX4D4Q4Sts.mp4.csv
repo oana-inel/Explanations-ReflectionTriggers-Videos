@@ -1,0 +1,169 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+6SX4D4Q4Sts,50%,Quantity,NONE,NONE,0.12459200000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 %,50 %,50 %,50 %,50 %,50 %,50 %,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Castle,Person,NONE,NONE,0.12459200000000001,negative,-0.608014,0.528259,0.17069600000000001,0.0092,0.238227,0.38747600000000004,1,1,Castle,Castle,Castle,Castle,castl,castl,castl,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Catalonia,Location,City,NONE,0.200325,negative,-0.5149130000000001,0.23121,0.20643699999999998,0.405213,0.037578,0.031014999999999997,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Dawn,Person,NONE,NONE,0.139165,neutral,0.0,0.224437,0.063289,0.513123,0.100221,0.119993,1,1,Dawn,Dawn,Dawn,Dawn,dawn,dawn,dawn,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Francesca Mania,Person,NONE,NONE,0.16944,neutral,0.0,0.224437,0.063289,0.513123,0.100221,0.119993,1,1,Francesca Mania,Francesca Mania,Francesca Mania,Francesca Mania,francesca mania,francesca mania,francesc man,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Francis School,Organization,NONE,NONE,0.156504,negative,-0.381668,0.21767199999999998,0.155666,0.22468200000000002,0.108823,0.12303599999999999,1,1,Francis School,Francis School,Francis School,Francis School,franci school,franci school,frant school,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Franco,Person,NONE,NONE,0.15689,negative,-0.722866,0.39711799999999997,0.279548,0.008962000000000001,0.45508000000000004,0.263952,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.178313,negative,-0.30383499999999997,0.367238,0.18590299999999998,0.0056229999999999995,0.293234,0.5341739999999999,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.219635,negative,-0.48305299999999995,0.555623,0.21086,0.153712,0.322004,0.132379,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.17511500000000002,neutral,0.0,0.555623,0.21086,0.153712,0.322004,0.132379,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,Spanish National Police,Organization,NONE,NONE,0.9498989999999999,negative,-0.532712,0.210306,0.493613,0.165713,0.511854,0.179046,21,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,ninety percent,Quantity,NONE,NONE,0.12459200000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ninety percent,nineti percent,nineti percent,nin perc,nineti percent,nineti percent,nin perc,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,romagna high school,Organization,NONE,NONE,0.267106,negative,-0.4758979999999999,0.22127199999999997,0.459084,0.428242,0.571157,0.510617,6,1,romagna high school,romagna high school,romagna high school,romagn high school,romagna high school,romagna high school,romagn high school,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5
+6SX4D4Q4Sts,scientist,JobTitle,NONE,NONE,0.160097,neutral,0.0,0.170698,0.046202999999999994,0.722598,0.049866,0.024701,4,1,scientist,scientist,scientist,sci,scientist,scientist,sci,NONE,-0.991,0.16399999999999998,0.083,0.753,-0.05246409674981102,0.3985241874527589,negative,-0.575078,0.157948,0.487374,0.587946,0.202553,0.480792,-0.20000000298023224,8.199999809265138,Catalonia Independence,2017-10-10T16:14:24.000Z,UCZaT_X_mc0BI-djXOlfhqWQ,Catalan Vote For Independence Sends Spain Into Chaos (HBO),"Catalans voted in a bitterly-contested referendum on Sunday which descended into chaos. The national government says the poll is illegal and its result will be dismissed. Schools became battlegrounds as Spanish police used force to try and shut down the ballot. VICE News' Phoebe Greenwood followed parents and a student independence activist as they fought to keep their polling stations open.  
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+Facebook: https://www.facebook.com/vicenews
+Twitter: https://twitter.com/vicenews
+Tumblr: http://vicenews.tumblr.com/
+Instagram: http://instagram.com/vicenews
+More videos from the VICE network: https://www.fb.com/vicevideo",VICE News,"Catalan', 'Catalan vote', 'independance', 'Spain', 'Catalans vote', 'Cataland referendum', 'indepedence', 'Madrid', 'Spanish police', 'protests', 'VICE spain', 'student independence activists', 'Spain in Chaos', 'national government', 'Spanish government', 'Spanish', 'Europe', 'polling stations', 'chaos', 'Catalonia', 'Catalonia independence', 'Phoebe Greenwood', 'VICE News Tonight', 'VICE on HBO', 'vice news', 'news', 'happening now', 'election', 'vice', 'hbo', 'el pais'",PT4M5S,245,5

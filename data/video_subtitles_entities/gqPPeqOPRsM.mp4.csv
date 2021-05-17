@@ -1,0 +1,15 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gqPPeqOPRsM,Kia Rio,Vehicle,Automobile,NONE,0.910795,neutral,0.0,0.49451999999999996,0.178367,0.161708,0.073387,0.316197,1,1,Kia Rio,Kia Rio,Kia Rio,Kia Rio,kia rio,kia rio,kia rio,NONE,0.3167,0.097,0.14300000000000002,0.76,0.1321969696969697,0.3942099567099567,positive,0.46588,0.28338,0.25505,0.404793,0.145412,0.088975,0.0,0.4000000059604645,Catalonia Independence,2017-10-29T17:19:37.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,"Catalans celebrate independence vote, worry about what's next","Just hours after Catalonia declared independence on Oct. 27,  Spain’s prime minister announced that he would dismantle the region's government. Despite this, independence celebrations in Barcelona lasted deep into the night. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost
+Instagram: https://www.instagram.com/washingtonpost/
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Washington Post YouTube', 'Washington Post Video', 'WaPo Video', 'The Washington Post', 'News', 'catalan vote', 'catalonia', 'spain', 'catalonia spain', 'catalonia independence'",PT3M21S,201,4
+gqPPeqOPRsM,Pacific Rim,GeographicFeature,NONE,NONE,0.741452,neutral,0.0,0.49451999999999996,0.178367,0.161708,0.073387,0.316197,1,1,Pacific Rim,Pacific Rim,Pacific Rim,Pacific Rim,pacif rim,pacif rim,pac rim,NONE,0.3167,0.097,0.14300000000000002,0.76,0.1321969696969697,0.3942099567099567,positive,0.46588,0.28338,0.25505,0.404793,0.145412,0.088975,0.0,0.4000000059604645,Catalonia Independence,2017-10-29T17:19:37.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,"Catalans celebrate independence vote, worry about what's next","Just hours after Catalonia declared independence on Oct. 27,  Spain’s prime minister announced that he would dismantle the region's government. Despite this, independence celebrations in Barcelona lasted deep into the night. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost
+Instagram: https://www.instagram.com/washingtonpost/
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Washington Post YouTube', 'Washington Post Video', 'WaPo Video', 'The Washington Post', 'News', 'catalan vote', 'catalonia', 'spain', 'catalonia spain', 'catalonia independence'",PT3M21S,201,4

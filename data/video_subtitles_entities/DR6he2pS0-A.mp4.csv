@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DR6he2pS0-A,90%,Quantity,NONE,NONE,0.350664,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3
+DR6he2pS0-A,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.413945,negative,-0.456426,0.0,0.0,0.0,0.0,0.0,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3
+DR6he2pS0-A,Oliver,Person,NONE,NONE,0.356057,negative,-0.486005,0.327716,0.024658000000000003,0.38038299999999997,0.18525,0.183497,1,1,Oliver,Oliver,Oliver,Oliver,oliv,oliv,ol,NONE,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3
+DR6he2pS0-A,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.350664,neutral,0.0,0.697205,0.19479100000000002,0.01908,0.237767,0.084338,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3
+DR6he2pS0-A,la policía Nacional De La Guardia TV.,Facility,NONE,NONE,0.896689,negative,-0.486005,0.327716,0.024658000000000003,0.38038299999999997,0.18525,0.183497,1,1,la policía Nacional De La Guardia TV.,la policía nacional de la guardia tv.,la policía nacional de la guardia tv.,la policía nacional de la guardia tv.,la policía nacional de la guardia tv.,la policía nacional de la guardia tv.,la policía nacional de la guardia tv.,NONE,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3
+DR6he2pS0-A,prime minister,JobTitle,NONE,NONE,0.401675,neutral,0.0,0.697205,0.19479100000000002,0.01908,0.237767,0.084338,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.7506,0.101,0.056,0.843,0.065625,0.19464285714285715,positive,0.658027,0.134878,0.221327,0.589746,0.131368,0.222222,-0.20000000298023224,2.4000000953674316,Catalonia Independence,2017-10-02T11:05:28.000Z,UC_ab7FFA2ACk2yTHgNan8lQ,"Spanish PM: ""There was no independence referendum in Catalonia""","After polling stations closed in Sunday's controversial Catalonia independence referendum, Spain's Prime Minister announced that ""no referendum"" took place in the country.
+
+""No referendum has been held in Catalonia today,"" PM Mariano Rajoy declared at a news conference Sunday evening.
+
+Claiming that the majority of people in Catalonia did not want to participate in the independence poll, the prime minister said those citizens had obeyed the law.
+
+Like what you see? Please subscribe  http://youtube.com/RTUKnews
+FOLLOW ON TWITTER:  http://twitter.com/RTUKnews
+FOLLOW ON FACEBOOK:  http://fb.com/RTUKnews
+READ MORE  http://rt.com/uk/
+WATCH LIVE:  http://rt.com/on-air/rt-uk-air/",RT UK,"RT (TV Network)', 'Russia Today', 'RT UK', 'News', 'Britain', 'Politics', 'Catalonia', 'Spain', 'Prime Minister', 'Catalan', 'Independemnce', 'Referendum', 'Mariano Rajoy'",PT2M3S,123,3

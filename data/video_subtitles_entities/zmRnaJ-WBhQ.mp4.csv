@@ -1,0 +1,967 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zmRnaJ-WBhQ,$5,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 5,$ 5,$ 5,$ 5,$ 5,$ 5,$ 5,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,7.2 percent,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,7.2 percent,7.2 percent,7.2 percent,7.2 perc,7.2 percent,7.2 percent,7.2 perc,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,8%,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,8 %,8 %,8 %,8 %,8 %,8 %,8 %,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,America,Location,Continent,NONE,0.244533,negative,-0.427675,0.452262,0.612341,0.05533,0.025710000000000004,0.021224,1,1,America,America,America,America,america,america,americ,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.312731,positive,0.9647620000000001,0.079262,0.018028,0.327594,0.171203,0.134441,2,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Bill,Person,NONE,NONE,0.26312800000000003,positive,0.9647620000000001,0.132673,0.039639,0.197602,0.159247,0.105233,1,1,Bill,Bill,Bill,Bill,bill,bill,bil,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Bruce Pollack,Person,NONE,NONE,0.267162,positive,0.9647620000000001,0.132673,0.039639,0.197602,0.159247,0.105233,1,1,Bruce Pollack,Bruce Pollack,Bruce Pollack,Bruce Pollack,bruce pollack,bruce pollack,bruc pollack,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Bruce Pollock,Person,NONE,NONE,0.308614,positive,0.626101,0.040362,0.037206,0.610745,0.15170999999999998,0.060689,1,1,Bruce Pollock,Bruce Pollock,Bruce Pollock,Bruce Pollock,bruce pollock,bruce pollock,bruc pollock,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.502313,positive,0.606835,0.069553,0.10718,0.693587,0.028107,0.13103399999999998,3,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Canada Korea,Company,NONE,NONE,0.462509,positive,0.9647620000000001,0.041569,0.016148,0.537324,0.166495,0.109581,1,1,Canada Korea,Canada Korea,Canada Korea,Canada Korea,canada korea,canada korea,canad kore,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Canada Korea,Organization,NONE,NONE,0.6556930000000001,positive,0.626101,0.041569,0.016148,0.537324,0.166495,0.109581,2,1,Canada Korea,Canada Korea,Canada Korea,Canada Korea,canada korea,canada korea,canad kore,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Conestoga,Organization,School,http://dbpedia.org/resource/Conestoga_High_School,0.315025,neutral,0.0,0.079696,0.035872,0.32155500000000004,0.023226,0.49078599999999994,1,1,Conestoga,Conestoga,Conestoga,Conestoga,conestoga,conestoga,conestog,http://en.wikipedia.org/wiki/Conestoga_High_School,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/North_Korea,0.531716,positive,0.464293,0.10585399999999999,0.065934,0.23299699999999998,0.022742,0.013872999999999998,2,1,Korea,Korea,Korea,Korea,korea,korea,kore,http://en.wikipedia.org/wiki/North_Korea,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,MinGa,Person,NONE,NONE,0.33576100000000003,positive,0.795431,0.05092,0.019584,0.509992,0.158452,0.102271,2,1,MinGa,MinGa,MinGa,MinGa,minga,minga,ming,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,Pacific Rim,GeographicFeature,NONE,NONE,0.30433699999999997,positive,0.471467,0.22663899999999998,0.102654,0.18845599999999998,0.100854,0.11167300000000001,1,1,Pacific Rim,Pacific Rim,Pacific Rim,Pacific Rim,pacif rim,pacif rim,pac rim,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,South Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/South_Korea,0.426584,positive,0.9647620000000001,0.132673,0.039639,0.197602,0.159247,0.105233,1,1,South Korea,South Korea,South Korea,South Korea,south korea,south korea,sou kore,http://en.wikipedia.org/wiki/South_Korea,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,eight percent,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eight percent,eight percent,eight percent,eight perc,eight percent,eight percent,eight perc,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,five years,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,hundred million dollars,Quantity,NONE,NONE,0.244533,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred million dollar,hundr million dollar,hundr million dollar,hundr mil doll,hundr million dollar,hundr million dollar,hundr mil doll,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,producer,JobTitle,NONE,NONE,0.378321,positive,0.506948,0.072254,0.096477,0.24527600000000002,0.137022,0.155566,2,1,producer,produc,produc,produc,produc,produc,produc,NONE,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3
+zmRnaJ-WBhQ,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.255832,negative,-0.427675,0.452262,0.612341,0.05533,0.025710000000000004,0.021224,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9958,0.025,0.192,0.7829999999999999,0.22179804170188785,0.4944103972950128,positive,0.669763,0.146893,0.5750649999999999,0.13488599999999998,0.09597,0.061796,0.10000000149011612,5.5,Free Trade,2014-09-22T17:39:05.000Z,UCIVMBvs03h74NSdQMH31jKA,The Canada-Korea Free Trade Agreement (CKFTA),"Transcript:
+Canada has negotiated the Canada-Korea
+         Free Trade Agreement.
+         It is projected to boost our economy by $1.7 billion,
+         creating thousands of jobs for hard-working Canadians.
+         It will also serve as a gateway into
+         the larger Asia-Pacific region.
+         Meet Bill Wymenga and Bruce Pollock,
+         two Canadian business people who will benefit.
+         This is what they have to say about the
+         Canada-Korea Free Trade Agreement.
+         I&apos;m a pork producer here in Chatham-Kent.
+         I produce market hogs for Conestoga Meats.
+         Our company is an exporter of structural building materials -
+         lumber and panel products that go to overseas markets,
+         mainly the Pacific Rim.
+         In our case, we&apos;ve figured that this would be worth
+         about five dollars per hog.
+         If I ship twenty-two hundred market hogs a year,
+         that&apos;s over ten thousand just in my own personal pocket, and
+         I&apos;m not a very large producer so this is very significant.
+         If you add that number across Canada where we have
+         over 21 million hogs, that are marketed per year,
+         we&apos;re talking something over a 100 million dollars.
+         The tariff for products from America are 7.2%, ours are 8%.
+         When we look at what&apos;s going to happen over the next five years,
+         because of the U.S. Free Trade Agreement with Korea,
+         theirs will drift to zero and ours will stay the same.
+         How can we compete with an 8% disadvantage?
+         The South Korean market has been very important
+         for us in the past.
+         It&apos;s been one of our top five markets that we export
+         our product into and it&apos;s a valuable market for us.
+         We want to have the same opportunities that other
+         companies enjoy in other countries.
+         Nothing says long-term than having your federal government
+         involved to help strike a free trade agreement to ensure
+         your competitiveness in the marketplace.
+         With the landmark Canada-Korea Free Trade Agreement now
+         concluded, Canadian businesses and workers - people like Bill
+         Wymenga and Bruce Pollock - will benefit significantly
+         from increased market access to one of the most
+         dynamic markets in Asia.
+         Make South Korea your market.
+         Your gateway to Asia.
+         For more information, visit www.international.gc.ca/korea",Global Affairs Canada,"Canada–South Korea Free Trade Agreement', 'South Korea (Country)', 'Canada (Country)', 'CKFTA', 'Free Trade Agreement', 'FTA'",PT2M21S,141,3

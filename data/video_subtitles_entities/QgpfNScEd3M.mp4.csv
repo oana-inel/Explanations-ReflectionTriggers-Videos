@@ -1,0 +1,301 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+QgpfNScEd3M,20%,Quantity,NONE,NONE,0.495935,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 %,20 %,20 %,20 %,20 %,20 %,20 %,NONE,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Botox,HealthCondition,"ChemicalCompound, DiseaseCause, MedicalTreatment, Protein",http://dbpedia.org/resource/Botulinum_toxin,0.5794100000000001,negative,-0.4492390000000001,0.308729,0.304899,0.06512000000000001,0.250222,0.206223,1,1,Botox,Botox,Botox,Botox,botox,botox,botox,http://en.wikipedia.org/wiki/Botulinum_toxin,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Facebook,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Facebook,0.56648,neutral,0.0,0.271015,0.059671,0.323302,0.278971,0.13642,1,1,Facebook,Facebook,Facebook,Facebook,facebook,facebook,facebook,http://en.wikipedia.org/wiki/Facebook,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.538936,negative,-0.7010649999999999,0.182147,0.032251999999999996,0.28678000000000003,0.141562,0.121137,1,1,Google,Google,Google,Google,googl,googl,googl,http://en.wikipedia.org/wiki/Google,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Jenny McCarthy,Person,"AwardNominee, AwardWinner, Celebrity, DietFollower, FilmProducer, FilmActor, FilmWriter, TVActor, VideoGameActor",http://dbpedia.org/resource/Jenny_McCarthy,0.556791,negative,-0.7010649999999999,0.182147,0.032251999999999996,0.28678000000000003,0.141562,0.121137,1,1,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,jenni mccarthi,jenni mccarthi,jenny mccarthy,http://en.wikipedia.org/wiki/Jenny_McCarthy,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Jimmy Kimmel,Person,"AwardWinner, Celebrity, Comedian, TVPersonality, TVProducer, BroadcastArtist, FilmActor, FilmWriter, VideoGameActor",http://dbpedia.org/resource/Jimmy_Kimmel,0.544239,negative,-0.747093,0.620282,0.188426,0.006097999999999999,0.149041,0.392678,1,1,Jimmy Kimmel,Jimmy Kimmel,Jimmy Kimmel,Jimmy Kimmel,jimmi kimmel,jimmi kimmel,jimmy kimmel,http://en.wikipedia.org/wiki/Jimmy_Kimmel,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,La,Location,City,NONE,0.710751,negative,-0.580634,0.309653,0.725341,0.012451,0.078776,0.164323,2,1,La,La,La,La,La,la,la,NONE,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,Walt,Person,NONE,NONE,0.495935,negative,-0.747093,0.620282,0.188426,0.006097999999999999,0.149041,0.392678,1,1,Walt,Walt,Walt,Walt,walt,walt,walt,NONE,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.537906,positive,0.441518,0.205652,0.003912,0.28831100000000004,0.027344999999999998,0.094196,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,dr. Seuss,Person,"MusicalArtist, Writer, AwardNominee, AwardWinner, ComicStripArtist, FilmProducer, FilmWriter, MilitaryPerson, VisualArtist",http://dbpedia.org/resource/Dr._Seuss,0.603831,negative,-0.30648800000000004,0.15298599999999998,0.128648,0.30715,0.062679,0.086667,1,1,dr. Seuss,dr. Seuss,dr. Seuss,dr. Seuss,dr. seuss,dr. seuss,dr. seuss,http://en.wikipedia.org/wiki/Dr._Seuss,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,four years,Quantity,NONE,NONE,0.495935,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5
+QgpfNScEd3M,three years,Quantity,NONE,NONE,0.495935,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three year,three year,three year,three year,three year,three year,three year,NONE,-0.9206,0.079,0.068,0.853,0.003380503144654098,0.5424004192872117,negative,-0.555063,0.156703,0.520183,0.515112,0.165131,0.148145,0.0,13.800000190734865,Vaccination,2015-02-27T08:30:00.000Z,UCa6vGFO9ty8v5KZJXQxdhaw,A Message for the Anti-Vaccine Movement,"Jimmy feels that all of this anti-vaccination silliness is starting to snowball, so he invited some real doctors to address it. These are actual medical professionals so hear them out and then decide for yourself.
+
+SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe
+
+Watch the latest Halloween Candy Prank: http://bit.ly/KimmelHalloweenCandy
+
+Watch the latest Mean Tweets: http://bit.ly/JKLMeanTweets8
+
+Connect with Jimmy Kimmel Live Online:
+
+Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite
+Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook
+Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter
+Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram
+
+About Jimmy Kimmel Live:
+
+Jimmy Kimmel serves as host and executive producer of Emmy-winning ""Jimmy Kimmel Live,"" ABC's late-night talk show.
+ 
+""Jimmy Kimmel Live"" is well known for its huge viral video successes with 2.5 billion views on YouTube alone. Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like ""I (Wanna) Channing All Over Your Tatum"" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.
+ 
+Now in its thirteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.
+
+A Message for the Anti-Vaccine Movement
+http://youtu.be/QgpfNScEd3M",Jimmy Kimmel Live,"jimmy kimmel', 'jimmy kimmel live', 'late night', 'talk show', 'funny', 'humor', 'comedic', 'stand-up', 'funny video', 'variety', 'highlight', 'clip', 'sketch comedy', 'music comedy', 'improv', 'sketch', 'comedian', 'Vaccine (Drug Class)', 'anti-vaccination', 'anti-vax', 'doctor', 'dr', 'rant', 'medicine', 'modern medicine', 'measles', 'polio', 'Vaccine Controversies', 'psa', 'public service announcement', 'medical school'",PT4M55S,295,5

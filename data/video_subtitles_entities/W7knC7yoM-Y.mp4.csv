@@ -1,0 +1,229 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+W7knC7yoM-Y,18 years,Quantity,NONE,NONE,0.23732399999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18 year,18 year,18 year,18 year,18 year,18 year,18 year,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,43%,Quantity,NONE,NONE,0.23732399999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,43 %,43 %,43 %,43 %,43 %,43 %,43 %,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Alameda,Location,City,"http://dbpedia.org/resource/Alameda,_Spain",0.326414,neutral,0.0,0.152544,0.055025,0.18726900000000002,0.054640999999999995,0.062544,1,1,Alameda,Alameda,Alameda,Alameda,alameda,alameda,alamed,"http://en.wikipedia.org/wiki/Alameda,_Spain",-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Antoni,Person,NONE,NONE,0.254635,neutral,0.0,0.076484,0.129556,0.560684,0.251112,0.031768,1,1,Antoni,Antoni,Antoni,Antoni,antoni,antoni,anton,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.261746,neutral,0.0,0.076484,0.129556,0.560684,0.251112,0.031768,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.587666,positive,0.530867,0.12017699999999999,0.026237,0.571964,0.252282,0.10583499999999996,2,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Catalonia,Location,City,NONE,0.925668,negative,-0.5588489999999999,0.356365,0.308052,0.09313099999999999,0.379538,0.223777,5,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Catalonia Liverpool,Facility,NONE,NONE,0.525564,neutral,0.0,0.174097,0.056174,0.222451,0.050056,0.074294,1,1,Catalonia Liverpool,Catalonia Liverpool,Catalonia Liverpool,Catalonia Liverpool,catalonia liverpool,catalonia liverpool,catalon liverpool,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Gracia,Person,NONE,NONE,0.255445,neutral,0.0,0.076484,0.129556,0.560684,0.251112,0.031768,1,1,Gracia,Gracia,Gracia,Gracia,gracia,gracia,grac,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.737876,negative,-0.558635,0.27121,0.192255,0.081025,0.424766,0.39156199999999997,5,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.385812,negative,-0.5125430000000001,0.6092609999999999,0.10751600000000001,0.016134,0.193549,0.34125,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3
+W7knC7yoM-Y,Tony castella,Person,NONE,NONE,0.331306,neutral,0.0,0.152544,0.055025,0.18726900000000002,0.054640999999999995,0.062544,1,1,Tony castella,Tony castella,Tony castella,Tony castell,toni castella,toni castella,tony castell,NONE,-0.8874,0.08199999999999999,0.071,0.847,0.055982142857142855,0.3923214285714285,negative,-0.43492,0.131498,0.496383,0.547395,0.135792,0.138601,0.0,5.5,Catalonia Independence,2017-10-26T09:55:40.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: Catalans consider seceding before Spain can act,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spanish authorities are leaving separatists in Catalonia with ""no other option"" but to push ahead with declaring independence for the wealthy northeastern region, said its vice president on Wednesday.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalonia', 'Catalan independence', 'independence', 'Spain', 'Catalona', 'Secession', 'parliament'",PT2M51S,171,3

@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+eFXjxv79me8,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.4614180000000001,neutral,0.0,0.501257,0.248119,0.107774,0.34972800000000004,0.053466,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Carlos Pooja,Person,NONE,NONE,0.721233,neutral,0.0,0.328863,0.16708499999999998,0.28467800000000004,0.06389500000000001,0.088797,6,1,Carlos Pooja,Carlos Pooja,Carlos Pooja,Carlos Pooja,carlo pooja,carlo pooja,carlo pooj,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Deputy Prime Minister,JobTitle,NONE,NONE,0.441358,neutral,0.0,0.335328,0.23408600000000002,0.094326,0.139871,0.112408,1,1,Deputy Prime Minister,Deputy Prime Minister,Deputy Prime Minister,Deputy Prime Minister,deputi prime minist,deputi prime minist,deputy prim min,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,GTM Barcelona,Company,NONE,NONE,0.42376800000000003,negative,-0.732474,0.631317,0.157504,0.08988600000000001,0.078916,0.07180399999999999,1,1,GTM Barcelona,GTM Barcelona,GTM Barcelona,GTM Barcelona,gtm barcelona,gtm barcelona,gtm barcelon,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Henderson,Person,NONE,NONE,0.32416999999999996,negative,-0.732474,0.631317,0.157504,0.08988600000000001,0.078916,0.07180399999999999,1,1,Henderson,Henderson,Henderson,Henderson,henderson,henderson,henderson,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Parliament,Organization,NONE,NONE,0.294779,neutral,0.0,0.223985,0.11118,0.18012899999999998,0.056340999999999995,0.020444,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Socialist Party,Organization,NONE,NONE,0.36528099999999997,positive,0.448949,0.251467,0.235335,0.234869,0.154666,0.195241,1,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.465642,neutral,0.0,0.389379,0.13230999999999998,0.28889899999999996,0.11092300000000001,0.17410899999999999,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,Spanish National Police,Organization,NONE,NONE,0.46534,neutral,0.0,0.501257,0.248119,0.107774,0.34972800000000004,0.053466,1,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,catalans,Location,Country,NONE,0.371078,neutral,0.0,0.064605,0.069678,0.253771,0.369721,0.083162,1,1,catalan,catalan,catalan,cat,catalan,catalan,cat,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,president,JobTitle,NONE,NONE,0.447801,neutral,0.0,0.285408,0.10981300000000001,0.370269,0.179861,0.10781400000000001,2,1,president,presid,presid,presid,presid,presid,presid,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3
+eFXjxv79me8,regional Force Madrid,Organization,NONE,NONE,0.46617200000000003,neutral,0.0,0.335328,0.23408600000000002,0.094326,0.139871,0.112408,1,1,regional Force Madrid,region Force Madrid,region Force Madrid,reg Force Madrid,region forc madrid,region forc madrid,reg forc madrid,NONE,0.8119,0.048,0.07200000000000001,0.8809999999999999,0.0310957501280082,0.3677521761392729,negative,-0.403738,0.11528,0.506055,0.5325310000000001,0.451113,0.131848,0.0,4.800000190734863,Catalonia Independence,2017-10-10T08:23:26.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Spain’s deputy PM gives up persuading Catalonia not to declare independence,"Catalonia's regional President Carles Puigdemont is scheduled to make a speech to congressmen at 6PM local time, that is 16GMT on Tuesday. The speech will focus on the current political situation in the region, and Puigdemont is also likely to declare unilateral independence. 
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'WorldNews', 'CCTV', 'Spain'",PT2M1S,121,3

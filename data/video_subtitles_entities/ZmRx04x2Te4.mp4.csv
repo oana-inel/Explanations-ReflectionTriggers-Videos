@@ -1,0 +1,1051 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZmRx04x2Te4,"10,000 meters",Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,"10,000 meter","10,000 meter","10,000 meter","10,000 met","10,000 meter","10,000 meter","10,000 met",NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,15 minutes,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15 minute,15 minut,15 minut,15 minut,15 minut,15 minut,15 minut,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,20%,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 %,20 %,20 %,20 %,20 %,20 %,20 %,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,30 100 meters,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 100 meter,30 100 meter,30 100 meter,30 100 met,30 100 meter,30 100 meter,30 100 met,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,41%,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,41 %,41 %,41 %,41 %,41 %,41 %,41 %,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,42.3%,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,48 hours,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,64 year,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,64 year,64 year,64 year,64 year,64 year,64 year,64 year,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,65%,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,65 %,65 %,65 %,65 %,65 %,65 %,65 %,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Alana,Person,NONE,NONE,0.466315,neutral,0.0,0.19162300000000002,0.47251000000000004,0.323035,0.115542,0.056491999999999994,1,1,Alana,Alana,Alana,Alana,alana,alana,alan,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Bali,Location,City,NONE,0.626164,negative,-0.6098399999999999,0.24662800000000001,0.528671,0.23920999999999998,0.090987,0.077856,3,1,Bali,Bali,Bali,Bali,bali,bali,bal,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.420942,neutral,0.0,0.31785599999999997,0.300793,0.15931700000000001,0.088345,0.146182,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Burj Khalifa,Facility,"Location, Building, Skyscraper",http://dbpedia.org/resource/Burj_Khalifa,0.501626,neutral,0.0,0.143955,0.021111,0.564635,0.063002,0.037194,1,1,Burj Khalifa,Burj Khalifa,Burj Khalifa,Burj Khalifa,burj khalifa,burj khalifa,burs khalif,http://en.wikipedia.org/wiki/Burj_Khalifa,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Capital Denpasar,Facility,NONE,NONE,0.4547310000000001,neutral,0.0,0.7120489999999999,0.16608,0.154836,0.005118999999999999,0.06125700000000001,1,1,Capital Denpasar,Capital Denpasar,Capital Denpasar,Capital Denpasar,capit denpasar,capit denpasar,capit denpas,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Castile,Location,City,NONE,0.392175,neutral,0.0,0.205238,0.057477999999999994,0.14841400000000002,0.059469000000000015,0.053426999999999995,1,1,Castile,Castile,Castile,Castile,castil,castil,castil,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Catalonia,Location,City,NONE,0.711252,neutral,0.0,0.578939,0.205325,0.02506,0.20273,0.33052800000000004,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Catalonia,Location,Country,NONE,0.5177109999999999,negative,-0.696717,0.578939,0.205325,0.02506,0.20273,0.33052800000000004,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Catalonia,Location,Region,NONE,0.5111359999999999,positive,0.436644,0.578939,0.205325,0.02506,0.20273,0.33052800000000004,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.41535900000000003,negative,-0.475749,0.29643600000000003,0.35702399999999995,0.23881599999999997,0.034048,0.054942,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Franco,Person,NONE,NONE,0.420325,negative,-0.696717,0.525273,0.332254,0.0068189999999999995,0.254153,0.231087,2,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Indonesia,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Indonesia,0.47563599999999995,negative,-0.40868899999999997,0.193954,0.49576400000000004,0.297296,0.031077999999999998,0.114401,1,1,Indonesia,Indonesia,Indonesia,Indonesia,indonesia,indonesia,indones,http://en.wikipedia.org/wiki/Indonesia,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Indonesian government,Organization,"Location, AdministrativeDivision, Country, GovernmentalJurisdiction",http://dbpedia.org/resource/Indonesia,0.510653,negative,-0.673054,0.2479510000000001,0.658273,0.162521,0.101177,0.020512,1,1,Indonesian government,indonesian govern,indonesian govern,indones govern,indonesian govern,indonesian govern,indones govern,http://en.wikipedia.org/wiki/Indonesia,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,International Airport,Facility,"Location, Airport, Neighborhood, TransportTerminus",http://dbpedia.org/resource/Orlando_International_Airport,0.474142,neutral,0.0,0.7120489999999999,0.16608,0.154836,0.005118999999999999,0.06125700000000001,1,1,International Airport,International Airport,International Airport,International Airport,intern airport,intern airport,intern airport,http://en.wikipedia.org/wiki/Orlando_International_Airport,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Las Vegas,Location,City,http://dbpedia.org/resource/Las_Vegas,0.6827409999999999,negative,-0.694253,0.469667,0.231582,0.071712,0.300993,0.291468,3,1,Las Vegas,Las Vegas,Las Vegas,Las Vegas,la vega,las vega,las vega,http://en.wikipedia.org/wiki/Las_Vegas,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Lee,Person,NONE,NONE,0.36186199999999996,neutral,0.0,0.294186,0.20748000000000005,0.028526,0.55512,0.28730100000000003,1,1,Lee,Lee,Lee,Lee,lee,lee,lee,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.407746,neutral,0.0,0.30849899999999997,0.216352,0.02018,0.50684,0.34289400000000003,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Mandalay Bay Hotel,Facility,NONE,NONE,0.45615,neutral,0.0,0.098732,0.026269,0.613006,0.08898500000000001,0.103898,1,1,Mandalay Bay Hotel,Mandalay Bay Hotel,Mandalay Bay Hotel,Mandalay Bay Hotel,mandalay bay hotel,mandalay bay hotel,mandalay bay hotel,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Miles,Person,NONE,NONE,0.37393899999999997,negative,-0.671379,0.209839,0.165943,0.17911300000000002,0.020607,0.067458,1,1,Miles,Miles,Miles,Miles,mile,mile,mil,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Mound argon,GeographicFeature,NONE,NONE,0.475915,neutral,0.0,0.242073,0.172158,0.15689,0.057963,0.299926,1,1,Mound argon,Mound argon,Mound argon,Mound argon,mound argon,mound argon,mound argon,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Nation Stannis,Organization,NONE,NONE,0.377558,neutral,0.0,0.103834,0.133524,0.116731,0.33417800000000003,0.259777,1,1,Nation Stannis,Nation Stannis,Nation Stannis,Nation Stannis,nation stanni,nation stanni,nat stan,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Nevada,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Nevada,0.47163,negative,-0.5880569999999999,0.116845,0.393959,0.034480000000000004,0.37761999999999996,0.32139,1,1,Nevada,Nevada,Nevada,Nevada,nevada,nevada,nevad,http://en.wikipedia.org/wiki/Nevada,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Parliament police force,Organization,NONE,NONE,0.38113,negative,-0.696717,0.5375979999999999,0.34489899999999996,0.005911,0.240706,0.216214,1,1,Parliament police force,Parliament polic forc,Parliament polic forc,Parliament pol forc,parliament polic forc,parliament polic forc,parlia pol forc,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.471708,neutral,0.0,0.060629999999999996,0.069036,0.613384,0.025559000000000002,0.18574000000000002,2,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.6982649999999999,negative,-0.12295899999999994,0.317286,0.27581999999999995,0.037104000000000005,0.456521,0.294281,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Stephen Paddock,Person,NONE,NONE,0.518083,neutral,0.0,0.430796,0.08544199999999999,0.20984699999999998,0.299588,0.17915,2,1,Stephen Paddock,Stephen Paddock,Stephen Paddock,Stephen Paddock,stephen paddock,stephen paddock,steph paddock,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,Tremors,HealthCondition,NONE,NONE,0.446175,negative,-0.673054,0.2479510000000001,0.658273,0.162521,0.101177,0.020512,1,1,Tremors,Tremors,Tremors,Tremors,tremor,tremor,trem,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.449017,neutral,0.0,0.184535,0.31484,0.21837800000000002,0.315146,0.22780799999999998,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,bone loss,HealthCondition,"DiseaseOrMedicalCondition, DiseaseCause, RiskFactor, Symptom, Disease",http://dbpedia.org/resource/Osteoporosis,0.698645,negative,-0.683683,0.681177,0.415113,0.008981999999999999,0.096469,0.08039400000000001,3,1,bone loss,bone loss,bone loss,bon loss,bone loss,bone loss,bon loss,http://en.wikipedia.org/wiki/Osteoporosis,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,five decades,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five decade,five decad,five decad,fiv decad,five decad,five decad,fiv decad,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,mount Hagen,GeographicFeature,NONE,NONE,0.4493720000000001,negative,-0.673054,0.2479510000000001,0.658273,0.162521,0.101177,0.020512,1,1,mount Hagen,mount Hagen,mount Hagen,mount Hagen,mount hagen,mount hagen,mount hag,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,president,JobTitle,NONE,NONE,0.377956,neutral,0.0,0.294186,0.20748000000000005,0.028526,0.55512,0.28730100000000003,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10
+ZmRx04x2Te4,six months,Quantity,NONE,NONE,0.36070399999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,-0.9995,0.14400000000000002,0.058,0.7979999999999999,0.04495939918667192,0.4006181974591065,negative,-0.619795,0.181962,0.499899,0.56402,0.616441,0.135429,0.0,15.199999809265135,Catalonia Independence,2017-10-05T10:49:41.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,TomoNews Daily: Indonesia volcano eruption; Las Vegas shooting; Catalonia independence - 10/04/2017,"1. DENPASAR, INDONESIA — An eruption from Bali’s Mount Agung volcano is imminent. Authorities have evacuated some 75,000 people in danger zones surrounding areas.
+
+2. EARTH — A volcano is an opening in the earth’s surface where molten rock can escape. The earth’s crust is made up of tectonic plates that shift and move. Volcanoes are often located at the fault lines between these plates. 
+
+3. LAS VEGAS — At least 59 people were killed and 527 injured when a sniper opened fire at a Las Vegas concert on Sunday night. 
+
+4. LAS VEGAS — The man behind Sunday night’s atrocity had nearly 2 dozen weapons in his hotel, including rifles modified with a bump stock.
+
+5. BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"tomonews us', 'news', 'Daily news', 'tomo news', 'volcano', 'Bali', 'eruption', 'evacuation', 'las vegas', 'concert', 'catalonia', 'independence', 'spain', 'europe', 'EU'",PT9M45S,585,10

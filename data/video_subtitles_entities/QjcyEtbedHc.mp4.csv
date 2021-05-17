@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+QjcyEtbedHc,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.8813190000000001,negative,-0.59721,0.5662,0.365543,0.007877,0.191197,0.242808,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9337,0.13,0.0,0.87,-0.1285714285714286,0.4142857142857143,negative,-0.707149,0.186602,0.008131999999999999,0.551721,0.458905,0.164104,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2018-10-02T13:32:07.000Z,UCpwvZwUam-URkxB7g4USKpg,Riots in Catalan capital one year after independence vote quashed,"Frustration turned to violence in Barcelona on Monday. Pro-independence activists were marking a year since a referendum to break away from Spain was brutally quashed by Madrid. And police were back on the streets in force. READ MORE: https://on.rt.com/9fke
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Telegram https://t.me/rtintl
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Barcelona', 'spain', 'separatism in EU', 'EU', 'European Union', 'brutal slash', 'police brutality', 'clashes in spain', 'riots in spain', 'riots in eu'",PT1M17S,77,2
+QjcyEtbedHc,Catalan Regional Capital,Facility,NONE,NONE,0.6351140000000001,negative,-0.445562,0.528774,0.335254,0.016322,0.266499,0.183508,1,1,Catalan Regional Capital,Catalan Regional Capital,Catalan Regional Capital,Catalan Regional Capital,catalan region capit,catalan region capit,cat reg capit,NONE,-0.9337,0.13,0.0,0.87,-0.1285714285714286,0.4142857142857143,negative,-0.707149,0.186602,0.008131999999999999,0.551721,0.458905,0.164104,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2018-10-02T13:32:07.000Z,UCpwvZwUam-URkxB7g4USKpg,Riots in Catalan capital one year after independence vote quashed,"Frustration turned to violence in Barcelona on Monday. Pro-independence activists were marking a year since a referendum to break away from Spain was brutally quashed by Madrid. And police were back on the streets in force. READ MORE: https://on.rt.com/9fke
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Telegram https://t.me/rtintl
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Barcelona', 'spain', 'separatism in EU', 'EU', 'European Union', 'brutal slash', 'police brutality', 'clashes in spain', 'riots in spain', 'riots in eu'",PT1M17S,77,2
+QjcyEtbedHc,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.5198189999999999,negative,-0.748858,0.576021,0.368286,0.008362999999999999,0.119467,0.278952,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9337,0.13,0.0,0.87,-0.1285714285714286,0.4142857142857143,negative,-0.707149,0.186602,0.008131999999999999,0.551721,0.458905,0.164104,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2018-10-02T13:32:07.000Z,UCpwvZwUam-URkxB7g4USKpg,Riots in Catalan capital one year after independence vote quashed,"Frustration turned to violence in Barcelona on Monday. Pro-independence activists were marking a year since a referendum to break away from Spain was brutally quashed by Madrid. And police were back on the streets in force. READ MORE: https://on.rt.com/9fke
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Telegram https://t.me/rtintl
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Barcelona', 'spain', 'separatism in EU', 'EU', 'European Union', 'brutal slash', 'police brutality', 'clashes in spain', 'riots in spain', 'riots in eu'",PT1M17S,77,2
+QjcyEtbedHc,Parliament,Organization,NONE,NONE,0.4399020000000001,negative,-0.445562,0.528774,0.335254,0.016322,0.266499,0.183508,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.9337,0.13,0.0,0.87,-0.1285714285714286,0.4142857142857143,negative,-0.707149,0.186602,0.008131999999999999,0.551721,0.458905,0.164104,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2018-10-02T13:32:07.000Z,UCpwvZwUam-URkxB7g4USKpg,Riots in Catalan capital one year after independence vote quashed,"Frustration turned to violence in Barcelona on Monday. Pro-independence activists were marking a year since a referendum to break away from Spain was brutally quashed by Madrid. And police were back on the streets in force. READ MORE: https://on.rt.com/9fke
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Telegram https://t.me/rtintl
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Barcelona', 'spain', 'separatism in EU', 'EU', 'European Union', 'brutal slash', 'police brutality', 'clashes in spain', 'riots in spain', 'riots in eu'",PT1M17S,77,2
+QjcyEtbedHc,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.487519,negative,-0.748858,0.576021,0.368286,0.008362999999999999,0.119467,0.278952,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.9337,0.13,0.0,0.87,-0.1285714285714286,0.4142857142857143,negative,-0.707149,0.186602,0.008131999999999999,0.551721,0.458905,0.164104,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2018-10-02T13:32:07.000Z,UCpwvZwUam-URkxB7g4USKpg,Riots in Catalan capital one year after independence vote quashed,"Frustration turned to violence in Barcelona on Monday. Pro-independence activists were marking a year since a referendum to break away from Spain was brutally quashed by Madrid. And police were back on the streets in force. READ MORE: https://on.rt.com/9fke
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Telegram https://t.me/rtintl
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Barcelona', 'spain', 'separatism in EU', 'EU', 'European Union', 'brutal slash', 'police brutality', 'clashes in spain', 'riots in spain', 'riots in eu'",PT1M17S,77,2

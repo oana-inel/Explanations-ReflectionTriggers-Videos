@@ -1,0 +1,376 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Z5F0Ohet0co,Amir Taki,Person,NONE,NONE,0.300668,neutral,0.0,0.389268,0.293571,0.198262,0.099135,0.073254,1,1,Amir Taki,Amir Taki,Amir Taki,Amir Taki,amir taki,amir taki,amir tak,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Andreessen Horowitz,Person,NONE,NONE,0.27215300000000003,neutral,0.0,0.318676,0.017991999999999998,0.621059,0.020753999999999998,0.005711,1,1,Andreessen Horowitz,Andreessen Horowitz,Andreessen Horowitz,Andreessen Horowitz,andreessen horowitz,andreessen horowitz,andreess horowitz,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Brian ha,Person,NONE,NONE,0.32150500000000004,positive,0.5784600000000001,0.13935899999999998,0.064671,0.587492,0.115908,0.078471,1,1,Brian ha,Brian ha,Brian ha,Brian ha,brian ha,brian ha,bri ha,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,CEO,JobTitle,NONE,NONE,0.33018400000000003,positive,0.5784600000000001,0.13935899999999998,0.064671,0.587492,0.115908,0.078471,1,1,CEO,CEO,CEO,CEO,ceo,ceo,ceo,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Croatia,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Croatia,0.30498600000000003,positive,0.929292,0.127775,0.023791,0.7547119999999999,0.011826999999999999,0.025306,1,1,Croatia,Croatia,Croatia,Croatia,croatia,croatia,croat,http://en.wikipedia.org/wiki/Croatia,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Etsy,Company,NONE,NONE,0.40119299999999997,positive,0.554888,0.11595,0.073227,0.63176,0.11330499999999999,0.076048,2,1,Etsy,Etsy,Etsy,Etsy,etsi,etsi,etsy,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,FBI,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Federal_Bureau_of_Investigation,0.41621499999999995,negative,-0.598245,0.432543,0.326432,0.016633000000000002,0.31846199999999997,0.301158,2,1,FBI,FBI,FBI,FBI,fbi,fbi,fbi,http://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Hoffman,Person,NONE,NONE,0.274503,negative,-0.605538,0.41803,0.067538,0.091623,0.286118,0.281242,1,1,Hoffman,Hoffman,Hoffman,Hoffman,hoffman,hoffman,hoffm,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Legal Services,Organization,NONE,NONE,0.290143,negative,-0.352721,0.29122800000000004,0.218354,0.039731,0.052270000000000004,0.330094,1,1,Legal Services,Legal Services,Legal Services,Legal Services,legal servic,legal servic,leg serv,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Lux,Person,NONE,NONE,0.3357,positive,0.834358,0.166722,0.063168,0.68596,0.020412,0.068244,1,1,Lux,Lux,Lux,Lux,lux,lux,lux,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Microsoft,Company,"OperatingSystemDeveloper, ProcessorManufacturer, SoftwareDeveloper, VentureFundedCompany, VideoGameDeveloper, VideoGamePublisher, ProgrammingLanguageDesigner",http://dbpedia.org/resource/Microsoft,0.318423,negative,-0.35580100000000003,0.11528499999999994,0.132691,0.346823,0.139343,0.243468,1,1,Microsoft,Microsoft,Microsoft,Microsoft,microsoft,microsoft,microsoft,http://en.wikipedia.org/wiki/Microsoft,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Obi One,Company,NONE,NONE,0.260752,neutral,0.0,0.132454,0.173724,0.37943499999999997,0.027471,0.059625,1,1,Obi One,obi one,obi one,ob on,obi one,obi one,ob on,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Obi-Wan,Person,NONE,NONE,0.58523,negative,-0.35653,0.292732,0.176807,0.322202,0.083432,0.19061,3,1,Obi-Wan,Obi-Wan,Obi-Wan,Obi-Wan,obi-wan,obi-wan,obi-wan,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Ross ulbricht,Person,NONE,NONE,0.34547,neutral,0.0,0.501682,0.134357,0.221446,0.220567,0.113728,2,1,Ross ulbricht,Ross ulbricht,Ross ulbricht,Ross ulbricht,ross ulbricht,ross ulbricht,ross ulbricht,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,San Francisco,Location,City,NONE,0.285877,negative,-0.7839649999999999,0.31905300000000003,0.213281,0.012856,0.5625180000000001,0.26302600000000004,1,1,San Francisco,San Francisco,San Francisco,San Francisco,san francisco,san francisco,san francisco,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Toronto,Location,"AdministrativeDivision, GovernmentalJurisdiction, OlympicBiddingCity, SchoolDistrict, City",http://dbpedia.org/resource/Toronto,0.325013,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Toronto,Toronto,Toronto,Toronto,toronto,toronto,toronto,http://en.wikipedia.org/wiki/Toronto,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Union Square Ventures,Company,NONE,NONE,0.29333200000000004,positive,0.929292,0.127775,0.023791,0.7547119999999999,0.011826999999999999,0.025306,1,1,Union Square Ventures,Union Square Ventures,Union Square Ventures,Union Square Ventures,union squar ventur,union squar ventur,un squ vent,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Walmart,Company,NONE,NONE,0.290742,neutral,0.0,0.183192,0.049665,0.179647,0.043697,0.048164,1,1,Walmart,Walmart,Walmart,Walmart,walmart,walmart,walmart,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,Washington Redskins,Organization,"SportsTeam, FootballTeam, ProfessionalSportsTeam, Company",http://dbpedia.org/resource/Washington_Redskins,0.313688,neutral,0.0,0.183192,0.049665,0.179647,0.043697,0.048164,1,1,Washington Redskins,Washington Redskins,Washington Redskins,Washington Redskins,washington redskin,washington redskin,washington redskin,http://en.wikipedia.org/wiki/Washington_Redskins,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,William McGuire,Person,NONE,NONE,0.253258,neutral,0.0,0.278111,0.014238999999999996,0.664248,0.022503,0.006640000000000001,2,1,William McGuire,William McGuire,William McGuire,William McGuire,william mcguir,william mcguir,william mcguire,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,billion dollars,Quantity,NONE,NONE,0.253258,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,billion dollar,billion dollar,billion dollar,bil doll,billion dollar,billion dollar,bil doll,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,developer,JobTitle,NONE,NONE,0.29448,neutral,0.0,0.389268,0.293571,0.198262,0.099135,0.073254,1,1,developer,develop,develop,develop,develop,develop,develop,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,government contractor,JobTitle,NONE,NONE,0.32135199999999997,positive,0.5784600000000001,0.13935899999999998,0.064671,0.587492,0.115908,0.078471,1,1,government contractor,govern contractor,govern contractor,govern contract,govern contractor,govern contractor,govern contract,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,six months,Quantity,NONE,NONE,0.253258,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10
+Z5F0Ohet0co,six trillion dollar,Quantity,NONE,NONE,0.253258,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six trillion dollar,six trillion dollar,six trillion dollar,six tril doll,six trillion dollar,six trillion dollar,six tril doll,NONE,-0.2326,0.096,0.095,0.809,0.09775864430927723,0.5274592443421557,negative,-0.369466,0.144316,0.565713,0.485751,0.13145,0.0885,-0.10000000149011612,18.299999237060547,Free Trade,2016-08-08T18:39:12.000Z,UC0uVZd8N7FfIZnPu0y7o95A,Can OpenBazaar Make Free Trade Unstoppable?,"The mission of OpenBazaar is to give everyone in the world ""the ability to directly engage in trade with anyone in the world for free,"" says Brian Hoffman, the project's 33-year-old project leader.
+
+A peer-to-peer network for selling goods online, OpenBazaar runs on open source software that users download and install on their computers, which is similar to a BitTorrent client. The client connects them to the OpenBazaar network, where they can trade with other users. It's like eBay without eBay. All items are paid for using bitcoin.
+
+""OpenBazaar doesn't have a central point of failure,"" explains OB-1 co-founder Sam Patterson. ""Everyone using it is a node in a completely distributed network. If you take one user off the network, it has no impact on any of the other users.""
+
+Last year, OB1, the company that's developing the OpenBazaar network, got a million dollars in venture capital from Union Square Ventures, Andreessen Horowitz, and investor William Mougayar.
+
+Since OpenBazaar has no intermediaries and no built in mechanisms for stopping a transaction from taking place, critics say it could become an ideal marketplace for stolen goods and illegal drugs—sort of a decentralized version of Silk Road. Hoffman isn't concerned. ""If we work hard to allow users to self-police, to do things legally, properly, easily, cheaply,"" he says, ""they will rush in and overwhelm whatever could possibly come in from the dark side of the internet.""
+
+Approximately 9 minutes.
+
+Produced, narrated, and edited by Sean Malone.
+
+Visit https://reason.com/reasontv/2016/08/08/is-open-bazaar-the-new-silk-road for full text and links and subscribe for more videos: https://goo.gl/NqjoWI",ReasonTV,,PT9M17S,557,10

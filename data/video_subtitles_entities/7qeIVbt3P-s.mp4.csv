@@ -1,0 +1,151 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+7qeIVbt3P-s,Catalonia,Location,City,NONE,0.49642600000000003,negative,-0.461343,0.292032,0.190652,0.125354,0.262077,0.15445899999999999,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Catalonia,Location,Country,NONE,0.4174060000000001,neutral,0.0,0.292032,0.190652,0.125354,0.262077,0.15445899999999999,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.4249770000000001,negative,-0.595611,0.73995,0.130959,0.091974,0.090765,0.087121,2,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,European Central Bank,Company,NONE,NONE,0.331307,negative,-0.41324799999999995,0.277084,0.117251,0.192255,0.015288999999999999,0.12306700000000001,1,1,European Central Bank,european Central Bank,european Central Bank,europ Central Bank,european central bank,european central bank,europ cent bank,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Eurozone,Organization,NONE,NONE,0.314307,neutral,0.0,0.6236510000000001,0.190518,0.063778,0.072741,0.085855,1,1,Eurozone,eurozon,eurozon,eurozon,eurozon,eurozon,eurozon,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Kaiser bank,Company,NONE,NONE,0.37418,negative,-0.65904,0.27570900000000004,0.24756799999999998,0.125432,0.066014,0.045187,1,1,Kaiser bank,Kaiser bank,Kaiser bank,Kaiser bank,kaiser bank,kaiser bank,kais bank,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.36541799999999997,positive,0.9699180000000001,0.124588,0.031612,0.617121,0.025894,0.101034,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.708654,positive,0.056633,0.21355,0.160145,0.26699,0.268648,0.17607799999999998,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,TSB,Company,NONE,NONE,0.315304,neutral,0.0,0.080823,0.092499,0.38821500000000003,0.044416000000000004,0.152042,1,1,TSB,TSB,TSB,TSB,tsb,tsb,tsb,NONE,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3
+7qeIVbt3P-s,Volkswagen,Company,"AutomobileCompany, AwardWinner",http://dbpedia.org/resource/Volkswagen,0.376816,neutral,0.0,0.27921999999999997,0.26209099999999996,0.06459,0.16777,0.165355,1,1,Volkswagen,volkswagen,volkswagen,volksw,volkswagen,volkswagen,volksw,http://en.wikipedia.org/wiki/Volkswagen,0.8708,0.065,0.08199999999999999,0.8540000000000001,0.08939703153988869,0.3962631416202844,negative,-0.368935,0.148591,0.474204,0.546927,0.243853,0.11393,0.0,6.4000000953674325,Catalonia Independence,2017-10-04T18:31:02.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Catalonian independence 'a bad idea' for economy,"Catalan President Carles Puigdemont has said he will declare independence from Spain within days, and the constitutional crisis has unnerved the makets. Federico Santi is an analyst with Eurasia Group and speaks to Ian King.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,,PT2M54S,174,3

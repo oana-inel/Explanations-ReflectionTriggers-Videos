@@ -1,0 +1,336 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+bo7WXnHMEyg,FDA,Organization,GovernmentAgency,http://dbpedia.org/resource/Food_and_Drug_Administration,0.696387,positive,0.447072,0.163958,0.082628,0.105778,0.047758,0.149518,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,http://en.wikipedia.org/wiki/Food_and_Drug_Administration,0.9738,0.064,0.111,0.825,0.09146231854565186,0.5121205569122237,negative,-0.392705,0.108382,0.14769300000000002,0.536525,0.142075,0.089678,-0.10000000149011612,8.100000381469728,Vaccination,2017-10-05T12:09:04.000Z,UC3w193M5tYPJqF0Hi-7U-2g,My Opinion on Vaccinations,"Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+Your report will then be sent via email analyzing 104 potential symptoms, giving you a much deeper insight into your body issues. It's free and very enlightening. 
+
+Dr. Berg talks about vaccinations. There are many toxins in vaccinations:
+1. Msg
+2. Anti-freeze
+3. Formaldehyde
+4. Aluminum
+5. Lead
+6. Acetone
+7. Thiomersal
+8. etc. etc.
+
+I am not telling you to take vaccinations or not take them. Simply, look at the data from both sides and you decide. However, you need to get all the data - check out this research below.
+
+RESEARCH:
+http://vaccinepapers.org/high-mortali...
+http://vaccinepapers.org/autism-broch...
+http://vaccinepapers.org/debunking-al...
+http://vaccinepapers.org/examine-evid...
+
+The Vaccine industry is a 25 billion dollar business:
+http://www.fiercepharma.com/special-r...
+https://ccfvc.org/stuff/pdfs/Vaccine_...
+https://www.cbsnews.com/news/supreme-...
+http://www.nvic.org/NVIC-Vaccine-News...
+http://ahrp.org/former-merck-scientis...
+http://www.educate4theinjured.org/vac...
+
+Dr. Eric Berg DC Bio:
+Dr. Berg, 51 years of age is a chiropractor who specializes in weight loss through nutritional and natural methods. His private practice is located in Alexandria, Virginia. His clients include senior officials in the U.S. government and the Justice Department, ambassadors, medical doctors, high-level executives of prominent corporations, scientists, engineers, professors, and other clients from all walks of life. He is the author of The 7 Principles of Fat Burning, published by KB Publishing in January 2011. Dr. Berg trains chiropractors, physicians and allied healthcare practitioners in his methods, and to date he has trained over 2,500 healthcare professionals. He has been an active member of the Endocrinology Society, and has worked as a past part-time adjunct professor at Howard University.
+
+DR. BERG'S SHOP: http://shop.drberg.com/
+
+Follow us on FACEBOOK: fb.me/DrEricBerg
+
+Send a Message to Dr. Berg and his team: m.me/DrEricBerg
+
+TWITTER: http://twitter.com/DrBergDC
+
+DR. BERG'S VIDEO BLOG: http://www.drberg.com/blog
+
+YOUTUBE: https://www.youtube.com/user/drericbe...
+
+ABOUT DR. BERG: http://www.drberg.com/dr-eric-berg/bio
+
+DR. BERG'S STORY: http://www.drberg.com/dr-eric-berg/story
+
+DR. BERG'S HEALTH COACHING TRAINING: http://www.drberg.com/weight-loss-coach
+
+DR. BERG'S REVIEWS: http://www.drberg.com/reviews
+
+ 
+
+The Health & Wellness Center
+
+4709 D Pinecrest Office Park Drive
+
+Alexandria, VA 22312
+
+703-354-7336
+
+ 
+Disclaimer:
+Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988.  His use of “doctor” or “Dr.” in relation to himself solely refers to that degree.  Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients. This video is for general informational purposes only.  It should not be used to self-diagnose and it is not a substitute for a medical exam, cure, treatment, diagnosis, and prescription or recommendation.  It does not create a doctor-patient relationship between Dr. Berg and you.  You should not make any change in your health regimen or diet before first consulting a physician and obtaining a medical exam, diagnosis, and recommendation.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. The Health & Wellness, Dr. Berg Nutritionals and Dr. Eric Berg, D.C. are not liable or responsible for any advice, course of treatment, diagnosis or any other information, services or product you obtain through this video or site.
+#keto #ketodiet #weightloss #ketosis",Dr. Eric Berg DC,"vaccinations', 'DPT', 'MMR', 'myths', 'autism', 'Big Pharma', 'kids', 'aluminum', 'Thiomersal'",PT2M36S,156,3
+bo7WXnHMEyg,MMR,HealthCondition,NONE,NONE,0.699646,negative,-0.405779,0.186334,0.244837,0.082332,0.207366,0.123695,1,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,0.9738,0.064,0.111,0.825,0.09146231854565186,0.5121205569122237,negative,-0.392705,0.108382,0.14769300000000002,0.536525,0.142075,0.089678,-0.10000000149011612,8.100000381469728,Vaccination,2017-10-05T12:09:04.000Z,UC3w193M5tYPJqF0Hi-7U-2g,My Opinion on Vaccinations,"Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+Your report will then be sent via email analyzing 104 potential symptoms, giving you a much deeper insight into your body issues. It's free and very enlightening. 
+
+Dr. Berg talks about vaccinations. There are many toxins in vaccinations:
+1. Msg
+2. Anti-freeze
+3. Formaldehyde
+4. Aluminum
+5. Lead
+6. Acetone
+7. Thiomersal
+8. etc. etc.
+
+I am not telling you to take vaccinations or not take them. Simply, look at the data from both sides and you decide. However, you need to get all the data - check out this research below.
+
+RESEARCH:
+http://vaccinepapers.org/high-mortali...
+http://vaccinepapers.org/autism-broch...
+http://vaccinepapers.org/debunking-al...
+http://vaccinepapers.org/examine-evid...
+
+The Vaccine industry is a 25 billion dollar business:
+http://www.fiercepharma.com/special-r...
+https://ccfvc.org/stuff/pdfs/Vaccine_...
+https://www.cbsnews.com/news/supreme-...
+http://www.nvic.org/NVIC-Vaccine-News...
+http://ahrp.org/former-merck-scientis...
+http://www.educate4theinjured.org/vac...
+
+Dr. Eric Berg DC Bio:
+Dr. Berg, 51 years of age is a chiropractor who specializes in weight loss through nutritional and natural methods. His private practice is located in Alexandria, Virginia. His clients include senior officials in the U.S. government and the Justice Department, ambassadors, medical doctors, high-level executives of prominent corporations, scientists, engineers, professors, and other clients from all walks of life. He is the author of The 7 Principles of Fat Burning, published by KB Publishing in January 2011. Dr. Berg trains chiropractors, physicians and allied healthcare practitioners in his methods, and to date he has trained over 2,500 healthcare professionals. He has been an active member of the Endocrinology Society, and has worked as a past part-time adjunct professor at Howard University.
+
+DR. BERG'S SHOP: http://shop.drberg.com/
+
+Follow us on FACEBOOK: fb.me/DrEricBerg
+
+Send a Message to Dr. Berg and his team: m.me/DrEricBerg
+
+TWITTER: http://twitter.com/DrBergDC
+
+DR. BERG'S VIDEO BLOG: http://www.drberg.com/blog
+
+YOUTUBE: https://www.youtube.com/user/drericbe...
+
+ABOUT DR. BERG: http://www.drberg.com/dr-eric-berg/bio
+
+DR. BERG'S STORY: http://www.drberg.com/dr-eric-berg/story
+
+DR. BERG'S HEALTH COACHING TRAINING: http://www.drberg.com/weight-loss-coach
+
+DR. BERG'S REVIEWS: http://www.drberg.com/reviews
+
+ 
+
+The Health & Wellness Center
+
+4709 D Pinecrest Office Park Drive
+
+Alexandria, VA 22312
+
+703-354-7336
+
+ 
+Disclaimer:
+Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988.  His use of “doctor” or “Dr.” in relation to himself solely refers to that degree.  Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients. This video is for general informational purposes only.  It should not be used to self-diagnose and it is not a substitute for a medical exam, cure, treatment, diagnosis, and prescription or recommendation.  It does not create a doctor-patient relationship between Dr. Berg and you.  You should not make any change in your health regimen or diet before first consulting a physician and obtaining a medical exam, diagnosis, and recommendation.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. The Health & Wellness, Dr. Berg Nutritionals and Dr. Eric Berg, D.C. are not liable or responsible for any advice, course of treatment, diagnosis or any other information, services or product you obtain through this video or site.
+#keto #ketodiet #weightloss #ketosis",Dr. Eric Berg DC,"vaccinations', 'DPT', 'MMR', 'myths', 'autism', 'Big Pharma', 'kids', 'aluminum', 'Thiomersal'",PT2M36S,156,3
+bo7WXnHMEyg,Mercury,Company,NONE,NONE,0.671887,negative,-0.717585,0.662137,0.149368,0.050105000000000004,0.185598,0.202487,1,1,Mercury,Mercury,Mercury,Mercury,mercuri,mercuri,mercury,NONE,0.9738,0.064,0.111,0.825,0.09146231854565186,0.5121205569122237,negative,-0.392705,0.108382,0.14769300000000002,0.536525,0.142075,0.089678,-0.10000000149011612,8.100000381469728,Vaccination,2017-10-05T12:09:04.000Z,UC3w193M5tYPJqF0Hi-7U-2g,My Opinion on Vaccinations,"Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+Your report will then be sent via email analyzing 104 potential symptoms, giving you a much deeper insight into your body issues. It's free and very enlightening. 
+
+Dr. Berg talks about vaccinations. There are many toxins in vaccinations:
+1. Msg
+2. Anti-freeze
+3. Formaldehyde
+4. Aluminum
+5. Lead
+6. Acetone
+7. Thiomersal
+8. etc. etc.
+
+I am not telling you to take vaccinations or not take them. Simply, look at the data from both sides and you decide. However, you need to get all the data - check out this research below.
+
+RESEARCH:
+http://vaccinepapers.org/high-mortali...
+http://vaccinepapers.org/autism-broch...
+http://vaccinepapers.org/debunking-al...
+http://vaccinepapers.org/examine-evid...
+
+The Vaccine industry is a 25 billion dollar business:
+http://www.fiercepharma.com/special-r...
+https://ccfvc.org/stuff/pdfs/Vaccine_...
+https://www.cbsnews.com/news/supreme-...
+http://www.nvic.org/NVIC-Vaccine-News...
+http://ahrp.org/former-merck-scientis...
+http://www.educate4theinjured.org/vac...
+
+Dr. Eric Berg DC Bio:
+Dr. Berg, 51 years of age is a chiropractor who specializes in weight loss through nutritional and natural methods. His private practice is located in Alexandria, Virginia. His clients include senior officials in the U.S. government and the Justice Department, ambassadors, medical doctors, high-level executives of prominent corporations, scientists, engineers, professors, and other clients from all walks of life. He is the author of The 7 Principles of Fat Burning, published by KB Publishing in January 2011. Dr. Berg trains chiropractors, physicians and allied healthcare practitioners in his methods, and to date he has trained over 2,500 healthcare professionals. He has been an active member of the Endocrinology Society, and has worked as a past part-time adjunct professor at Howard University.
+
+DR. BERG'S SHOP: http://shop.drberg.com/
+
+Follow us on FACEBOOK: fb.me/DrEricBerg
+
+Send a Message to Dr. Berg and his team: m.me/DrEricBerg
+
+TWITTER: http://twitter.com/DrBergDC
+
+DR. BERG'S VIDEO BLOG: http://www.drberg.com/blog
+
+YOUTUBE: https://www.youtube.com/user/drericbe...
+
+ABOUT DR. BERG: http://www.drberg.com/dr-eric-berg/bio
+
+DR. BERG'S STORY: http://www.drberg.com/dr-eric-berg/story
+
+DR. BERG'S HEALTH COACHING TRAINING: http://www.drberg.com/weight-loss-coach
+
+DR. BERG'S REVIEWS: http://www.drberg.com/reviews
+
+ 
+
+The Health & Wellness Center
+
+4709 D Pinecrest Office Park Drive
+
+Alexandria, VA 22312
+
+703-354-7336
+
+ 
+Disclaimer:
+Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988.  His use of “doctor” or “Dr.” in relation to himself solely refers to that degree.  Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients. This video is for general informational purposes only.  It should not be used to self-diagnose and it is not a substitute for a medical exam, cure, treatment, diagnosis, and prescription or recommendation.  It does not create a doctor-patient relationship between Dr. Berg and you.  You should not make any change in your health regimen or diet before first consulting a physician and obtaining a medical exam, diagnosis, and recommendation.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. The Health & Wellness, Dr. Berg Nutritionals and Dr. Eric Berg, D.C. are not liable or responsible for any advice, course of treatment, diagnosis or any other information, services or product you obtain through this video or site.
+#keto #ketodiet #weightloss #ketosis",Dr. Eric Berg DC,"vaccinations', 'DPT', 'MMR', 'myths', 'autism', 'Big Pharma', 'kids', 'aluminum', 'Thiomersal'",PT2M36S,156,3
+bo7WXnHMEyg,eight billion dollars,Quantity,NONE,NONE,0.671887,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eight billion dollar,eight billion dollar,eight billion dollar,eight bil doll,eight billion dollar,eight billion dollar,eight bil doll,NONE,0.9738,0.064,0.111,0.825,0.09146231854565186,0.5121205569122237,negative,-0.392705,0.108382,0.14769300000000002,0.536525,0.142075,0.089678,-0.10000000149011612,8.100000381469728,Vaccination,2017-10-05T12:09:04.000Z,UC3w193M5tYPJqF0Hi-7U-2g,My Opinion on Vaccinations,"Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+Your report will then be sent via email analyzing 104 potential symptoms, giving you a much deeper insight into your body issues. It's free and very enlightening. 
+
+Dr. Berg talks about vaccinations. There are many toxins in vaccinations:
+1. Msg
+2. Anti-freeze
+3. Formaldehyde
+4. Aluminum
+5. Lead
+6. Acetone
+7. Thiomersal
+8. etc. etc.
+
+I am not telling you to take vaccinations or not take them. Simply, look at the data from both sides and you decide. However, you need to get all the data - check out this research below.
+
+RESEARCH:
+http://vaccinepapers.org/high-mortali...
+http://vaccinepapers.org/autism-broch...
+http://vaccinepapers.org/debunking-al...
+http://vaccinepapers.org/examine-evid...
+
+The Vaccine industry is a 25 billion dollar business:
+http://www.fiercepharma.com/special-r...
+https://ccfvc.org/stuff/pdfs/Vaccine_...
+https://www.cbsnews.com/news/supreme-...
+http://www.nvic.org/NVIC-Vaccine-News...
+http://ahrp.org/former-merck-scientis...
+http://www.educate4theinjured.org/vac...
+
+Dr. Eric Berg DC Bio:
+Dr. Berg, 51 years of age is a chiropractor who specializes in weight loss through nutritional and natural methods. His private practice is located in Alexandria, Virginia. His clients include senior officials in the U.S. government and the Justice Department, ambassadors, medical doctors, high-level executives of prominent corporations, scientists, engineers, professors, and other clients from all walks of life. He is the author of The 7 Principles of Fat Burning, published by KB Publishing in January 2011. Dr. Berg trains chiropractors, physicians and allied healthcare practitioners in his methods, and to date he has trained over 2,500 healthcare professionals. He has been an active member of the Endocrinology Society, and has worked as a past part-time adjunct professor at Howard University.
+
+DR. BERG'S SHOP: http://shop.drberg.com/
+
+Follow us on FACEBOOK: fb.me/DrEricBerg
+
+Send a Message to Dr. Berg and his team: m.me/DrEricBerg
+
+TWITTER: http://twitter.com/DrBergDC
+
+DR. BERG'S VIDEO BLOG: http://www.drberg.com/blog
+
+YOUTUBE: https://www.youtube.com/user/drericbe...
+
+ABOUT DR. BERG: http://www.drberg.com/dr-eric-berg/bio
+
+DR. BERG'S STORY: http://www.drberg.com/dr-eric-berg/story
+
+DR. BERG'S HEALTH COACHING TRAINING: http://www.drberg.com/weight-loss-coach
+
+DR. BERG'S REVIEWS: http://www.drberg.com/reviews
+
+ 
+
+The Health & Wellness Center
+
+4709 D Pinecrest Office Park Drive
+
+Alexandria, VA 22312
+
+703-354-7336
+
+ 
+Disclaimer:
+Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988.  His use of “doctor” or “Dr.” in relation to himself solely refers to that degree.  Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients. This video is for general informational purposes only.  It should not be used to self-diagnose and it is not a substitute for a medical exam, cure, treatment, diagnosis, and prescription or recommendation.  It does not create a doctor-patient relationship between Dr. Berg and you.  You should not make any change in your health regimen or diet before first consulting a physician and obtaining a medical exam, diagnosis, and recommendation.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. The Health & Wellness, Dr. Berg Nutritionals and Dr. Eric Berg, D.C. are not liable or responsible for any advice, course of treatment, diagnosis or any other information, services or product you obtain through this video or site.
+#keto #ketodiet #weightloss #ketosis",Dr. Eric Berg DC,"vaccinations', 'DPT', 'MMR', 'myths', 'autism', 'Big Pharma', 'kids', 'aluminum', 'Thiomersal'",PT2M36S,156,3
+bo7WXnHMEyg,market Athos,Company,NONE,NONE,0.709217,neutral,0.0,0.189053,0.039177,0.44799399999999995,0.21762199999999998,0.137465,1,1,market Athos,market Athos,market Athos,market Athos,market atho,market atho,market atho,NONE,0.9738,0.064,0.111,0.825,0.09146231854565186,0.5121205569122237,negative,-0.392705,0.108382,0.14769300000000002,0.536525,0.142075,0.089678,-0.10000000149011612,8.100000381469728,Vaccination,2017-10-05T12:09:04.000Z,UC3w193M5tYPJqF0Hi-7U-2g,My Opinion on Vaccinations,"Take Dr. Berg's Advanced Evaluation Quiz: http://bit.ly/EvalQuiz
+
+Your report will then be sent via email analyzing 104 potential symptoms, giving you a much deeper insight into your body issues. It's free and very enlightening. 
+
+Dr. Berg talks about vaccinations. There are many toxins in vaccinations:
+1. Msg
+2. Anti-freeze
+3. Formaldehyde
+4. Aluminum
+5. Lead
+6. Acetone
+7. Thiomersal
+8. etc. etc.
+
+I am not telling you to take vaccinations or not take them. Simply, look at the data from both sides and you decide. However, you need to get all the data - check out this research below.
+
+RESEARCH:
+http://vaccinepapers.org/high-mortali...
+http://vaccinepapers.org/autism-broch...
+http://vaccinepapers.org/debunking-al...
+http://vaccinepapers.org/examine-evid...
+
+The Vaccine industry is a 25 billion dollar business:
+http://www.fiercepharma.com/special-r...
+https://ccfvc.org/stuff/pdfs/Vaccine_...
+https://www.cbsnews.com/news/supreme-...
+http://www.nvic.org/NVIC-Vaccine-News...
+http://ahrp.org/former-merck-scientis...
+http://www.educate4theinjured.org/vac...
+
+Dr. Eric Berg DC Bio:
+Dr. Berg, 51 years of age is a chiropractor who specializes in weight loss through nutritional and natural methods. His private practice is located in Alexandria, Virginia. His clients include senior officials in the U.S. government and the Justice Department, ambassadors, medical doctors, high-level executives of prominent corporations, scientists, engineers, professors, and other clients from all walks of life. He is the author of The 7 Principles of Fat Burning, published by KB Publishing in January 2011. Dr. Berg trains chiropractors, physicians and allied healthcare practitioners in his methods, and to date he has trained over 2,500 healthcare professionals. He has been an active member of the Endocrinology Society, and has worked as a past part-time adjunct professor at Howard University.
+
+DR. BERG'S SHOP: http://shop.drberg.com/
+
+Follow us on FACEBOOK: fb.me/DrEricBerg
+
+Send a Message to Dr. Berg and his team: m.me/DrEricBerg
+
+TWITTER: http://twitter.com/DrBergDC
+
+DR. BERG'S VIDEO BLOG: http://www.drberg.com/blog
+
+YOUTUBE: https://www.youtube.com/user/drericbe...
+
+ABOUT DR. BERG: http://www.drberg.com/dr-eric-berg/bio
+
+DR. BERG'S STORY: http://www.drberg.com/dr-eric-berg/story
+
+DR. BERG'S HEALTH COACHING TRAINING: http://www.drberg.com/weight-loss-coach
+
+DR. BERG'S REVIEWS: http://www.drberg.com/reviews
+
+ 
+
+The Health & Wellness Center
+
+4709 D Pinecrest Office Park Drive
+
+Alexandria, VA 22312
+
+703-354-7336
+
+ 
+Disclaimer:
+Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988.  His use of “doctor” or “Dr.” in relation to himself solely refers to that degree.  Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients. This video is for general informational purposes only.  It should not be used to self-diagnose and it is not a substitute for a medical exam, cure, treatment, diagnosis, and prescription or recommendation.  It does not create a doctor-patient relationship between Dr. Berg and you.  You should not make any change in your health regimen or diet before first consulting a physician and obtaining a medical exam, diagnosis, and recommendation.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. The Health & Wellness, Dr. Berg Nutritionals and Dr. Eric Berg, D.C. are not liable or responsible for any advice, course of treatment, diagnosis or any other information, services or product you obtain through this video or site.
+#keto #ketodiet #weightloss #ketosis",Dr. Eric Berg DC,"vaccinations', 'DPT', 'MMR', 'myths', 'autism', 'Big Pharma', 'kids', 'aluminum', 'Thiomersal'",PT2M36S,156,3

@@ -1,0 +1,305 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Tp1T7kPEdDY,200 years,Quantity,NONE,NONE,0.194372,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,200 year,200 year,200 year,200 year,200 year,200 year,200 year,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Adam Smith,Person,Philosopher,http://dbpedia.org/resource/Adam_Smith,0.207767,negative,-0.390533,0.20679499999999998,0.011818,0.649868,0.039838,0.14615999999999998,1,1,Adam Smith,Adam Smith,Adam Smith,Adam Smith,adam smith,adam smith,adam smi,http://en.wikipedia.org/wiki/Adam_Smith,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,America,Location,Continent,NONE,0.574782,positive,0.10567,0.393567,0.027027999999999996,0.578167,0.005986,0.008731000000000001,8,1,America,America,America,America,america,america,americ,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Canada,Location,Country,NONE,0.212941,positive,0.946019,0.078308,0.012243,0.8526020000000001,0.024715,0.01951,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.2012,negative,-0.526133,0.437263,0.14609,0.050553,0.410821,0.271354,1,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Declaration of Independence,Organization,NONE,NONE,0.223202,negative,-0.542065,0.250347,0.091508,0.475476,0.047199,0.163968,1,1,Declaration of Independence,Declaration of Independence,Declaration of Independence,Declaration of Independence,declar of independ,declar of independ,decl of independ,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Franklin Delano Roosevelt,Person,"Politician, President",http://dbpedia.org/resource/Franklin_D._Roosevelt,0.23883800000000002,negative,-0.876073,0.627391,0.105279,0.030077,0.287015,0.277081,1,1,Franklin Delano Roosevelt,Franklin Delano Roosevelt,Franklin Delano Roosevelt,Franklin Delano Roosevelt,franklin delano roosevelt,franklin delano roosevelt,franklin delano roosevelt,http://en.wikipedia.org/wiki/Franklin_D._Roosevelt,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Japan,Location,Country,NONE,0.194372,neutral,0.0,0.17188900000000001,0.085222,0.17124,0.137015,0.069887,1,1,Japan,Japan,Japan,Japan,japan,japan,jap,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Montreal,Location,"FictionalUniverse, GeographicFeature, AdministrativeDivision, GovernmentalJurisdiction, Island, OlympicHostCity, City",http://dbpedia.org/resource/Montreal,0.195667,positive,0.853158,0.327964,0.042464,0.6225229999999999,0.014744,0.011226,1,1,Montreal,Montreal,Montreal,Montreal,montreal,montreal,mont,http://en.wikipedia.org/wiki/Montreal,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Two years,Quantity,NONE,NONE,0.194372,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Two year,two year,two year,two year,two year,two year,two year,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.210835,positive,0.520667,0.619057,0.128915,0.02244,0.352839,0.155451,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,Western Europe,Location,Region,NONE,0.205477,negative,-0.30881,0.390022,0.129474,0.171099,0.131407,0.026843000000000002,1,1,Western Europe,Western Europe,Western Europe,Western Europe,western europ,western europ,western europ,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,economic Alliance,Organization,NONE,NONE,0.23458600000000002,positive,0.10940699999999999,0.162182,0.107825,0.6378689999999999,0.067299,0.082035,3,1,economic Alliance,econom allianc,econom allianc,econom al,econom allianc,econom allianc,econom al,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,one week,Quantity,NONE,NONE,0.194372,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one week,one week,one week,on week,one week,one week,on week,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,president,JobTitle,NONE,NONE,0.19980599999999998,neutral,0.0,0.252217,0.064966,0.45337700000000003,0.081762,0.069984,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6
+Tp1T7kPEdDY,prime minister,JobTitle,NONE,NONE,0.220958,positive,0.946019,0.078308,0.012243,0.8526020000000001,0.024715,0.01951,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.998,0.12,0.213,0.667,0.11420241743275455,0.461338100102145,positive,0.407418,0.11448,0.645019,0.564531,0.084475,0.111525,0.20000000298023224,12.699999809265135,Free Trade,2017-10-10T19:00:20.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988","Full Title: President Reagan's Radio Address to the Nation on Canadian Elections and Free Trade from Rancho Del Cielo in Santa Barbara, California on November 26, 1988
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112688a
+
+Production Date: 11/26/1988
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"U.S. National Archives', 'Ronald Reagan', 'Reagan Presidential Library', 'Santa Barbara', 'California', 'Rancho Del Cielo', 'Canada', 'Canadian Elections', 'Brian Mulroney', 'Free Trade'",PT5M25S,325,6

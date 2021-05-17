@@ -1,0 +1,25 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+T_Jrz0MfogI,Catalonia,Location,City,NONE,0.738038,positive,0.7939390000000001,0.122045,0.003188,0.658939,0.12285399999999999,0.097912,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9637,0.022,0.244,0.7340000000000001,0.2847619047619048,0.5847619047619048,positive,0.743714,0.139652,0.672145,0.135769,0.033932,0.114005,0.30000001192092896,2.0999999046325684,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Margrete Auken on Catalonia's independence,"Margrete Auken is Member of the European Parliament
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"debating europe', 'catalonia independence', 'catalonia referendum', 'european union', 'catalonia'",PT42S,42,1
+T_Jrz0MfogI,Catalunya,Location,City,NONE,0.8709379999999999,neutral,0.0,0.115274,0.064916,0.322765,0.331012,0.142949,1,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,0.9637,0.022,0.244,0.7340000000000001,0.2847619047619048,0.5847619047619048,positive,0.743714,0.139652,0.672145,0.135769,0.033932,0.114005,0.30000001192092896,2.0999999046325684,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Margrete Auken on Catalonia's independence,"Margrete Auken is Member of the European Parliament
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"debating europe', 'catalonia independence', 'catalonia referendum', 'european union', 'catalonia'",PT42S,42,1
+T_Jrz0MfogI,Madrid,Location,City,NONE,0.71711,positive,0.7939390000000001,0.122045,0.003188,0.658939,0.12285399999999999,0.097912,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,0.9637,0.022,0.244,0.7340000000000001,0.2847619047619048,0.5847619047619048,positive,0.743714,0.139652,0.672145,0.135769,0.033932,0.114005,0.30000001192092896,2.0999999046325684,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Margrete Auken on Catalonia's independence,"Margrete Auken is Member of the European Parliament
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"debating europe', 'catalonia independence', 'catalonia referendum', 'european union', 'catalonia'",PT42S,42,1

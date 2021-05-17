@@ -1,0 +1,325 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+6S1-LgYyjQg,30 years,Quantity,NONE,NONE,0.4108810000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,Bailey Banks,Company,NONE,NONE,0.438758,negative,-0.34266599999999997,0.203,0.06428099999999999,0.293575,0.12225599999999999,0.205831,1,1,Bailey Banks,Bailey Banks,Bailey Banks,Bailey Banks,bailey bank,bailey bank,bailey bank,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,CDC,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.524699,negative,-0.202379,0.518663,0.14083199999999998,0.258179,0.068101,0.099424,2,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,Civil Court,Organization,NONE,NONE,0.722375,negative,-0.6807479999999999,0.117745,0.095118,0.050927,0.510894,0.187624,3,1,Civil Court,Civil Court,Civil Court,Civil Court,civil court,civil court,civil court,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.639785,negative,-0.618657,0.633885,0.255238,0.031653,0.159574,0.21114899999999998,3,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,Eric,Person,NONE,NONE,0.8679479999999999,negative,-0.691179,0.45085,0.048066000000000005,0.22182,0.338938,0.189638,5,1,Eric,Eric,Eric,Eric,eric,eric,er,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,MMR vaccine,Drug,NONE,NONE,0.858276,negative,-0.381295,0.133089,0.11196700000000001,0.143819,0.25854099999999997,0.109274,1,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,Rob Schneider,Person,"Actor, AwardNominee, AwardWinner, FilmActor, TVActor, FilmWriter, TVWriter",http://dbpedia.org/resource/Rob_Schneider,0.471225,negative,-0.460388,0.261621,0.034041,0.117708,0.336436,0.097549,1,1,Rob Schneider,rob Schneider,rob Schneider,rob Schneider,rob schneider,rob schneider,rob schneider,http://en.wikipedia.org/wiki/Rob_Schneider,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,US Department of Justice,Organization,"GovernmentAgency, GovernmentalBody, GovernmentalJurisdiction",http://dbpedia.org/resource/United_States_Department_of_Justice,0.532957,negative,-0.8864879999999999,0.23464699999999997,0.068057,0.0093,0.665315,0.341223,1,1,US Department of Justice,US Department of Justice,US Department of Justice,US Department of Justice,US depart of justic,us depart of justic,us depart of just,http://en.wikipedia.org/wiki/United_States_Department_of_Justice,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,attorney,JobTitle,NONE,NONE,0.4257,neutral,0.0,0.044431,0.005884,0.332376,0.336499,0.234902,1,1,attorney,attorney,attorney,attorney,attorney,attorney,attorney,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,six months,Quantity,NONE,NONE,0.4108810000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6
+6S1-LgYyjQg,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.73065,negative,-0.35538600000000004,0.09887699999999999,0.071026,0.164052,0.05886,0.127447,3,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,-0.882,0.131,0.121,0.7490000000000001,0.008671290830381739,0.3824468713105077,negative,-0.688673,0.152789,0.528594,0.508238,0.120676,0.197324,-0.10000000149011612,9.899999618530273,Vaccination,2013-09-07T17:51:07.000Z,UCbJamCDDUzztYJL0G-jCAxQ,Do Vaccines Cause Autism?,"Why is there still a vaccine/autism controversy?  Because families have been blocked from getting into a REAL court to prove that vaccines have caused their child's autism.  
+
+The Canary Party presents a video on the corrupt Vaccine Injury Compensation Program to show how the federal government and pharmaceutical companies continue to get away with claiming that vaccines don't cause autism in the face of mounting evidence that they are doing just that in a growing number of children.
+
+Join our mailing list: http://canaryparty.org/index.php/join-us
+
+Find our more: http://canaryparty.org/index.php/the-news/129-the-canary-partys-new-viral-video-do-vaccines-cause-autism
+
+Scientific evidence showing the vaccine/autism link: http://canaryparty.org/index.php/the-news/97-research-that-shows-that-vaccines-can-cause-autism
+
+Produced by Old Port Media
+
+S.C.V. Taylor - Voice Over  Producer
+Briana Leon - Voice Over Production Assistant
+
+Special Thanks to
+Shawn Michael Howard
+
+Voice Over recorded at:
+Salt Light Sound, Hollywood
+
+Video by:
+The Draw Shop
+
+Special Thank You to:
+The Elizabeth Birt Center for Autism Law and Advocacy
+The National Vaccine Information Center",Canary Party,"Autism (Disease Or Medical Condition)', 'Vaccine (Technology Class)', 'MMR Vaccine Controversy (Exhibition Subject)', 'Medicine (Field Of Study)', 'Disease (Organization Sector)', 'Rob Schneider (Comedian)', 'Vaccine Court'",PT5M20S,320,6

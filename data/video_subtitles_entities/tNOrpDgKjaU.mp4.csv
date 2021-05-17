@@ -1,0 +1,66 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tNOrpDgKjaU,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.8855209999999999,positive,0.469797,0.2294,0.04448,0.507463,0.242713,0.063368,4,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9615,0.033,0.141,0.826,0.2358974358974359,0.5196581196581196,positive,0.436364,0.096168,0.545898,0.245027,0.109079,0.174958,0.10000000149011612,2.200000047683716,Catalonia Independence,2017-10-27T13:36:42.000Z,UC16niRr50-MSBwiO3YDb3RA,BREAKING NEWS: Catalonia Declares Independence - BBC News,"The Catalan regional parliament has voted to declare independence from Spain, just as the Spanish government appears set to impose direct rule.
+The move was was backed 70-10 in a ballot boycotted by opposition MPs.
+Spanish Prime Minister Mariano Rajoy earlier told senators direct rule was needed to return ""law, democracy and stability"" to Catalonia.
+The crisis began when Catalans backed independence in a disputed vote earlier this month.
+The Catalan government said that of the 43% who took part in the referendum, 90% were in favour of independence. But Spain's Constitutional Court had ruled the vote illegal.
+Spain's Senate is still to vote on whether for the first time to enact Article 155 of the Spanish constitution, which empowers the government to take ""all measures necessary to compel"" a region in case of a crisis.
+It would enable Madrid to fire Catalan leaders, and take control of the region's finances, police and public media.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'breaking news', 'catalonia', 'catalan parliamnet', 'catalonia independence', 'Catalonia Declares Independence', 'Spain', 'Spanish news', 'spain', 'barcelona', 'barcelona news'",PT1M50S,110,2
+tNOrpDgKjaU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.323621,positive,0.204605,0.27074000000000004,0.13515,0.427255,0.23828000000000002,0.065468,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9615,0.033,0.141,0.826,0.2358974358974359,0.5196581196581196,positive,0.436364,0.096168,0.545898,0.245027,0.109079,0.174958,0.10000000149011612,2.200000047683716,Catalonia Independence,2017-10-27T13:36:42.000Z,UC16niRr50-MSBwiO3YDb3RA,BREAKING NEWS: Catalonia Declares Independence - BBC News,"The Catalan regional parliament has voted to declare independence from Spain, just as the Spanish government appears set to impose direct rule.
+The move was was backed 70-10 in a ballot boycotted by opposition MPs.
+Spanish Prime Minister Mariano Rajoy earlier told senators direct rule was needed to return ""law, democracy and stability"" to Catalonia.
+The crisis began when Catalans backed independence in a disputed vote earlier this month.
+The Catalan government said that of the 43% who took part in the referendum, 90% were in favour of independence. But Spain's Constitutional Court had ruled the vote illegal.
+Spain's Senate is still to vote on whether for the first time to enact Article 155 of the Spanish constitution, which empowers the government to take ""all measures necessary to compel"" a region in case of a crisis.
+It would enable Madrid to fire Catalan leaders, and take control of the region's finances, police and public media.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'breaking news', 'catalonia', 'catalan parliamnet', 'catalonia independence', 'Catalonia Declares Independence', 'Spain', 'Spanish news', 'spain', 'barcelona', 'barcelona news'",PT1M50S,110,2
+tNOrpDgKjaU,International Community,Organization,NONE,NONE,0.1355,positive,0.57248,0.33753099999999997,0.158554,0.326723,0.271422,0.055359000000000005,1,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,0.9615,0.033,0.141,0.826,0.2358974358974359,0.5196581196581196,positive,0.436364,0.096168,0.545898,0.245027,0.109079,0.174958,0.10000000149011612,2.200000047683716,Catalonia Independence,2017-10-27T13:36:42.000Z,UC16niRr50-MSBwiO3YDb3RA,BREAKING NEWS: Catalonia Declares Independence - BBC News,"The Catalan regional parliament has voted to declare independence from Spain, just as the Spanish government appears set to impose direct rule.
+The move was was backed 70-10 in a ballot boycotted by opposition MPs.
+Spanish Prime Minister Mariano Rajoy earlier told senators direct rule was needed to return ""law, democracy and stability"" to Catalonia.
+The crisis began when Catalans backed independence in a disputed vote earlier this month.
+The Catalan government said that of the 43% who took part in the referendum, 90% were in favour of independence. But Spain's Constitutional Court had ruled the vote illegal.
+Spain's Senate is still to vote on whether for the first time to enact Article 155 of the Spanish constitution, which empowers the government to take ""all measures necessary to compel"" a region in case of a crisis.
+It would enable Madrid to fire Catalan leaders, and take control of the region's finances, police and public media.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'breaking news', 'catalonia', 'catalan parliamnet', 'catalonia independence', 'Catalonia Declares Independence', 'Spain', 'Spanish news', 'spain', 'barcelona', 'barcelona news'",PT1M50S,110,2
+tNOrpDgKjaU,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.301602,negative,-0.531144,0.406475,0.12519,0.276469,0.253811,0.081477,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9615,0.033,0.141,0.826,0.2358974358974359,0.5196581196581196,positive,0.436364,0.096168,0.545898,0.245027,0.109079,0.174958,0.10000000149011612,2.200000047683716,Catalonia Independence,2017-10-27T13:36:42.000Z,UC16niRr50-MSBwiO3YDb3RA,BREAKING NEWS: Catalonia Declares Independence - BBC News,"The Catalan regional parliament has voted to declare independence from Spain, just as the Spanish government appears set to impose direct rule.
+The move was was backed 70-10 in a ballot boycotted by opposition MPs.
+Spanish Prime Minister Mariano Rajoy earlier told senators direct rule was needed to return ""law, democracy and stability"" to Catalonia.
+The crisis began when Catalans backed independence in a disputed vote earlier this month.
+The Catalan government said that of the 43% who took part in the referendum, 90% were in favour of independence. But Spain's Constitutional Court had ruled the vote illegal.
+Spain's Senate is still to vote on whether for the first time to enact Article 155 of the Spanish constitution, which empowers the government to take ""all measures necessary to compel"" a region in case of a crisis.
+It would enable Madrid to fire Catalan leaders, and take control of the region's finances, police and public media.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'breaking news', 'catalonia', 'catalan parliamnet', 'catalonia independence', 'Catalonia Declares Independence', 'Spain', 'Spanish news', 'spain', 'barcelona', 'barcelona news'",PT1M50S,110,2
+tNOrpDgKjaU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.351045,positive,0.25459499999999996,0.235895,0.115282,0.4583890000000001,0.238563,0.074893,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9615,0.033,0.141,0.826,0.2358974358974359,0.5196581196581196,positive,0.436364,0.096168,0.545898,0.245027,0.109079,0.174958,0.10000000149011612,2.200000047683716,Catalonia Independence,2017-10-27T13:36:42.000Z,UC16niRr50-MSBwiO3YDb3RA,BREAKING NEWS: Catalonia Declares Independence - BBC News,"The Catalan regional parliament has voted to declare independence from Spain, just as the Spanish government appears set to impose direct rule.
+The move was was backed 70-10 in a ballot boycotted by opposition MPs.
+Spanish Prime Minister Mariano Rajoy earlier told senators direct rule was needed to return ""law, democracy and stability"" to Catalonia.
+The crisis began when Catalans backed independence in a disputed vote earlier this month.
+The Catalan government said that of the 43% who took part in the referendum, 90% were in favour of independence. But Spain's Constitutional Court had ruled the vote illegal.
+Spain's Senate is still to vote on whether for the first time to enact Article 155 of the Spanish constitution, which empowers the government to take ""all measures necessary to compel"" a region in case of a crisis.
+It would enable Madrid to fire Catalan leaders, and take control of the region's finances, police and public media.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'breaking news', 'catalonia', 'catalan parliamnet', 'catalonia independence', 'Catalonia Declares Independence', 'Spain', 'Spanish news', 'spain', 'barcelona', 'barcelona news'",PT1M50S,110,2

@@ -1,0 +1,133 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+T1BqIPy3waU,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.660654,neutral,0.0,0.442483,0.282509,0.23903000000000002,0.063457,0.152223,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Carlos pushmo,Person,NONE,NONE,0.568959,neutral,0.0,0.672304,0.17205499999999999,0.292112,0.06885,0.074546,5,1,Carlos pushmo,Carlos pushmo,Carlos pushmo,Carlos pushmo,carlo pushmo,carlo pushmo,carlo pushmo,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Catalonia,Location,Region,NONE,0.731965,neutral,0.0,0.45044300000000004,0.219917,0.30153800000000003,0.058361,0.114196,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.339081,neutral,0.0,0.544825,0.28358,0.04715,0.11384100000000001,0.19677999999999998,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.346868,neutral,0.0,0.544825,0.28358,0.04715,0.11384100000000001,0.19677999999999998,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Madrid,Person,NONE,NONE,0.515188,positive,0.296068,0.541829,0.259232,0.05719,0.113496,0.19375599999999998,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Margaret Evans,Person,NONE,NONE,0.34875100000000003,neutral,0.0,0.28596900000000003,0.092892,0.274671,0.168999,0.121945,1,1,Margaret Evans,Margaret Evans,Margaret Evans,Margaret Evans,margaret evan,margaret evan,margaret ev,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Mundial,Person,NONE,NONE,0.47858599999999996,negative,-0.418092,0.10859200000000001,0.273359,0.269127,0.09148300000000001,0.11518199999999999,2,1,Mundial,Mundial,Mundial,Mundial,mundial,mundial,mund,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Prime Minister,JobTitle,NONE,NONE,0.36227600000000004,neutral,0.0,0.28596900000000003,0.092892,0.274671,0.168999,0.121945,1,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.5224770000000001,neutral,0.0,0.262498,0.224865,0.241535,0.139972,0.27472199999999997,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3
+T1BqIPy3waU,president,JobTitle,NONE,NONE,0.506203,neutral,0.0,0.12771300000000002,0.338507,0.354587,0.066862,0.250094,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9039,0.075,0.049,0.875,0.0362660215601392,0.4474556489262371,negative,-0.486615,0.134626,0.539523,0.505931,0.177027,0.149904,-0.10000000149011612,4.900000095367432,Catalonia Independence,2017-10-11T02:45:17.000Z,UCKjU3KzdbJE1EFcHVqXC3_g,Catalonia's independence declaration put on hold,"Catalonia's leader said he had a mandate to declare independence from Spain, but suspended secession to pursue negotiations with the Spanish government.
+
+Welcome to The National, the flagship nightly newscast of CBC News
+
+»»» Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1
+
+Voice Your Opinion & Connect With Us Online:
+
+The National Updates on Facebook: https://www.facebook.com/thenational
+The National Updates on Twitter: https://twitter.com/CBCTheNational
+»»» »»» »»» »»» »»» 
+The National is CBC Television's flagship news program. Airing seven days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists.",CBC News: The National,"Catalonia', 'independence declaration', 'secession', 'Carles Puigdemont', 'negotiations', 'Spanish government', 'Margaret Evans', 'National', 'CBC'",PT2M18S,138,3

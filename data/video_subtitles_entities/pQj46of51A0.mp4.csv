@@ -1,0 +1,235 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pQj46of51A0,43 percent,Quantity,NONE,NONE,0.198344,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,43 percent,43 percent,43 percent,43 perc,43 percent,43 percent,43 perc,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,90%,Quantity,NONE,NONE,0.198344,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.311211,neutral,0.0,0.216669,0.09539199999999999,0.351103,0.083255,0.084189,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Catalonia,Location,City,NONE,0.832109,positive,0.153331,0.587807,0.180392,0.173682,0.170598,0.155649,7,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.23246399999999998,positive,0.765786,0.18701099999999998,0.16980499999999998,0.520555,0.09578400000000001,0.12499400000000001,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.21216500000000002,negative,-0.746564,0.156674,0.068569,0.065104,0.45692,0.36141100000000004,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Minnie,Person,NONE,NONE,0.21587800000000001,positive,0.49566499999999997,0.350175,0.028743,0.477616,0.030920999999999997,0.08508500000000001,1,1,Minnie,Minnie,Minnie,Minnie,minni,minni,minny,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Professor Jama Lopez,Person,NONE,NONE,0.236202,positive,0.49566499999999997,0.207064,0.048285,0.575163,0.048174,0.087438,1,1,Professor Jama Lopez,Professor Jama Lopez,Professor Jama Lopez,Professor Jama Lopez,professor jama lopez,professor jama lopez,profess jam lopez,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Seth Doane,Person,TVPersonality,http://dbpedia.org/resource/Seth_Doane,0.515842,neutral,0.0,0.086329,0.070645,0.428925,0.133992,0.23487,4,1,Seth Doane,Seth Doane,Seth Doane,Seth Doane,seth doan,seth doan,seth doan,http://en.wikipedia.org/wiki/Seth_Doane,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.5243399999999999,negative,-0.157406,0.26702600000000004,0.26594,0.229602,0.188627,0.18396099999999999,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,United Spain,Location,Country,NONE,0.510189,positive,0.446029,0.4512140000000001,0.138657,0.141847,0.10959300000000001,0.035305,3,1,United Spain,United Spain,United Spain,United Spain,unit spain,unit spain,unit spain,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,president,JobTitle,NONE,NONE,0.22423099999999999,neutral,0.0,0.086329,0.070645,0.428925,0.133992,0.23487,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3
+pQj46of51A0,prime minister,JobTitle,NONE,NONE,0.22119,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.8966,0.041,0.07400000000000001,0.8859999999999999,0.24315110565110565,0.4823402948402949,positive,0.573288,0.124033,0.620901,0.198374,0.087872,0.144607,0.0,6.4000000953674325,Catalonia Independence,2017-10-09T12:22:32.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Protests as Catalonia threatens declaration of independence from Spain,"A regional leader in Spain wants to break away and form a new country, but he is under growing pressure not to do that. Huge rallies Sunday condemned the government of Catalonia's vow to declare independence after a disputed referendum. Seth Doane reports from Barcelona.
+
+Subscribe to the ""CBS This Morning"" Channel HERE: http://bit.ly/1Q0v2hE
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Watch the latest installment of ""Note to Self,"" only on ""CBS This Morning,"" HERE: http://cbsn.ws/1Sh8XlB
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Google+ HERE: http://bit.ly/1SIM4I8
+
+Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: http://cbsn.ws/1RqHw7T
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+Delivered by Charlie Rose, Norah O’Donnell and Gayle King, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'Spain', 'Catalonia', 'protests', 'government', 'independence'",PT2M23S,143,3

@@ -1,0 +1,361 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uki5QILjtKc,America Rockne Kelly,Person,NONE,NONE,0.294959,positive,0.32256,0.061791999999999986,0.054065999999999996,0.737721,0.054866,0.01376,1,1,America Rockne Kelly,America Rockne Kelly,America Rockne Kelly,America Rockne Kelly,america rockn kelli,america rockn kelli,americ rockn kel,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Beasley,Person,NONE,NONE,0.297835,neutral,0.0,0.28473699999999996,0.051739999999999994,0.17213599999999998,0.270396,0.055344000000000004,1,1,Beasley,Beasley,Beasley,Beasley,beasley,beasley,beasley,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Bobby Shmurda,Person,NONE,NONE,0.301236,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Bobby Shmurda,Bobby Shmurda,Bobby Shmurda,Bobby Shmurda,bobbi shmurda,bobbi shmurda,bobby shmurda,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Calhoun,Location,"AdministrativeDivision, USCounty, StateOrCounty","http://dbpedia.org/resource/Calhoun_County,_Georgia",0.264216,neutral,0.0,0.097875,0.020051,0.566156,0.029272000000000006,0.040679,1,1,Calhoun,Calhoun,Calhoun,Calhoun,calhoun,calhoun,calhoun,"http://en.wikipedia.org/wiki/Calhoun_County,_Georgia",0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Carnegie,Organization,NONE,NONE,0.273437,negative,-0.671515,0.091829,0.11911600000000001,0.715253,0.009744,0.07196,1,1,Carnegie,Carnegie,Carnegie,Carnegie,carnegi,carnegi,carnegy,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Cartier,Person,NONE,NONE,0.22013400000000002,positive,0.569956,0.187432,0.10392699999999999,0.06828200000000001,0.23328400000000002,0.087143,1,1,Cartier,Cartier,Cartier,Cartier,cartier,cartier,carty,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Colonel Kelly,Person,NONE,NONE,0.429522,neutral,0.0,0.052490999999999996,0.103403,0.4205060000000001,0.067341,0.012672,3,1,Colonel Kelly,Colonel Kelly,Colonel Kelly,Colonel Kelly,colonel kelli,colonel kelli,colonel kel,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Heba chamonix Valley,GeographicFeature,NONE,NONE,0.257815,positive,0.32256,0.061791999999999986,0.054065999999999996,0.737721,0.054866,0.01376,1,1,Heba chamonix Valley,Heba chamonix Valley,Heba chamonix Valley,Heba chamonix Valley,heba chamonix valley,heba chamonix valley,heb chamonix valley,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Jobim,Person,NONE,NONE,0.217065,neutral,0.0,0.04558,0.11648800000000001,0.388874,0.056537000000000004,0.033925,1,1,Jobim,Jobim,Jobim,Jobim,jobim,jobim,jobim,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,John Walker,Person,NONE,NONE,0.282481,neutral,0.0,0.130448,0.12035699999999999,0.219915,0.136587,0.054439999999999995,1,1,John Walker,John Walker,John Walker,John Walker,john walker,john walker,john walk,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Kearney,Person,NONE,NONE,0.330339,positive,0.569956,0.339541,0.10246300000000001,0.15501800000000002,0.273985,0.20819000000000001,2,1,Kearney,Kearney,Kearney,Kearney,kearney,kearney,kearney,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Keisha,Person,NONE,NONE,0.24386100000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Keisha,Keisha,Keisha,Keisha,keisha,keisha,keish,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Kelly,Person,NONE,NONE,0.311632,neutral,0.0,0.130448,0.12035699999999999,0.219915,0.136587,0.054439999999999995,1,1,Kelly,Kelly,Kelly,Kelly,kelli,kelli,kel,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Kirby Mario,Person,NONE,NONE,0.314158,negative,-0.753642,0.043991,0.104368,0.21778699999999998,0.089928,0.021072,2,1,Kirby Mario,Kirby Mario,Kirby Mario,Kirby Mario,kirbi mario,kirbi mario,kirby mario,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Korea,Location,Country,NONE,0.24484899999999998,negative,-0.719877,0.589579,0.042335000000000005,0.18143800000000002,0.045992,0.054547000000000005,1,1,Korea,Korea,Korea,Korea,korea,korea,kore,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Mary,Person,NONE,NONE,0.258434,positive,0.7801239999999999,0.056807,0.034752,0.721483,0.13359200000000002,0.032433,1,1,Mary,Mary,Mary,Mary,mari,mari,mary,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Mary Barra,Person,NONE,NONE,0.289031,negative,-0.671515,0.091829,0.11911600000000001,0.715253,0.009744,0.07196,1,1,Mary Barra,Mary Barra,Mary Barra,Mary Barra,mari barra,mari barra,mary barr,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Mary Kay Barnes,Person,Politician,http://dbpedia.org/resource/Kay_Barnes,0.308185,neutral,0.0,0.085499,0.017893,0.604823,0.03121,0.048893,2,1,Mary Kay Barnes,Mary Kay Barnes,Mary Kay Barnes,Mary Kay Barnes,mari kay barn,mari kay barn,mary kay barn,http://en.wikipedia.org/wiki/Kay_Barnes,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Tom Yogi,Person,NONE,NONE,0.27620700000000004,negative,-0.671515,0.091829,0.11911600000000001,0.715253,0.009744,0.07196,1,1,Tom Yogi,Tom Yogi,Tom Yogi,Tom Yogi,tom yogi,tom yogi,tom yog,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Varicella,HealthCondition,"DiseaseOrMedicalCondition, InfectiousDisease, RiskFactor",http://dbpedia.org/resource/Chickenpox,0.347369,negative,-0.259302,0.379232,0.232596,0.263703,0.018611000000000003,0.043877,2,1,Varicella,Varicella,Varicella,Varicella,varicella,varicella,varicell,http://en.wikipedia.org/wiki/Chickenpox,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Yachty Gagarin,GeographicFeature,NONE,NONE,0.303768,positive,0.013752,0.057372,0.08452899999999999,0.641279,0.16941099999999998,0.053011,1,1,Yachty Gagarin,Yachty Gagarin,Yachty Gagarin,Yachty Gagarin,yachti gagarin,yachti gagarin,yachty gagarin,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,Yani hump,GeographicFeature,NONE,NONE,0.257298,positive,0.32256,0.061791999999999986,0.054065999999999996,0.737721,0.054866,0.01376,1,1,Yani hump,Yani hump,Yani hump,Yani hump,yani hump,yani hump,yan hump,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,hockey,Sport,NONE,NONE,0.23059699999999997,neutral,0.0,0.097875,0.020051,0.566156,0.029272000000000006,0.040679,1,1,hockey,hockey,hockey,hockey,hockey,hockey,hockey,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3
+uki5QILjtKc,simethicone,Drug,NONE,NONE,0.27388,negative,-0.671515,0.091829,0.11911600000000001,0.715253,0.009744,0.07196,1,1,simethicone,simethicon,simethicon,simethicon,simethicon,simethicon,simethicon,NONE,0.9914,0.023,0.131,0.846,0.08154614325068872,0.4820730027548209,negative,-0.451025,0.078738,0.5922149999999999,0.4681770000000001,0.105272,0.084614,0.0,9.600000381469727,Vaccination,2017-09-19T05:44:18.000Z,UCnwKFX4iqhLSd310XUEm4Mg,What Are Vaccines | Hindi,"Throughout history, we have developed vaccinations, to protect both humans and animals from a wide range of preventable and potentially serious illnesses. With vaccines, we take advantage of one of the most important aspects of the immune system - the ability to develop immunological memory. This means, that once the person or animal is exposed to a particular pathogen, in other words anything that can cause an illness, they will develop resistance to infection with the same pathogen in the future.
+
+By taking advantage of immunological memory, vaccination prevents and controls the spread of a wide range of illnesses, including polio, smallpox, whooping cough, measles and the seasonal influenza virus.
+
+The video is a contextualized and translated version (suitable for Indian audiences) of the original Fuseschool video (linked below). The original license allows the use of this video under CC-BY-NC domain of creative commons community. 
+
+Hindi Script: Ranu Gupta
+
+Voiceover: Gopesh Kaushik
+
+Editor (Script and video): Ankit Gupta
+
+LIL website: https://www.learnindialearn.com
+
+Fuseschool Video: https://www.youtube.com/watch?v=bglXkienTSk",Learn India Learn,"School', 'learning', 'CBSE', 'Science', 'Mathematics', 'Social Science', 'Learn India Learn', 'History', 'Geography', 'LIL', 'Physics', 'Chemistry', 'Biology', 'Life Science', 'Medical', 'Medical Science', 'Vaccines', 'What Are Vaccines', 'टीका', 'टीकाकरण', 'immune', 'immune system', 'pathogens', 'bacteria', 'virus', 'vaccination', 'Antibodies', 'WBC', 'RBC', 'Red blood cells', 'White blood cells', 'lymphocyte', 'health'",PT2M55S,175,3

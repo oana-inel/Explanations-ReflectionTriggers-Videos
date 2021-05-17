@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+GzvfpyyZO9o,Britain,Location,Country,NONE,0.372818,neutral,0.0,0.238954,0.246652,0.227384,0.061314999999999995,0.082991,1,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,Brooklyn,Location,City,NONE,0.341138,neutral,0.0,0.084284,0.297086,0.095384,0.425306,0.099264,1,1,Brooklyn,Brooklyn,Brooklyn,Brooklyn,brooklyn,brooklyn,brooklyn,NONE,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,Edward Jenner,Person,"Physician, Scientist",http://dbpedia.org/resource/Edward_Jenner,0.772889,negative,-0.931523,0.41601899999999997,0.148134,0.117121,0.483487,0.087048,3,1,Edward Jenner,Edward Jenner,Edward Jenner,Edward Jenner,edward jenner,edward jenner,edward jen,http://en.wikipedia.org/wiki/Edward_Jenner,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,Ohio,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Ohio,0.34223400000000004,negative,-0.491971,0.343136,0.08380800000000001,0.125382,0.368653,0.197192,1,1,Ohio,Ohio,Ohio,Ohio,ohio,ohio,ohio,http://en.wikipedia.org/wiki/Ohio,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,Philippines,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Philippines,0.35599699999999995,negative,-0.796775,0.17542,0.159684,0.250902,0.06859900000000001,0.089001,1,1,Philippines,Philippines,Philippines,Philippines,philippin,philippin,philippin,http://en.wikipedia.org/wiki/Philippines,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,Rand Paul,Person,Politician,http://dbpedia.org/resource/Rand_Paul,0.396463,neutral,0.0,0.186619,0.05704600000000001,0.297099,0.163682,0.097051,1,1,Rand Paul,Rand Paul,Rand Paul,Rand Paul,rand paul,rand paul,rand paul,http://en.wikipedia.org/wiki/Rand_Paul,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,bmj,PrintMedia,Journal,http://dbpedia.org/resource/BMJ,0.41386999999999996,negative,-0.8469969999999999,0.10899500000000001,0.305521,0.5652229999999999,0.053594,0.058266,1,1,bmj,bmj,bmj,bmj,bmj,bmj,bmj,http://en.wikipedia.org/wiki/BMJ,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,fraud,Crime,NONE,NONE,0.36404899999999996,negative,-0.610154,0.384538,0.62059,0.013977000000000002,0.058313,0.253969,1,1,fraud,fraud,fraud,fraud,fraud,fraud,fraud,NONE,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.390484,negative,-0.400421,0.437777,0.24465,0.12726099999999999,0.117075,0.052597000000000005,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,smallpox,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Smallpox,0.504378,negative,-0.442553,0.580887,0.13264700000000001,0.179534,0.070734,0.175846,1,1,smallpox,smallpox,smallpox,smallpox,smallpox,smallpox,smallpox,http://en.wikipedia.org/wiki/Smallpox,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.332497,negative,-0.796775,0.17542,0.159684,0.250902,0.06859900000000001,0.089001,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3
+GzvfpyyZO9o,vaccines,HealthCondition,NONE,NONE,0.757929,negative,-0.400421,0.442747,0.309081,0.175797,0.033455,0.114174,3,1,vaccine,vaccin,vaccin,vaccin,vaccin,vaccin,vaccin,NONE,0.6939,0.084,0.099,0.8170000000000001,-0.015673215673215668,0.4920579420579421,negative,-0.6760609999999999,0.107766,0.5489,0.555566,0.496544,0.456926,0.0,6.599999904632568,Vaccination,2015-02-12T14:14:12.000Z,UCLXo7UDZvByw2ixzpQCufnA,The origins of the anti-vaccine movement,"Cow pus. It all started with cow pus, nearly 220 years ago. 
+
+For more on vaccines: http://www.vox.com/2015/2/10/8007571/vaccine-myths
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o
+
+Credit: 
+
+Words by: Julia Belluz 
+Produced by: Estelle Caswell",Vox,"vox', 'news', 'current events', 'world', 'cnn', 'vice', 'fox', 'msnbc', 'breakdown', 'eli5', 'anti-vaxxer', 'vaccines', 'measles', 'disneyland', 'rand paul', 'Elizabeth Warren (U.S. Congressperson)', 'Jenny McCarthy (Celebrity)', 'anderson cooper', 'medicine', 'Vaccine (Drug Class)', 'Vaccine Controversies', 'vaccination', 'dtap', 'alternative vaccination schedules'",PT2M58S,178,3

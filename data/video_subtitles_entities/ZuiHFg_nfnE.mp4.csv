@@ -1,0 +1,118 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZuiHFg_nfnE,1 year,Quantity,NONE,NONE,0.16611800000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1 year,1 year,1 year,1 year,1 year,1 year,1 year,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,Evan,Person,NONE,NONE,0.188603,negative,-0.782216,0.539836,0.15845,0.156601,0.175672,0.033402,1,1,Evan,Evan,Evan,Evan,evan,evan,ev,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,Federal Court,Organization,Location,http://dbpedia.org/resource/Federal_Court_of_Justice_of_Germany,0.21737800000000002,negative,-0.809909,0.459271,0.252178,0.090573,0.32916799999999996,0.198908,2,1,Federal Court,Federal Court,Federal Court,Federal Court,feder court,feder court,fed court,http://en.wikipedia.org/wiki/Federal_Court_of_Justice_of_Germany,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,New York City,Location,"PoliticalDistrict, GovernmentalJurisdiction, PlaceWithNeighborhoods, WineRegion, FilmScreeningVenue, City",http://dbpedia.org/resource/New_York_City,0.22921599999999998,negative,-0.77577,0.5962029999999999,0.30198400000000003,0.007556,0.234764,0.235975,2,1,New York City,New York City,New York City,New York City,new york citi,new york citi,new york city,http://en.wikipedia.org/wiki/New_York_City,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.425738,negative,-0.779938,0.6890729999999999,0.124499,0.152251,0.078058,0.032318,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,one year,Quantity,NONE,NONE,0.16611800000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one year,one year,one year,on year,one year,one year,on year,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,principal,JobTitle,NONE,NONE,0.218029,neutral,0.0,0.233364,0.044433999999999994,0.140477,0.4866140000000001,0.30916,1,1,principal,princip,princip,princip,princip,princip,princip,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,six years,Quantity,NONE,NONE,0.16611800000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six year,six year,six year,six year,six year,six year,six year,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5
+ZuiHFg_nfnE,varicella vaccine,Drug,NONE,NONE,0.852141,negative,-0.632642,0.591066,0.486817,0.15646300000000002,0.15515299999999999,0.07664,8,1,varicella vaccine,varicella vaccin,varicella vaccin,varicell vaccin,varicella vaccin,varicella vaccin,varicell vaccin,NONE,-0.9952,0.14400000000000002,0.097,0.76,0.03575176627124678,0.4825752890687954,negative,-0.7729659999999999,0.118911,0.6607810000000001,0.583719,0.48618,0.138337,0.0,7.5,Vaccination,2014-08-04T17:16:19.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines and Herd Immunity,"In the last few years the rates of vaccine preventable illness have been on the rise. This isn't just something that's happening in the United States – it's happening throughout the world. Often, these outbreaks begin with unvaccinated people. They spread through them, too. Outbreaks occur because of a breakdown in herd immunity. That's the topic of this week's Healthcare Triage.
+
+Those of you who want to read more and see references can go here: http://theincidentaleconomist.com/wordpress/?p=57180
+ 
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen -- Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"vaccine', 'herd immunity', 'smallpox', 'virus', 'viral', 'immunity', 'immunology', 'chickenpox', 'varicella', 'health care', 'insurance', 'health', 'disease', 'whooping cough', 'antivax', 'vaccination'",PT4M36S,276,5

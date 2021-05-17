@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+rIWjbD6IB6c,Jim Lange,Person,"TVPersonality, BroadcastArtist",http://dbpedia.org/resource/Jim_Lange,0.353796,positive,0.380605,0.159712,0.017186,0.089113,0.144846,0.14377,1,1,Jim Lange,Jim Lange,Jim Lange,Jim Lange,jim lang,jim lang,jim lang,http://en.wikipedia.org/wiki/Jim_Lange,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2
+rIWjbD6IB6c,Montserrat,Location,City,NONE,0.29540900000000003,neutral,0.0,0.125805,0.072522,0.233643,0.082996,0.099214,1,1,Montserrat,Montserrat,Montserrat,Montserrat,montserrat,montserrat,montser,NONE,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2
+rIWjbD6IB6c,NBC,Broadcaster,"Broadcast, AwardNominee, AwardWinner, Company, FilmDistributor, TVNetwork, TVWriter, TelevisionStation",http://dbpedia.org/resource/NBC,0.249612,positive,0.732545,0.23779499999999998,0.09388200000000001,0.22969299999999998,0.14721199999999998,0.097116,1,1,NBC,NBC,NBC,NBC,nbc,nbc,nbc,http://en.wikipedia.org/wiki/NBC,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2
+rIWjbD6IB6c,Pooch Maria Jose Garcia Cuevas siddhanta Woodruff,Person,NONE,NONE,0.9889549999999999,neutral,0.0,0.125805,0.072522,0.233643,0.082996,0.099214,1,1,Pooch Maria Jose Garcia Cuevas siddhanta Woodruff,Pooch Maria Jose Garcia Cuevas siddhanta Woodruff,Pooch Maria Jose Garcia Cuevas siddhanta Woodruff,Pooch Maria Jose Garcia Cuevas siddhant Woodruff,pooch maria jose garcia cueva siddhanta woodruff,pooch maria jose garcia cueva siddhanta woodruff,pooch mar jos garc cueva siddhant woodruff,NONE,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2
+rIWjbD6IB6c,Quintero,Person,NONE,NONE,0.308503,neutral,0.0,0.29021399999999997,0.14031,0.320333,0.149819,0.044976,1,1,Quintero,Quintero,Quintero,Quintero,quintero,quintero,quintero,NONE,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2
+rIWjbD6IB6c,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.27208699999999997,positive,0.957449,0.07414,0.012672,0.615754,0.034164,0.022548,1,1,YouTube,youtub,youtub,youtub,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.9631,0.0,0.236,0.764,0.17777777777777776,0.31269841269841275,positive,0.974078,0.053292,0.7034,0.126915,0.050168,0.078308,0.20000000298023224,1.600000023841858,Catalonia Independence,2017-10-27T20:44:34.000Z,UCeY0bbntWzzVIaj2z3QigXg,Celebrations As Catalan Parliament Votes For Independence | NBC News,"In response to the move, the Spanish senate voted to impose direct rule on Catalonia.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Celebrations As Catalan Parliament Votes For Independence | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia independence', 'catalan parliament', 'spanish prime minister', 'catalon', 'catalonia', 'catalon independence', 'europe', 'madrid government', 'spanish government', 'catalanindependence', 'catalan independence', 'mariano rajoy'",PT1M14S,74,2

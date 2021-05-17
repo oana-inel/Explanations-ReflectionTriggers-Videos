@@ -1,0 +1,339 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+hXBxw_wwsAQ,America,Location,Continent,NONE,0.44391899999999995,negative,-0.714255,0.406765,0.195914,0.275034,0.031183999999999996,0.050016000000000005,2,1,America,America,America,America,america,america,americ,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Andrew Wakefield,Person,Physician,http://dbpedia.org/resource/Andrew_Wakefield,0.314814,negative,-0.723887,0.487335,0.20622100000000002,0.16076700000000002,0.11549200000000001,0.201282,1,1,Andrew Wakefield,Andrew Wakefield,Andrew Wakefield,Andrew Wakefield,andrew wakefield,andrew wakefield,andrew wakefield,http://en.wikipedia.org/wiki/Andrew_Wakefield,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Australia,Location,Country,NONE,0.331042,neutral,0.0,0.556253,0.100891,0.323036,0.034069999999999996,0.095694,1,1,Australia,Australia,Australia,Australia,australia,australia,austral,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Brooklyn,Location,City,NONE,0.517894,positive,0.51446,0.324102,0.024912,0.507655,0.079824,0.11257400000000001,3,1,Brooklyn,Brooklyn,Brooklyn,Brooklyn,brooklyn,brooklyn,brooklyn,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.39121100000000003,neutral,0.0,0.513089,0.346596,0.08623099999999999,0.067604,0.053175,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.353885,neutral,0.0,0.513089,0.346596,0.08623099999999999,0.067604,0.053175,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Germany,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Germany,0.496859,positive,0.5865739999999999,0.28768499999999997,0.077918,0.57739,0.032017000000000004,0.027670999999999998,2,1,Germany,Germany,Germany,Germany,germani,germani,germany,http://en.wikipedia.org/wiki/Germany,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Hussein,Person,NONE,NONE,0.33524,negative,-0.609865,0.3946,0.186542,0.150816,0.161717,0.22255999999999998,1,1,Hussein,Hussein,Hussein,Hussein,hussein,hussein,hussein,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Italy,Location,Country,NONE,0.440855,positive,0.8226870000000001,0.51277,0.302237,0.132088,0.141193,0.082255,2,1,Italy,Italy,Italy,Italy,itali,itali,ita,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Jabs,Person,NONE,NONE,0.35762,negative,-0.8524370000000001,0.605895,0.192927,0.072423,0.183574,0.253724,1,1,Jabs,Jabs,Jabs,Jabs,jab,jab,jab,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,MMR,HealthCondition,NONE,NONE,0.31569899999999995,negative,-0.480757,0.189673,0.322881,0.09339700000000001,0.082603,0.120048,1,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Majid,Person,NONE,NONE,0.474466,negative,-0.704865,0.42028999999999994,0.41179099999999996,0.032744999999999996,0.050913,0.307062,2,1,Majid,Majid,Majid,Majid,majid,majid,majid,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Matt Matt Hancock,Person,NONE,NONE,0.72869,positive,0.210761,0.299754,0.23159699999999997,0.079422,0.373369,0.36542800000000003,3,1,Matt Matt Hancock,Matt Matt Hancock,Matt Matt Hancock,Matt Matt Hancock,matt matt hancock,matt matt hancock,mat mat hancock,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Michelle,Person,"MusicalArtist, BroadcastArtist, MusicalGroupMember",http://dbpedia.org/resource/Michel'le,0.339403,negative,-0.397945,0.17309000000000002,0.31047199999999997,0.20155,0.29337199999999997,0.229906,1,1,Michelle,Michelle,Michelle,Michelle,michel,michell,michel,http://en.wikipedia.org/wiki/Michel'le,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Mike Hancock,Person,NONE,NONE,0.4666520000000001,negative,-0.8524370000000001,0.568334,0.174235,0.089422,0.184943,0.284346,2,1,Mike Hancock,Mike Hancock,Mike Hancock,Mike Hancock,mike hancock,mike hancock,mik hancock,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,NHS,Organization,NONE,NONE,0.315172,negative,-0.8922399999999999,0.40469,0.336613,0.161768,0.17488299999999998,0.11538699999999999,1,1,NHS,NHS,NHS,NHS,nh,nhs,nhs,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,New York,Location,City,NONE,0.287815,neutral,0.0,0.18165,0.0066430000000000005,0.346445,0.061513,0.101074,1,1,New York,New York,New York,New York,new york,new york,new york,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Nick,Person,NONE,NONE,0.328045,positive,0.950766,0.170326,0.115996,0.338565,0.060948,0.363842,1,1,Nick,nick,nick,nick,nick,nick,nick,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Rubella,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Rubella,0.351596,neutral,0.0,0.16859200000000002,0.087573,0.177455,0.101298,0.090723,1,1,Rubella,Rubella,Rubella,Rubella,rubella,rubella,rubell,http://en.wikipedia.org/wiki/Rubella,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,Senator,JobTitle,NONE,NONE,0.311084,neutral,0.0,0.16859200000000002,0.087573,0.177455,0.101298,0.090723,1,1,Senator,Senator,Senator,Senator,senat,senat,sen,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,UK,Location,Country,NONE,0.344516,negative,-0.8524370000000001,0.605895,0.192927,0.072423,0.183574,0.253724,1,1,UK,UK,UK,UK,UK,uk,uk,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,dr. And,Person,NONE,NONE,0.315806,negative,-0.723887,0.487335,0.20622100000000002,0.16076700000000002,0.11549200000000001,0.201282,1,1,dr. And,dr. and,dr. and,dr. and,dr. and,dr. and,dr. and,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,fraud,Crime,NONE,NONE,0.347876,positive,0.950766,0.170326,0.115996,0.338565,0.060948,0.363842,1,1,fraud,fraud,fraud,fraud,fraud,fraud,fraud,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,group Wellness,Organization,NONE,NONE,0.331869,negative,-0.356923,0.137628,0.105597,0.417332,0.201336,0.336411,1,1,group Wellness,group Wellness,group Wellness,group Wellness,group well,group well,group wel,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,mumps,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor",http://dbpedia.org/resource/Mumps,0.356041,negative,-0.664905,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,mumps,mump,mump,mump,mump,mump,mump,http://en.wikipedia.org/wiki/Mumps,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10
+hXBxw_wwsAQ,secretary,JobTitle,NONE,NONE,0.364559,negative,-0.8524370000000001,0.605895,0.192927,0.072423,0.183574,0.253724,1,1,secretary,secretari,secretari,secret,secretari,secretari,secret,NONE,0.962,0.102,0.117,0.7809999999999999,0.08724037611134386,0.4803029139319461,negative,-0.433426,0.156111,0.517229,0.52718,0.557922,0.124328,0.0,23.5,Vaccination,2019-05-15T18:17:49.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Should vaccinations be compulsory? | The Pledge,"Maajid Nawaz calls anti-vaxxers ""selfish and unscientific"" but argues that compulsory vaccination is ""one Orwellian step too far"". Do you think vaccinations should be compulsory?
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+For more content go to http://news.sky.com and download our apps:  
+
+Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"SKY', 'SKY NEWS', 'NEWS', 'THE PLEDGE', 'VACCINATION', 'ANTI-VAX', 'ANTI-VAXXER', 'MEDICINE', 'MMR', 'AUTISM', 'MAAJID NAWAZ', 'CONSPIRACY', 'ALEX JONES', 'NUREMBERG', 'LBC', 'VACCINE', 'FAKE NEWS', 'MISINFORMATION', 'ANDREW WAKEFIELD'",PT9M21S,561,10

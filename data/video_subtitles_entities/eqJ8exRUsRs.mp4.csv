@@ -1,0 +1,305 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+eqJ8exRUsRs,Angela Merkel,Person,"Politician, AwardWinner, Chancellor",http://dbpedia.org/resource/Angela_Merkel,0.405852,neutral,0.0,0.163236,0.09536900000000001,0.140546,0.201355,0.56525,1,1,Angela Merkel,Angela Merkel,Angela Merkel,Angela Merkel,angela merkel,angela merkel,angel merkel,http://en.wikipedia.org/wiki/Angela_Merkel,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.340779,neutral,0.0,0.560242,0.197911,0.037226,0.29334099999999996,0.210063,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Brussels,Location,"AdministrativeDivision, SchoolDistrict, City",http://dbpedia.org/resource/Brussels,0.397125,neutral,0.0,0.412652,0.189727,0.0881,0.18127000000000001,0.187184,1,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,http://en.wikipedia.org/wiki/Brussels,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Carlos Pooch,Person,NONE,NONE,0.386947,negative,-0.594873,0.32445100000000004,0.238217,0.018846,0.486917,0.322849,1,1,Carlos Pooch,Carlos Pooch,Carlos Pooch,Carlos Pooch,carlo pooch,carlo pooch,carlo pooch,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Catalonia,Location,Country,NONE,0.440949,neutral,0.0,0.560242,0.197911,0.037226,0.29334099999999996,0.210063,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Catalonia,Organization,"Location, AdministrativeDivision, GovernmentalJurisdiction, SpanishAutonomousCommunity, CityTown",http://dbpedia.org/resource/Catalonia,0.41775100000000004,neutral,0.0,0.560242,0.197911,0.037226,0.29334099999999996,0.210063,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,http://en.wikipedia.org/wiki/Catalonia,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Chancellor,JobTitle,NONE,NONE,0.33974099999999996,neutral,0.0,0.163236,0.09536900000000001,0.140546,0.201355,0.56525,1,1,Chancellor,Chancellor,Chancellor,Chancellor,chancellor,chancellor,chancel,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.8811479999999999,negative,-0.62445,0.389702,0.22281399999999998,0.01974,0.432058,0.325002,3,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Emmanuel macron,Person,NONE,NONE,0.416832,positive,0.60165,0.372255,0.128092,0.432467,0.088477,0.072921,1,1,Emmanuel macron,Emmanuel macron,Emmanuel macron,Emmanuel macron,emmanuel macron,emmanuel macron,emmanuel macron,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,European Council,Organization,NONE,NONE,0.376027,negative,-0.651733,0.171869,0.388278,0.041181,0.329556,0.08566,1,1,European Council,european Council,european Council,europ Council,european council,european council,europ council,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.45188999999999996,neutral,0.0,0.163236,0.09536900000000001,0.140546,0.201355,0.56525,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.646746,positive,0.60165,0.500899,0.16759000000000002,0.073449,0.307303,0.279246,3,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.7908029999999999,negative,-0.594873,0.444496,0.225279,0.02433,0.31187800000000004,0.35579099999999997,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,president,JobTitle,NONE,NONE,0.360546,negative,-0.594873,0.32445100000000004,0.238217,0.018846,0.486917,0.322849,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,prime minister,JobTitle,NONE,NONE,0.653335,positive,0.60165,0.58372,0.189933,0.065599,0.269598,0.205817,2,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2
+eqJ8exRUsRs,two days,Quantity,NONE,NONE,0.33974099999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two day,two day,two day,two day,two day,two day,two day,NONE,-0.631,0.126,0.117,0.757,0.02595959595959596,0.3499494949494949,negative,-0.35893800000000003,0.179886,0.186247,0.522796,0.17110999999999998,0.204408,-0.10000000149011612,3.5,Catalonia Independence,2017-10-20T10:08:14.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalonia Independence: EU swings behind Madrid in escalating crisis,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia’s leader on Thursday threatened to explicitly declare independence if no talks with the central government were offered. Spain then called a special Cabinet session to activate measures to take control of Catalonia’s semi-autonomous powers.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Catalan independence', 'Catalonia', 'Spain', 'Carles Puigdemont', 'EXTRAIT', 'france24', 'news'",PT1M55S,115,2

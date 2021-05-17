@@ -1,0 +1,39 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Lt57H-buZMQ,Gardasil,Drug,NONE,NONE,0.40029499999999996,negative,-0.9285479999999999,0.396338,0.22311999999999999,0.151625,0.217404,0.021097,1,1,Gardasil,Gardasil,Gardasil,Gardasil,gardasil,gardasil,gardasil,NONE,-0.743,0.161,0.111,0.727,0.16352272727272724,0.5909090909090909,negative,-0.502167,0.06075,0.189502,0.519824,0.23233,0.112462,0.0,2.4000000953674316,Vaccination,2018-10-02T01:26:20.000Z,UC7hfW3ycC3xHEJ6CaKcGR0A,The future of vaccination,"Immunisation is one of the greatest achievements of modern medicine. It protects us against diseases that cause death or debilitating illness.
+
+The new Gardasil vaccine was co-developed by Professor Ian Frazer. It has nine strains of virus in it which provide effective protection against the viruses that cause cervical cancer. It has been distributed within Australian schools since 2007. As the technology improves, other diseases will be targeted and hopefully eradicated.
+
+Thanks for watching! Click subscribe and the notification bell to see our videos in your feed. 
+
+For more videos and articles like and follow our Facebook page and our other social pages. 
+
+Facebook: https://www.facebook.com/AustralianAcademyofScience/
+Instagram: https://www.instagram.com/ausacademyofscience/
+Twitter: https://twitter.com/Science_Academy
+
+About us:
+The Australian Academy of Science is an independent organisation representing Australia's leading scientists. It recognises excellence, advises government and promotes science education and public awareness of science.
+
+About our channel:
+We create and upload videos reviewed by experts in scientific fields and other leading academics to ensure scientific accuracy. You can also find some amazing lectures given by top scientists at one of our events held at our HQ-the Shine Dome in Canberra or across Australia.
+
+Thanks for watching and please subscribe and give our Facebook page a like!",Australian Academy of Science,"science', 'Australian Academy of Science', 'scientific', 'science behind', 'science academy', 'technology', 'science news', 'tech', 'tech news', 'latest science', 'scientists', 'immunisation', 'immunization', 'health', 'vaccine', 'vaccination'",PT1M25S,85,2
+Lt57H-buZMQ,cervical cancer,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, Symptom, Disease",http://dbpedia.org/resource/Cervical_cancer,0.889692,negative,-0.870027,0.531096,0.338934,0.11285099999999999,0.221834,0.014668,2,1,cervical cancer,cervic cancer,cervic cancer,cerv cant,cervic cancer,cervic cancer,cerv cant,http://en.wikipedia.org/wiki/Cervical_cancer,-0.743,0.161,0.111,0.727,0.16352272727272724,0.5909090909090909,negative,-0.502167,0.06075,0.189502,0.519824,0.23233,0.112462,0.0,2.4000000953674316,Vaccination,2018-10-02T01:26:20.000Z,UC7hfW3ycC3xHEJ6CaKcGR0A,The future of vaccination,"Immunisation is one of the greatest achievements of modern medicine. It protects us against diseases that cause death or debilitating illness.
+
+The new Gardasil vaccine was co-developed by Professor Ian Frazer. It has nine strains of virus in it which provide effective protection against the viruses that cause cervical cancer. It has been distributed within Australian schools since 2007. As the technology improves, other diseases will be targeted and hopefully eradicated.
+
+Thanks for watching! Click subscribe and the notification bell to see our videos in your feed. 
+
+For more videos and articles like and follow our Facebook page and our other social pages. 
+
+Facebook: https://www.facebook.com/AustralianAcademyofScience/
+Instagram: https://www.instagram.com/ausacademyofscience/
+Twitter: https://twitter.com/Science_Academy
+
+About us:
+The Australian Academy of Science is an independent organisation representing Australia's leading scientists. It recognises excellence, advises government and promotes science education and public awareness of science.
+
+About our channel:
+We create and upload videos reviewed by experts in scientific fields and other leading academics to ensure scientific accuracy. You can also find some amazing lectures given by top scientists at one of our events held at our HQ-the Shine Dome in Canberra or across Australia.
+
+Thanks for watching and please subscribe and give our Facebook page a like!",Australian Academy of Science,"science', 'Australian Academy of Science', 'scientific', 'science behind', 'science academy', 'technology', 'science news', 'tech', 'tech news', 'latest science', 'scientists', 'immunisation', 'immunization', 'health', 'vaccine', 'vaccination'",PT1M25S,85,2

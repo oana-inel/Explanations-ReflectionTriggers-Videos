@@ -1,0 +1,127 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+hoegmj780zc,Catalonia,Location,City,NONE,0.77787,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.871898,neutral,0.0,0.286229,0.168489,0.025422,0.22338899999999998,0.30443899999999996,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,Northeastern,Location,Region,NONE,0.675823,neutral,0.0,0.21118699999999999,0.159749,0.12439700000000001,0.052661,0.033001,1,1,Northeastern,Northeastern,Northeastern,Northeastern,northeastern,northeastern,northeastern,NONE,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.689828,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,constitutional Court,Organization,NONE,NONE,0.761031,neutral,0.0,0.208463,0.165419,0.026641,0.191098,0.19384500000000002,1,1,constitutional Court,constitut Court,constitut Court,constitut Court,constitut court,constitut court,constitut court,NONE,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,prime minister,JobTitle,NONE,NONE,0.7856069999999999,neutral,0.0,0.286229,0.168489,0.025422,0.22338899999999998,0.30443899999999996,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2
+hoegmj780zc,prosecutor,JobTitle,NONE,NONE,0.712249,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,0.8339,0.064,0.11,0.826,0.019270833333333327,0.3432291666666667,positive,0.37188,0.355313,0.064545,0.448186,0.191613,0.27770500000000004,-0.10000000149011612,1.399999976158142,Catalonia Independence,2017-09-08T02:32:49.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain challenges Catalonia independence referendum in constitutional court,"The Spanish government has moved to crush Catalonia's plans for an independence referendum, with the country's state prosecutor's office saying it will present criminal charges to members of the Catalan parliament who voted in favour of the ballot.
+
+The local authority, which is controlled by pro-independence parties, on Wednesday approved legislation to allow next month’s bitterly disputed vote to go ahead, however, Prime Minister Mariano Rajoy said that the referendum was illegal and poses an …
+READ MORE : http://www.euronews.com/2017/09/08/spain-challenges-catalonia-independence-referendum-in-constitutional-court
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Anniversary', 'Spain'",PT1M22S,82,2

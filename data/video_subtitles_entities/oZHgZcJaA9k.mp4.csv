@@ -1,0 +1,22 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+oZHgZcJaA9k,India,Location,Country,NONE,0.5689,neutral,0.0,0.15695699999999999,0.144368,0.582887,0.093139,0.025437,1,1,India,India,India,India,india,india,ind,NONE,-0.1406,0.034,0.039,0.927,0.18,0.5,negative,-0.677998,0.083577,0.363738,0.166845,0.106248,0.218328,-0.30000001192092896,1.2999999523162842,Catalonia Independence,2017-10-04T06:44:20.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia referendum: Independence will be declared 'by end of week'  - BBC News,"Catalonia President Carles Puigdemont tells the BBC that independence from Spain will be declared in a matter of days.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia referendum', 'Catalonia President', 'Carles Puigdemont', 'Puigdemont', 'Spain', 'barcelona', 'barcelona news', 'bbc world news', 'bbc live coverage'",PT1M,60,1
+oZHgZcJaA9k,Spanish government,Organization,NONE,NONE,0.9062479999999999,negative,-0.538724,0.23242800000000002,0.183814,0.033418,0.220295,0.19205999999999998,1,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.1406,0.034,0.039,0.927,0.18,0.5,negative,-0.677998,0.083577,0.363738,0.166845,0.106248,0.218328,-0.30000001192092896,1.2999999523162842,Catalonia Independence,2017-10-04T06:44:20.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia referendum: Independence will be declared 'by end of week'  - BBC News,"Catalonia President Carles Puigdemont tells the BBC that independence from Spain will be declared in a matter of days.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia referendum', 'Catalonia President', 'Carles Puigdemont', 'Puigdemont', 'Spain', 'barcelona', 'barcelona news', 'bbc world news', 'bbc live coverage'",PT1M,60,1
+oZHgZcJaA9k,official,JobTitle,NONE,NONE,0.538916,neutral,0.0,0.160134,0.049774,0.156355,0.150474,0.043566,1,1,official,offici,offici,off,offici,offici,off,NONE,-0.1406,0.034,0.039,0.927,0.18,0.5,negative,-0.677998,0.083577,0.363738,0.166845,0.106248,0.218328,-0.30000001192092896,1.2999999523162842,Catalonia Independence,2017-10-04T06:44:20.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalonia referendum: Independence will be declared 'by end of week'  - BBC News,"Catalonia President Carles Puigdemont tells the BBC that independence from Spain will be declared in a matter of days.
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalonia referendum', 'Catalonia President', 'Carles Puigdemont', 'Puigdemont', 'Spain', 'barcelona', 'barcelona news', 'bbc world news', 'bbc live coverage'",PT1M,60,1

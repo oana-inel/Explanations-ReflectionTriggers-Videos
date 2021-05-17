@@ -1,0 +1,19 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DB-CoK5ZNWI,myelitis,HealthCondition,NONE,NONE,0.37441199999999997,negative,-0.8881879999999999,0.340171,0.552307,0.053269000000000004,0.203243,0.077548,1,1,myelitis,myeliti,myeliti,myelit,myeliti,myeliti,myelit,NONE,-0.7783,0.091,0.076,0.833,0.06111111111111112,0.5,negative,-0.872908,0.089289,0.112454,0.650035,0.516914,0.084753,0.10000000149011612,3.299999952316284,Vaccination,2016-03-03T14:23:13.000Z,UCDN8AMGRjNYjhiJIfvsh5Fw,Vaccination,"Useful for CBSE, ICSE, NCERT & International Students
+Grade :7
+Subject : Biology
+Lesson : Health and Diseases
+Topic: CARE OF EARS
+
+A vaccine is a biological preparation that improves immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins or one of its surface proteins.
+
+Visit www.oztern.com to find personalized test preparation solutions for Pre Medical – AIPMT, AIIMS, JIPMER, State, Pre Engineering – IIT JEE, JEE MAIN, BITSAT, State and Foundations – Class 6 to 10.",CBSE,"Visit www.oztern.com to find personalized test preparation solutions for Pre Medical – AIPMT', 'AIIMS', 'JIPMER', 'State', 'Pre Engineering – IIT JEE', 'JEE MAIN', 'BITSAT', 'State and Foundations – Class 6 to 10.'",PT2M2S,122,3
+DB-CoK5ZNWI,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.9036690000000001,negative,-0.9489850000000001,0.7586970000000001,0.220396,0.04475,0.058645,0.079417,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,-0.7783,0.091,0.076,0.833,0.06111111111111112,0.5,negative,-0.872908,0.089289,0.112454,0.650035,0.516914,0.084753,0.10000000149011612,3.299999952316284,Vaccination,2016-03-03T14:23:13.000Z,UCDN8AMGRjNYjhiJIfvsh5Fw,Vaccination,"Useful for CBSE, ICSE, NCERT & International Students
+Grade :7
+Subject : Biology
+Lesson : Health and Diseases
+Topic: CARE OF EARS
+
+A vaccine is a biological preparation that improves immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins or one of its surface proteins.
+
+Visit www.oztern.com to find personalized test preparation solutions for Pre Medical – AIPMT, AIIMS, JIPMER, State, Pre Engineering – IIT JEE, JEE MAIN, BITSAT, State and Foundations – Class 6 to 10.",CBSE,"Visit www.oztern.com to find personalized test preparation solutions for Pre Medical – AIPMT', 'AIIMS', 'JIPMER', 'State', 'Pre Engineering – IIT JEE', 'JEE MAIN', 'BITSAT', 'State and Foundations – Class 6 to 10.'",PT2M2S,122,3

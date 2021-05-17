@@ -1,0 +1,169 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+xTxgASMFgIQ,100%,Quantity,NONE,NONE,0.246835,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,100 %,100 %,100 %,100 %,100 %,100 %,100 %,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,99%,Quantity,NONE,NONE,0.246835,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,99 %,99 %,99 %,99 %,99 %,99 %,99 %,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Australia,Location,"GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Australia,0.37795700000000004,positive,0.24028400000000005,0.331835,0.10394,0.38952800000000004,0.204482,0.041752,2,1,Australia,Australia,Australia,Australia,australia,australia,austral,http://en.wikipedia.org/wiki/Australia,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Indonesia,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Indonesia,0.81633,positive,0.4245310000000001,0.233202,0.149233,0.561585,0.177892,0.195972,7,1,Indonesia,Indonesia,Indonesia,Indonesia,indonesia,indonesia,indones,http://en.wikipedia.org/wiki/Indonesia,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Jakarta,Location,"AdministrativeDivision, GovernmentalJurisdiction, IndonesianCity, IndonesianProvince, City",http://dbpedia.org/resource/Jakarta,0.453287,positive,0.43738900000000003,0.48022200000000004,0.165379,0.10368800000000004,0.318366,0.10762100000000001,2,1,Jakarta,Jakarta,Jakarta,Jakarta,jakarta,jakarta,jakart,http://en.wikipedia.org/wiki/Jakarta,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Jerusalem Embassy,Organization,NONE,NONE,0.293748,neutral,0.0,0.4848270000000001,0.134906,0.108277,0.064755,0.17824500000000001,1,1,Jerusalem Embassy,Jerusalem Embassy,Jerusalem Embassy,Jerusalem Embassy,jerusalem embassi,jerusalem embassi,jerusalem embassy,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Mining and Engineering,Organization,NONE,NONE,0.246835,positive,0.6087779999999999,0.355389,0.018394999999999998,0.335862,0.067204,0.16841,1,1,Mining and Engineering,Mining and Engineering,Mining and Engineering,Mining and Engineering,mine and engin,mine and engin,min and engin,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Ozzy,Person,NONE,NONE,0.371001,negative,-0.524084,0.352207,0.06261900000000001,0.019898,0.12755,0.373191,1,1,Ozzy,Ozzy,Ozzy,Ozzy,ozzi,ozzi,ozzy,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Renee Henry,Person,NONE,NONE,0.257189,neutral,0.0,0.2873,0.281592,0.073174,0.356231,0.177013,1,1,Renee Henry,Renee Henry,Renee Henry,Renee Henry,rene henri,rene henri,ren henry,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Scott Morrison,Person,"Politician, MemberOfParliament",http://dbpedia.org/resource/Scott_Morrison_(politician),0.31182600000000005,positive,0.24028400000000005,0.331835,0.10394,0.38952800000000004,0.204482,0.041752,1,1,Scott Morrison,Scott Morrison,Scott Morrison,Scott Morrison,scott morrison,scott morrison,scot morrison,http://en.wikipedia.org/wiki/Scott_Morrison_(politician),0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,Sydney Harbour Bridge,Facility,"Location, Bridge, TouristAttraction",http://dbpedia.org/resource/Sydney_Harbour_Bridge,0.322915,neutral,0.0,0.068695,0.10494,0.563296,0.041602999999999994,0.305822,1,1,Sydney Harbour Bridge,Sydney Harbour Bridge,Sydney Harbour Bridge,Sydney Harbour Bridge,sydney harbour bridg,sydney harbour bridg,sydney harbo bridg,http://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,nine years,Quantity,NONE,NONE,0.246835,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,nine year,nine year,nine year,nin year,nine year,nine year,nin year,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,prime minister,JobTitle,NONE,NONE,0.33517199999999997,positive,0.24028400000000005,0.331835,0.10394,0.38952800000000004,0.204482,0.041752,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3
+xTxgASMFgIQ,six months,Quantity,NONE,NONE,0.246835,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,0.9869,0.066,0.173,0.762,0.0904856013551666,0.44768649225170976,negative,-0.323623,0.164199,0.488417,0.684055,0.114077,0.141782,-0.20000000298023224,1.399999976158142,Free Trade,2019-03-04T07:23:38.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Australia signs Free Trade Agreement with Indonesia | Nine News Australia,"Australia and Indonesia have signed a landmark free trade agreement, years in the making, and temporarily derailed by Scott Morrison. 
+
+Farmers and business owners are the big winners, but unions claim Aussie jobs will be stolen by foreigners.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'INDONESIA', 'TRADE AGREEMENT', 'FREE TRADE', 'AUSTRALIA INDONESIA', 'SCOTT MORRISON', 'UNIONS', 'AUSSIE JOBS'",PT2M12S,132,3

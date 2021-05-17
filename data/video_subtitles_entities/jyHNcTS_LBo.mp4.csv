@@ -1,0 +1,400 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jyHNcTS_LBo,25%,Quantity,NONE,NONE,0.141036,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 %,25 %,25 %,25 %,25 %,25 %,25 %,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.169606,neutral,0.0,0.194626,0.163761,0.3252,0.254714,0.29396500000000003,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Belgium,Location,Country,NONE,0.161721,neutral,0.0,0.295454,0.132206,0.029426,0.47721,0.444003,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.22351999999999997,neutral,0.0,0.333333,0.19225899999999999,0.319234,0.076235,0.08598099999999999,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Catalonia,Location,City,NONE,0.31461100000000003,negative,-0.088744,0.386776,0.08561,0.34578200000000003,0.051539999999999996,0.24428200000000005,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Catalonia America,Company,NONE,NONE,0.22590900000000005,negative,-0.409576,0.434338,0.229489,0.091869,0.255311,0.28599,1,1,Catalonia America,Catalonia America,Catalonia America,Catalonia America,catalonia america,catalonia america,catalon americ,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Christopher Columbus,Person,OperaCharacter,http://dbpedia.org/resource/Christopher_Columbus,0.17913199999999999,positive,0.47803500000000004,0.13223800000000002,0.03282,0.553207,0.09944299999999999,0.037334,1,1,Christopher Columbus,Christopher Columbus,Christopher Columbus,Christopher Columbus,christoph columbu,christoph columbus,christopher columb,http://en.wikipedia.org/wiki/Christopher_Columbus,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Florida,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Florida,0.179332,neutral,0.0,0.314185,0.188302,0.242968,0.137188,0.183685,1,1,Florida,Florida,Florida,Florida,florida,florida,florid,http://en.wikipedia.org/wiki/Florida,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Francisco Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.22392600000000001,negative,-0.425334,0.5981380000000001,0.132693,0.046931,0.160149,0.366169,2,1,Francisco Franco,Francisco Franco,Francisco Franco,Francisco Franco,francisco franco,francisco franco,francisco franco,http://en.wikipedia.org/wiki/Francisco_Franco,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Hamilton,Location,City,NONE,0.18195899999999998,neutral,0.0,0.264549,0.097577,0.386725,0.05001,0.138477,2,1,Hamilton,Hamilton,Hamilton,Hamilton,hamilton,hamilton,hamilton,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,John,Person,NONE,NONE,0.188169,neutral,0.0,0.178807,0.093261,0.652467,0.027482999999999997,0.024452,1,1,John,John,John,John,john,john,john,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Kardashian,Person,NONE,NONE,0.148036,negative,-0.7467229999999999,0.21427100000000002,0.21332600000000002,0.23673200000000005,0.054780999999999996,0.05791,1,1,Kardashian,Kardashian,Kardashian,Kardashian,kardashian,kardashian,kardash,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,King Felipe,Facility,NONE,NONE,0.17840999999999999,negative,-0.42555699999999996,0.451324,0.16796,0.227287,0.067178,0.250294,1,1,King Felipe,King Felipe,King Felipe,King Felipe,king felip,king felip,king felip,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,King Ferdinand,Person,NONE,NONE,0.165326,neutral,0.0,0.21992899999999999,0.044831,0.49957799999999997,0.051007,0.070271,1,1,King Ferdinand,King Ferdinand,King Ferdinand,King Ferdinand,king ferdinand,king ferdinand,king ferdinand,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Moya,Person,NONE,NONE,0.159782,neutral,0.0,0.194626,0.163761,0.3252,0.254714,0.29396500000000003,1,1,Moya,Moya,Moya,Moya,moya,moya,moy,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Queen Isabella,Person,NONE,NONE,0.145979,neutral,0.0,0.21992899999999999,0.044831,0.49957799999999997,0.051007,0.070271,1,1,Queen Isabella,Queen Isabella,Queen Isabella,Queen Isabella,queen isabella,queen isabella,queen isabell,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.859561,positive,0.040068,0.271483,0.46025,0.47468299999999997,0.161799,0.196446,15,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,Syria,Location,Country,http://dbpedia.org/resource/Syria,0.17110799999999998,negative,-0.7467229999999999,0.21427100000000002,0.21332600000000002,0.23673200000000005,0.054780999999999996,0.05791,1,1,Syria,Syria,Syria,Syria,syria,syria,syr,http://en.wikipedia.org/wiki/Syria,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,analyst,JobTitle,NONE,NONE,0.149998,negative,-0.799219,0.255703,0.17810299999999998,0.268961,0.033947000000000005,0.374217,1,1,analyst,analyst,analyst,analyst,analyst,analyst,analyst,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,coughlin,Person,NONE,NONE,0.14863800000000002,negative,-0.42555699999999996,0.0,0.0,0.0,0.0,0.0,1,1,coughlin,coughlin,coughlin,coughlin,coughlin,coughlin,coughlin,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6
+jyHNcTS_LBo,prime minister,JobTitle,NONE,NONE,0.177357,neutral,0.0,0.32245100000000004,0.061152,0.129655,0.158826,0.027433999999999997,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.5493,0.111,0.113,0.775,0.19377493421611067,0.4717665096341565,positive,0.281423,0.5315479999999999,0.5806680000000001,0.452307,0.139494,0.110519,0.0,11.0,Catalonia Independence,2017-11-03T07:35:00.000Z,UCMtFAi84ehTSYSE9XoHefig,Spain: Another Country Trying To Restore Democracy,"The United States isn't the only nation in a democratic crisis. Stephen examines Catalonia's decision to declare independence from Spain.
+
+Subscribe To ""The Late Show"" Channel HERE: http://bit.ly/ColbertYouTube
+For more content from ""The Late Show with Stephen Colbert"", click HERE: http://bit.ly/1AKISnR
+Watch full episodes of ""The Late Show"" HERE: http://bit.ly/1Puei40
+Like ""The Late Show"" on Facebook HERE: http://on.fb.me/1df139Y
+Follow ""The Late Show"" on Twitter HERE: http://bit.ly/1dMzZzG
+Follow ""The Late Show"" on Google+ HERE: http://bit.ly/1JlGgzw
+Follow ""The Late Show"" on Instagram HERE: http://bit.ly/29wfREj
+Follow ""The Late Show"" on Tumblr HERE: http://bit.ly/29DVvtR
+
+Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.
+
+Get the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge
+
+Get new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",The Late Show with Stephen Colbert,"The Late Show', 'Stephen Colbert', 'Colbert', 'Late Show', 'celebrities', 'late night', 'talk show', 'skits', 'bit', 'monologue', 'The Late Late Show', 'Late Late Show', 'letterman', 'david letterman', 'comedian', 'impressions', 'CBS', 'joke', 'jokes', 'funny', 'funny video', 'funny videos', 'humor', 'celebrity', 'celeb', 'hollywood', 'famous', 'James Corden', 'Corden', 'Comedy'",PT5M7S,307,6

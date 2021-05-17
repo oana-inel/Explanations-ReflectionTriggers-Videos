@@ -1,0 +1,65 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+UQg3uQV8cYM,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.35394899999999996,negative,-0.391079,0.10915799999999999,0.159365,0.346569,0.16966900000000001,0.15928399999999998,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.731677,negative,-0.501379,0.624784,0.307475,0.012221,0.120972,0.286066,2,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,Catalonia,Location,City,NONE,0.685796,positive,0.135432,0.420613,0.032944,0.3149,0.270804,0.042026999999999995,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.336267,negative,-0.54396,0.314616,0.199432,0.219823,0.20232,0.10723900000000001,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.6864600000000001,negative,-0.489304,0.323861,0.111302,0.365135,0.10556199999999999,0.102126,3,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.9005799999999999,negative,-0.567455,0.261679,0.23667399999999997,0.24646300000000002,0.330433,0.102612,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,Spanish government,Organization,NONE,NONE,0.681584,negative,-0.4739640000000001,0.536331,0.193414,0.047081,0.254842,0.32425,3,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5
+UQg3uQV8cYM,turkey,Location,"Brand, GovernmentalJurisdiction, ProjectParticipant, Country",http://dbpedia.org/resource/Turkey,0.32818600000000003,negative,-0.54396,0.314616,0.199432,0.219823,0.20232,0.10723900000000001,1,1,turkey,turkey,turkey,turkey,turkey,turkey,turkey,http://en.wikipedia.org/wiki/Turkey,0.8228,0.085,0.107,0.8079999999999999,0.08391504329004333,0.4157683982683983,negative,-0.485202,0.156814,0.476996,0.5974689999999999,0.15118800000000002,0.182243,-0.10000000149011612,7.199999809265138,Catalonia Independence,2018-04-20T09:57:36.000Z,UCtYgq39DHF9Or2kDhbgE7-A,Helga Stevens on Catalonia's independence,"Helga Stevens in Member of the European Parliament (ECR Group)
+
+Subscribe! ► http://bit.ly/2D8bwBD
+
+JOIN THE CONVERSATION!
+Website: http://www.debatingeurope.eu
+Twitter: https://twitter.com/debatingeurope
+Facebook: https://www.facebook.com/debatingeurope",Debating Europe,"catalonia referendum', 'european union', 'debating europe', 'catalonia', 'catalonia independence'",PT4M6S,246,5

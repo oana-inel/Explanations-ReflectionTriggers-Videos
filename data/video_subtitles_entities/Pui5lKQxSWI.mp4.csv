@@ -1,0 +1,211 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Pui5lKQxSWI,Catalonia,Location,City,NONE,0.8391290000000001,neutral,0.0,0.42757399999999995,0.07537200000000001,0.027213,0.299532,0.512938,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Lang,Person,NONE,NONE,0.20630500000000002,neutral,0.0,0.459129,0.169131,0.013321000000000001,0.37526,0.37046999999999997,1,1,Lang,Lang,Lang,Lang,lang,lang,lang,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.36699,neutral,0.0,0.43741199999999997,0.109373,0.007054,0.406114,0.421749,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Oliver,Person,NONE,NONE,0.236862,neutral,0.0,0.117559,0.07911,0.758197,0.013628,0.018234,1,1,Oliver,Oliver,Oliver,Oliver,oliv,oliv,ol,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,President Karzai,Person,NONE,NONE,0.351103,neutral,0.0,0.193662,0.113008,0.36693899999999996,0.277512,0.09465,1,1,President Karzai,President Karzai,President Karzai,President Karzai,presid karzai,presid karzai,presid karza,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Prime Minister,JobTitle,NONE,NONE,0.221034,neutral,0.0,0.459129,0.169131,0.013321000000000001,0.37526,0.37046999999999997,1,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Republic of Catalonia,Organization,NONE,NONE,0.5490079999999999,negative,-0.248585,0.238979,0.315224,0.185086,0.19012,0.100521,1,1,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,republ of catalonia,republ of catalonia,republ of catalon,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.26893,neutral,0.0,0.193662,0.113008,0.36693899999999996,0.277512,0.09465,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,Spence,Person,NONE,NONE,0.20911300000000002,neutral,0.0,0.459129,0.169131,0.013321000000000001,0.37526,0.37046999999999997,1,1,Spence,Spence,Spence,Spence,spenc,spenc,spent,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3
+Pui5lKQxSWI,president,JobTitle,NONE,NONE,0.35639299999999996,neutral,0.0,0.4310270000000001,0.128207,0.023938,0.375363,0.409339,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.852,0.115,0.094,0.792,0.051587301587301584,0.3937830687830687,negative,-0.338925,0.173406,0.561819,0.224366,0.153532,0.145602,-0.10000000149011612,4.699999809265137,Catalonia Independence,2017-10-11T04:02:35.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Catalan leaders sign declaration of independence,"Catalan President Carles Puigdemont and other regional leaders have signed a declaration of independence from Spain after his long awaited speech before Catalonia's parliament.
+But the move will not be implemented immediately allowing for talks with the national government in Madrid.
+The symbolic gesture was welcomed by some lawmakers but for others it fell short of a unilateral proclamation.
+
+Eduardo Reyes (MP independent – Junts pel Si): 
+“We have just signed an independence declaration, the i…
+READ MORE : http://www.euronews.com/2017/10/11/catalan-leaders-sign-declaration-of-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Referendum'",PT2M8S,128,3

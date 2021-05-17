@@ -1,0 +1,73 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ccT8B37nYRI,B,HealthCondition,NONE,NONE,0.21982,negative,-0.371823,0.096525,0.088698,0.07120399999999999,0.09211,0.050664,1,1,B,B,B,B,B,b,b,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,BCG,HealthCondition,NONE,NONE,0.252114,negative,-0.412625,0.101582,0.02707,0.11623399999999999,0.048546,0.078572,1,1,BCG,BCG,BCG,BCG,bcg,bcg,bcg,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,Bessel Calment,GeographicFeature,NONE,NONE,0.268259,neutral,0.0,0.09270199999999999,0.029537,0.16717,0.041328,0.024628,1,1,Bessel Calment,Bessel Calment,Bessel Calment,Bessel Calment,bessel calment,bessel calment,bessel cal,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,Jones,Person,NONE,NONE,0.29615,neutral,0.0,0.294124,0.092307,0.124253,0.08253200000000001,0.073077,2,1,Jones,Jones,Jones,Jones,jone,jone,jon,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,Jordan,Location,City,NONE,0.261662,neutral,0.0,0.087027,0.15247,0.262513,0.071312,0.040719,1,1,Jordan,Jordan,Jordan,Jordan,jordan,jordan,jord,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,Measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.27449,negative,-0.8805940000000001,0.10481099999999999,0.06077100000000001,0.145701,0.108759,0.049914,1,1,Measles,Measles,Measles,Measles,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,eight weeks,Quantity,NONE,NONE,0.21982,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eight week,eight week,eight week,eight week,eight week,eight week,eight week,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,flu vaccine,Drug,NONE,NONE,0.972216,negative,-0.552679,0.023375999999999997,0.052476,0.089387,0.033775,0.03474,2,1,flu vaccine,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,myelitis,HealthCondition,NONE,NONE,0.258237,negative,-0.779848,0.33126500000000003,0.124097,0.053381,0.324612,0.157797,1,1,myelitis,myeliti,myeliti,myelit,myeliti,myeliti,myelit,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,pertussis,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Pertussis,0.339144,negative,-0.605681,0.103496,0.09098099999999999,0.412969,0.069155,0.058534,2,1,pertussis,pertussi,pertussi,pertuss,pertussi,pertussi,pertuss,http://en.wikipedia.org/wiki/Pertussis,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,polio vaccine,Drug,NONE,NONE,0.79464,negative,-0.33093,0.227267,0.179347,0.25959699999999997,0.068739,0.07487,1,1,polio vaccine,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,NONE,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9
+ccT8B37nYRI,rubella,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Rubella,0.23279499999999997,negative,-0.8805940000000001,0.10481099999999999,0.06077100000000001,0.145701,0.108759,0.049914,1,1,rubella,rubella,rubella,rubell,rubella,rubella,rubell,http://en.wikipedia.org/wiki/Rubella,-0.9187,0.05,0.041,0.909,0.12327956989247313,0.5032142857142858,negative,-0.30031,0.072418,0.54174,0.151924,0.095308,0.094033,0.0,15.300000190734865,Vaccination,2014-08-19T16:26:40.000Z,UCtmnZdfsUBkF5eNjK675eTA,Routes of Administration of Vaccines.......in nutshell,"Oral Vaccines
+Injectable Vaccine
+Intradermal vaccines
+subcutaneous vaccines
+intramuscular vaccine
+Intranasal vaccines",Clinical Pharmacology & Public Health,"Route Of Administration', 'Vaccine (Drug Class)', 'Health (Industry)', 'Community Medicine', 'Preventive medicine', 'vaccine', 'medicine', 'epidemiology', 'biostatistics', 'polio vaccine', 'dpt vaccine', 'BCG Vaccine (Vaccine)', 'MMR Vaccine (Vaccine)', 'Measles vaccine', 'toxiods'",PT8M17S,497,9

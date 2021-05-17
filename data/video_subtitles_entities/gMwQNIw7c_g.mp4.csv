@@ -1,0 +1,286 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gMwQNIw7c_g,3.1 billion dollars,Quantity,NONE,NONE,0.373216,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,3.1 billion dollar,3.1 billion dollar,3.1 billion dollar,3.1 bil doll,3.1 billion dollar,3.1 billion dollar,3.1 bil doll,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,Abby venema,Person,NONE,NONE,0.392968,negative,-0.458513,0.506179,0.292962,0.104576,0.065528,0.287773,1,1,Abby venema,Abby venema,Abby venema,Abby venem,abbi venema,abbi venema,abby venem,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,CDC,Organization,NONE,NONE,0.373216,negative,-0.422709,0.630675,0.124248,0.088831,0.097131,0.14968299999999998,1,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,California,Location,"PoliticalDistrict, AdministrativeDivision, Appellation, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/California,0.45551,negative,-0.742441,0.5212829999999999,0.251712,0.007905,0.34998,0.20653600000000005,2,1,California,California,California,California,california,california,californ,http://en.wikipedia.org/wiki/California,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,Carmen,Person,NONE,NONE,0.4587810000000001,neutral,0.0,0.43891,0.142202,0.141092,0.189579,0.111701,1,1,Carmen,Carmen,Carmen,Carmen,carmen,carmen,carm,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,Japan,Location,"MusicalGroup, BroadcastArtist, MusicalArtist, RecordProducer, Country",http://dbpedia.org/resource/Japan,0.42340500000000003,negative,-0.5102979999999999,0.58773,0.13272,0.10579100000000001,0.154619,0.142806,1,1,Japan,Japan,Japan,Japan,japan,japan,jap,http://en.wikipedia.org/wiki/Japan,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,Marisol,Person,NONE,NONE,0.597355,neutral,0.0,0.21267800000000006,0.127141,0.14905,0.404669,0.126506,3,1,Marisol,Marisol,Marisol,Marisol,marisol,marisol,marisol,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.4254600000000001,negative,-0.612041,0.650225,0.153919,0.074157,0.097103,0.110044,2,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.443463,positive,0.5526479999999999,0.18620599999999998,0.007913,0.167114,0.027707,0.13663499999999998,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,cough,HealthCondition,"DiseaseOrMedicalCondition, RiskFactor, Symptom",http://dbpedia.org/resource/Cough,0.889797,negative,-0.7573439999999999,0.613379,0.610644,0.052907,0.273042,0.14260499999999998,7,1,cough,cough,cough,cough,cough,cough,cough,http://en.wikipedia.org/wiki/Cough,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,flu,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.4688100000000001,negative,-0.542082,0.045892,0.08174400000000001,0.064817,0.11413399999999999,0.021554,2,1,flu,flu,flu,flu,flu,flu,flu,http://en.wikipedia.org/wiki/Influenza,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,four-year,Quantity,NONE,NONE,0.373216,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four-year,four-year,four-year,four-year,four-year,four-year,four-year,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,hundred percent,Quantity,NONE,NONE,0.373216,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred percent,hundr percent,hundr percent,hundr perc,hundr percent,hundr percent,hundr perc,NONE,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,pertussis,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Pertussis,0.388178,negative,-0.812553,0.22032,0.10138899999999999,0.08202100000000001,0.42432,0.251259,1,1,pertussis,pertussi,pertussi,pertuss,pertussi,pertussi,pertuss,http://en.wikipedia.org/wiki/Pertussis,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9
+gMwQNIw7c_g,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.8770479999999999,negative,-0.5739890000000001,0.619985,0.6259819999999999,0.08924800000000001,0.08783200000000001,0.092127,9,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.9513,0.08199999999999999,0.091,0.8270000000000001,0.09263392857142856,0.5213286713286714,negative,-0.533792,0.104817,0.501537,0.529084,0.582277,0.144869,-0.10000000149011612,24.20000076293945,Vaccination,2015-11-08T22:20:43.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Vaccination Research: Mom Shares Vaccine Horrors And Won’t Vaccinate,"http://www.StopMandatoryVaccination.com - After doing her research, this mom discovered that vaccines can cause great harm, including death, and that natural immunity is superior to vaccination. She never vaccinated her 4 year-old daughter, who shines with vibrant health. A few things she discovered during her massive research process: 
+• The risk of vaccines are higher than the chances of her daughter getting Whooping Cough
+• Polio is not a threat to our society, except from vaccination
+• Vaccine makers cannot be sued for injury or death
+• Vaccines have toxic ingredients
+• Vaccines have Thimerosal in them, a dangerous mercury “preservative”
+• Thimerosal increased in utero once flu shots started to be pushed onto pregnant women
+• Injection is different than ingestion: for example, you can drink snake venom and not die, but get bit by a snake, and that can kill you
+• Over 3 billion dollars has been paid out for vaccine related injury and vaccine related death
+• Vaccines are not safe
+• Why is our infant mortality rate so high and also the highest vaccination rate? Could it be the vaccines?
+• Every parent deserves to know the full Truth about the dangers of vaccination before vaccinating their child. Learn more here:
+• http://www.stopmandatoryvaccination.com/personal-choice/
+
+Stop Mandatory Vaccination
+
+Produced by Larry Cook
+Founder and Director of http://www.StopMandatoryVaccination.com
+Contribute here: http://www.gofundme.com/ohwupg",LarryCook333,"health', 'natural health', 'natural medicine', 'Vaccine', 'vaccination', 'vaccinate', 'forced vaccination', 'immunity', 'immune function', 'immunization', 'mandatory vaccination', 'personal belief exemption', 'medical exemption', 'religious exemption', 'vaccine exemption', 'vaccination exemption', 'eugenics', 'Amish', 'autism', 'vaccines cause autism', 'vaccine injury', 'vaccine reaction', 'VAERS', 'vaccine adverse event', 'the greater good', 'pro vax', 'anti vax', 'anti vaccine', 'vaccine waiver', 'alternative medicine'",PT8M9S,489,9

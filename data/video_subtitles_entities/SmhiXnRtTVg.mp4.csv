@@ -1,0 +1,111 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+SmhiXnRtTVg,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.899885,negative,-0.531734,0.605839,0.246108,0.050997,0.284996,0.10540999999999999,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9746,0.038,0.163,0.799,-0.11474358974358975,0.29512820512820515,positive,0.360629,0.130268,0.444259,0.627832,0.157646,0.449048,0.0,2.200000047683716,Catalonia Independence,2014-09-11T21:06:08.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Thousands rally in support of Catalan independence campaign,"An estimated half a million people packed the streets of Barcelona on Thursday to call for Catalonia to be separated from Spain.
+
+The demonstration, marked Catalan National Day, the Diada. It was also a show of force in support of a independence referendum in November.
+
+""This is a very emotional day. We all want to say that we are a nation and we want to vote to express ourselves,"" Desire Carbonell told euronews.
+
+""We want independence and above all we want to vote in November,"" added Sigrid Tor…
+READ MORE : http://www.euronews.com/2014/09/11/thousands-rally-in-support-of-catalan-independence-campaign
+
+What is in the news today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeLGPTLVZMp8kczDH7_5Ni
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain', 'National Day'",PT1M21S,81,2
+SmhiXnRtTVg,Catalonia,Location,City,NONE,0.888126,negative,-0.485158,0.766206,0.10278699999999999,0.059463999999999996,0.14915599999999998,0.146551,5,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9746,0.038,0.163,0.799,-0.11474358974358975,0.29512820512820515,positive,0.360629,0.130268,0.444259,0.627832,0.157646,0.449048,0.0,2.200000047683716,Catalonia Independence,2014-09-11T21:06:08.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Thousands rally in support of Catalan independence campaign,"An estimated half a million people packed the streets of Barcelona on Thursday to call for Catalonia to be separated from Spain.
+
+The demonstration, marked Catalan National Day, the Diada. It was also a show of force in support of a independence referendum in November.
+
+""This is a very emotional day. We all want to say that we are a nation and we want to vote to express ourselves,"" Desire Carbonell told euronews.
+
+""We want independence and above all we want to vote in November,"" added Sigrid Tor…
+READ MORE : http://www.euronews.com/2014/09/11/thousands-rally-in-support-of-catalan-independence-campaign
+
+What is in the news today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeLGPTLVZMp8kczDH7_5Ni
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain', 'National Day'",PT1M21S,81,2
+SmhiXnRtTVg,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.340993,neutral,0.0,0.403825,0.131639,0.280342,0.24614899999999998,0.06636,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,0.9746,0.038,0.163,0.799,-0.11474358974358975,0.29512820512820515,positive,0.360629,0.130268,0.444259,0.627832,0.157646,0.449048,0.0,2.200000047683716,Catalonia Independence,2014-09-11T21:06:08.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Thousands rally in support of Catalan independence campaign,"An estimated half a million people packed the streets of Barcelona on Thursday to call for Catalonia to be separated from Spain.
+
+The demonstration, marked Catalan National Day, the Diada. It was also a show of force in support of a independence referendum in November.
+
+""This is a very emotional day. We all want to say that we are a nation and we want to vote to express ourselves,"" Desire Carbonell told euronews.
+
+""We want independence and above all we want to vote in November,"" added Sigrid Tor…
+READ MORE : http://www.euronews.com/2014/09/11/thousands-rally-in-support-of-catalan-independence-campaign
+
+What is in the news today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeLGPTLVZMp8kczDH7_5Ni
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain', 'National Day'",PT1M21S,81,2
+SmhiXnRtTVg,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.54162,neutral,0.0,0.656904,0.18803499999999998,0.07600499999999999,0.072134,0.16336099999999998,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9746,0.038,0.163,0.799,-0.11474358974358975,0.29512820512820515,positive,0.360629,0.130268,0.444259,0.627832,0.157646,0.449048,0.0,2.200000047683716,Catalonia Independence,2014-09-11T21:06:08.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Thousands rally in support of Catalan independence campaign,"An estimated half a million people packed the streets of Barcelona on Thursday to call for Catalonia to be separated from Spain.
+
+The demonstration, marked Catalan National Day, the Diada. It was also a show of force in support of a independence referendum in November.
+
+""This is a very emotional day. We all want to say that we are a nation and we want to vote to express ourselves,"" Desire Carbonell told euronews.
+
+""We want independence and above all we want to vote in November,"" added Sigrid Tor…
+READ MORE : http://www.euronews.com/2014/09/11/thousands-rally-in-support-of-catalan-independence-campaign
+
+What is in the news today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeLGPTLVZMp8kczDH7_5Ni
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain', 'National Day'",PT1M21S,81,2
+SmhiXnRtTVg,United Kingdom,Organization,NONE,NONE,0.329268,neutral,0.0,0.403825,0.131639,0.280342,0.24614899999999998,0.06636,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,NONE,0.9746,0.038,0.163,0.799,-0.11474358974358975,0.29512820512820515,positive,0.360629,0.130268,0.444259,0.627832,0.157646,0.449048,0.0,2.200000047683716,Catalonia Independence,2014-09-11T21:06:08.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Thousands rally in support of Catalan independence campaign,"An estimated half a million people packed the streets of Barcelona on Thursday to call for Catalonia to be separated from Spain.
+
+The demonstration, marked Catalan National Day, the Diada. It was also a show of force in support of a independence referendum in November.
+
+""This is a very emotional day. We all want to say that we are a nation and we want to vote to express ourselves,"" Desire Carbonell told euronews.
+
+""We want independence and above all we want to vote in November,"" added Sigrid Tor…
+READ MORE : http://www.euronews.com/2014/09/11/thousands-rally-in-support-of-catalan-independence-campaign
+
+What is in the news today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeLGPTLVZMp8kczDH7_5Ni
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain', 'National Day'",PT1M21S,81,2

@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zZqshd4STxE,Abruzzo,Person,NONE,NONE,0.555585,neutral,0.0,0.301561,0.174572,0.105995,0.10978900000000001,0.151773,1,1,Abruzzo,Abruzzo,Abruzzo,Abruzzo,abruzzo,abruzzo,abruzzo,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Alpha Barcelona,Company,NONE,NONE,0.6184569999999999,neutral,0.0,0.11150999999999996,0.094654,0.15128,0.076602,0.09792100000000001,1,1,Alpha Barcelona,Alpha Barcelona,Alpha Barcelona,Alpha Barcelona,alpha barcelona,alpha barcelona,alph barcelon,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,CEO,JobTitle,NONE,NONE,0.606798,neutral,0.0,0.184636,0.10643699999999999,0.07805,0.047673,0.040428,1,1,CEO,ceo,ceo,ceo,ceo,ceo,ceo,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Catalonia,Location,City,NONE,0.564954,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,De La Forza,Location,City,NONE,0.678231,neutral,0.0,0.301561,0.174572,0.105995,0.10978900000000001,0.151773,1,1,De La Forza,De La Forza,De La Forza,De La Forza,De La forza,de la forza,de la forz,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Ilona,Person,NONE,NONE,0.657209,neutral,0.0,0.184636,0.10643699999999999,0.07805,0.047673,0.040428,1,1,Ilona,Ilona,Ilona,Ilona,ilona,ilona,ilon,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Loudred Albert,Person,NONE,NONE,0.539401,neutral,0.0,0.301561,0.174572,0.105995,0.10978900000000001,0.151773,1,1,Loudred Albert,Loudred Albert,Loudred Albert,Loudred Albert,loudr albert,loudr albert,loudr albert,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Marsa Alam Tara,Facility,NONE,NONE,0.753324,neutral,0.0,0.261356,0.274304,0.232364,0.123921,0.07725499999999999,1,1,Marsa Alam Tara,Marsa Alam Tara,Marsa Alam Tara,Marsa Alam Tara,marsa alam tara,marsa alam tara,mars alam tar,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Pablo de Catalunya,Facility,NONE,NONE,0.794775,positive,0.46475,0.089038,0.054664,0.769258,0.06697,0.036338999999999996,1,1,Pablo de Catalunya,Pablo de Catalunya,Pablo de Catalunya,Pablo de Catalunya,pablo de catalunya,pablo de catalunya,pablo de cataluny,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Park National City,Facility,NONE,NONE,0.581296,negative,-0.302005,0.171765,0.20496799999999998,0.313238,0.23703400000000002,0.25100900000000004,1,1,Park National City,Park National City,Park National City,Park National City,park nation citi,park nation citi,park nat city,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Posada Parma,Location,City,NONE,0.6350020000000001,neutral,0.0,0.261356,0.274304,0.232364,0.123921,0.07725499999999999,1,1,Posada Parma,Posada Parma,Posada Parma,Posada Parma,posada parma,posada parma,posad parm,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Ron,Person,NONE,NONE,0.475077,neutral,0.0,0.261356,0.274304,0.232364,0.123921,0.07725499999999999,1,1,Ron,Ron,Ron,Ron,ron,ron,ron,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Selenia,Person,NONE,NONE,0.620891,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Selenia,Selenia,Selenia,Selenia,selenia,selenia,selen,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3
+zZqshd4STxE,Victoria,Location,City,NONE,0.519546,neutral,0.0,0.11076300000000001,0.088072,0.511655,0.320641,0.025664999999999997,1,1,Victoria,Victoria,Victoria,Victoria,victoria,victoria,victor,NONE,0.6249,0.046,0.079,0.875,0.04518925518925519,0.4896947496947497,positive,0.631033,0.122169,0.530939,0.428888,0.166052,0.148552,0.10000000149011612,3.4000000953674316,Catalonia Independence,2017-10-02T23:47:03.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: FC Barcelona to join Catalonia's independence strike - FC Barcelona President,"President of FC Barcelona Josep Maria Bartomeu announced that FC Barcelona will join Wednesday's strike to demonstrate against the Spanish government's actions in Catalonia's independence vote, at a press conference in Barcelona, Monday.
+
+Video ID: 20171002-076
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Josep Maria Bartomeu', 'Bartomeu', 'FC Barcelona', 'Barca', 'Catalonia', 'Catalunya', 'independence', 'independencia', 'referendum', 'press conference', 'prensa', 'vaga general', 'greve', 'huelga', 'huelga general'",PT2M7S,127,3

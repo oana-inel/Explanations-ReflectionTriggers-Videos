@@ -1,0 +1,181 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gxxrd88-674,44%,Quantity,NONE,NONE,0.10903399999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,44 %,44 %,44 %,44 %,44 %,44 %,44 %,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,450 million pounds,Quantity,NONE,NONE,0.10903399999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,450 million pound,450 million pound,450 million pound,450 mil pound,450 million pound,450 million pound,450 mil pound,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,America,Location,Continent,NONE,0.270685,negative,-0.29702199999999995,0.36542800000000003,0.11168900000000001,0.215491,0.083113,0.097275,13,1,America,America,America,America,america,america,americ,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,American Goods France,Company,NONE,NONE,0.15729,positive,0.531762,0.134218,0.034776,0.415159,0.12132899999999999,0.062739,1,1,American Goods France,american Goods France,american Goods France,am Goods France,american good franc,american good franc,am good frant,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Australia,Location,"GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Australia,0.14538,positive,0.4836,0.08862300000000001,0.035213,0.553458,0.097675,0.08003500000000001,3,1,Australia,Australia,Australia,Australia,australia,australia,austral,http://en.wikipedia.org/wiki/Australia,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Customs Union,Organization,NONE,NONE,0.201217,positive,0.121669,0.190951,0.030275999999999997,0.496338,0.036237,0.23079899999999998,4,1,Customs Union,Customs Union,Customs Union,Customs Union,custom union,custom union,custom un,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,EU,Location,Country,NONE,0.172664,neutral,0.0,0.5738880000000001,0.21489,0.142022,0.094837,0.165158,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.372897,negative,-0.517171,0.5738880000000001,0.21489,0.142022,0.094837,0.165158,9,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,EU Customs Union,Organization,NONE,NONE,0.206025,negative,-0.29638000000000003,0.367823,0.16226,0.212302,0.037626,0.062794,1,1,EU Customs Union,EU Customs Union,EU Customs Union,EU Customs Union,EU custom union,eu custom union,eu custom un,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.134878,neutral,0.0,0.567924,0.125431,0.09994600000000001,0.299094,0.136692,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,European free trade Association,Organization,NONE,NONE,0.259229,neutral,0.0,0.518932,0.126999,0.06821,0.332436,0.13800199999999999,1,1,European free trade Association,European free trade Association,European free trade Association,European fre trad Association,european free trade associ,european free trade associ,europ fre trad assocy,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.155584,positive,0.387276,0.3015,0.081568,0.190573,0.11150299999999999,0.364576,2,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Iceland,Location,"GeographicFeature, AdministrativeDivision, GovernmentalJurisdiction, Island, Country",http://dbpedia.org/resource/Iceland,0.10903399999999999,neutral,0.0,0.184325,0.115777,0.058043,0.015341999999999996,0.06981,1,1,Iceland,Iceland,Iceland,Iceland,iceland,iceland,iceland,http://en.wikipedia.org/wiki/Iceland,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Norway Switzerland Liechtenstein,Company,NONE,NONE,0.11141199999999997,neutral,0.0,0.184325,0.115777,0.058043,0.015341999999999996,0.06981,1,1,Norway Switzerland Liechtenstein,Norway Switzerland Liechtenstein,Norway Switzerland Liechtenstein,Norway Switzerland Liechtenstein,norway switzerland liechtenstein,norway switzerland liechtenstein,norway switzerland liechtenstein,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.176905,positive,0.28183400000000003,0.462398,0.17925,0.140587,0.169752,0.048777999999999995,4,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,UK,Location,Country,NONE,0.14649600000000002,negative,-0.643149,0.57097,0.127977,0.0982,0.08236399999999999,0.26361599999999996,1,1,UK,UK,UK,UK,UK,uk,uk,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.115043,neutral,0.0,0.067111,0.028558999999999998,0.440381,0.094153,0.231057,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4
+gxxrd88-674,trillion pounds,Quantity,NONE,NONE,0.10903399999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,trillion pound,trillion pound,trillion pound,tril pound,trillion pound,trillion pound,tril pound,NONE,0.9978,0.028,0.145,0.8270000000000001,0.1787445447506424,0.4987534315278216,positive,0.384422,0.12879300000000002,0.503689,0.502225,0.119722,0.096573,0.10000000149011612,4.800000190734863,Free Trade,2017-07-24T22:30:08.000Z,UCSMqateX8OA2s1wsOR2EgJA,European Free Trade Area - Explaining Brexit,"With the UK about to leave the EU many options lie in front of Britain. One choice is to stay in the European Free Trade Area. Doing this means Britain can continue to trade with the EU without having to follow quite a many rules. However, is this really the best option for the UK?
+
+Brexit Explained Playlist: goo.gl/8VNcEi
+
+EU Single Market Explained: https://goo.gl/eRLvoY
+EU Customs Union Explained: https://goo.gl/UKjjjd
+EU Free Trade Area Explained: https://goo.gl/ZbukzP
+Hard Brexit Explained: https://goo.gl/FaLjvD
+
+Like Us On Facebook: https://www.facebook.com/TLDRnewsUK",TLDR News,"brexit', 'european', 'union', 'eu', 'free', 'trade', 'area', 'agreement', 'what', 'is', 'who', 'countries', 'tariff', 'quota', 'taxes', 'tax', 'import', 'export', 'united', 'kingdom', 'england', 'politics', 'economics', 'economy', 'theresa', 'may', 'exit', 'leave', 'news', 'current', 'update', 'options', 'choice', 'david', 'davis', 'negotiation', 'after', 'post', 'open', 'borders', 'european free trade association', 'free trade area', 'european free trade area', 'uk'",PT3M30S,210,4

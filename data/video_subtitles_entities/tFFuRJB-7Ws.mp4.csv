@@ -1,0 +1,1251 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tFFuRJB-7Ws,11.4%,Quantity,NONE,NONE,0.133718,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,11.4 %,11.4 %,11.4 %,11.4 %,11.4 %,11.4 %,11.4 %,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.257764,negative,-0.732215,0.043079,0.743893,0.062143,0.331786,0.054969000000000004,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Belgium,Location,"HumanLanguage, Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Belgium,0.145077,neutral,0.0,0.204452,0.325894,0.125191,0.024472999999999998,0.071894,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,http://en.wikipedia.org/wiki/Belgium,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Catalonia,Location,City,NONE,0.87844,negative,-0.5729989999999999,0.520242,0.160357,0.12934600000000002,0.161136,0.08831,15,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Catalonia of Catalonia,Facility,NONE,NONE,0.512366,neutral,0.0,0.104414,0.301186,0.27961199999999997,0.13958299999999998,0.117672,1,1,Catalonia of Catalonia,Catalonia of Catalonia,Catalonia of Catalonia,Catalonia of Catalonia,catalonia of catalonia,catalonia of catalonia,catalon of catalon,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Catalonia's Federation,Organization,NONE,NONE,0.289985,negative,-0.371037,0.296458,0.212493,0.111411,0.103254,0.260757,1,1,Catalonia 's Federation,Catalonia 's Federation,Catalonia 's Federation,Catalonia 's Federation,catalonia 's feder,catalonia 's feder,catalon 's fed,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Delphia Rhode Island,GeographicFeature,NONE,NONE,0.17369,negative,-0.409489,0.32827,0.073594,0.048983,0.22405,0.13172799999999998,1,1,Delphia Rhode Island,Delphia Rhode Island,Delphia Rhode Island,Delphia Rhode Island,delphia rhode island,delphia rhode island,delph rhod island,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.173098,neutral,0.0,0.204452,0.325894,0.125191,0.024472999999999998,0.071894,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.360228,negative,-0.673875,0.588828,0.12279300000000001,0.11428699999999999,0.112298,0.138413,7,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Hemos tenido,Person,NONE,NONE,0.166506,neutral,0.0,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,Hemos tenido,Hemos tenido,Hemos tenido,Hemos tenido,hemo tenido,hemo tenido,hemo tenido,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Independence for Catalonia,Organization,NONE,NONE,0.49257799999999996,neutral,0.0,0.06078500000000001,0.23956999999999998,0.434737,0.272754,0.082182,1,1,Independence for Catalonia,Independence for Catalonia,Independence for Catalonia,Independence for Catalonia,independ for catalonia,independ for catalonia,independ for catalon,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.186328,negative,-0.7335689999999999,0.37654299999999996,0.395106,0.034288,0.345527,0.197479,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Matthew,Person,NONE,NONE,0.164854,negative,-0.806462,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Matthew,Matthew,Matthew,Matthew,matthew,matthew,matthew,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,National Emergency,Facility,NONE,NONE,0.16403099999999998,neutral,0.0,0.43668199999999996,0.155927,0.065084,0.061499,0.059026,1,1,National Emergency,National Emergency,National Emergency,National Emergency,nation emerg,nation emerg,nat emerg,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,San Pedro de toriello,Location,City,NONE,0.180588,neutral,0.0,0.378452,0.09278,0.418127,0.020895,0.06241,1,1,San Pedro de toriello,San Pedro de toriello,San Pedro de toriello,San Pedro de toriello,san pedro de toriello,san pedro de toriello,san pedro de toriello,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.151862,neutral,0.0,0.204452,0.325894,0.125191,0.024472999999999998,0.071894,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.39962600000000004,negative,-0.599699,0.295921,0.653289,0.132802,0.46917200000000003,0.536139,8,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,Town Hall,Facility,"Location, Building",http://dbpedia.org/resource/The_Town_Hall,0.22849,neutral,0.0,0.090478,0.12471099999999999,0.321687,0.5351100000000001,0.043557,2,1,Town Hall,Town Hall,Town Hall,Town Hall,town hall,town hall,town hal,http://en.wikipedia.org/wiki/The_Town_Hall,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,chief Economist,JobTitle,NONE,NONE,0.160633,negative,-0.371037,0.296458,0.212493,0.111411,0.103254,0.260757,1,1,chief Economist,chief Economist,chief Economist,chief Economist,chief economist,chief economist,chief econom,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,eight percent,Quantity,NONE,NONE,0.133718,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eight percent,eight percent,eight percent,eight perc,eight percent,eight percent,eight perc,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,five percent,Quantity,NONE,NONE,0.133718,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five percent,five percent,five percent,fiv perc,five percent,five percent,fiv perc,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,president,JobTitle,NONE,NONE,0.15674000000000002,neutral,0.0,0.47690299999999997,0.237418,0.031804,0.280888,0.11317200000000001,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,producer,JobTitle,NONE,NONE,0.133718,negative,-0.562027,0.399002,0.15168900000000002,0.182359,0.431483,0.068992,1,1,producer,produc,produc,produc,produc,produc,produc,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,publisher,JobTitle,NONE,NONE,0.16233399999999998,negative,-0.433083,0.101903,0.103947,0.327916,0.137489,0.19924,1,1,publisher,publish,publish,publ,publish,publish,publ,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9
+tFFuRJB-7Ws,re-bond,Location,City,NONE,0.146123,positive,0.659736,0.004575,0.062901,0.5301060000000001,0.08433500000000001,0.059137999999999996,1,1,re-bond,re-bond,re-bond,re-bond,re-bond,re-bond,re-bond,NONE,0.7171,0.087,0.097,0.8170000000000001,0.0218866433192276,0.37265873015873024,negative,-0.497595,0.099856,0.512278,0.545564,0.16295,0.14232999999999998,0.0,18.799999237060547,Catalonia Independence,2012-11-16T13:30:05.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,euronews reporter - Catalonia rises on a wave of independence,"http://www.euronews.com/ ""I am part of Catalan culture, and it is very important to me.""
+
+""We have a very open way of seeing the world. For many years the Catalan culture was undermined, I feel that if we do not fight for it, that will happen again, we will lose our way of seeing the world.""
+  
+The views of two young people who are members of a band rehearsing for a concert to promote independence for Catalonia.
+
+  
+It's a theme that brought a million and a half people on to the streets of Barcelona, ​​the capital of the autonomous region of Spain, during the Diada, the National Day of Catalonia last September.
+  
+Initiatives are springing up everywhere in the separatist region. The village of Sant Pere de Torello, became famous by declaring itself an independent Catalan territory.
+
+The pediment of the town hall has for a year and a half been flying the Catalan independence flag, but not the Spanish one.
+
+
+""Currently, there are 180 town halls that have the flag of independence flying permanently from their balconies,"" explained the mayor of the village, Jordi Fabrega Colome.
+
+Separatists decry the state system of fiscal redistribution, including public spending in Catalonia which is well below the taxes they pay.
+  
+""We live in a state of national emergency, with an unemployment rate of 22.5 percent of the population here. Catalonia pays 16 billion euros annually to the state, which does not amount to any form of services or investment in Catalonia. We have to have this showdown with the Spanish government,"" added the mayor of the village.
+  
+Catalonia is among the richest regions in Spain, and it pays the equivalent of eight percent of GDP to the state.
+   
+It is also one of the most indebted. Failure to negotiate an agreement with the Spanish government to give Catalonia fiscal sovereignty, has led the president of the Regional Government, Artur Mas, to call for early elections and a referendum on independence.
+  
+That would require reform of the Spanish Constitution, which does not permit independence,  and of course steps to obtain international recognition.
+
+
+""If Catalonia gets independence, it will be a state outside the European Union, and will have to apply for entry into the EU. To gain admission, provided that no member state objects, will require a very long process,"" points out Francesc de Carreras Serra, Professor of constitutional law at the Autonomous University of Catalonia. Economist Oriol Amat believes it is a theoretical question.
+  
+""I can't imagine that the EU wants to keep out a state that brings money into the European Union and is very pro European Union and in which the EU has invested heavily in the past.""
+  
+It's a question which not least concerns some Catalan businesses who fear the effect of a possible exit from the euro, and especially a deterioration in trade relations with Spain.
+  
+Some large companies have threatened to move their headquarters from Barcelona, ​​if there was independence. None of those euronews contacted agreed to talk. Only this small publisher opened the door to us.  
+
+Javier Baratech, general manager Rondas  said, ""About 80 percent of the billing and the company's sales are in the rest of Spain. We would at least in the short term lose all those customers, and that would very quickly force the business to close. Trading outside Spain, and the European Union, our products would be taxed. Moreover, our customers tell us that if Catalonia became independent, they would look for other suppliers, in their own country.""
+  
+One family business is not concerned about economic nationalism. The company is riding on the wave of independence. Its, ""signature"" product is the Catalan flag of independence.
+
+""We have seen a fairly strong increase in sales. Every year, we produce large stocks, but this year was a record. There are people who were queuing outside the company to buy the independence flag,"" Laura Fenoy the General Manager of Estampser told euronews.
+  
+Beyond niche markets,  will the Catalan, ""label""   be able to cope with the political uncertainties which generate the debate on independence?
+
+Tourism, a pillar of the Catalan economy, fears neither boycott nor the loss of capital as Marian Muro i Ollé, Director General for tourism explained.
+
+
+Find us on:  
+Youtube http://bit.ly/zr3upY 
+Facebook http://www.facebook.com/euronews.fans
+Twitter http://twitter.com/euronews",euronews (in English),"euronews', 'reporter', 'Independence', 'Spain', 'Referendum'",PT8M43S,523,9

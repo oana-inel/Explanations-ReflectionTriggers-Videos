@@ -1,0 +1,181 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ABT99iP3L-g,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.8381959999999999,positive,0.111705,0.182868,0.050179,0.5604210000000001,0.181051,0.101659,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Belgium,Location,Country,NONE,0.38929,neutral,0.0,0.411166,0.22850399999999998,0.035026999999999996,0.199648,0.099106,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Catalonia,Location,City,NONE,0.713537,positive,0.163425,0.192443,0.07170599999999999,0.34889499999999996,0.250297,0.24036,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Catalunya,Location,City,NONE,0.627311,positive,0.693404,0.130147,0.071461,0.7306739999999999,0.108678,0.006901000000000001,2,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Central Square,Facility,NONE,NONE,0.466105,neutral,0.0,0.23550900000000002,0.039488999999999996,0.496845,0.23035,0.090924,1,1,Central Square,Central Square,Central Square,Central Square,central squar,central squar,cent squ,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Chargers,Organization,"SportsTeam, FootballTeam, ProfessionalSportsTeam",http://dbpedia.org/resource/San_Diego_Chargers,0.618358,negative,-0.171745,0.42141300000000004,0.07207999999999999,0.11021099999999999,0.273999,0.206136,4,1,Chargers,Chargers,Chargers,Chargers,charger,charger,charg,http://en.wikipedia.org/wiki/San_Diego_Chargers,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,City Hall,Facility,NONE,NONE,0.410954,neutral,0.0,0.23550900000000002,0.039488999999999996,0.496845,0.23035,0.090924,1,1,City Hall,City Hall,City Hall,City Hall,citi hall,citi hall,city hal,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Jeremy,Person,NONE,NONE,0.500509,positive,0.695735,0.133826,0.132965,0.614681,0.039309,0.044844999999999996,2,1,Jeremy,Jeremy,Jeremy,Jeremy,jeremi,jeremi,jeremy,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.708444,negative,-0.5688300000000001,0.255999,0.078789,0.467321,0.198888,0.088362,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Madrid Government,Organization,NONE,NONE,0.731338,neutral,0.0,0.23326100000000002,0.027606,0.31813800000000003,0.427878,0.14364200000000002,2,1,Madrid Government,Madrid Government,Madrid Government,Madrid Government,madrid govern,madrid govern,madrid govern,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Mans Party,Organization,NONE,NONE,0.44283599999999995,negative,-0.6543439999999999,0.167501,0.12084,0.298631,0.17063499999999998,0.30884,1,1,Mans Party,Mans Party,Mans Party,Mans Party,man parti,man parti,man party,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Market Square,Facility,NONE,NONE,0.401044,neutral,0.0,0.23550900000000002,0.039488999999999996,0.496845,0.23035,0.090924,1,1,Market Square,Market Square,Market Square,Market Square,market squar,market squar,market squ,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Mr. Poojah,Person,NONE,NONE,0.402514,neutral,0.0,0.114023,0.08684299999999999,0.142513,0.053610000000000005,0.22381500000000001,1,1,Mr. Poojah,Mr. Poojah,Mr. Poojah,Mr. Poojah,mr. poojah,mr. poojah,mr. poojah,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Plaza San Jame,Facility,NONE,NONE,0.437146,neutral,0.0,0.23550900000000002,0.039488999999999996,0.496845,0.23035,0.090924,1,1,Plaza San Jame,Plaza San Jame,Plaza San Jame,Plaza San Jame,plaza san jame,plaza san jame,plaz san jam,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,Raquel,Person,NONE,NONE,0.545864,negative,-0.666797,0.16636099999999998,0.038651,0.035475,0.47516899999999995,0.22753,3,1,Raquel,Raquel,Raquel,Raquel,raquel,raquel,raquel,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,general attorney,JobTitle,NONE,NONE,0.37255,negative,-0.44452200000000003,0.427071,0.099646,0.042671,0.462712,0.191022,1,1,general attorney,gener attorney,general attorney,gen attorney,gener attorney,general attorney,gen attorney,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,generalitat de Catalunya,Location,City,NONE,0.5280779999999999,neutral,0.0,0.23550900000000002,0.039488999999999996,0.496845,0.23035,0.090924,1,1,generalitat de Catalunya,generalitat de Catalunya,generalitat de Catalunya,generalit de Catalunya,generalitat de catalunya,generalitat de catalunya,generalit de cataluny,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,menthe,Location,City,NONE,0.4417180000000001,neutral,0.0,0.246667,0.10328399999999999,0.656799,0.016424,0.008468,1,1,menthe,menth,menth,menth,menth,menth,menth,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,president,JobTitle,NONE,NONE,0.8351770000000001,positive,0.17440799999999998,0.43226000000000003,0.078528,0.161705,0.21814699999999998,0.2794,4,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6
+ABT99iP3L-g,prosecutor,JobTitle,NONE,NONE,0.398762,negative,-0.518608,0.262612,0.144596,0.152972,0.378787,0.185721,1,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,-0.8757,0.08800000000000001,0.076,0.836,0.10720646312751576,0.4734123819650134,negative,-0.534883,0.137378,0.555578,0.5509270000000001,0.185925,0.134765,-0.10000000149011612,12.199999809265135,Catalonia Independence,2017-10-31T01:26:43.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalan independence: where is President Puigdemont? - BBC Newsnight,"Emily Maitlis reports from Barcelona as the Spanish central government takes direct control of Catalonia following the declaration of independence by the Catalan government.  
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalan government', 'Catalonian independence', 'Catalonia', 'Barcelona', 'Spain', 'Madrid', 'independence', 'Carles Puigdemont'",PT5M13S,313,6

@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+N6gJBBTOIoA,40%,Quantity,NONE,NONE,0.20072,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 %,40 %,40 %,40 %,40 %,40 %,40 %,NONE,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,50 years,Quantity,NONE,NONE,0.20072,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,90 days,Quantity,NONE,NONE,0.20072,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 day,90 day,90 day,90 day,90 day,90 day,90 day,NONE,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,America,Location,Continent,NONE,0.409519,positive,0.333149,0.277796,0.01348,0.43783999999999995,0.303193,0.054294000000000016,5,1,America,America,America,America,america,america,americ,NONE,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,Colombia,Location,Country,http://dbpedia.org/resource/Colombia,0.912442,positive,0.172131,0.19684200000000002,0.07596900000000001,0.5324,0.20161300000000001,0.520884,8,1,Colombia,Colombia,Colombia,Colombia,colombia,colombia,colomb,http://en.wikipedia.org/wiki/Colombia,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.362643,positive,0.403536,0.092735,0.016463,0.654827,0.15598599999999999,0.145405,4,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,Hugo Chavez,Person,"Politician, President, FilmActor",http://dbpedia.org/resource/Hugo_Chávez,0.288955,neutral,0.0,0.153035,0.105573,0.532497,0.222687,0.088559,2,1,Hugo Chavez,Hugo Chavez,Hugo Chavez,Hugo Chavez,hugo chavez,hugo chavez,hugo chavez,http://en.wikipedia.org/wiki/Hugo_Chávez,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,South America,Location,Continent,http://dbpedia.org/resource/South_America,0.29520100000000005,neutral,0.0,0.153035,0.105573,0.532497,0.222687,0.088559,2,1,South America,South America,South America,South America,south america,south america,sou americ,http://en.wikipedia.org/wiki/South_America,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.475243,negative,-0.5068520000000001,0.10391800000000001,0.044594999999999996,0.612432,0.11362,0.22133200000000008,7,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2
+N6gJBBTOIoA,president,JobTitle,NONE,NONE,0.20072,neutral,0.0,0.278005,0.04397,0.18903599999999998,0.261223,0.406236,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9978,0.03,0.278,0.691,0.26038961038961034,0.4762987012987013,positive,0.619844,0.479235,0.545087,0.239085,0.08481799999999999,0.1491,0.10000000149011612,3.5,Free Trade,2008-04-15T16:22:31.000Z,UC5bEfSFTYQVfLCwkhBt8NtQ,Why the Colombia Free Trade Agreement Will Benefit America,"Three reasons the Colombia Free Trade Agreement will benefit America:
+
+1) Grow the U.S. economy by opening up a market of 40 million people in Colombia to buy U.S. goods and services.
+
+2) Create U.S. jobs when American businesses expand to capitalize on the demand from Colombia's growing population.
+
+3) Protect America by securing an alliance with our strongest ally in South America and stopping the spread of Hugo Chavez's socialism.
+
+http://www.heritage.org/Research/LatinAmerica/wm1890.cfm",The Heritage Foundation,"colombia', 'free', 'trade', 'agreement', 'hugo', 'chavez', 'venezuela', 'economy', 'jobs', 'america', 'nancy', 'pelosi', 'congress', 'jim', 'roberts', 'heritage', 'fou'",PT1M50S,110,2

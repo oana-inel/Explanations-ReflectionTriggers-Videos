@@ -1,0 +1,190 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+TbYjyoIkb2U,Arabella,Person,NONE,NONE,0.707763,neutral,0.0,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,Arabella,Arabella,Arabella,Arabella,arabella,arabella,arabell,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Donna,Person,NONE,NONE,0.642368,neutral,0.0,0.045420999999999996,0.269487,0.066063,0.303695,0.046151,1,1,Donna,Donna,Donna,Donna,donna,donna,donn,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Foundation Deja,Company,NONE,NONE,0.720539,negative,-0.340514,0.025225,0.033317,0.6985279999999999,0.073365,0.055498,1,1,Foundation Deja,Foundation Deja,Foundation Deja,Foundation Deja,foundat deja,foundat deja,found dej,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Lebanon,Location,City,NONE,0.678204,neutral,0.0,0.107886,0.11498,0.10673900000000001,0.09615499999999999,0.07019500000000001,1,1,Lebanon,Lebanon,Lebanon,Lebanon,lebanon,lebanon,lebanon,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Malaysia,Location,Country,NONE,0.6383489999999999,neutral,0.0,0.335123,0.203464,0.06497,0.45013400000000003,0.244348,1,1,Malaysia,Malaysia,Malaysia,Malaysia,malaysia,malaysia,malays,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,NASA,Organization,"Company, GovernmentAgency, AirportOperator, AwardPresentingOrganization, SoftwareDeveloper, SpaceAgency, SpacecraftManufacturer",http://dbpedia.org/resource/NASA,0.673413,neutral,0.0,0.335123,0.203464,0.06497,0.45013400000000003,0.244348,1,1,NASA,NASA,NASA,NASA,nasa,nasa,nas,http://en.wikipedia.org/wiki/NASA,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Paula Deen,Person,"AwardWinner, Chef, TVPersonality, FilmActor, TVActor",http://dbpedia.org/resource/Paula_Deen,0.744525,negative,-0.497625,0.20216900000000002,0.026442,0.621939,0.006382,0.07456,1,1,Paula Deen,Paula Deen,Paula Deen,Paula Deen,paula deen,paula deen,paul deen,http://en.wikipedia.org/wiki/Paula_Deen,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Sabella,Company,NONE,NONE,0.71287,neutral,0.0,0.28773699999999997,0.10519200000000001,0.490835,0.030782999999999998,0.02164,1,1,Sabella,Sabella,Sabella,Sabella,sabella,sabella,sabell,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10
+TbYjyoIkb2U,Social Security Authority,Organization,NONE,NONE,0.681417,positive,0.800618,0.22287300000000002,0.221102,0.155063,0.084226,0.357333,1,1,Social Security Authority,Social Security Authority,Social Security Authority,Social Security Authority,social secur author,social secur author,soc sec auth,NONE,0.9333,0.08,0.124,0.7959999999999999,0.17735227272727275,0.391625,negative,-0.340882,0.109953,0.544072,0.17833800000000002,0.139496,0.118378,0.0,7.5,Vaccination,2017-12-20T17:00:03.000Z,UCOchT7ZJ4TXe3stdLW1Sfxw,9 BULLSHITS SUR LES VACCINS [MYTHOBUSTER],"Vous vous posez des questions sur les vaccins ? Normal. Mais attention, il y a beaucoup de fausses infos qui circulent. On fait le tri.
+Vidéo réalisée en partenariat avec le ministère des Solidarités et de la Santé.
+La vidéo de e-penser sur la vaccination: https://www.youtube.com/watch?v=7ure01NtDBs
+Rejoignez-moi sur Facebook ► https://facebook.com/DansTonCorpsDTC
+Twitter ► https://twitter.com/jmnl
+Générique: Waxx
+► https://www.YouTube.com/Waxx
+Cadre, montage et effets: Romain Vitiello
+Auteur, comédien, réal: Julien Ménielle
+Quelques sources:
+Vaccin et autisme: http://www.bmj.com/content/342/bmj.c5347
+Vaccin et sclérose en plaques: http://www.who.int/vaccine_safety/committee/reports/wer7747.pdf?ua=1
+Vaccin et aluminium: http://ansm.sante.fr/S-informer/Communiques-Communiques-Points-presse/Les-vaccins-contenant-de-l-aluminium-sont-surs-Communique
+En savoir plus:
+http://www.who.int/topics/vaccines/fr/
+https://www.unicef.org/french/immunization/
+D'autres vidéos sur le sujet:
+La tronche en biais https://www.youtube.com/watch?v=IGh663zSdgw
+WhyDoc https://www.youtube.com/watch?v=TXltQGFqNgQ
+Asclépios https://www.youtube.com/watch?v=YBKxH0oPKEw
+Un peu pointu https://www.youtube.com/watch?v=msnP5I3n3HE",Dans Ton Corps,"dans ton corps', 'dtc', 'julien menielle', 'vaccins', 'vaccination', 'aluminium', 'bullshit', 'mythobuster', 'sante', 'danger'",PT9M10S,550,10

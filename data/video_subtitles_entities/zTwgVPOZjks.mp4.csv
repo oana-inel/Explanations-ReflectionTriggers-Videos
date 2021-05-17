@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zTwgVPOZjks,25 years,Quantity,NONE,NONE,0.157055,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,55-year,Quantity,NONE,NONE,0.157055,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,55-year,55-year,55-year,55-year,55-year,55-year,55-year,NONE,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,Berkshire Hathaway,Company,CompanyShareholder,http://dbpedia.org/resource/Berkshire_Hathaway,0.21679400000000001,negative,-0.374118,0.312413,0.091994,0.208076,0.061765999999999995,0.327927,1,1,Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,berkshir hathaway,berkshir hathaway,berkshir hathaway,http://en.wikipedia.org/wiki/Berkshire_Hathaway,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,CNBC,Company,NONE,NONE,0.22200599999999998,positive,0.188094,0.095612,0.03803,0.588013,0.034848000000000004,0.043656,2,1,CNBC,CNBC,CNBC,CNBC,cnbc,cnbc,cnbc,NONE,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,New Bedford,Location,City,NONE,0.180341,negative,-0.374118,0.312413,0.091994,0.208076,0.061765999999999995,0.327927,1,1,New Bedford,New Bedford,New Bedford,New Bedford,new bedford,new bedford,new bedford,NONE,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.23608800000000002,positive,0.458035,0.086359,0.007994,0.821836,0.034484,0.022713999999999998,2,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.157055,positive,0.8560639999999999,0.033202999999999996,0.016124,0.40015,0.017171000000000002,0.018101,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3
+zTwgVPOZjks,rich Society,Organization,NONE,NONE,0.192544,positive,0.726584,0.393494,0.047838,0.366081,0.101462,0.136825,1,1,rich Society,rich Society,rich Society,rich Society,rich societi,rich societi,rich socy,NONE,0.9975,0.078,0.211,0.71,0.2211174242424243,0.6620580808080809,positive,0.5041939999999999,0.139475,0.654935,0.563666,0.06458,0.1005,0.0,4.699999809265137,Free Trade,2017-02-27T16:36:26.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Warren Buffett: Free Trade Is Wonderful But The Penalties Are Terrible | Squawk Box | CNBC,"Warren Buffett talks about the benefits of free trade and how it impacts consumers and employees.
+For more of Warren Buffett's wit and wisdom visit https://Buffett.CNBC.com
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+(FULL VIDEO TITLE)",CNBC,"Squawk Box', 'CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'cable', 'cable news', 'finance news', 'money', 'money tips', 'Warren Buffett', 'airlines', 'chunk of Apple', 'Apple stocks', 'Tim Cook', 'politics', 'investments', 'US security', 'US safety', 'Donald Trump', 'free trade', 'trade policy', 'NAFTA', 'TPP', 'penalties', 'self driving cars', 'AI', 'auto insurance'",PT2M28S,148,3

@@ -1,0 +1,190 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gN21PEIv4Vo,Atlantic,Location,Region,NONE,0.33258499999999996,positive,0.619316,0.230043,0.027141000000000002,0.621362,0.093086,0.048639,1,1,Atlantic,Atlantic,Atlantic,Atlantic,atlant,atlant,atl,NONE,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,Barack Obama,Person,"Politician, President, Appointer, AwardWinner, Celebrity, PoliticalAppointer, U.S.Congressperson, USPresident, TVActor",http://dbpedia.org/resource/Barack_Obama,0.567421,neutral,0.0,0.348597,0.104499,0.13808800000000002,0.32204699999999997,0.29836399999999996,2,1,Barack Obama,Barack Obama,Barack Obama,Barack Obama,barack obama,barack obama,barack obam,http://en.wikipedia.org/wiki/Barack_Obama,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.354042,neutral,0.0,0.400148,0.113968,0.11212000000000001,0.31343899999999997,0.2482800000000001,1,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.8764040000000001,positive,0.619316,0.269489,0.018032,0.590992,0.10896700000000001,0.065131,3,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,European commission,Organization,NONE,NONE,0.505796,positive,0.566997,0.304674,0.115196,0.4777810000000001,0.031620999999999996,0.05128200000000002,2,1,European commission,european commiss,european commiss,europ commit,european commiss,european commiss,europ commit,NONE,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,President,JobTitle,NONE,NONE,0.33308499999999996,neutral,0.0,0.400148,0.113968,0.11212000000000001,0.31343899999999997,0.2482800000000001,1,1,President,President,President,President,presid,presid,presid,NONE,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.6841079999999999,positive,0.818662,0.30685300000000004,0.08627699999999999,0.415555,0.14172300000000002,0.193823,5,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,executive,JobTitle,NONE,NONE,0.28559,positive,0.818662,0.17489200000000002,0.201679,0.525786,0.017192,0.027081,1,1,executive,execut,execut,execut,execut,execut,execut,NONE,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2
+gN21PEIv4Vo,two years,Quantity,NONE,NONE,0.28559,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,0.9857,0.0,0.147,0.853,0.1765412748171369,0.4076280041797284,positive,0.758209,0.098091,0.657552,0.219481,0.062695,0.083867,0.5,3.0,Free Trade,2013-02-13T14:53:49.000Z,UCDCgvwyjJqZWYs6j0D2FF6g,Obama calls for US-EU free trade agreement,"US President Barack Obama has called for talks on a far-reaching free trade deal with the European Union. 
+
+Delivering his annual 'State of the Union' speech in the US Congress on Tuesday, Obama supported a bilateral agreement that would encompass half the world's economic output.
+
+""Tonight I am announcing that we will launch talks on a comprehensive Transatlantic Trade and Investment Partnership with the European Union because trade that is free and fair across the Atlantic supports millions of good-paying American jobs."" said US President Barak Obama.
+
+The United States and the European Union already have the largest economic relationship in the world, worth over 2 billion euros per day.
+
+But facing increased competition from emerging economies, both allies have been exploring ways to deepen their relations. 
+
+""A future deal between the world's two most important economic powers will be a game-changer, giving a strong boost to our economies on both sides of the Atlantic."" 
+""For these negotiations to succeed, we need -- above all -- political will: a desire to make our rules and regulations compatible, and to cut tariffs whenever it makes sense and is possible.""
+""The Commission will move quickly to present a negotiating mandate to our Member States so we can start negotiations as soon as possible, still during the Irish Presidency of the Council."",  said EC's president Jose Manuel Barroso.
+
+The European Commission said on Wednesday that they aim to complete negotiations by 2015. 
+
+""Ideally, we'd like to complete this work in about two years from now -- but, more paramount than speed is achieving an ambitious deal.""
+
+""Our main focus has to be to tackle those barriers which are behind the customs border -- such as differences in technical regulations, standards and certifications. These often cost time and money. This is where we can make real savings for our businesses and bring better value for consumers."", said EU commissioner for Trade Karel de Gucht. 
+
+The EU executive estimates that a deeper trade deal with the US could generate €275 billion per year and create 2 million new jobs.",EURACTIV,"EU', 'Barak Obama', 'European Commission', 'Debate', 'US-EU trade', 'Policy', 'EU Affairs', 'United Stated', 'Euro', 'Europe', 'News', 'US', 'Report', 'Free Trade agreement', 'Politics', 'European Union', 'State of the Union', 'Jose Mnauel Barroso', 'EurActiv'",PT1M42S,102,2

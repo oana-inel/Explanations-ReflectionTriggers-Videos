@@ -1,0 +1,97 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+n6yHUSp28tE,Bonded Warehouse,Company,NONE,NONE,0.433187,neutral,0.0,0.034326999999999996,0.010795,0.419178,0.012251,0.182625,2,1,Bonded Warehouse,Bonded Warehouse,Bonded Warehouse,Bonded Warehouse,bond warehous,bond warehous,bond wareh,NONE,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,Bonded Warehouse,JobTitle,NONE,NONE,0.297739,neutral,0.0,0.034326999999999996,0.010795,0.419178,0.012251,0.182625,1,1,Bonded Warehouse,Bonded Warehouse,Bonded Warehouse,Bonded Warehouse,bond warehous,bond warehous,bond wareh,NONE,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.9200219999999999,positive,0.739546,0.20591700000000002,0.096618,0.257295,0.05335499999999999,0.08469199999999999,12,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,Chinese Customs,Organization,NONE,NONE,0.300202,positive,0.746474,0.139977,0.081068,0.440105,0.131009,0.040882999999999996,1,1,Chinese Customs,chines Customs,chines Customs,chines Customs,chines custom,chines custom,chines custom,NONE,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,Shanghai,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Shanghai,0.20513,positive,0.746474,0.139977,0.081068,0.440105,0.131009,0.040882999999999996,1,1,Shanghai,Shanghai,Shanghai,Shanghai,shanghai,shanghai,shangha,http://en.wikipedia.org/wiki/Shanghai,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,extension Warehouse,Company,NONE,NONE,0.252413,neutral,0.0,0.030692,0.012875999999999999,0.421641,0.010621,0.186924,2,1,extension Warehouse,extens Warehouse,extens Warehouse,extend Warehouse,extens warehous,extens warehous,extend wareh,NONE,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,partner,JobTitle,NONE,NONE,0.17416700000000002,positive,0.8682690000000001,0.125552,0.18168800000000002,0.34819,0.056225,0.052506,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3
+n6yHUSp28tE,pudong International Airport,Facility,"Location, TransportTerminus, Airport",http://dbpedia.org/resource/Shanghai_Pudong_International_Airport,0.236033,neutral,0.0,0.4804520000000001,0.197952,0.177013,0.010695,0.10270699999999999,1,1,pudong International Airport,pudong International Airport,pudong International Airport,pudong International Airport,pudong intern airport,pudong intern airport,pudong intern airport,http://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport,0.9937,0.006999999999999999,0.132,0.861,0.16761294261294254,0.34618437118437123,positive,0.736349,0.07828,0.306377,0.157638,0.084641,0.054031,0.4000000059604645,2.9000000953674316,Free Trade,2015-08-10T12:59:06.000Z,UCh-GBSfJDX74u1xY4aDGDaQ,Global Advantage with Free Trade Zones in China | Catalent in 90 Seconds,"Free trade zones offer many advantages for our customers interested in clinical trial supply. The zone provides fast, safe and secure transit to controlled storage situation which can delay or eliminate custom duties. Catalent's Shanhai facility is located in the Waigaoqiao province, the longest running free trade zone in China.
+
+Learn more about how free trade zones work and how Catalent's location can provide a flexible and cost efficient way to supply clinical trials in China and around the globe.
+
+Catalent. More products. Better treatments. Reliably supplied.™
+
+Every molecule has a challenge.
+We have a solution.
+
+Call: +1 888 SOLUTION
+Email: solutions@catalent.com
+Visit: catalent.com",Catalent Pharma Solutions,"Free Trade Zone', 'China', 'Taiwan', 'Asia', 'News', 'Free Trade (Literature Subject)', 'free trade zone', 'free trade zones', 'trade', 'catalent', 'catalent pharma solutions'",PT2M55S,175,3

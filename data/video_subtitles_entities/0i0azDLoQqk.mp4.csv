@@ -1,0 +1,89 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+0i0azDLoQqk,Akira,Person,NONE,NONE,0.566285,neutral,0.0,0.13717200000000002,0.081496,0.190081,0.077544,0.083901,1,1,Akira,Akira,Akira,Akira,akira,akira,akir,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Amelia,Person,NONE,NONE,0.643694,positive,0.67645,0.321296,0.048932,0.132136,0.023259,0.037824,2,1,Amelia,Amelia,Amelia,Amelia,amelia,amelia,amel,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Catalana,Person,NONE,NONE,0.669125,neutral,0.0,0.075638,0.582957,0.25326,0.006276,0.072675,1,1,Catalana,Catalana,Catalana,Catalana,catalana,catalana,catalan,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Catalunya,Location,City,NONE,0.7956949999999999,neutral,0.0,0.311198,0.042724,0.627314,0.00688,0.052392,1,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Malta,Location,Country,NONE,0.5726399999999999,neutral,0.0,0.075638,0.582957,0.25326,0.006276,0.072675,1,1,Malta,Malta,Malta,Malta,malta,malta,malt,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Manana,Person,NONE,NONE,0.715929,neutral,0.0,0.304292,0.041443,0.631147,0.006991,0.058057,2,1,Manana,Manana,Manana,Manana,manana,manana,manan,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Marc de la república,Person,NONE,NONE,0.8817790000000001,neutral,0.0,0.309355,0.075164,0.268345,0.131436,0.171761,1,1,Marc de la república,Marc de la república,Marc de la república,Marc de la repúblic,marc de la república,marc de la república,marc de la repúblic,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3
+0i0azDLoQqk,Merrill,Person,NONE,NONE,0.6337079999999999,negative,-0.335876,0.26235,0.26556,0.029480000000000006,0.336587,0.312215,2,1,Merrill,Merrill,Merrill,Merrill,merril,merril,merril,NONE,0.8555,0.051,0.11800000000000001,0.831,0.14805194805194805,0.3698051948051948,positive,0.47964799999999996,0.10632899999999999,0.531362,0.212552,0.475912,0.099647,0.10000000149011612,2.0,Catalonia Independence,2017-09-11T18:27:08.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Hundreds of thousands gathered in Barcelona calling for Catalonia's independence,"Hundreds of thousands flooded the streets Barcelona to mark Catalonia's national day and to support its independence from Spain, on Monday. 
+
+
+SOT, Jordi Sanchez, President of the National Catalan Assembly (Spanish): ""I address all the Spanish citizens of good faith who maybe don't agree with Catalunya's independence, nor even with the right to self-determination, but are democrats. Thank you for the solidarity we received, and we ask you not to let the most basic democratic rights of the citizens of Catalunya be damaged in the name of your country. When power abuses its position, then it acts with no limits. Today it's Catalunya, but if you don't reject it, tomorrow they will come for your printers and media outlets in Madrid, Sevilla or Zaragoza."" 
+
+Video ID: 20170911 037
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', ""Catalonia's national day"", 'catalonia independence', 'barcelona', 'spain', 'catalan independence'",PT2M12S,132,3

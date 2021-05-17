@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+LEiL0IXSXK4,18 months,Quantity,NONE,NONE,0.46609700000000004,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18 month,18 month,18 month,18 month,18 month,18 month,18 month,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,50%,Quantity,NONE,NONE,0.46609700000000004,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 %,50 %,50 %,50 %,50 %,50 %,50 %,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Al Jazeera,Broadcaster,"Broadcast, Company, TVNetwork, TelevisionStation",http://dbpedia.org/resource/Al_Jazeera,0.540938,neutral,0.0,0.037216,0.07219099999999999,0.574425,0.1195,0.125251,1,1,Al Jazeera,Al Jazeera,Al Jazeera,Al Jazeera,Al jazeera,al jazeera,al jazeer,http://en.wikipedia.org/wiki/Al_Jazeera,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.46609700000000004,neutral,0.0,0.037216,0.07219099999999999,0.574425,0.1195,0.125251,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Catalonia,Location,City,NONE,0.497036,positive,0.78905,0.619056,0.30009,0.061449000000000004,0.181424,0.146581,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Joachim,Person,Saint,http://dbpedia.org/resource/Joachim,0.9121389999999999,positive,0.17343599999999998,0.5203810000000001,0.10816300000000001,0.116127,0.277043,0.052475,3,1,Joachim,Joachim,Joachim,Joachim,joachim,joachim,joachim,http://en.wikipedia.org/wiki/Joachim,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Jonah,Person,ReligiousLeader,http://dbpedia.org/resource/Jonah,0.4774850000000001,neutral,0.0,0.037216,0.07219099999999999,0.574425,0.1195,0.125251,1,1,Jonah,Jonah,Jonah,Jonah,jonah,jonah,jonah,http://en.wikipedia.org/wiki/Jonah,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Laura,Person,NONE,NONE,0.4966350000000001,positive,0.532921,0.460628,0.10955,0.069883,0.304894,0.0586,1,1,Laura,Laura,Laura,Laura,laura,laura,laur,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Long Catalonia,Location,City,NONE,0.543597,neutral,0.0,0.325681,0.06573899999999999,0.097574,0.06715700000000001,0.050462,1,1,Long Catalonia,Long Catalonia,Long Catalonia,Long Catalonia,long catalonia,long catalonia,long catalon,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,National Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Oireachtas,0.53973,neutral,0.0,0.315992,0.042765,0.46151499999999995,0.056589999999999994,0.019167,1,1,National Parliament,National Parliament,National Parliament,National Parliament,nation parliament,nation parliament,nat parlia,http://en.wikipedia.org/wiki/Oireachtas,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Saint Jordi,Person,NONE,NONE,0.536907,negative,-0.5627489999999999,0.080041,0.044336,0.437488,0.355,0.157057,1,1,Saint Jordi,Saint Jordi,Saint Jordi,Saint Jordi,saint jordi,saint jordi,saint jord,NONE,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3
+LEiL0IXSXK4,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.611375,positive,0.78905,0.6024079999999999,0.27724699999999997,0.070033,0.194403,0.16591,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8699,0.076,0.095,0.8290000000000001,0.08616786916786917,0.4838840048840049,negative,-0.48009,0.101302,0.540266,0.576595,0.154131,0.172599,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2019-04-29T19:31:18.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,🇪🇸 Spain election: Catalan independence dream still alive | Al Jazeera English,"Catalan independence leaders have been rallying supporters, some of them from prison as they urge a new approach, one of dialogue and political legitimacy.
+A surge in support for the far right nationalist Vox party risks dragging the entire political landscape to the right, making compromise over Catalan aspirations seem less likely than ever.
+Al Jazeera's Jonah Hull reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe 
+- Follow us on Twitter: https://twitter.com/AJEnglish 
+- Find us on Facebook: https://www.facebook.com/aljazeera 
+- Check our website: https://www.aljazeera.com/
+
+#AlJazeeraEnglish #Spain #Catalan",Al Jazeera English,"aljazeera.com', 'spain election 2019', 'al jazeera', 'aljazeera', 'catalan independence', 'aljazeera english', 'al jazeera english', 'europenews', 'spain news', 'aljazeera news', 'far right nationalist vox party', 'pro-independence', 'spain politics', 'catalan leaders', 'spain election', 'aljazeera live', 'spain latest', 'europe', 'spain vote'",PT2M51S,171,3

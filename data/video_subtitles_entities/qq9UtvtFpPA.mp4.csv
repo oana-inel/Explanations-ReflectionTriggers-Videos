@@ -1,0 +1,701 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qq9UtvtFpPA,17 months,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,17 month,17 month,17 month,17 month,17 month,17 month,17 month,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,30 years,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,40 percent,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,40 percent,40 percent,40 percent,40 perc,40 percent,40 percent,40 perc,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,93 percent,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,93 percent,93 percent,93 percent,93 perc,93 percent,93 percent,93 perc,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,97 percent,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,97 percent,97 percent,97 percent,97 perc,97 percent,97 percent,97 perc,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,Ghana,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Ghana,0.203066,negative,-0.450374,0.267762,0.11655,0.56633,0.021682,0.055423,2,1,Ghana,Ghana,Ghana,Ghana,ghana,ghana,ghan,http://en.wikipedia.org/wiki/Ghana,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,Kenya,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Kenya,0.208998,negative,-0.450374,0.267762,0.11655,0.56633,0.021682,0.055423,2,1,Kenya,Kenya,Kenya,Kenya,kenya,kenya,keny,http://en.wikipedia.org/wiki/Kenya,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,MMR vaccine,Drug,NONE,NONE,0.30380999999999997,negative,-0.546363,0.534736,0.272202,0.135418,0.053803,0.024919999999999998,1,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,Malaria,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease, MedicalTreatment, OrganizationSector",http://dbpedia.org/resource/Malaria,0.8894280000000001,negative,-0.674113,0.589665,0.248319,0.167037,0.15700699999999998,0.10744300000000001,11,1,Malaria,Malaria,Malaria,Malaria,malaria,malaria,malar,http://en.wikipedia.org/wiki/Malaria,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,Malawi,Location,Country,NONE,0.182193,neutral,0.0,0.267762,0.11655,0.56633,0.021682,0.055423,1,1,Malawi,Malawi,Malawi,Malawi,malawi,malawi,malaw,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,Malawi,Location,StateOrCounty,NONE,0.152594,negative,-0.450374,0.267762,0.11655,0.56633,0.021682,0.055423,1,1,Malawi,Malawi,Malawi,Malawi,malawi,malawi,malaw,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,forty percent,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,forty percent,forti percent,forti percent,forty perc,forti percent,forti percent,forty perc,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,rtss,Person,NONE,NONE,0.198719,positive,0.48830500000000004,0.204048,0.024534,0.601774,0.022986000000000003,0.018603,1,1,rtss,rtss,rtss,rtss,rtss,rtss,rtss,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8
+qq9UtvtFpPA,two minutes,Quantity,NONE,NONE,0.152594,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two minute,two minut,two minut,two minut,two minut,two minut,two minut,NONE,0.9988,0.047,0.13,0.823,0.14033174830418926,0.4679383827021622,negative,-0.405194,0.100227,0.590267,0.505791,0.185803,0.099004,0.10000000149011612,15.800000190734865,Vaccination,2019-05-03T21:00:02.000Z,UCZYTClx2T1of7BRZ86-8fow,The World's First Malaria Vaccine Gets a Shot in Africa | SciShow News,"Last week, the World Health Organization announced that a malaria vaccine has finally made it through all the regulatory hurdles and is being distributed in the country of Malawi. Learn how it works and why it’s taken so long to develop a safe and effective malaria vaccine on this week’s SciShow News.
+
+Hosted by: Hank Green
+
+SciShow has a spinoff podcast! It's called SciShow Tangents. Check it out at http://www.scishowtangents.org
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever:
+
+Adam Brainard, Greg, Alex Hackman, Sam Lutfi, D.A. Noe, الخليفي سلطان, Piya Shedden, KatieMarie Magnone, Scott Satovsky Jr, Charles Southerland, Patrick D. Ashmore, charles george, Kevin Bealer, Chris Peters
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+----------
+Sources:
+https://www.cdc.gov/globalhealth/countries/kenya/blog/malaria-vaccine-in-kenya.html
+https://www.cdc.gov/measles/vaccination.html 
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.cdc.gov/malaria/about/faqs.html 
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.who.int/news-room/detail/23-04-2019-malaria-vaccine-pilot-launched-in-malawi
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736123/
+https://www.cdc.gov/malaria/about/biology/index.html
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf
+https://www.who.int/malaria/areas/preventive_therapies/children/en/
+https://www.who.int/ith/diseases/malaria/en/
+https://www.who.int/malaria/publications/world-malaria-report-2018/report/en/
+https://www.who.int/malaria/media/malaria-vaccine-implementation-qa/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184
+https://www.malariavaccine.org/sites/www.malariavaccine.org/files/content/page/files/PATH_MVI_RTSS_Fact%20sheet_042019.pdf
+https://www.malariavaccine.org/malaria-and-vaccines/rtss
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4829262/
+https://www.nih.gov/news-events/news-releases/nih-statement-world-malaria-day-2019
+https://www.cdc.gov/malaria/malaria_worldwide/reduction/vaccine.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.dovepress.com/rtss-malaria-vaccine-development-progress-and-considerations-for-posta-peer-reviewed-fulltext-article-VDT
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806383/
+https://www.weforum.org/agenda/2015/10/how-the-milestone-malaria-vaccine-works/
+https://www.npr.org/sections/goatsandsoda/2014/09/16/347727459/which-contagious-diseases-are-the-deadliest
+https://qz.com/africa/1606511/malaria-vaccine-by-gsk-for-african-children-is-still-too-limited/
+https://www.vox.com/future-perfect/2019/4/24/18514577/malaria-vaccine-malawi-pilot-program
+https://www.statnews.com/2019/04/19/pivotal-test-experimental-malaria-vaccine-begins/
+https://arstechnica.com/science/2019/04/malaria-vaccine-rollout-is-a-gamble-an-imperfect-tool-used-imperfectly/",SciShow,"SciShow', 'science', 'Hank', 'Green', 'education', 'learn', 'malaria', 'world health organization', 'who', 'malawi', 'ghana', 'kenya', 'mosquito', 'parasite', 'disease', 'health', 'vaccine', 'rtss', 'mmr', 'medicine', 'biology', 'red blood cell', 'blood', 'liver', 'immune system', 'antibodies', 'immunity', 'infection', 'plasmodium', 'research', 'doctor', 'news', 'malaria vaccine'",PT7M20S,440,8

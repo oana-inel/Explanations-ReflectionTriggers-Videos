@@ -1,0 +1,291 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+HYKyTYfTB4g,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.857585,negative,-0.042881999999999997,0.153277,0.56758,0.04956,0.33863200000000004,0.162551,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Carlos Bustamante,Person,"Academic, Scientist",http://dbpedia.org/resource/Carlos_Bustamante,0.572449,negative,-0.495354,0.129949,0.036606,0.092046,0.339931,0.688692,1,1,Carlos Bustamante,Carlos Bustamante,Carlos Bustamante,Carlos Bustamante,carlo bustamant,carlo bustamant,carlo bustam,http://en.wikipedia.org/wiki/Carlos_Bustamante,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Dan Williams City TN Barcelona,Facility,NONE,NONE,0.66897,neutral,0.0,0.083634,0.072516,0.31436,0.151084,0.069564,1,1,Dan Williams City TN Barcelona,Dan Williams City TN Barcelona,Dan Williams City TN Barcelona,Dan Williams City TN Barcelona,dan william citi TN barcelona,dan william citi tn barcelona,dan william city tn barcelon,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Girona,Location,City,http://dbpedia.org/resource/Girona,0.5268189999999999,negative,-0.495354,0.129949,0.036606,0.092046,0.339931,0.688692,1,1,Girona,Girona,Girona,Girona,girona,girona,giron,http://en.wikipedia.org/wiki/Girona,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,National Police,Organization,NONE,NONE,0.729961,negative,-0.5394479999999999,0.28638800000000003,0.411234,0.022116,0.49326499999999995,0.171948,1,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Polly abuta Pacific,Facility,NONE,NONE,0.591015,negative,-0.495354,0.129949,0.036606,0.092046,0.339931,0.688692,1,1,Polly abuta Pacific,Polly abuta Pacific,Polly abuta Pacific,Polly abut Pacific,polli abuta pacif,polli abuta pacif,pol abut pac,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.49347799999999997,negative,-0.495354,0.129949,0.036606,0.092046,0.339931,0.688692,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Spanish National Police,Organization,NONE,NONE,0.8708319999999999,negative,-0.45347200000000004,0.406224,0.212002,0.150248,0.25040999999999997,0.26879200000000003,1,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,Spanish government,Organization,NONE,NONE,0.745408,negative,-0.495354,0.07897799999999999,0.021047,0.057407000000000014,0.435488,0.694376,2,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3
+HYKyTYfTB4g,pelley,Person,NONE,NONE,0.476951,negative,-0.495354,0.0,0.0,0.0,0.0,0.0,1,1,pelley,pelley,pelley,pelley,pelley,pelley,pelley,NONE,-0.9447,0.113,0.079,0.807,-0.03443161776495112,0.3407487574154241,negative,-0.471805,0.558557,0.435704,0.506791,0.592673,0.261507,0.0,3.700000047683716,Catalonia Independence,2017-10-02T00:13:50.000Z,UCj7wKsOBhRD9Jy4yahkMRMw,Chaos in Catalonia as Spain's police clash with independence voters,"Violence broke out in Catalonia as voters attempted to cast their ballots in an independence referendum. Spanish officials say the poll is illegal, and police blocked many from casting their votes. CGTN's Dan Williams reports from Barcelona.
+
+Watch CGTN LIVE on your computer, tablet or mobile
+http://america.cgtn.com/livenews
+
+Subscribe to CGTN America on YouTube
+
+Follow CGTN America:
+Twitter: @cgtnamerica
+Facebook: @cgtnamerica
+Google+: CctvamericaTvnews
+
+»» Watch CGTN ««
+
+Washington, DC (and greater area)
+• MHz - Channel 3
+• COMCAST (Xfinity) - Channel 273
+• FIOS - Channel 277
+
+New York City
+• Time Warner - Channel 134
+• FiOS (Verizon) - Channel 277
+
+Los Angeles
+• Charter Cable - Channel 562
+• Time Warner - Channel 155
+
+Satellite Nationwide
+• DISH TV - Channel 279",CGTN America,"@cgtnamerica', 'CGTN'",PT2M33S,153,3

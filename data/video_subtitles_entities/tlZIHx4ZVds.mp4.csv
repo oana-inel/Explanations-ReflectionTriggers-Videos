@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tlZIHx4ZVds,15 years,Quantity,NONE,NONE,0.325216,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15 year,15 year,15 year,15 year,15 year,15 year,15 year,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Al Jazeera,Broadcaster,"Broadcast, Company, TVNetwork, TelevisionStation",http://dbpedia.org/resource/Al_Jazeera,0.4256,neutral,0.0,0.08711,0.112599,0.341852,0.33959,0.31231,1,1,Al Jazeera,Al Jazeera,Al Jazeera,Al Jazeera,Al jazeera,al jazeera,al jazeer,http://en.wikipedia.org/wiki/Al_Jazeera,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Carlos Pooch,Person,NONE,NONE,0.6715369999999999,neutral,0.0,0.070752,0.120423,0.287435,0.415012,0.316629,4,1,Carlos Pooch,Carlos Pooch,Carlos Pooch,Carlos Pooch,carlo pooch,carlo pooch,carlo pooch,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Catalonia,Location,City,NONE,0.821465,positive,0.432913,0.085129,0.13673,0.281758,0.39776500000000004,0.31485,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Catherine,Person,NONE,NONE,0.350965,negative,-0.344194,0.0,0.0,0.0,0.0,0.0,1,1,Catherine,Catherine,Catherine,Catherine,catherin,catherin,catherin,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Independence Movement,Organization,NONE,NONE,0.404022,positive,0.432913,0.044864,0.26054,0.44512399999999996,0.300543,0.045619,1,1,Independence Movement,Independence Movement,Independence Movement,Independence Movement,independ movement,independ movement,independ mov,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,John Henry,Person,NONE,NONE,0.37256,neutral,0.0,0.156221,0.259837,0.10452,0.49917,0.266385,1,1,John Henry,John Henry,John Henry,John Henry,john henri,john henri,john henry,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.497449,negative,-0.344194,0.672088,0.079332,0.113667,0.056521,0.14516700000000002,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,president,JobTitle,NONE,NONE,0.486468,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3
+tlZIHx4ZVds,thoreau,Person,NONE,NONE,0.325216,positive,0.77768,0.005005,0.028316,0.635487,0.030011000000000006,0.033906,1,1,thoreau,thoreau,thoreau,thoreau,thoreau,thoreau,thoreau,NONE,-0.3044,0.1,0.08900000000000001,0.8109999999999999,0.03597152076318743,0.5016126543209877,negative,-0.39546,0.17134100000000002,0.523356,0.448559,0.112425,0.15282,-0.10000000149011612,8.600000381469728,Catalonia Independence,2017-10-01T08:26:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,What's behind Catalonia's independence movement?,"We went to the heart of the Catalonia region to speak with the man behind the independence movement. 
+The government of Spain considers him the most dangerous man in Europe.
+
+Al Jazeera's John Hendren sat down with Catalonia President Carles Puigdemont and asked him why he favours secession. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"Carles Puigdemont', 'spanish police', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'aljazeera', 'barcelona', 'politics & law', 'catalonia', 'independence', 'movement', 'behind', 'man', 'catalonia independence', 'catalan', 'referendum', 'protest', 'history', 'scotland', 'scottish independence', 'testtube', 'test tube', 'current events', 'independent', 'spanish', 'catalunya', 'al jazeera english', 'aljazeera english', 'pakistan', 'politics'",PT2M46S,166,3

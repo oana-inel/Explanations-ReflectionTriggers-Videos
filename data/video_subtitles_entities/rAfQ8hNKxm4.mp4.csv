@@ -1,0 +1,29 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+rAfQ8hNKxm4,Captain America,Person,NONE,NONE,0.8646799999999999,neutral,0.0,0.395784,0.176703,0.132643,0.06139600000000001,0.27078,1,1,Captain America,Captain America,Captain America,Captain America,captain america,captain america,captain americ,NONE,0.5158,0.064,0.087,0.8490000000000001,-0.043750000000000025,0.5229166666666667,negative,-0.6622439999999999,0.120789,0.25508200000000003,0.258122,0.450399,0.130075,-0.20000000298023224,3.799999952316284,Catalonia Independence,2017-10-02T13:03:04.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,More than 800 injured in clashes during Catalan independence vote,"More than 800 people were injured in clashes with police on Oct. 1 in the Catalonia region in northeast Spain during a vote on independence that the Spanish central government has called illegal. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy 
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost 
+Instagram: https://www.instagram.com/washingtonpost/ 
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Spain', 'Catalonia', 'Catalan', 'Europe', 'Barcelona', 'Sabadell', 'Catalan independence', 'Catalan referendum', 'Catalonia referendum', 'Catalonia vote', 'spain', 'vote', 'independent', 'catalonia', 'clashes', 'world'",PT3M25S,205,4
+rAfQ8hNKxm4,Madrid,Location,City,NONE,0.702488,neutral,0.0,0.331486,0.045857999999999996,0.476253,0.044706,0.055767,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,0.5158,0.064,0.087,0.8490000000000001,-0.043750000000000025,0.5229166666666667,negative,-0.6622439999999999,0.120789,0.25508200000000003,0.258122,0.450399,0.130075,-0.20000000298023224,3.799999952316284,Catalonia Independence,2017-10-02T13:03:04.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,More than 800 injured in clashes during Catalan independence vote,"More than 800 people were injured in clashes with police on Oct. 1 in the Catalonia region in northeast Spain during a vote on independence that the Spanish central government has called illegal. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy 
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost 
+Instagram: https://www.instagram.com/washingtonpost/ 
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Spain', 'Catalonia', 'Catalan', 'Europe', 'Barcelona', 'Sabadell', 'Catalan independence', 'Catalan referendum', 'Catalonia referendum', 'Catalonia vote', 'spain', 'vote', 'independent', 'catalonia', 'clashes', 'world'",PT3M25S,205,4
+rAfQ8hNKxm4,Nets,Organization,NONE,NONE,0.750289,neutral,0.0,0.391805,0.16284200000000001,0.155593,0.115604,0.293,2,1,Nets,Nets,Nets,Nets,net,net,net,NONE,0.5158,0.064,0.087,0.8490000000000001,-0.043750000000000025,0.5229166666666667,negative,-0.6622439999999999,0.120789,0.25508200000000003,0.258122,0.450399,0.130075,-0.20000000298023224,3.799999952316284,Catalonia Independence,2017-10-02T13:03:04.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,More than 800 injured in clashes during Catalan independence vote,"More than 800 people were injured in clashes with police on Oct. 1 in the Catalonia region in northeast Spain during a vote on independence that the Spanish central government has called illegal. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy 
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost 
+Instagram: https://www.instagram.com/washingtonpost/ 
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Spain', 'Catalonia', 'Catalan', 'Europe', 'Barcelona', 'Sabadell', 'Catalan independence', 'Catalan referendum', 'Catalonia referendum', 'Catalonia vote', 'spain', 'vote', 'independent', 'catalonia', 'clashes', 'world'",PT3M25S,205,4
+rAfQ8hNKxm4,Smithfield,Company,NONE,NONE,0.8617030000000001,neutral,0.0,0.216846,0.101361,0.273181,0.184495,0.19633699999999998,3,1,Smithfield,Smithfield,Smithfield,Smithfield,smithfield,smithfield,smithfield,NONE,0.5158,0.064,0.087,0.8490000000000001,-0.043750000000000025,0.5229166666666667,negative,-0.6622439999999999,0.120789,0.25508200000000003,0.258122,0.450399,0.130075,-0.20000000298023224,3.799999952316284,Catalonia Independence,2017-10-02T13:03:04.000Z,UCHd62-u_v4DvJ8TCFtpi4GA,More than 800 injured in clashes during Catalan independence vote,"More than 800 people were injured in clashes with police on Oct. 1 in the Catalonia region in northeast Spain during a vote on independence that the Spanish central government has called illegal. Subscribe to The Washington Post on YouTube: http://bit.ly/2qiJ4dy 
+
+Follow us:
+
+Twitter: https://twitter.com/washingtonpost 
+Instagram: https://www.instagram.com/washingtonpost/ 
+Facebook: https://www.facebook.com/washingtonpost/",Washington Post,"Spain', 'Catalonia', 'Catalan', 'Europe', 'Barcelona', 'Sabadell', 'Catalan independence', 'Catalan referendum', 'Catalonia referendum', 'Catalonia vote', 'spain', 'vote', 'independent', 'catalonia', 'clashes', 'world'",PT3M25S,205,4

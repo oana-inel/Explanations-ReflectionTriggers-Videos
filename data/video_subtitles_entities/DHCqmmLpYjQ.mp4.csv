@@ -1,0 +1,166 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DHCqmmLpYjQ,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.383391,negative,-0.426939,0.46629899999999996,0.069323,0.201992,0.054952999999999995,0.216004,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Belgium,Location,Country,NONE,0.43954899999999997,neutral,0.0,0.103146,0.170448,0.48171899999999995,0.09589,0.064885,3,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.61165,negative,-0.6897800000000001,0.23240300000000005,0.091097,0.09637000000000001,0.5440510000000001,0.329023,3,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Catalonia,Location,City,NONE,0.285666,negative,-0.732924,0.6472760000000001,0.094817,0.010029999999999999,0.303464,0.21694000000000002,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Catherine,Person,NONE,NONE,0.307772,negative,-0.732924,0.6472760000000001,0.094817,0.010029999999999999,0.303464,0.21694000000000002,2,1,Catherine,Catherine,Catherine,Catherine,catherin,catherin,catherin,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,International Community,Organization,NONE,NONE,0.30145,negative,-0.364396,0.30504699999999996,0.06531100000000001,0.442042,0.018955,0.23756300000000002,1,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Judiciary,Organization,NONE,NONE,0.30594299999999996,negative,-0.45107299999999995,0.404829,0.394196,0.022584,0.280907,0.236077,1,1,Judiciary,Judiciary,Judiciary,Judiciary,judiciari,judiciari,judicy,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Pooja Mall,Facility,NONE,NONE,0.300081,neutral,0.0,0.185276,0.032813999999999996,0.37215,0.067609,0.028957,1,1,Pooja Mall,Pooja Mall,Pooja Mall,Pooja Mall,pooja mall,pooja mall,pooj mal,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Professor,JobTitle,NONE,NONE,0.28326,neutral,0.0,0.064821,0.042365,0.303525,0.07634099999999999,0.012634999999999999,1,1,Professor,Professor,Professor,Professor,professor,professor,profess,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,San Andreas,Location,City,"http://dbpedia.org/resource/San_Andreas,_California",0.306699,neutral,0.0,0.086336,0.08277899999999999,0.157585,0.084765,0.12190799999999999,1,1,San Andreas,San Andreas,San Andreas,San Andreas,san andrea,san andrea,san andrea,"http://en.wikipedia.org/wiki/San_Andreas,_California",-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.727896,negative,-0.274568,0.610627,0.25099699999999997,0.175075,0.13574,0.128449,17,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Spanish Judiciary,Organization,NONE,NONE,0.4239890000000001,negative,-0.7974100000000001,0.296437,0.187921,0.008570999999999999,0.403427,0.263374,1,1,Spanish Judiciary,spanish Judiciary,spanish Judiciary,span Judiciary,spanish judiciari,spanish judiciari,span judicy,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,Spanish Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Cortes_Generales,0.522676,neutral,0.0,0.4225350000000001,0.072838,0.10506800000000001,0.300757,0.282355,1,1,Spanish Parliament,spanish Parliament,spanish Parliament,span Parliament,spanish parliament,spanish parliament,span parlia,http://en.wikipedia.org/wiki/Cortes_Generales,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.284394,neutral,0.0,0.218829,0.255286,0.13581500000000002,0.054515,0.145674,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6
+DHCqmmLpYjQ,president,JobTitle,NONE,NONE,0.264974,neutral,0.0,0.185276,0.032813999999999996,0.37215,0.067609,0.028957,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.944,0.096,0.081,0.823,0.08169612794612795,0.2996566859066859,negative,-0.528219,0.125603,0.572835,0.546162,0.13960799999999998,0.123661,-0.10000000149011612,11.100000381469727,Catalonia Independence,2018-03-22T18:57:37.000Z,UCtHWi_Mwj_Bu7TT1SjaI5Gw,Independence to Exile: The Catalan Politician Seeking Refuge in Scotland,"Five months have now passed since the Spanish Government suspended Catalonia's autonomy and imposed direct rule.  The move came in response to the region's declaration of independence which followed on from a ninety percent yes vote in a violence-marred referendum which Spain ruled illegal.   
+Days after the independence declaration, the ousted Catalan President and four of his ministers fled to Brussels to escape legal charges. One of the ministers Professor Clara Ponsati has now returned to her previous job at St Andrews University's School of Economics.  From there she spoke to Scotland Tonight. 
+
+Don't forget to subscribe to our YouTube channel and download the STV News App: https://stv.click/11de0 
+
+Watch more from STV News on the STV Player: https://stv.click/stvplef4ee 
+
+Find us on social media here: 
+Twitter: https://twitter.com/stvnews 
+Facebook: https://facebook.com/stvnews 
+Instagram: https://www.instagram.com/stv.news/",STV News,"Catalonia', 'politics', 'Spain', 'Scotland', 'Independence', 'Referendum', 'Catalan', 'Barcelona', 'St Andrews'",PT5M55S,355,6

@@ -1,0 +1,248 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+5RsjtnSvbj0,Aaron baddeley,Person,Golfer,http://dbpedia.org/resource/Aaron_Baddeley,0.43975699999999995,positive,0.552143,0.33905,0.5101479999999999,0.036746,0.23453000000000002,0.242894,1,1,Aaron baddeley,Aaron baddeley,Aaron baddeley,Aaron baddeley,aaron baddeley,aaron baddeley,aaron baddeley,http://en.wikipedia.org/wiki/Aaron_Baddeley,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.376375,negative,-0.847468,0.49024300000000004,0.12507000000000001,0.325423,0.034408,0.119789,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Catalonia,Location,City,NONE,0.6216510000000001,negative,-0.809157,0.07999400000000001,0.047005,0.218968,0.255332,0.180673,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Catalonia Villages,Company,NONE,NONE,0.542071,neutral,0.0,0.318788,0.046833,0.20069,0.13235999999999998,0.10168200000000001,1,1,Catalonia Villages,Catalonia Villages,Catalonia Villages,Catalonia Villages,catalonia villag,catalonia villag,catalon vil,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Catalunya,Location,City,NONE,0.361308,neutral,0.0,0.5026689999999999,0.289298,0.059329,0.026562,0.068014,1,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.360645,positive,0.552143,0.33905,0.5101479999999999,0.036746,0.23453000000000002,0.242894,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.4484260000000001,negative,-0.147662,0.463251,0.393885,0.070623,0.147804,0.254254,2,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Ian,Person,NONE,NONE,0.346008,negative,-0.809157,0.713878,0.223036,0.021428,0.102578,0.21631999999999998,1,1,Ian,Ian,Ian,Ian,ian,ian,ian,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Juan,Person,NONE,NONE,0.543029,positive,0.571254,0.263756,0.10903299999999999,0.194537,0.09261799999999999,0.295604,3,1,Juan,Juan,Juan,Juan,juan,juan,juan,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Karl penhaul Al Jazeera,Person,NONE,NONE,0.455712,negative,-0.518809,0.018394,0.193727,0.324142,0.13250599999999998,0.059575,1,1,Karl penhaul Al Jazeera,Karl penhaul Al Jazeera,Karl penhaul Al Jazeera,Karl penha Al Jazeera,karl penhaul Al jazeera,karl penhaul al jazeera,karl penha al jazeer,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,London,Location,City,NONE,0.317855,negative,-0.809157,0.713878,0.223036,0.021428,0.102578,0.21631999999999998,1,1,London,London,London,London,london,london,london,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Poulsen,Location,City,NONE,0.373675,neutral,0.0,0.318788,0.046833,0.20069,0.13235999999999998,0.10168200000000001,1,1,Poulsen,Poulsen,Poulsen,Poulsen,poulsen,poulsen,pouls,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Pyrenees Mountains,GeographicFeature,"Location, MountainRange",http://dbpedia.org/resource/Pyrenees,0.447459,neutral,0.0,0.21004,0.18688,0.401907,0.051873,0.12046400000000004,1,1,Pyrenees Mountains,Pyrenees Mountains,Pyrenees Mountains,Pyrenees Mountains,pyrene mountain,pyrene mountain,pyr mountain,http://en.wikipedia.org/wiki/Pyrenees,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.766655,negative,-0.12850699999999998,0.54837,0.386834,0.018588,0.153531,0.262325,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,Valley Spain,GeographicFeature,NONE,NONE,0.503415,negative,-0.518809,0.018394,0.193727,0.324142,0.13250599999999998,0.059575,1,1,Valley Spain,Valley Spain,Valley Spain,Valley Spain,valley spain,valley spain,valley spain,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,four hours,Quantity,NONE,NONE,0.317855,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four hour,four hour,four hour,four hour,four hour,four hour,four hour,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,president,JobTitle,NONE,NONE,0.360711,neutral,0.0,0.639914,0.104406,0.19614600000000001,0.062211,0.127123,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,self-exile,Location,City,NONE,0.35127800000000003,negative,-0.606012,0.184285,0.16636099999999998,0.22177399999999997,0.5206930000000001,0.159275,1,1,self-exile,self-exil,self-exil,self-exile,self-exil,self-exil,self-exile,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3
+5RsjtnSvbj0,three-quarters,Quantity,NONE,NONE,0.317855,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three-quarters,three-quart,three-quart,three-quarters,three-quart,three-quart,three-quarters,NONE,0.8418,0.043,0.067,0.89,0.05103968253968255,0.2923786848072561,negative,-0.560962,0.5614819999999999,0.219146,0.5718340000000001,0.163917,0.46246,-0.10000000149011612,5.400000095367432,Catalonia Independence,2017-12-15T14:28:02.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Not everyone has time for Catalan independence,"The shepherds of Spain's Pyrenees have their own language, culture and concerns. They spoke to Al Jazeera about their views on Catalonia and Catalan independence. 
+
+
+The Spanish government has called a snap election in the northwest Catalonia region for December 21.
+The vote follows government leaders in Madrid imposing direct rule on the region, which is threatening to break away after a secession referendum.
+But 10,000 people living in a remote valley high in the mountains between Catalonia and France do not feel affinity to Catalonia and have little time for the Catalan independence movement.
+
+Al Jazeera's Karl Penhaul reports from the Aran Valley, Spain.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'skiing', 'al jazeera', 'catalonian referendum', 'aljazeera', 'catalan independence', 'aljazeera english', 'direct rule', 'al jazeera english', 'europenews', 'secession referendum', 'catalan', 'remote valley', 'culture', 'snap elections', 'aran valley', 'france', 'madrid', 'europe', 'movement', 'affinity', 'catalonia'",PT2M45S,165,3

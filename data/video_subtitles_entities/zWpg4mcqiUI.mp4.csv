@@ -1,0 +1,166 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zWpg4mcqiUI,Association of,Organization,NONE,NONE,0.208458,neutral,0.0,0.08292100000000001,0.15647,0.528365,0.056169000000000004,0.019758,1,1,Association of,Association of,Association of,Association of,associ of,associ of,assocy of,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,CDC,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.34326,negative,-0.763691,0.273241,0.153955,0.040372000000000005,0.300674,0.464268,2,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Denmark,Location,"Brand, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Denmark,0.2419530000000001,negative,-0.338121,0.205578,0.143095,0.30606300000000003,0.074895,0.11330499999999999,1,1,Denmark,Denmark,Denmark,Denmark,denmark,denmark,denmark,http://en.wikipedia.org/wiki/Denmark,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,England,Location,Country,NONE,0.21601399999999998,neutral,0.0,0.286977,0.08145,0.49736099999999994,0.082009,0.05294600000000002,1,1,England,England,England,England,england,england,england,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.243758,negative,-0.78676,0.348796,0.062911,0.161577,0.383918,0.299565,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,FDA,Organization,NONE,NONE,0.21774000000000002,negative,-0.7321350000000001,0.323328,0.11463399999999999,0.05176,0.13452,0.150671,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Finland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Profession, Country",http://dbpedia.org/resource/Finland,0.241615,negative,-0.6468729999999999,0.16910799999999998,0.178975,0.10326600000000001,0.29670799999999997,0.172697,1,1,Finland,Finland,Finland,Finland,finland,finland,finland,http://en.wikipedia.org/wiki/Finland,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,McDonald,Company,NONE,NONE,0.219873,negative,-0.35526399999999997,0.473812,0.123451,0.14291600000000002,0.264818,0.187946,1,1,McDonald,McDonald,McDonald,McDonald,mcdonald,mcdonald,mcdonald,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Moretti,Person,NONE,NONE,0.264187,positive,0.825148,0.013144,0.015462,0.808636,0.10352,0.05658,1,1,Moretti,Moretti,Moretti,Moretti,moretti,moretti,morett,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Russell,Person,NONE,NONE,0.211921,negative,-0.750962,0.45795600000000003,0.133394,0.289227,0.14821199999999998,0.138783,1,1,Russell,Russell,Russell,Russell,russel,russel,russel,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Sweden,Location,"SportsTeam, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Sweden,0.226769,negative,-0.393258,0.602821,0.18146600000000002,0.10164,0.136765,0.11655499999999999,1,1,Sweden,Sweden,Sweden,Sweden,sweden,sweden,swed,http://en.wikipedia.org/wiki/Sweden,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.226527,negative,-0.44841400000000003,0.38043899999999997,0.387858,0.098298,0.102452,0.227147,1,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,crack cocaine,Drug,NONE,NONE,0.35836399999999996,negative,-0.503184,0.173502,0.646334,0.052388,0.347092,0.11251400000000003,2,1,crack cocaine,crack cocain,crack cocain,crack cocain,crack cocain,crack cocain,crack cocain,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,hepatitis B vaccine,Drug,NONE,NONE,0.894071,negative,-0.6845600000000001,0.47124399999999994,0.128329,0.051681,0.349441,0.280534,3,1,hepatitis B vaccine,hepat B vaccin,hepat B vaccin,hepatit B vaccin,hepat B vaccin,hepat b vaccin,hepatit b vaccin,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8
+zWpg4mcqiUI,two months,Quantity,NONE,NONE,0.208458,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two month,two month,two month,two month,two month,two month,two month,NONE,0.8491,0.07200000000000001,0.07400000000000001,0.8540000000000001,0.11355496696286176,0.4967859421280474,negative,-0.5824060000000001,0.112031,0.58695,0.581785,0.547175,0.13344,-0.10000000149011612,26.5,Vaccination,2016-05-16T18:58:51.000Z,UCwc0nUV55sTXXwS2E8UchmA,Ep 03- The One Vaccine Newborns Must Avoid [My Incredible Opinion],"Well-meaning nurses will attempt to inject your baby with a vaccination before they are a few hours old. Are there any vaccinations you can safely skip? I’m Forrest Maready and this is my incredible opinion.
+
+Do aluminum vaccine adjuvants contribute to the rising prevalence of autism?
+http://www.ncbi.nlm.nih.gov/pubmed/22099159
+
+Hepatitis B immunization induces higher antibody and memory Th2 responses in new-borns than adults.
+http://www.ncbi.nlm.nih.gov/pubmed/14670334
+
+
+On Twitter:
+twitter.com/forrrestmaready",My Incredible Opinion with Forrest Maready,"vaccines', 'health', 'science', 'parenting', 'medicine', 'opinion'",PT7M6S,426,8

@@ -1,0 +1,65 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+KUvObwB7q_A,AFC,Organization,NONE,NONE,0.25321,neutral,0.0,0.372647,0.129052,0.229564,0.162704,0.021296000000000002,1,1,AFC,AFC,AFC,AFC,afc,afc,afc,NONE,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.42029399999999995,neutral,0.0,0.46141899999999997,0.051039999999999995,0.11035999999999999,0.23669600000000002,0.16202,3,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.22715700000000005,neutral,0.0,0.4371640000000001,0.049373,0.071635,0.16807,0.15900999999999998,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,Ethiopia,Location,Country,http://dbpedia.org/resource/Ethiopia,0.24286799999999997,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Ethiopia,Ethiopia,Ethiopia,Ethiopia,ethiopia,ethiopia,ethiop,http://en.wikipedia.org/wiki/Ethiopia,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,Ghana,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Ghana,0.574833,positive,0.617429,0.41544,0.044913999999999996,0.12216600000000001,0.13810899999999998,0.152929,3,1,Ghana,Ghana,Ghana,Ghana,ghana,ghana,ghan,http://en.wikipedia.org/wiki/Ghana,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,Kenya,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Kenya,0.5726899999999999,positive,0.617429,0.41544,0.044913999999999996,0.12216600000000001,0.13810899999999998,0.152929,3,1,Kenya,Kenya,Kenya,Kenya,kenya,kenya,keny,http://en.wikipedia.org/wiki/Kenya,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,Muhammad,Person,FoundingFigure,http://dbpedia.org/resource/Muhammad,0.24286100000000002,neutral,0.0,0.4371640000000001,0.049373,0.071635,0.16807,0.15900999999999998,1,1,Muhammad,Muhammad,Muhammad,Muhammad,muhammad,muhammad,muhammad,http://en.wikipedia.org/wiki/Muhammad,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3
+KUvObwB7q_A,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.22489299999999998,neutral,0.0,0.313222,0.083092,0.080934,0.45554399999999995,0.24137399999999998,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9809,0.06,0.145,0.7959999999999999,0.08941798941798941,0.3112874779541446,positive,0.47643,0.11896500000000006,0.134006,0.513545,0.091614,0.164901,0.0,2.5,Free Trade,2018-05-11T15:48:18.000Z,UCMeYPU1YfXjxsUa6QXWsfjg,"Kenya, Ghana first to ratify continental free-trade deal","Kenya and Ghana have made history as the first countries to ratify the African Continental Free-Trade Area agreement. Chairperson of the African Union Commission, Moussa Faki Mahamat, says it's vital that other members follow suit.  CGTN's Girum Chala has more.
+
+Subscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY
+
+Follow us on:
+
+Facebook: https://www.facebook.com/cgtnafrica/
+Twitter: https://twitter.com/cgtnafrica",CGTN Africa,"Africa', 'News', 'CGTN Africa', 'Girum Chala', 'Kenya', 'Ghana', 'CFTA', 'Continental Free Trade Area'",PT2M45S,165,3

@@ -1,0 +1,36 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DHBbSWauxGo,China,Location,Country,NONE,0.596278,neutral,0.0,0.410934,0.085518,0.242015,0.320472,0.069715,1,1,China,China,China,China,china,china,chin,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,Garda,Location,City,"http://dbpedia.org/resource/Garda,_Veneto",0.601213,neutral,0.0,0.551655,0.279351,0.17516500000000002,0.090172,0.051653,1,1,Garda,Garda,Garda,Garda,garda,garda,gard,"http://en.wikipedia.org/wiki/Garda,_Veneto",0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,Kemal,Person,NONE,NONE,0.630138,neutral,0.0,0.24718,0.155599,0.041789,0.370843,0.456793,1,1,Kemal,Kemal,Kemal,Kemal,kemal,kemal,kem,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,National Defense organization,Organization,NONE,NONE,0.731901,neutral,0.0,0.5385300000000001,0.12120399999999999,0.010790000000000001,0.524706,0.07877,1,1,National Defense organization,National Defense organ,National Defense organ,National Defense org,nation defens organ,nation defens organ,nat defens org,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,Trey,Person,NONE,NONE,0.552454,positive,0.604585,0.4935850000000001,0.040722,0.431345,0.034036000000000004,0.021381999999999998,1,1,Trey,Trey,Trey,Trey,trey,trey,trey,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,Weber,Person,NONE,NONE,0.605777,neutral,0.0,0.24718,0.155599,0.041789,0.370843,0.456793,1,1,Weber,Weber,Weber,Weber,weber,weber,web,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3
+DHBbSWauxGo,producer,JobTitle,NONE,NONE,0.756188,positive,0.718188,0.294331,0.031326,0.435233,0.06615700000000001,0.061939,2,1,producer,produc,produc,produc,produc,produc,produc,NONE,0.9605,0.042,0.121,0.8370000000000001,0.14455441110613526,0.4511672235810167,positive,0.533327,0.111393,0.5895640000000001,0.634914,0.096399,0.146145,0.10000000149011612,6.099999904632568,Free Trade,2013-05-29T12:25:29.000Z,UCvU4p_w08osQsrNi_I4ZtDA,Talking point: Protectionism v. free trade,"Should the EU market be more open or more protected? Are anti-dumping measures and new trade defence instruments the right way forward? We ask two MEPs. 
+
+Comment on European Parliament Facebook page: http://www.facebook.com/europeanparliament
+
+EuroparlTV video ID: 8fe0ff8e-5d33-4902-92db-a1cb014b2b02",European Parliament,"Internal market', 'Trade', 'Free trade', 'Dumping', 'Anti-dumping', 'Reciprocity', 'Trade defence measures'",PT2M6S,126,3

@@ -1,0 +1,209 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Rzxr9FeZf1g,15 year,Quantity,NONE,NONE,0.214392,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15 year,15 year,15 year,15 year,15 year,15 year,15 year,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,Addison,Person,NONE,NONE,0.22289,negative,-0.343452,0.590268,0.298862,0.059681,0.09249299999999999,0.272457,1,1,Addison,Addison,Addison,Addison,addison,addison,addison,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,America,Location,Continent,NONE,0.237006,negative,-0.848269,0.24939899999999998,0.10488800000000001,0.045945,0.147396,0.634857,1,1,America,America,America,America,america,america,americ,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,Dean,Person,NONE,NONE,0.214392,positive,0.266296,0.722278,0.18754300000000002,0.153129,0.020675,0.03177,1,1,Dean,Dean,Dean,Dean,dean,dean,dean,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.239646,negative,-0.708282,0.460704,0.06832,0.026026999999999998,0.041405000000000004,0.5732079999999999,1,1,Google,googl,googl,googl,googl,googl,googl,http://en.wikipedia.org/wiki/Google,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,MMR vaccine,Drug,NONE,NONE,0.251637,negative,-0.6431359999999999,0.247604,0.1898,0.140167,0.138567,0.249073,1,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,autism,HealthCondition,"DiseaseOrMedicalCondition, Disease, OrganizationSector",http://dbpedia.org/resource/Autism,0.8387180000000001,negative,-0.603584,0.5113880000000001,0.547466,0.188669,0.092943,0.491829,11,1,autism,autism,autism,aut,autism,autism,aut,http://en.wikipedia.org/wiki/Autism,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10
+Rzxr9FeZf1g,ninety-nine percent,Quantity,NONE,NONE,0.214392,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ninety-nine percent,ninety-nin percent,ninety-nin percent,ninety-nine perc,ninety-nin percent,ninety-nin percent,ninety-nine perc,NONE,0.1381,0.102,0.103,0.795,0.0474167380450803,0.455538579067991,negative,-0.522915,0.162169,0.529522,0.5733560000000001,0.487846,0.130421,-0.20000000298023224,24.899999618530273,Vaccination,2015-02-19T20:53:47.000Z,UCZYTClx2T1of7BRZ86-8fow,The Science of Anti-Vaccination,"Fewer children in the United States are getting vaccinated. That’s bad news for those kids, and also for public health in general. Often, the response is to argue and debate and get angry at people who are we see as making terrible, irrational decisions. Instead of doing that, let’s use science to understand why this is happening in the first place.
+
+Hosted by: Hank Green
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow
+
+Or help support us by subscribing to our page on Subbable: https://subbable.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+Sources:
+Meta-Analysis of the Safety of Vaccines: http://pediatrics.aappublications.org/content/134/2/325
+The Internet and the Psychology of Vaccination Decisions: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19849
+Naturalness Bias: http://www.ncbi.nlm.nih.gov/pubmed/18319507
+Omission Bias and Vaccines: http://mdm.sagepub.com/content/14/2/118
+Difficulty in changing minds once they’re made: http://pediatrics.aappublications.org/content/early/2014/02/25/peds.2013-2365
+Onset Patterns of Autism: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857525/
+Bad is Stronger than Good - Negativity Bias: http://assets.csom.umn.edu/assets/71516.pdf
+Parental Vaccine Decision Making: http://www.ncbi.nlm.nih.gov/pubmed/24011751
+Read more about Risk Perception: https://en.wikipedia.org/wiki/Risk_perception
+And Explanatory Style: https://en.wikipedia.org/wiki/Explanatory_style
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm",SciShow,"vaccines', 'vaccinations', 'anti-vaxxers', 'autism', 'autism spectrum disorder', 'psychology', 'social psychology', 'cognitive psychology', 'cognitive bias', 'negativity bias', 'confirmation bias', 'explanatory attribution', 'pattern recognition', 'risk perception', 'cognition', 'science', 'hank green', 'sci show', 'Vaccine Controversies', 'Vaccination (Field Of Study)', 'Vaccine (Drug Class)'",PT9M16S,556,10

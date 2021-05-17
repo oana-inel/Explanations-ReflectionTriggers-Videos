@@ -1,0 +1,148 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+PEA9iVwA_SM,David Hale,Person,NONE,NONE,0.665675,positive,0.692375,0.23109699999999997,0.10365,0.346437,0.119459,0.163806,1,1,David Hale,David Hale,David Hale,David Hale,david hale,david hale,david hal,NONE,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,Joshua Shaw,Person,VisualArtist,http://dbpedia.org/resource/Joshua_Shaw,0.807369,neutral,0.0,0.105598,0.058453,0.281675,0.084108,0.09057,2,1,Joshua Shaw,Joshua Shaw,Joshua Shaw,Joshua Shaw,joshua shaw,joshua shaw,joshu shaw,http://en.wikipedia.org/wiki/Joshua_Shaw,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,Lamar,Person,NONE,NONE,0.6361060000000001,neutral,0.0,0.181075,0.13422699999999999,0.370288,0.049717000000000004,0.046335,1,1,Lamar,Lamar,Lamar,Lamar,lamar,lamar,lam,NONE,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,Mahalo Mona,Person,NONE,NONE,0.7599,negative,-0.8490340000000001,0.401208,0.342783,0.030157999999999997,0.28071599999999997,0.332492,1,1,Mahalo Mona,Mahalo Mona,Mahalo Mona,Mahalo Mona,mahalo mona,mahalo mona,mahalo mon,NONE,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,Ms. Von Hayek,Person,Philosopher,http://dbpedia.org/resource/Friedrich_Hayek,0.7387520000000001,positive,0.692375,0.23109699999999997,0.10365,0.346437,0.119459,0.163806,1,1,Ms . Von Hayek,Ms . Von Hayek,Ms . Von Hayek,Ms . Von Hayek,Ms . von hayek,ms . von hayek,ms . von hayek,http://en.wikipedia.org/wiki/Friedrich_Hayek,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,Sebastian,Person,NONE,NONE,0.483379,neutral,0.0,0.11582200000000001,0.06480599999999999,0.24893,0.08277799999999999,0.085198,1,1,Sebastian,Sebastian,Sebastian,Sebastian,sebastian,sebastian,sebast,NONE,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3
+PEA9iVwA_SM,partner,JobTitle,NONE,NONE,0.534617,negative,-0.8490340000000001,0.401208,0.342783,0.030157999999999997,0.28071599999999997,0.332492,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.6959,0.085,0.119,0.795,0.08750000000000001,0.6212606837606838,negative,-0.385846,0.6952229999999999,0.6141479999999999,0.6014550000000001,0.14252,0.104531,0.10000000149011612,4.400000095367432,Free Trade,2017-08-11T00:50:34.000Z,UC9xrfT_rWNmPcr-9bP9i4Vw,"Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone","August 10, 2017 (Persian calendar 1396/5/19)
+
+Mokran Free Trade & Industrial Zone (منطقه آزاد تجاري مكران) official website
+http://www.mokran.ir
+
+Hormozgan province (استان هرمزگان)
+http://en.wikipedia.org/wiki/Hormozgan_Province
+
+Jask county (شهرستان جاسك)
+http://en.wikipedia.org/wiki/Jask_County
+
+Mokran port (بندر مكران)
+http://en.wikipedia.org/wiki/Makran
+
+Mokran port (بندر مكران) Geo coordinate
+25.30541°N, 60.64108°E
+
+Makran مکران is a semi-desert coastal strip in Balochistan, in Pakistan and Iran, along the coast of the Persian Gulf خليج فارس and the Gulf of Oman خليج عمان.
+
+Iran & Oman extending economic ties, Mokran Free Trade & Industrial Zone
+گسترش همكاري اقتصادي ايران و عمان",Persian_boy,"Iran', 'Oman', 'Mokran Free Trade & Industrial Zone', 'extending economic ties'",PT2M3S,123,3

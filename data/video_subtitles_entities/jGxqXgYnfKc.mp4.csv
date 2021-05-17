@@ -1,0 +1,41 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jGxqXgYnfKc,Catalan Regional government,Organization,NONE,NONE,0.909057,negative,-0.366241,0.33269899999999997,0.156681,0.108278,0.233106,0.197881,1,1,Catalan Regional government,Catalan Regional govern,Catalan Regional govern,Catalan Regional govern,catalan region govern,catalan region govern,cat reg govern,NONE,-0.7351,0.117,0.0,0.883,0.125,0.475,neutral,0.0,0.279502,0.061167999999999986,0.489642,0.15525,0.289352,-0.30000001192092896,0.6000000238418579,Catalonia Independence,2014-11-04T20:06:32.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain suspends symbolic vote on Catalan independence,"Spain's constitutional court has suspended a symbolic referendum planned by the Catalan regional government for Sunday.
+
+A full independence referendum planned for November 9 was suspended in September so the “consultation of citizens” was proposed instead.
+
+Tens of…
+READ MORE : http://www.euronews.com/2014/11/04/spain-suspends-symbolic-vote-on-catalan-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain'",PT21S,21,1
+jGxqXgYnfKc,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.5312859999999999,negative,-0.366241,0.0,0.0,0.0,0.0,0.0,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.7351,0.117,0.0,0.883,0.125,0.475,neutral,0.0,0.279502,0.061167999999999986,0.489642,0.15525,0.289352,-0.30000001192092896,0.6000000238418579,Catalonia Independence,2014-11-04T20:06:32.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain suspends symbolic vote on Catalan independence,"Spain's constitutional court has suspended a symbolic referendum planned by the Catalan regional government for Sunday.
+
+A full independence referendum planned for November 9 was suspended in September so the “consultation of citizens” was proposed instead.
+
+Tens of…
+READ MORE : http://www.euronews.com/2014/11/04/spain-suspends-symbolic-vote-on-catalan-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Independence', 'Spain'",PT21S,21,1

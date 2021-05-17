@@ -1,0 +1,148 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+UO0SreBf6Vo,50 years,Quantity,NONE,NONE,0.373162,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,China,Location,Country,NONE,0.426245,negative,-0.106873,0.25305500000000003,0.132694,0.20558,0.46359300000000003,0.140924,2,1,China,China,China,China,china,china,chin,NONE,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,Cuba,Location,"HumanLanguage, GeographicFeature, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Cuba,0.373162,negative,-0.634832,0.23586700000000002,0.12136,0.542094,0.027585000000000002,0.045094,1,1,Cuba,Cuba,Cuba,Cuba,cuba,cuba,cub,http://en.wikipedia.org/wiki/Cuba,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,Fidel Castro,Person,"Politician, President, AwardWinner, MilitaryCommander, OperaCharacter, PoliticalAppointer, TVActor",http://dbpedia.org/resource/Fidel_Castro,0.43812,neutral,0.0,0.516828,0.060429,0.130925,0.185349,0.19853800000000002,1,1,Fidel Castro,Fidel Castro,Fidel Castro,Fidel Castro,fidel castro,fidel castro,fidel castro,http://en.wikipedia.org/wiki/Fidel_Castro,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.918464,negative,-0.418191,0.521171,0.099526,0.500196,0.5537340000000001,0.13683499999999998,6,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,Wood Products,Company,NONE,NONE,0.412239,negative,-0.634832,0.23586700000000002,0.12136,0.542094,0.027585000000000002,0.045094,1,1,Wood Products,Wood Products,Wood Products,Wood Products,wood product,wood product,wood produc,NONE,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6
+UO0SreBf6Vo,milk,Quantity,NONE,NONE,0.373162,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,milk,milk,milk,milk,milk,milk,milk,NONE,0.994,0.031,0.097,0.872,0.14018224573780128,0.4362874779541448,positive,0.369305,0.138504,0.504934,0.224687,0.086752,0.476174,0.0,10.5,Free Trade,2016-02-04T20:28:25.000Z,UCAgqv4n_23LscxFoN-EXoRg,Free Trade and Protectionism Unit:  Administrative Barriers,"Your IB Economics Course Companion!
+This is video 8 of 8 videos in “The Free Trade and Protectionism Series”.  Watch the entire series right here:  https://www.youtube.com/playlist?list...
+
+As a teacher of IB Economics in Santiago, Chile, these videos were created to help Standard Level students navigate their way through their two-year course of study.  I have made these videos public in the hope that they might be helpful to other economics students around the world.
+
+It is important to note that I use Jocelyn Blink and Ian Dorton's ""IB Economics Course Companion"" as the primary text in class.  As a result, many of these videos use this text as source material.  I have found it to be an excellent resource for students.  Another source you may find helpful is Jason Welker’s site www.econclassroom.com.  Welker’s site and course companions are excellent and have served as another source for these videos.  Thank you Jocelyn, Ian, and Jason.
+
+I hope you find these videos helpful to your study of IB Economics and please let me know if you have any suggestions to improve them.  
+
+Enjoy!
+
+Brad Cartwright .
+
+Follow on Twitter:  IB Specific News and Analysis Daily!
+https://twitter.com/econ_ib .
+
+Follow on Instagram:  
+https://www.instagram.com/econcoursecompanion/
+
+Support Econ Course Companion:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQS377QG4VM4G&source=url",Econ Course Companion,"admisistrative barriers', 'Economics Course Companion!', 'IB Economics Course Companion', 'course', 'Your IB Economics Course Companion!', 'protectionism', 'cartwright', 'free trade', 'ib economics', 'econ', 'companion', 'ib', 'international', 'ib econ', 'Economics Course Companion', 'IB', 'economics', 'Econ course companion', 'Econ Course Companion', 'nido', 'IB Course Companion'",PT5M13S,313,6

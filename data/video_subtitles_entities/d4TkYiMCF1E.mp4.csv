@@ -1,0 +1,400 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+d4TkYiMCF1E,43%,Quantity,NONE,NONE,0.20621199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,43 %,43 %,43 %,43 %,43 %,43 %,43 %,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Anthony Costello,Person,NONE,NONE,0.238984,neutral,0.0,0.165248,0.08108,0.338235,0.166453,0.179066,1,1,Anthony Costello,Anthony Costello,Anthony Costello,Anthony Costello,anthoni costello,anthoni costello,anthony costello,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Aurora,Location,City,"http://dbpedia.org/resource/Aurora,_Illinois",0.273332,negative,-0.8776709999999999,0.422285,0.241458,0.019952,0.06916,0.089487,1,1,Aurora,Aurora,Aurora,Aurora,aurora,aurora,auror,"http://en.wikipedia.org/wiki/Aurora,_Illinois",-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.308718,negative,-0.7583850000000001,0.603946,0.407905,0.04233,0.084989,0.12354000000000001,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Castilla,Location,City,NONE,0.239839,neutral,0.0,0.239569,0.023235,0.2865,0.022505,0.172894,1,1,Castilla,Castilla,Castilla,Castilla,castilla,castilla,castill,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Catalan Independence Movement,Organization,NONE,NONE,0.305742,neutral,0.0,0.11754500000000001,0.20632199999999998,0.481389,0.251839,0.031452999999999995,1,1,Catalan Independence Movement,Catalan Independence Movement,Catalan Independence Movement,Catalan Independence Movement,catalan independ movement,catalan independ movement,cat independ mov,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Catalonia,Location,Region,NONE,0.915557,positive,0.8350219999999999,0.188672,0.130192,0.311433,0.17868599999999998,0.125162,9,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Catherine Lowe,Person,NONE,NONE,0.23231300000000002,neutral,0.0,0.22908299999999998,0.155217,0.533824,0.04969,0.06796100000000001,1,1,Catherine Lowe,Catherine Lowe,Catherine Lowe,Catherine Lowe,catherin low,catherin low,catherin low,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Enfants venkat,Person,NONE,NONE,0.2497010000000001,neutral,0.0,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,Enfants venkat,enfant venkat,enfant venkat,enf venk,enfant venkat,enfant venkat,enf venk,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,John Mark Sanchez,Person,"Athlete, FootballPlayer",http://dbpedia.org/resource/Mark_Sanchez,0.292603,neutral,0.0,0.331907,0.197967,0.13353199999999998,0.176571,0.142351,1,1,John Mark Sanchez,John Mark Sanchez,John Mark Sanchez,John Mark Sanchez,john mark sanchez,john mark sanchez,john mark sanchez,http://en.wikipedia.org/wiki/Mark_Sanchez,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.42990500000000004,negative,-0.027074,0.24191100000000001,0.11435799999999999,0.110295,0.550758,0.269349,4,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Parliament,Organization,NONE,NONE,0.61144,negative,-0.135666,0.37201300000000004,0.539621,0.211206,0.1151,0.11352899999999999,6,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,President,JobTitle,NONE,NONE,0.318185,negative,-0.411137,0.306078,0.22987399999999997,0.19868,0.107777,0.233425,2,1,President,President,President,President,presid,presid,presid,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Republic of Catalonia,Organization,NONE,NONE,0.40171100000000004,neutral,0.0,0.195428,0.115121,0.464739,0.1738,0.059612,1,1,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,republ of catalonia,republ of catalonia,republ of catalon,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Socialist Party,Organization,NONE,NONE,0.48828999999999995,positive,0.824783,0.24466100000000002,0.096567,0.546113,0.134665,0.10981500000000001,5,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.313725,positive,0.824783,0.323778,0.074561,0.5018739999999999,0.077636,0.10260699999999999,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Spanish government,Organization,NONE,NONE,0.4688229999999999,negative,-0.658465,0.654193,0.11833900000000001,0.073757,0.17539000000000002,0.21994899999999998,4,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,United Nations,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.24353699999999998,positive,0.5700029999999999,0.333391,0.055510000000000004,0.24294000000000002,0.250488,0.202681,1,1,United Nations,United Nations,United Nations,United Nations,unit nation,unit nation,unit nat,http://en.wikipedia.org/wiki/United_Nations,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,Venecia,Location,City,"http://dbpedia.org/resource/Venecia,_Antioquia",0.2294070000000001,neutral,0.0,0.37614699999999995,0.203706,0.133267,0.058712,0.189225,1,1,Venecia,Venecia,Venecia,Venecia,venecia,venecia,venec,"http://en.wikipedia.org/wiki/Venecia,_Antioquia",-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,jean-marc gusandjess,Person,NONE,NONE,0.20621199999999998,neutral,0.0,0.188564,0.08277000000000001,0.533862,0.118684,0.150335,1,1,jean-marc gusandjess,jean-marc gusandjess,jean-marc gusandjess,jean-marc gusandjess,jean-marc gusandjess,jean-marc gusandjess,jean-marc gusandjess,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10
+d4TkYiMCF1E,two weeks,Quantity,NONE,NONE,0.20621199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two week,two week,two week,two week,two week,two week,two week,NONE,-0.9955,0.108,0.075,0.8170000000000001,-0.0021086070791953185,0.3886540616246498,negative,-0.27515500000000004,0.14234000000000002,0.559389,0.468598,0.141289,0.135027,0.0,19.399999618530273,Catalonia Independence,2017-10-27T15:26:48.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""We had the responsibility to proclaim the Catalan Republic"", pro-independence Catalan MP Antoni Castella tells FRANCE24''s Aurore Cloe Dupuis.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Antoni Castella', 'Aurore Cloé Dupuis'",PT9M3S,543,10

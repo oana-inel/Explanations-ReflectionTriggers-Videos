@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+RhD6hEVxrZA,90 years,Quantity,NONE,NONE,0.203174,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 year,90 year,90 year,90 year,90 year,90 year,90 year,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Catalonia,Location,City,NONE,0.869518,neutral,0.0,0.362983,0.084964,0.251253,0.22373600000000002,0.099176,6,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Century Catalonia,Facility,NONE,NONE,0.48979700000000004,neutral,0.0,0.371231,0.147809,0.249756,0.091036,0.133597,1,1,Century Catalonia,Century Catalonia,Century Catalonia,Century Catalonia,centuri catalonia,centuri catalonia,century catalon,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Charlemagne,Person,"Politician, Monarch, NoblePerson, OperaCharacter",http://dbpedia.org/resource/Charlemagne,0.2061,neutral,0.0,0.302727,0.047397,0.36493000000000003,0.24839499999999998,0.108697,1,1,Charlemagne,Charlemagne,Charlemagne,Charlemagne,charlemagn,charlemagn,charlemagn,http://en.wikipedia.org/wiki/Charlemagne,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.379731,neutral,0.0,0.201605,0.02037,0.437485,0.265846,0.119335,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.22853099999999998,neutral,0.0,0.35129699999999997,0.052379999999999996,0.174493,0.29185700000000003,0.084975,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Frankish Empire,Facility,NONE,NONE,0.267681,neutral,0.0,0.371231,0.147809,0.249756,0.091036,0.133597,1,1,Frankish Empire,Frankish Empire,Frankish Empire,Frankish Empire,frankish empir,frankish empir,frank empir,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Franks,Person,NONE,NONE,0.203174,neutral,0.0,0.302727,0.047397,0.36493000000000003,0.24839499999999998,0.108697,1,1,Franks,Franks,Franks,Franks,frank,frank,frank,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Junior census capital of Catalonia,Facility,NONE,NONE,0.5505720000000001,neutral,0.0,0.132471,0.08519,0.191733,0.075538,0.091797,1,1,Junior census capital of Catalonia,Junior censu capit of Catalonia,Junior census capit of Catalonia,Junior cens capit of Catalonia,junior censu capit of catalonia,junior census capit of catalonia,juny cens capit of catalon,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Northern Spain,Location,"AdministrativeDivision, Country, GovernmentalJurisdiction, Kingdom, Region",http://dbpedia.org/resource/Spain,0.288691,neutral,0.0,0.302727,0.047397,0.36493000000000003,0.24839499999999998,0.108697,1,1,Northern Spain,Northern Spain,Northern Spain,Northern Spain,northern spain,northern spain,northern spain,http://en.wikipedia.org/wiki/Spain,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Southern France,Location,Region,NONE,0.21373499999999998,neutral,0.0,0.371231,0.147809,0.249756,0.091036,0.133597,1,1,Southern France,southern France,southern France,southern France,southern franc,southern franc,southern frant,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.364333,neutral,0.0,0.280361,0.027986,0.370987,0.281281,0.108751,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,Tonto National Bank,Facility,NONE,NONE,0.242983,negative,-0.6700699999999999,0.5892109999999999,0.13429000000000002,0.10250799999999999,0.254828,0.18451199999999998,1,1,Tonto National Bank,Tonto National Bank,Tonto National Bank,Tonto National Bank,tonto nation bank,tonto nation bank,tonto nat bank,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,commissioner,JobTitle,NONE,NONE,0.207529,neutral,0.0,0.470896,0.190192,0.195876,0.084566,0.106198,1,1,commissioner,commission,commission,commit,commission,commission,commit,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3
+RhD6hEVxrZA,two centuries,Quantity,NONE,NONE,0.203174,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two century,two centuri,two centuri,two century,two centuri,two centuri,two century,NONE,0.5106,0.0,0.021,0.979,0.10404040404040404,0.3512626262626263,negative,-0.444091,0.111302,0.5911569999999999,0.525544,0.087995,0.170303,0.0,1.5,Catalonia Independence,2013-12-14T23:49:14.000Z,UC0BRCygnZxC1Ev9XaobNFZQ,2014 Catalonia Independence Referendum,"9th November 2014 - CATALONIA INDEPENDENCE REFERENDUM
+
+links:
+BBC (1979): Catalonia, a region apart
+https://www.youtube.com/watch?v=mt31tCJdsLE
+
+GLOBO BRASIL - NEWS: Catalunha
+https://www.youtube.com/watch?v=ecZU0aldqAU",Nanroig141,"catalunya', '2014', 'referendum', 'SISI', 'Catalonia (Spanish Autonomous Community)', 'CATALONIA', 'INDEPENDENCE', 'SCOTLAND', 'SPAIN', 'BARCELONA', 'history', 'historia', 'Glasgow', 'Scottish', 'Edinburgh', 'cataluña', 'catalunha', 'and', 'for', 'europe', 'FC Barcelona (Football Team)', '#9112014', '#sisi', 'catalan', 'catalonia', 'Scottish People (Ethnicity)', 'Documentary', 'Live', 'Civil', 'Celtic', 'Culture', 'Band', '#9/11/2014', 'mandela', 'state'",PT2M51S,171,3

@@ -1,0 +1,481 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+lVDOPDAVxN0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.186198,negative,-0.313227,0.335034,0.063233,0.23734299999999997,0.235936,0.187576,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Catalonia,Location,City,NONE,0.830003,negative,-0.241182,0.49765,0.6007779999999999,0.46945299999999995,0.09743099999999999,0.41318900000000003,16,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Catalonia,Location,Region,NONE,0.27489600000000003,positive,0.6085649999999999,0.49765,0.6007779999999999,0.46945299999999995,0.09743099999999999,0.41318900000000003,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Crimea,Location,Country,NONE,0.29604400000000003,negative,-0.319944,0.5534100000000001,0.167723,0.546814,0.126864,0.13178900000000002,4,1,Crimea,Crimea,Crimea,Crimea,crimea,crimea,crime,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Crimea,Location,Region,NONE,0.197624,positive,0.543733,0.5534100000000001,0.167723,0.546814,0.126864,0.13178900000000002,2,1,Crimea,Crimea,Crimea,Crimea,crimea,crimea,crime,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,David Cameron,Person,"Politician, MemberOfParliament, FilmActor, TVActor",http://dbpedia.org/resource/David_Cameron,0.180508,negative,-0.5848800000000001,0.167697,0.627604,0.150002,0.078793,0.030833999999999997,2,1,David Cameron,David Cameron,David Cameron,David Cameron,david cameron,david cameron,david cameron,http://en.wikipedia.org/wiki/David_Cameron,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Espanola,Location,City,"http://dbpedia.org/resource/Española,_New_Mexico",0.163615,negative,-0.240123,0.18689,0.086712,0.322561,0.10991400000000001,0.10783399999999999,1,1,Espanola,Espanola,Espanola,Espanola,espanola,espanola,espanol,"http://en.wikipedia.org/wiki/Española,_New_Mexico",0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.267027,negative,-0.315291,0.401562,0.033305,0.353879,0.19548900000000002,0.084031,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Europe Fortress,Facility,NONE,NONE,0.172037,positive,0.6085649999999999,0.327034,0.016674,0.294916,0.08565199999999999,0.149077,1,1,Europe Fortress,Europe Fortress,Europe Fortress,Europe Fortress,europ fortress,europ fortress,europ fortress,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.255449,positive,0.6085649999999999,0.294714,0.07900900000000001,0.268544,0.1178,0.160332,7,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,European commission,Organization,NONE,NONE,0.161483,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,European commission,European commiss,European commiss,European commit,european commiss,european commiss,europ commit,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.282851,negative,-0.031183999999999996,0.306877,0.059837,0.21806799999999998,0.073899,0.114311,6,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Kira He,Person,NONE,NONE,0.16203399999999998,neutral,0.0,0.49572299999999997,0.078398,0.09036699999999999,0.129075,0.31522100000000003,1,1,Kira He,Kira He,Kira he,Kira he,kira He,kira he,kir he,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.174832,negative,-0.44335,0.062581,0.8975569999999999,0.025524,0.128261,0.025325,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.20044700000000001,neutral,0.0,0.280921,0.36434099999999997,0.19175599999999998,0.25987,0.077385,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,President,JobTitle,NONE,NONE,0.151784,neutral,0.0,0.49572299999999997,0.078398,0.09036699999999999,0.129075,0.31522100000000003,1,1,President,President,President,President,presid,presid,presid,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Russia,Location,Country,http://dbpedia.org/resource/Russia,0.200227,negative,-0.392913,0.506321,0.132384,0.08394800000000001,0.22824099999999997,0.23628200000000002,3,1,Russia,Russia,Russia,Russia,russia,russia,russ,http://en.wikipedia.org/wiki/Russia,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.258802,negative,-0.361969,0.617429,0.037999,0.073371,0.192378,0.216477,4,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.374402,negative,-0.043816,0.508832,0.10637100000000001,0.19605699999999998,0.12190899999999999,0.138449,7,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.209207,neutral,0.0,0.508832,0.10637100000000001,0.19605699999999998,0.12190899999999999,0.138449,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Spanish Minister of Foreign Affairs,Organization,NONE,NONE,0.192662,neutral,0.0,0.673836,0.185304,0.12247100000000001,0.09462000000000001,0.127538,1,1,Spanish Minister of Foreign Affairs,spanish Minister of Foreign Affairs,spanish Minister of Foreign Affairs,span Minister of Foreign Affairs,spanish minist of foreign affair,spanish minist of foreign affair,span min of foreign affair,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Spanish Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Cortes_Generales,0.229054,negative,-0.313227,0.335034,0.063233,0.23734299999999997,0.235936,0.187576,1,1,Spanish Parliament,spanish Parliament,spanish Parliament,span Parliament,spanish parliament,spanish parliament,span parlia,http://en.wikipedia.org/wiki/Cortes_Generales,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.165459,negative,-0.5848800000000001,0.055573000000000004,0.797484,0.133424,0.07016499999999999,0.051898,1,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,UMass,Organization,NONE,NONE,0.17333900000000002,negative,-0.313227,0.335034,0.063233,0.23734299999999997,0.235936,0.187576,1,1,UMass,UMass,UMass,UMass,umass,umass,umass,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,Ukraine,Location,Country,NONE,0.11976700000000001,neutral,0.0,0.134436,0.057286000000000004,0.528138,0.150206,0.035988,1,1,Ukraine,Ukraine,Ukraine,Ukraine,ukrain,ukrain,ukrain,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,William Ray,Person,NONE,NONE,0.188566,neutral,0.0,0.025730000000000003,0.010799,0.311553,0.157502,0.217579,1,1,William Ray,William Ray,William Ray,William Ray,william ray,william ray,william ray,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,euronews,Company,NONE,NONE,0.184751,negative,-0.313227,0.335034,0.063233,0.23734299999999997,0.235936,0.187576,1,1,euronews,euronew,euronew,euronew,euronew,euronew,euronew,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,one day,Quantity,NONE,NONE,0.11976700000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,one day,one day,one day,on day,one day,one day,on day,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,president,JobTitle,NONE,NONE,0.16308,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9
+lVDOPDAVxN0,prime minister,JobTitle,NONE,NONE,0.23454,neutral,0.0,0.351109,0.27775,0.17416600000000002,0.20006600000000002,0.049996,2,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9547,0.065,0.087,0.848,0.07300793650793652,0.4170770975056689,negative,-0.477028,0.140805,0.461027,0.51767,0.148097,0.137352,0.0,13.600000381469727,Catalonia Independence,2014-03-26T17:53:18.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,"Independence from Spain: Catalonia's dream, Europe's dilemma","Artur Mas, the head of the autonomous Catalan government in Spain, is at the forefront of a campaign to hold a referendum on independence from Spain on November 9. The government of Prime Minister Mariano Rajoy in Madrid opposes independence for Catalonia and has rejected the idea of a referendum. The Spanish parliament is set to vote against the plebiscite in a debate on April 8. Artur Mas, who is  backed by secessionists and the Greens, spoke to Euronews' Vicenc Batalla in Barcelona about what...
+READ MORE : http://www.euronews.com/2014/03/26/independence-from-spain-catalonia-s-dream-europe-s-dilemma
+
+What is in the news today? Click to watch: http://eurone.ws/1kb2gOl
+
+euronews: the most watched news channel in Europe
+Subscribe! http://eurone.ws/10ZCK4a
+
+euronews is available in 14 languages: http://eurone.ws/17moBCU
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: http://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'interview', 'Independence', 'Law', 'Barcelona', 'Spain', 'Spanish politics', 'Politics'",PT8M14S,494,9

@@ -1,0 +1,253 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+V76vH_ZxUho,10 ft,Quantity,NONE,NONE,0.344031,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 ft,10 ft,10 ft,10 ft,10 ft,10 ft,10 ft,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,100 kilometer,Quantity,NONE,NONE,0.344031,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,100 kilometer,100 kilomet,100 kilomet,100 kilomet,100 kilomet,100 kilomet,100 kilomet,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.7252,positive,0.390312,0.277499,0.048527,0.275533,0.047554,0.135972,3,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Eastern Seaboard,Location,Region,http://dbpedia.org/resource/East_Coast_of_the_United_States,0.4106800000000001,positive,0.554395,0.036808999999999995,0.06883500000000001,0.667914,0.02027,0.015147,1,1,Eastern Seaboard,Eastern Seaboard,Eastern Seaboard,Eastern Seaboard,eastern seaboard,eastern seaboard,eastern seaboard,http://en.wikipedia.org/wiki/East_Coast_of_the_United_States,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,England,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/England,0.346467,neutral,0.0,0.095774,0.050401999999999995,0.087502,0.025889999999999996,0.076258,1,1,England,England,England,England,england,england,england,http://en.wikipedia.org/wiki/England,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,FTC,Organization,NONE,NONE,0.360271,positive,0.554395,0.036808999999999995,0.06883500000000001,0.667914,0.02027,0.015147,1,1,FTC,FTC,FTC,FTC,ftc,ftc,ftc,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Hunan,Location,Country,NONE,0.354451,positive,0.49953000000000003,0.038132,0.016152,0.806307,0.004832,0.020062,1,1,Hunan,Hunan,Hunan,Hunan,hunan,hunan,hun,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Jason,Person,NONE,NONE,0.344031,neutral,0.0,0.095774,0.050401999999999995,0.087502,0.025889999999999996,0.076258,1,1,Jason,Jason,Jason,Jason,jason,jason,jason,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Jochen Dragon,Person,NONE,NONE,0.6465350000000001,positive,0.554395,0.036808999999999995,0.06883500000000001,0.667914,0.02027,0.015147,2,1,Jochen Dragon,Jochen Dragon,Jochen Dragon,Jochen Dragon,jochen dragon,jochen dragon,joch dragon,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Joe Jezebel,Person,NONE,NONE,0.413137,negative,-0.548499,0.59732,0.138373,0.08128400000000001,0.12028299999999999,0.14896600000000002,1,1,Joe Jezebel,Joe Jezebel,Joe Jezebel,Joe Jezebel,joe jezebel,joe jezebel,joe jezebel,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Logistics Center,Facility,NONE,NONE,0.574368,negative,-0.07909400000000001,0.59732,0.138373,0.08128400000000001,0.12028299999999999,0.14896600000000002,2,1,Logistics Center,Logistics Center,Logistics Center,Logistics Center,logist center,logist center,log cent,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Portis,Person,NONE,NONE,0.348814,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Portis,Portis,Portis,Portis,porti,porti,port,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,Shanghai,Location,City,NONE,0.358566,positive,0.444921,0.110503,0.009343,0.683675,0.005062,0.046922000000000005,1,1,Shanghai,Shanghai,Shanghai,Shanghai,shanghai,shanghai,shangha,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3
+V76vH_ZxUho,youngster River,GeographicFeature,NONE,NONE,0.441284,positive,0.390312,0.277499,0.048527,0.275533,0.047554,0.135972,1,1,youngster River,youngster River,youngster River,youngst River,youngster river,youngster river,youngst riv,NONE,0.9854,0.03,0.142,0.8290000000000001,0.07139366010333753,0.41703672671414616,positive,0.647258,0.115026,0.5687770000000001,0.211227,0.089375,0.076337,0.20000000298023224,3.0999999046325684,Free Trade,2017-03-31T14:31:38.000Z,UCgrNz-aDmcr2uuto8_DL2jg,Zhejiang Free Trade Zone to boost China's ocean economy,"After the opening of seven new free trade zones (FTZs) on April 1 across China, the Yangtze River Economic Belt will embody four FTZs: Chongqing FTZ upstream of the river, the Hubei Province FTZ in the middle, Shanghai at the Yangtze's lower reaches and Zhejiang Province (Zhoushan port) FTZ as the river enters the ocean.
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Watch CGTN Live: https://www.youtube.com/watch?v=L2-Aq7f_BwE
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CGTN', 'Breaking', 'Politics', 'ChinaNews', 'WorldNews', 'FTZ', 'Zhejiang', 'Ocean economy', 'Zhoushan', 'Free Trade', 'Hubei', 'Shanghai', 'Yangtze'",PT2M11S,131,3

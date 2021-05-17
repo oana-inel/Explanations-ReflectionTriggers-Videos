@@ -1,0 +1,225 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qO0toNqFqiA,Aaron,Person,NONE,NONE,0.353513,negative,-0.342417,0.12405799999999999,0.148111,0.028839999999999998,0.38704,0.663021,1,1,Aaron,Aaron,Aaron,Aaron,aaron,aaron,aaron,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.602744,positive,0.223677,0.13381500000000002,0.060528,0.709128,0.057241,0.034422,3,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.428777,neutral,0.0,0.06816900000000001,0.16961600000000002,0.467826,0.369608,0.073098,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Catalan Regional Parliament,Organization,NONE,NONE,0.399618,neutral,0.0,0.291939,0.126927,0.266288,0.341862,0.076278,1,1,Catalan Regional Parliament,Catalan Regional Parliament,Catalan Regional Parliament,Catalan Regional Parliament,catalan region parliament,catalan region parliament,cat reg parlia,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Catalonia,Location,City,NONE,0.353186,negative,-0.59787,0.516441,0.075908,0.22259299999999999,0.030626999999999998,0.095604,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Central asado El estado,Location,City,NONE,0.374639,neutral,0.0,0.118093,0.812243,0.022482,0.053413999999999996,0.08996900000000001,1,1,Central asado El estado,Central asado El estado,Central asado El estado,Central asado El estado,central asado El estado,central asado el estado,cent asado el estado,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.340019,neutral,0.0,0.285174,0.06353500000000001,0.22026700000000002,0.057654,0.133831,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Franco,Person,NONE,NONE,0.358416,negative,-0.538782,0.282405,0.170435,0.046672000000000005,0.304344,0.540114,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,LA,Location,Country,NONE,0.31382600000000005,neutral,0.0,0.118093,0.812243,0.022482,0.053413999999999996,0.08996900000000001,1,1,LA,LA,LA,LA,LA,la,la,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Las líneas aéreas,Facility,NONE,NONE,0.362229,neutral,0.0,0.118093,0.812243,0.022482,0.053413999999999996,0.08996900000000001,1,1,Las líneas aéreas,Las línea aérea,Las línea aérea,Las líneas aérea,la línea aérea,las línea aérea,las líneas aérea,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Los miembros,Location,City,NONE,0.343715,neutral,0.0,0.189681,0.158651,0.24278000000000002,0.186605,0.353662,1,1,Los miembros,Los miembro,Los miembro,Los miembro,lo miembro,los miembro,los miembro,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.73442,negative,-0.653438,0.499625,0.13174,0.08303200000000001,0.144137,0.42879700000000004,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Paul,Person,NONE,NONE,0.37861,positive,0.940837,0.269212,0.034979,0.11330899999999999,0.331723,0.095939,1,1,Paul,Paul,Paul,Paul,paul,paul,paul,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Progressive Society,Organization,NONE,NONE,0.31811,neutral,0.0,0.06816900000000001,0.16961600000000002,0.467826,0.369608,0.073098,1,1,Progressive Society,progress societi,progress societi,progress socy,progress societi,progress societi,progress socy,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Region's University,Organization,NONE,NONE,0.333212,negative,-0.326671,0.138221,0.48698800000000003,0.183942,0.143066,0.304604,1,1,Region 's University,Region 's University,Region 's University,Region 's University,region 's univers,region 's univers,reg 's univers,NONE,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7
+qO0toNqFqiA,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.48327200000000003,negative,-0.363075,0.185783,0.137356,0.287265,0.4712810000000001,0.13225399999999998,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9175,0.087,0.085,0.828,0.04970994405204932,0.3608866231234652,negative,-0.297065,0.491766,0.563737,0.505156,0.1683,0.178431,0.0,9.399999618530273,Catalonia Independence,2017-11-26T19:00:04.000Z,UCHgnQzZY7T9TxhI40BmKJwQ,Catalan Independence: Fighting Franco's Ghost (Part 2),"Our previous report looked at how the current deadlock between Madrid and Catalonia share battlelines with the conflict between the left and right. 
+
+In this second episode, Belal Awad of redfish talks to Catalans who see the surge in support for independence as a chance to begin organising for an alternative future.
+
+Additional footage courtesy of ACN 
+
+
+Find us at: 
+
+Facebook: https://www.facebook.com/Redfishstream/
+Twitter: https://twitter.com/redfishstream
+Instagram: https://www.instagram.com/
+Telegram: https://t.me/redfishstream
+Web: https://redfish.media",redfish,"#redfishstream', 'red fish', 'red fish stream', 'Catalonia', 'independencia', 'autodeterminación', 'selfdetermination', 'alternative future'",PT6M46S,406,7

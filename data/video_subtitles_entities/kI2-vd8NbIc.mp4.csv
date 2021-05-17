@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+kI2-vd8NbIc,2%,Quantity,NONE,NONE,0.34379899999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,2 %,2 %,2 %,2 %,2 %,2 %,2 %,NONE,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2
+kI2-vd8NbIc,20%,Quantity,NONE,NONE,0.34379899999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,20 %,20 %,20 %,20 %,20 %,20 %,20 %,NONE,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2
+kI2-vd8NbIc,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.34379899999999997,negative,-0.36696100000000004,0.364442,0.19716,0.4296640000000001,0.031951,0.059532,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2
+kI2-vd8NbIc,Supply management Trump,Company,NONE,NONE,0.525352,positive,0.8910799999999999,0.149903,0.026726999999999997,0.409378,0.10156799999999999,0.32195100000000004,1,1,Supply management Trump,Supply manag Trump,Supply manag Trump,Supply man Trump,suppli manag trump,suppli manag trump,supply man trump,NONE,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2
+kI2-vd8NbIc,president,JobTitle,NONE,NONE,0.38857800000000003,neutral,0.0,0.195863,0.054773,0.44275299999999995,0.256861,0.11756,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2
+kI2-vd8NbIc,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.716915,negative,-0.799625,0.191584,0.056288,0.561619,0.151529,0.127032,3,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9647,0.083,0.165,0.752,0.20446208112874767,0.5896061140505586,positive,0.407557,0.16683599999999998,0.607911,0.497976,0.129082,0.119753,0.0,4.400000095367432,Free Trade,2018-08-03T12:10:25.000Z,UCj6EKBe990fanr4MSh45Alw,Canadian MP: I'm the only one who supports ‘real free trade’ with U.S.,"Conservative MP Maxime Bernier says his view on supply management makes him the only politician in Ottawa who supports truly free trade between the U.S. and Canada. Bernier says Canada “won’t win” a trade war with the U.S. (Aug. 2)
+
+Use our news video on your website or broadcast: http://www.thecanadianpress.com/multimedia/video/licensed-video/
+
+THE CANADIAN PRESS
+
+https://twitter.com/cdnpress
+https://www.facebook.com/thecanadianpress
+
+
+The Canadian Press is Canada’s most trusted news leader in providing real-time, bilingual multimedia content for online, mobile and emerging platforms.",The Canadian Press,"Maxime Bernier', 'supply management', 'trade war', 'trade dispute', 'Canada US trade', 'Canada trade', 'NAFTA', 'NAFTA negotiations'",PT1M53S,113,2

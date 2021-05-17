@@ -1,0 +1,196 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+y_J9mc24cro,America,Location,Continent,NONE,0.335305,negative,-0.5303140000000001,0.254859,0.10448199999999999,0.12469200000000001,0.129522,0.063818,1,1,America,America,America,America,america,america,americ,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,Boulder school,Organization,NONE,NONE,0.8967729999999999,negative,-0.657583,0.31151999999999996,0.13550399999999999,0.23781799999999997,0.202971,0.109595,8,1,Boulder school,Boulder school,Boulder school,Boulder school,boulder school,boulder school,bould school,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,CEO,JobTitle,NONE,NONE,0.302296,neutral,0.0,0.142262,0.071166,0.177566,0.040684,0.079381,1,1,CEO,CEO,CEO,CEO,ceo,ceo,ceo,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,Colorado,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Colorado,0.586288,negative,-0.5303140000000001,0.190617,0.078569,0.6897770000000001,0.134276,0.095749,6,1,Colorado,Colorado,Colorado,Colorado,colorado,colorado,colorado,http://en.wikipedia.org/wiki/Colorado,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,County by school district,Organization,NONE,NONE,0.38353200000000004,neutral,0.0,0.15729300000000002,0.185315,0.394845,0.18921400000000002,0.049811,1,1,County by school district,County by school district,County by school district,County by school district,counti by school district,counti by school district,county by school district,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,Jared Polis,Person,"Politician, CompanyFounder, U.S.Congressperson",http://dbpedia.org/resource/Jared_Polis,0.402654,neutral,0.0,0.324415,0.046785,0.102372,0.08784199999999999,0.076,1,1,Jared Polis,Jared Polis,Jared Polis,Jared Polis,jare poli,jare poli,jar pol,http://en.wikipedia.org/wiki/Jared_Polis,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,Kyle,Person,NONE,NONE,0.28718,positive,0.9402530000000001,0.13275399999999998,0.078234,0.491512,0.059976,0.013719,1,1,Kyle,Kyle,Kyle,Kyle,kyle,kyle,kyl,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,MMR,HealthCondition,NONE,NONE,0.301065,negative,-0.756529,0.108576,0.059894,0.280791,0.085035,0.063551,1,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,Marshall,Person,NONE,NONE,0.296456,positive,0.8540399999999999,0.012727,0.008695999999999999,0.574745,0.011979,0.021858000000000002,1,1,Marshall,Marshall,Marshall,Marshall,marshal,marshal,marshal,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,executive,JobTitle,NONE,NONE,0.323475,neutral,0.0,0.324415,0.046785,0.102372,0.08784199999999999,0.076,1,1,executive,execut,execut,execut,execut,execut,execut,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,individual School District or school,Organization,NONE,NONE,0.482734,neutral,0.0,0.13952799999999999,0.10583900000000004,0.23746199999999998,0.208718,0.109304,1,1,individual School District or school,individu School District or school,individu School District or school,individ School District or school,individu school district or school,individu school district or school,individ school district or school,NONE,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.34050199999999997,neutral,0.0,0.177769,0.073386,0.591733,0.13522699999999999,0.102136,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5
+y_J9mc24cro,varicella,HealthCondition,"DiseaseOrMedicalCondition, InfectiousDisease, RiskFactor",http://dbpedia.org/resource/Chickenpox,0.299831,negative,-0.756529,0.108576,0.059894,0.280791,0.085035,0.063551,1,1,varicella,varicella,varicella,varicell,varicella,varicella,varicell,http://en.wikipedia.org/wiki/Chickenpox,0.9363,0.035,0.055,0.911,0.08445744507065261,0.3801025756214436,negative,-0.437608,0.113227,0.516799,0.484693,0.095228,0.115893,0.0,13.199999809265135,Vaccination,2019-06-14T03:09:23.000Z,UC72nbKQLSDyiSARhg0Ywj4w,Colorado Governor signs executive order aimed at bolstering vaccination rate,"Nothing requires more kids to be vaccinated. But if you want to know where kids are and are not protected from infectious diseases, we found a website that has all the info you'd ever want.
+
+More local videos here: https://bit.ly/2Pa0d1l
+Subscribe to NEXT: http://bit.ly/2eP1GwI
+
+Stay connected:
+9NEWS Website: http://www.9news.com/
+Facebook: https://www.facebook.com/ilike9news
+Twitter: https://twitter.com/9NEWS
+Instagram: https://www.instagram.com/9newsdenver/
+Google+: https://plus.google.com/+9news/posts
+Snapchat: Denver9NEWS 
+Pinterest: https://www.pinterest.com/9news/
+
+9NEWS (KUSA) is located in Denver, Colorado.",9NEWS,"next', 'local-politics', 'politics', 'health', 'family', 'life', 'local', 'news', 'ott'",PT4M5S,245,5

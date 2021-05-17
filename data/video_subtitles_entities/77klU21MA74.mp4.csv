@@ -1,0 +1,73 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+77klU21MA74,Antonia,Person,NONE,NONE,0.546635,neutral,0.0,0.361585,0.068085,0.564079,0.012461,0.018838,1,1,Antonia,Antonia,Antonia,Antonia,antonia,antonia,anton,NONE,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3
+77klU21MA74,Catalonia,Location,City,NONE,0.798124,positive,0.272891,0.252241,0.13679000000000002,0.31853200000000004,0.079493,0.070908,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3
+77klU21MA74,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.485033,neutral,0.0,0.409659,0.355973,0.20364200000000002,0.128618,0.031355,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3
+77klU21MA74,Jim Garrison,Person,NONE,NONE,0.6584979999999999,positive,0.862498,0.04711,0.591094,0.082334,0.154244,0.087608,2,1,Jim Garrison,Jim Garrison,Jim Garrison,Jim Garrison,jim garrison,jim garrison,jim garrison,NONE,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3
+77klU21MA74,Minister of Foreign Affairs,JobTitle,NONE,NONE,0.588318,positive,0.862498,0.054536,0.619081,0.065318,0.143284,0.07292,1,1,Minister of Foreign Affairs,Minister of Foreign Affairs,Minister of Foreign Affairs,Minister of Foreign Affairs,minist of foreign affair,minist of foreign affair,min of foreign affair,NONE,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3
+77klU21MA74,vice president,JobTitle,NONE,NONE,0.563783,positive,0.862498,0.054536,0.619081,0.065318,0.143284,0.07292,1,1,vice president,vice presid,vice presid,vic presid,vice presid,vice presid,vic presid,NONE,0.9545,0.033,0.14,0.8270000000000001,0.13801020408163264,0.427891156462585,positive,0.450995,0.098587,0.579592,0.184446,0.5033340000000001,0.113908,0.10000000149011612,2.700000047683716,Catalonia Independence,2017-01-25T01:22:11.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan officials seek support for independence referendum in Brussels,"High representatives of Catalonia, including its President Carles Puigdemont, took part in 'The Catalan Referendum' meeting, held in the European Parliament in Brussels, Tuesday. The conference marked the first official visit of the Catalan officials to the European institutions.
+
+Together with Vice President Oriol Junqueras and Minister of Foreign Affairs Raul Romeva, Puidgemont defended Catalonia's right to hold an independence referendum.
+
+Oriol Junqueras, Catalan Vice President (Spanish): ""What we want is to vote. To vote and to decide with out votes what our future will be and to collaborate with our responsibilities to build a much better Europe and a much better international community.""
+
+Video ID: 20170124-068
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'Catalan officials', 'catalan independence', 'High representatives of Catalonia', 'catalonia eu', 'independence referendum', 'President Carles Puigdemont', 'catalan referendum meeting', 'eu parliament brussels', 'brussels conference eu parliament', 'Vice President Oriol Junqueras', 'Minister of Foreign Affairs Raul Romeva', 'Romeva catalonia', 'Junqueras catalonia', 'Puigdemont catalonia'",PT2M40S,160,3

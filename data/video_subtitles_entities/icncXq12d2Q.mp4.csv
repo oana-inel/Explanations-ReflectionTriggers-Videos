@@ -1,0 +1,21 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+icncXq12d2Q,Socialist Party,Organization,NONE,NONE,0.45502200000000004,negative,-0.533428,0.219216,0.049245,0.565944,0.13008599999999998,0.104217,1,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,0.5637,0.044,0.101,0.855,0.17175736961451246,0.5413208616780045,negative,-0.313709,0.154643,0.562707,0.511367,0.099387,0.448569,0.0,1.5,Catalonia Independence,2019-04-29T18:29:43.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalan independence: 'Why be afraid of a referendum?',"Pablo Garcia, member of Podemos, on how to resolve the issue of Catalan independence.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Podemos', 'Spain', 'Spain Elections', '28 Abril', 'Catalan', 'Catalonia', 'Catalunia', 'Barcelona', 'Catalan Referendum', 'Catalan Independence'",PT1M3S,63,2
+icncXq12d2Q,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.673294,positive,0.5977560000000001,0.586529,0.295108,0.132103,0.07183099999999999,0.10997699999999999,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.5637,0.044,0.101,0.855,0.17175736961451246,0.5413208616780045,negative,-0.313709,0.154643,0.562707,0.511367,0.099387,0.448569,0.0,1.5,Catalonia Independence,2019-04-29T18:29:43.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Catalan independence: 'Why be afraid of a referendum?',"Pablo Garcia, member of Podemos, on how to resolve the issue of Catalan independence.
+
+Subscribe to France 24 now: https://f24.my/YouTubeEN
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+...
+
+Visit our website: https://www.france24.com
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'Podemos', 'Spain', 'Spain Elections', '28 Abril', 'Catalan', 'Catalonia', 'Catalunia', 'Barcelona', 'Catalan Referendum', 'Catalan Independence'",PT1M3S,63,2

@@ -1,0 +1,31 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+bqQ8HAZg52M,NBC,Broadcaster,"Broadcast, AwardNominee, AwardWinner, Company, FilmDistributor, TVNetwork, TVWriter, TelevisionStation",http://dbpedia.org/resource/NBC,0.8978959999999999,positive,0.732545,0.23779499999999998,0.09388200000000001,0.22969299999999998,0.14721199999999998,0.097116,1,1,NBC,NBC,NBC,NBC,nbc,nbc,nbc,http://en.wikipedia.org/wiki/NBC,0.875,0.0,0.175,0.825,0.1574074074074074,0.29814814814814816,positive,0.856612,0.029243,0.662775,0.058163,0.01327,0.047103,0.10000000149011612,1.0,Catalonia Independence,2017-09-29T14:52:09.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Braces For Catalan Independence Referendum | NBC News,"Residents of Spain’s Catalonia region gear up for an independence referendum despite efforts by the government in Madrid to block the vote.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Braces For Catalan Independence Referendum | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia region', 'spain', 'catalan independence referendum', 'catalonia', 'barcelona', 'catalan', 'europe', 'english', 'catalonia independence', 'referendum', 'aljazeera', 'catalonia referendum', 'al jazeera', 'independence', 'independence referendum', 'catalan independence', 'catalan referendum', 'spanish government'",PT1M43S,103,2
+bqQ8HAZg52M,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.992843,positive,0.957449,0.07414,0.012672,0.615754,0.034164,0.022548,1,1,YouTube,youtub,youtub,youtub,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.875,0.0,0.175,0.825,0.1574074074074074,0.29814814814814816,positive,0.856612,0.029243,0.662775,0.058163,0.01327,0.047103,0.10000000149011612,1.0,Catalonia Independence,2017-09-29T14:52:09.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Braces For Catalan Independence Referendum | NBC News,"Residents of Spain’s Catalonia region gear up for an independence referendum despite efforts by the government in Madrid to block the vote.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Braces For Catalan Independence Referendum | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'catalonia region', 'spain', 'catalan independence referendum', 'catalonia', 'barcelona', 'catalan', 'europe', 'english', 'catalonia independence', 'referendum', 'aljazeera', 'catalonia referendum', 'al jazeera', 'independence', 'independence referendum', 'catalan independence', 'catalan referendum', 'spanish government'",PT1M43S,103,2

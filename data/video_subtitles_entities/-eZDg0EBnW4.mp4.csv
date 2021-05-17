@@ -1,0 +1,239 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+-eZDg0EBnW4,37 year,Quantity,NONE,NONE,0.400071,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,37 year,37 year,37 year,37 year,37 year,37 year,37 year,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Beal,Person,NONE,NONE,0.703818,positive,0.39447,0.207641,0.044286,0.638674,0.061572,0.050192,2,1,Beal,Beal,Beal,Beal,beal,beal,beal,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,CDC,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.5045029999999999,neutral,0.0,0.106183,0.054337,0.369709,0.14931,0.229665,1,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,California,Location,"PoliticalDistrict, AdministrativeDivision, Appellation, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/California,0.8839790000000001,positive,0.420534,0.195227,0.018854,0.687238,0.068759,0.038951,3,1,California,California,California,California,california,california,californ,http://en.wikipedia.org/wiki/California,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,California Department of Public Health,Organization,GovernmentAgency,http://dbpedia.org/resource/California_Department_of_Public_Health,0.712951,neutral,0.0,0.106183,0.054337,0.369709,0.14931,0.229665,1,1,California Department of Public Health,California Department of Public Health,California Department of Public Health,California Department of Public Health,california depart of public health,california depart of public health,californ depart of publ heal,http://en.wikipedia.org/wiki/California_Department_of_Public_Health,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Hollywood,Location,City,NONE,0.400071,positive,0.433648,0.060377,0.13256600000000002,0.31193200000000004,0.4731770000000001,0.13708900000000002,1,1,Hollywood,Hollywood,Hollywood,Hollywood,hollywood,hollywood,hollywood,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Jessica Biel,Person,"Actor, AwardNominee, Celebrity, FilmActor, TVActor",http://dbpedia.org/resource/Jessica_Biel,0.6362,positive,0.469126,0.353402,0.079246,0.260373,0.160456,0.099471,1,1,Jessica Biel,Jessica Biel,Jessica Biel,Jessica Biel,jessica biel,jessica biel,jessic biel,http://en.wikipedia.org/wiki/Jessica_Biel,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Justin Timberlake,Person,"MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, MusicalGroupMember, TVProducer, FilmActor, Lyricist, TVActor",http://dbpedia.org/resource/Justin_Timberlake,0.599581,positive,0.39447,0.32718400000000003,0.06715800000000001,0.495328,0.07997699999999999,0.03743,1,1,Justin Timberlake,Justin Timberlake,Justin Timberlake,Justin Timberlake,justin timberlak,justin timberlak,justin timberlak,http://en.wikipedia.org/wiki/Justin_Timberlake,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Robert F Kennedy,Person,"FilmCharacter, Politician, MilitaryPerson, OfficeHolder, U.S.Congressperson, TVActor",http://dbpedia.org/resource/Robert_F._Kennedy,0.6491600000000001,neutral,0.0,0.03492,0.10911400000000004,0.070877,0.06446,0.054734000000000005,1,1,Robert F Kennedy,Robert F Kennedy,Robert F Kennedy,Robert F Kennedy,robert F kennedi,robert f kennedi,robert f kennedy,http://en.wikipedia.org/wiki/Robert_F._Kennedy,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Sacramento,Location,City,NONE,0.697296,positive,0.451387,0.14544200000000002,0.099738,0.358823,0.384126,0.129787,2,1,Sacramento,Sacramento,Sacramento,Sacramento,sacramento,sacramento,sacramento,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Senate,Organization,NONE,NONE,0.467074,positive,0.39447,0.32718400000000003,0.06715800000000001,0.495328,0.07997699999999999,0.03743,1,1,Senate,Senate,Senate,Senate,senat,senat,sen,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,Silas,Person,NONE,NONE,0.5162939999999999,positive,0.39447,0.32718400000000003,0.06715800000000001,0.495328,0.07997699999999999,0.03743,1,1,Silas,Silas,Silas,Silas,sila,sila,sila,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,State Assembly,Organization,NONE,NONE,0.594779,positive,0.39447,0.32718400000000003,0.06715800000000001,0.495328,0.07997699999999999,0.03743,1,1,State Assembly,State Assembly,State Assembly,State Assembly,state assembl,state assembl,stat assembl,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3
+-eZDg0EBnW4,four year,Quantity,NONE,NONE,0.400071,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.9604,0.024,0.101,0.875,0.1452590420332356,0.3760938881906623,positive,0.423934,0.130415,0.57295,0.482621,0.088782,0.165413,0.20000000298023224,4.699999809265137,Vaccination,2019-06-14T15:00:00.000Z,UChDKyKQ59fYz3JO2fl0Z6sg,Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY,"Jessica Biel issued a statement clarifying her stance on vaccinations amid backlash for her appearance at the state Capitol in California to lobby against a bill that could limit exemptions to mandatory vaccinations. NBC’s Stephanie Gosk reports for TODAY.
+» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY
+» Watch the latest from TODAY: http://bit.ly/LatestTODAY
+
+About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.  
+
+Connect with TODAY Online!
+Visit TODAY's Website: http://on.today.com/ReadTODAY
+Find TODAY on Facebook: http://on.today.com/LikeTODAY
+Follow TODAY on Twitter: http://on.today.com/FollowTODAY
+Follow TODAY on Google+: http://on.today.com/PlusTODAY
+Follow TODAY on Instagram: http://on.today.com/InstaTODAY
+Follow TODAY on Pinterest: http://on.today.com/PinTODAY
+
+#JessicaBiel #Vaccinations #TodayShow
+
+Jessica Biel Declares 'I Am Not Against Vaccinations' Amid Controversy | TODAY",TODAY,"Health', 'News', 'U.S. News', ""Editor's picks"", 'Big News', 'The TODAY Show', 'TODAY Show', 'TODAY', 'NBC News', 'Celebrity Interviews', 'Lifestyle', 'TODAY Show Interview', 'TODAY show news', 'jessica biel 2019', 'Stephanie Gosk', 'stephanie gosk today show', 'celebrity news', 'the latest on today', 'celebrity', 'jessica biel', 'jessica biel vaccinations', 'vaccinations', 'jessica biel california state capitol', 'mandatory vaccinations', 'jessica biel mandatory vaccinations', 'jessica biel news', 'jessica biel state capitol'",PT2M28S,148,3

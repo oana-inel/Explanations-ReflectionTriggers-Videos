@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+RJemHbsvWpk,10 years,Quantity,NONE,NONE,0.43360699999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,Professor,JobTitle,NONE,NONE,0.729179,negative,-0.096868,0.18823800000000002,0.170935,0.407819,0.033327999999999997,0.070951,2,1,Professor,Professor,Professor,Professor,professor,professor,profess,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,Professor Robert boys,Person,NONE,NONE,0.630375,negative,-0.802794,0.263364,0.204447,0.16127,0.048298,0.073384,1,1,Professor Robert boy,Professor Robert boy,Professor Robert boy,Professor Robert boy,professor robert boy,professor robert boy,profess robert boy,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,Queensland,Location,StateOrCounty,NONE,0.448995,neutral,0.0,0.33637,0.14280199999999998,0.345584,0.138406,0.058248,1,1,Queensland,Queensland,Queensland,Queensland,queensland,queensland,queensland,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,Sydney,Location,City,NONE,0.50384,negative,-0.488334,0.198266,0.023291,0.650057,0.0068650000000000004,0.059870000000000013,1,1,Sydney,Sydney,Sydney,Sydney,sydney,sydney,sydney,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,flu,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.9632569999999999,negative,-0.759007,0.540459,0.17084100000000002,0.047414,0.12163900000000001,0.113677,3,1,flu,flu,flu,flu,flu,flu,flu,http://en.wikipedia.org/wiki/Influenza,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,flu vaccine,Drug,NONE,NONE,0.9266979999999999,negative,-0.7747850000000001,0.200708,0.18946500000000002,0.025071,0.072877,0.081509,3,1,flu vaccine,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,two years,Quantity,NONE,NONE,0.43360699999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4
+RJemHbsvWpk,wa,Location,StateOrCounty,NONE,0.43360699999999996,negative,-0.774552,0.784449,0.11565,0.023168,0.11690999999999999,0.080485,1,1,wa,wa,wa,wa,wa,wa,wa,NONE,0.8725,0.102,0.114,0.784,0.09788851974898488,0.44340346991509777,negative,-0.34778000000000003,0.104925,0.579842,0.514404,0.647304,0.064453,0.10000000149011612,10.199999809265137,Vaccination,2019-06-20T03:20:23.000Z,UCIYLOcEUX6TbBo7HQVF2PKA,Thousands of Australians exposed to expired vaccines | Nine News Australia,"Thousands of Australians, including children, have been exposed to vaccines that were expired and stored incorrectly with authorities issuing an urgent health warning.
+
+Join Nine News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.
+
+Get more at: https://www.9news.com.au/
+Follow Nine News on Facebook: https://www.facebook.com/9News/
+Follow Nine News on Twitter: https://twitter.com/9NewsAUS
+Follow Nine News on Instagram: https://www.instagram.com/9news/
+
+#9News #NineNewsAustralia #9NewsAUS",Nine News Australia,"Nine News Australia', 'Channel 9', 'Breaking News', 'Sydney News', 'Melbourne News', 'Brisbane News', 'Politics', 'VACCINES', 'EXPIRED VACCINES', 'VACCINES WARNING', 'VACCINES SIDE EFFECTS', 'HEALTH WARNING', 'VACCINE HEALTH WARNING', 'EXPIRED VACCINE FEAR', 'MEDICAL EMERGENCIES', 'VACCINE HORRORSTORIES', 'ANTIVAX'",PT3M5S,185,4

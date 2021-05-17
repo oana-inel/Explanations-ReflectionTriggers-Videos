@@ -1,0 +1,181 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+QdPDadJXMGc,30%,Quantity,NONE,NONE,0.38552,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 %,30 %,30 %,30 %,30 %,30 %,30 %,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Al Jazeera Chiba,Person,NONE,NONE,0.5223439999999999,positive,0.453816,0.015269999999999999,0.078173,0.37090300000000004,0.10147,0.068832,1,1,Al Jazeera Chiba,Al Jazeera Chiba,Al Jazeera Chiba,Al Jazeera Chiba,Al jazeera chiba,al jazeera chiba,al jazeer chib,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,America,Location,Continent,NONE,0.38552,neutral,0.0,0.322666,0.046374,0.522031,0.10095499999999999,0.06363300000000001,1,1,America,America,America,America,america,america,americ,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Donald Trump,Person,"AwardNominee, AwardWinner, Celebrity, CompanyFounder, TVPersonality, TVProducer, FilmActor, TVActor",http://dbpedia.org/resource/Donald_Trump,0.5019680000000001,neutral,0.0,0.273592,0.156586,0.20628400000000002,0.275014,0.28125100000000003,1,1,Donald Trump,Donald Trump,Donald Trump,Donald Trump,donald trump,donald trump,donald trump,http://en.wikipedia.org/wiki/Donald_Trump,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,EU,Location,Country,NONE,0.424241,negative,-0.698241,0.620765,0.041101,0.09183,0.047679,0.232825,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.458481,negative,-0.699769,0.620765,0.041101,0.09183,0.047679,0.232825,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.560182,positive,0.08794400000000001,0.199925,0.052024,0.355562,0.163374,0.091382,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,European Imports,Company,NONE,NONE,0.415242,neutral,0.0,0.12498499999999994,0.06920599999999999,0.158406,0.035463999999999996,0.203994,1,1,European Imports,european Imports,european Imports,europ Imports,european import,european import,europ import,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Global World,Organization,NONE,NONE,0.410046,positive,0.700322,0.30592600000000003,0.12238900000000001,0.448064,0.038515,0.134827,1,1,Global World,Global World,Global World,Global World,global world,global world,glob world,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Japan,Location,Country,NONE,0.929313,negative,-0.517504,0.5478850000000001,0.076869,0.13945,0.101495,0.134171,8,1,Japan,Japan,Japan,Japan,japan,japan,jap,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,President,JobTitle,NONE,NONE,0.38915,negative,-0.699769,0.622738,0.101788,0.132964,0.096877,0.195548,1,1,President,President,President,President,presid,presid,presid,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,Wayne,Person,NONE,NONE,0.389219,neutral,0.0,0.095001,0.140656,0.30134299999999997,0.334316,0.263264,1,1,Wayne,Wayne,Wayne,Wayne,wayn,wayn,wayn,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,cheese Imports,Company,NONE,NONE,0.510279,negative,-0.669545,0.271229,0.22943200000000002,0.41916499999999995,0.060907,0.05442999999999999,1,1,cheese Imports,chees import,chees import,chees import,chees import,chees import,chees import,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,four years,Quantity,NONE,NONE,0.38552,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3
+QdPDadJXMGc,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.6148399999999999,negative,-0.548136,0.570021,0.11456199999999996,0.17396,0.11610999999999999,0.209754,4,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9842,0.041,0.121,0.838,0.08226609560652114,0.37708202081606335,positive,0.432419,0.108848,0.481996,0.512727,0.08605299999999999,0.092013,0.0,4.800000190734863,Free Trade,2017-07-06T15:01:25.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Japan-EU agree to massive free-trade deal,"The European Union and Japan have agreed in principle to one of the largest free-trade deals to date. 
+
+The so-called Economic Partnership Agreement is likely to give Japan's auto industry better access to European markets. 
+
+But the deal is being seen as a show of opposition to the US President Donald Trump's protectionist turn. 
+
+Al Jazeera’s Wayne Hay reports from Chiba, Japan. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5493980422001', 'Asia-Pacific', 'Wayne Hay', 'package', 'Chiba', 'EU', 'Al Jazeera English', 'News', 'al Jazeera', 'USA', 'trade deal', 'jazeera', 'donald trump', 'youtube', 'aljazeera', 'asia-pacificnews', 'Free Trade', 'Japan'",PT2M27S,147,3

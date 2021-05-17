@@ -1,0 +1,49 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+OotcOCy7JQQ,Facebook,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Facebook,0.33,negative,-0.739442,0.14798699999999998,0.046538,0.088406,0.700596,0.20901399999999998,1,1,Facebook,Facebook,Facebook,Facebook,facebook,facebook,facebook,http://en.wikipedia.org/wiki/Facebook,-0.8462,0.228,0.09,0.682,0.0594949494949495,0.4675757575757576,negative,-0.901912,0.375016,0.007628,0.206122,0.05391,0.6961970000000001,-0.8999999761581421,0.8999999761581421,Vaccination,2015-04-23T05:31:05.000Z,UCBVzV4f_JjDyZb8Vl6_dvEA,Anti-vaccine cult liken immunisation to rape,"The owner of the Australian Vaccination Sceptics Network Facebook page, Meryl Dorey, has for the second time in her running of the groups page published a post likening immunisation to rape.
+The first post of this nature was on January 15, 2011 in response to a court ordering a mother to have her 5 year old daughter vaccinated.
+Dorey wailed, ""Court orders rape of a child. Think this is an exaggeration? This is assault without consent and full penetration too..."".
+See screenshot:
+https://reasonablehank.files.wordpress.com/2015/04/avn-6944-dorey-rape-with-full-penetration-january-2011.jpg
+The result was an immediate loss of members followed by a puerile insistence by Dorey that some archaic definitions that list ""plunder, despoil, seize and carry off by force"" as types of rape justify her comment.
+This time again disgusted page members rose in large number to condemn such an affront to reason with at least one member publicly announcing she would be quitting Dorey's page immediately. Once the media got hold of the story the post was deleted, and childish lies claiming innocence began to surface - to great amusement on social media.
+
+Dorey has reacted again, by predictably presenting her ""dictionary"" to insist rape is merely general medieval abuse - despite the image she used of a man attacking a woman from behind with the words, ""Forced Penetration. Really it's no big deal if it's just a vaccination needle and he's a doctor - do you really need control over your own choices?""
+Incredibly, AVSN group leader Meryl Dorey, and Tasha David the current so-called ""president"" insist their page does not belong to the group - even though they hold administration privileges.
+They pleaded innocence, further demolishing their credibility by insisting they have ""no control"" over what appears on the page - albeit content contains their signatures.
+AUSTRALIAN DOCTOR reported on the public statement posted on the groups Facebook page with input from Meryl Dorey pushing the evidence-free myth that vaccines kill large numbers of children. 
+
+""Australian Doctor attempted to contact the AVSN by phone, however the number listed for the organisation on its webpage was disconnected.
+The group — based in Bangalow on the NSW north coast and formerly known as the Australian Vaccination Network — made a public statement over Facebook disowning any relationship between the AVSN Facebook page and the actual organisation.
+It admitted the image posted was in poor taste but also queried why there was such great media interest in the meme when they apparently ignored “children who are killed"".
+AVSN spokeswoman Meryl Dorey said: “I agree that the image was very much in-your-face and should not have been posted here, but I am also (once again) floored that this has become a media issue whilst the children who are killed and permanently injured, and their families that are often destroyed, remain in the shadows as far as the press is concerned.
+'Let's get back to the issue at hand and agree that the important thing to do is to focus on the immorality of forced vaccination.' ""
+
+Media:
+http://www.mamamia.com.au/news/anti-vaxxers-compare-vaccination-to-rape/
+http://www.theage.com.au/national/australian-vaccination-skeptics-network-compares-vaccines-to-rape-20150422-1mr0wk.html
+http://www.theguardian.com/society/2015/apr/23/campaign-comparing-vaccination-rprepulsive-health-minister-says
+http://reasonablehank.com/2015/04/22/tw-avn-claims-vaccination-is-rape-and-doctors-are-rapists-again/",Paul Gallagher,"meryl dorey', 'australian vaccine sceptics network', 'vaccination', 'rape', 'tasha david', 'immunisation', 'Vaccine Controversies'",PT30S,30,1
+OotcOCy7JQQ,rape,Crime,NONE,NONE,0.33,negative,-0.739442,0.14798699999999998,0.046538,0.088406,0.700596,0.20901399999999998,1,1,rape,rape,rape,rap,rape,rape,rap,NONE,-0.8462,0.228,0.09,0.682,0.0594949494949495,0.4675757575757576,negative,-0.901912,0.375016,0.007628,0.206122,0.05391,0.6961970000000001,-0.8999999761581421,0.8999999761581421,Vaccination,2015-04-23T05:31:05.000Z,UCBVzV4f_JjDyZb8Vl6_dvEA,Anti-vaccine cult liken immunisation to rape,"The owner of the Australian Vaccination Sceptics Network Facebook page, Meryl Dorey, has for the second time in her running of the groups page published a post likening immunisation to rape.
+The first post of this nature was on January 15, 2011 in response to a court ordering a mother to have her 5 year old daughter vaccinated.
+Dorey wailed, ""Court orders rape of a child. Think this is an exaggeration? This is assault without consent and full penetration too..."".
+See screenshot:
+https://reasonablehank.files.wordpress.com/2015/04/avn-6944-dorey-rape-with-full-penetration-january-2011.jpg
+The result was an immediate loss of members followed by a puerile insistence by Dorey that some archaic definitions that list ""plunder, despoil, seize and carry off by force"" as types of rape justify her comment.
+This time again disgusted page members rose in large number to condemn such an affront to reason with at least one member publicly announcing she would be quitting Dorey's page immediately. Once the media got hold of the story the post was deleted, and childish lies claiming innocence began to surface - to great amusement on social media.
+
+Dorey has reacted again, by predictably presenting her ""dictionary"" to insist rape is merely general medieval abuse - despite the image she used of a man attacking a woman from behind with the words, ""Forced Penetration. Really it's no big deal if it's just a vaccination needle and he's a doctor - do you really need control over your own choices?""
+Incredibly, AVSN group leader Meryl Dorey, and Tasha David the current so-called ""president"" insist their page does not belong to the group - even though they hold administration privileges.
+They pleaded innocence, further demolishing their credibility by insisting they have ""no control"" over what appears on the page - albeit content contains their signatures.
+AUSTRALIAN DOCTOR reported on the public statement posted on the groups Facebook page with input from Meryl Dorey pushing the evidence-free myth that vaccines kill large numbers of children. 
+
+""Australian Doctor attempted to contact the AVSN by phone, however the number listed for the organisation on its webpage was disconnected.
+The group — based in Bangalow on the NSW north coast and formerly known as the Australian Vaccination Network — made a public statement over Facebook disowning any relationship between the AVSN Facebook page and the actual organisation.
+It admitted the image posted was in poor taste but also queried why there was such great media interest in the meme when they apparently ignored “children who are killed"".
+AVSN spokeswoman Meryl Dorey said: “I agree that the image was very much in-your-face and should not have been posted here, but I am also (once again) floored that this has become a media issue whilst the children who are killed and permanently injured, and their families that are often destroyed, remain in the shadows as far as the press is concerned.
+'Let's get back to the issue at hand and agree that the important thing to do is to focus on the immorality of forced vaccination.' ""
+
+Media:
+http://www.mamamia.com.au/news/anti-vaxxers-compare-vaccination-to-rape/
+http://www.theage.com.au/national/australian-vaccination-skeptics-network-compares-vaccines-to-rape-20150422-1mr0wk.html
+http://www.theguardian.com/society/2015/apr/23/campaign-comparing-vaccination-rprepulsive-health-minister-says
+http://reasonablehank.com/2015/04/22/tw-avn-claims-vaccination-is-rape-and-doctors-are-rapists-again/",Paul Gallagher,"meryl dorey', 'australian vaccine sceptics network', 'vaccination', 'rape', 'tasha david', 'immunisation', 'Vaccine Controversies'",PT30S,30,1

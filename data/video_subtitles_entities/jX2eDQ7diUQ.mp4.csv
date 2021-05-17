@@ -1,0 +1,14 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jX2eDQ7diUQ,Queensland government Brisbane,Organization,NONE,NONE,0.97257,neutral,0.0,0.151171,0.079946,0.211177,0.215775,0.16851,1,1,Queensland government Brisbane,Queensland govern Brisbane,Queensland govern Brisbane,Queensland govern Brisbane,queensland govern brisban,queensland govern brisban,queensland govern brisb,NONE,0.8176,0.0,0.195,0.805,0.4666666666666666,0.3666666666666667,negative,-0.480417,0.102165,0.5655399999999999,0.104467,0.218302,0.045792,0.30000001192092896,0.8999999761581421,Vaccination,2015-12-20T23:37:00.000Z,UCN_P6BgJO9MHFzktKgJzYFw,Vaccination matters : VacciDate app,"On-time vaccination 
+
+is the best protection 
+
+against life threatening diseases.
+
+With the free VacciDate app,
+
+Your can track your child’s vaccinations, and get reminders.
+
+Search VacciDate.
+
+Authorised by the Queensland Government Brisbane.",Queensland Health,"Immunisation', 'Queensland', 'VacciDate', 'up-to-date vaccination', 'vaccination', 'vaccination matters', 'VacciDate app', 'vaccidate', 'childhood immunisation', 'immunization', 'vaccination app', 'vaccine-preventable disease', 'Australia', 'vaccination reminders'",PT16S,16,1

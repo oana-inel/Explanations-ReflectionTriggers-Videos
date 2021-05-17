@@ -1,0 +1,210 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+vA-3tvlYy1s,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.24451799999999999,negative,-0.389875,0.46054300000000004,0.199742,0.280808,0.127425,0.071227,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Barcelona Spain,Facility,NONE,NONE,0.289586,negative,-0.325571,0.271378,0.13264700000000001,0.498722,0.075977,0.079297,1,1,Barcelona Spain,Barcelona Spain,Barcelona Spain,Barcelona Spain,barcelona spain,barcelona spain,barcelon spain,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Catalonia,Location,Region,NONE,0.912689,negative,-0.464733,0.488831,0.182534,0.234694,0.24157399999999998,0.15521600000000002,8,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,EU,Organization,NONE,NONE,0.223726,neutral,0.0,0.27658499999999997,0.302182,0.297045,0.228798,0.077946,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.221512,negative,-0.360489,0.542668,0.13501300000000002,0.08465700000000001,0.193695,0.06754199999999999,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Goro Goro,Person,NONE,NONE,0.357931,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Goro Goro,Goro Goro,Goro Goro,Goro Goro,goro goro,goro goro,goro goro,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.24871,neutral,0.0,0.384871,0.095467,0.159652,0.281821,0.169423,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.46709399999999995,negative,-0.560664,0.274507,0.227048,0.403379,0.140584,0.063902,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,Spanish government,Organization,NONE,NONE,0.45345,negative,-0.731454,0.552333,0.234141,0.066719,0.32571100000000003,0.15295599999999998,3,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,four years,Quantity,NONE,NONE,0.21189499999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4
+vA-3tvlYy1s,official,JobTitle,NONE,NONE,0.317668,negative,-0.428579,0.146531,0.173425,0.512891,0.207587,0.07313,3,1,official,offici,offici,off,offici,offici,off,NONE,0.9874,0.054000000000000006,0.118,0.8270000000000001,0.1216644204851752,0.4863656783468104,positive,0.233888,0.495906,0.5986229999999999,0.483916,0.140483,0.152751,0.0,9.5,Catalonia Independence,2010-03-01T18:27:41.000Z,UCVnEB_G-tNa4la5MyiwExMA,Catalan calls for independence from Spain - RT 100301,"http://rt.com/Top_News/2010-03-01/catalonia-independence-spain-referendum.html
+Catalonia continues calls for independence 
+01 March, 2010, 08:29
+Catalonias unofficial polls have shown the Spanish region is strongly in favor of separation. But as calls for a referendum on independence continue, the issue seems far more complicated. 
+Catalonias political struggle for independence is centuries-old. The prosperous province of seven million people already has enough national symbols, its own language, world-renowned architecture and an iconic football team, worshipped by fans worldwide.
+Spain ignores our right to self-determination, explains a local Catalan. They restrict our language and culture, at least at an official level.
+But the question Catalonia is facing is whether or not its quest for independence is more than just a game and it is indeed capable of becoming a viable state.
+Local nationalists have staged several unofficial independence polls across some parts of Catalonia.
+Each one has resulted in an overwhelming yes vote, though with small turn-outs. But the national government in Madrid has dismissed the results.
+If people vote for independence, we will get independence, says Alfons Lopez Tena, a referendum organizer. We are fighting peacefully for democracy to make sure that the people's will can overcome the obstacles of the Spanish government.
+Spanish laws passed four years ago already give Catalonia's local parliament the power to raise taxes, along with other responsibilities. Opponents of the law are challenging it in Spain's Supreme Court, saying it goes too far.
+But some Catalonians take a radically different view.
+We contribute billions of Euros to the government in Spain, we want to manage our own economy, says a Catalan resident. And without them we'd manage it better.
+However, while it is the separatists who seem to speak loudest, the Catalan desire for full independence is not clear-cut. Official surveys suggest that in fact no more than one in five Catalans support it.
+The economic justification for splitting from Spain is also being questioned.
+Whenever people speak about Catalonia they mention its economic wealth. But the economic and social cost of setting up independent institutions would be formidable. For example, Catalonia doesn't have its own judicial system or army, says Montserrat Nebrera, Professor of Constitutional Law and Politicians
+Independence for any Spanish region is not possible without major changes to the country's constitution, and Madrid remains staunchly opposed to separatism. Thus, it appears that despite vehement calls, any redrawing of maps may take a long time to achieve.
+
+Momentum is growing in the Spanish region of Catalonia for an official referendum on independence. Catalonians say they should become another EU state as they have their own language and national symbols. So far unofficial polls have been overwhelmingly in favour of separation, which the Spanish government has dismissed as RT's Igor Ogorodnev reports.",cctvupload,"RT', 'separatism', 'Spain', 'Barcelona', 'Spanish', 'constitution', 'referendum', 'Igor', 'Ogorodnev'",PT3M21S,201,4

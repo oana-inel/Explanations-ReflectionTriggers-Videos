@@ -1,0 +1,105 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+1u1yrD6GzyY,Assad,Person,NONE,NONE,0.5657760000000001,negative,-0.742883,0.176582,0.035832,0.745504,0.010961,0.032389999999999995,1,1,Assad,Assad,Assad,Assad,assad,assad,assad,NONE,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.8817219999999999,positive,0.23217100000000002,0.060913,0.025700999999999998,0.737517,0.038596,0.045739,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.861025,neutral,0.0,0.35039000000000003,0.052559,0.42979799999999996,0.20324,0.023024,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Catalonia,Location,Country,NONE,0.623524,positive,0.7086600000000001,0.10243,0.020731,0.748945,0.042321,0.020980000000000002,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Girona,Location,City,http://dbpedia.org/resource/Girona,0.59822,neutral,0.0,0.263317,0.062469000000000004,0.234475,0.557246,0.06329299999999999,1,1,Girona,Girona,Girona,Girona,girona,girona,giron,http://en.wikipedia.org/wiki/Girona,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Independence declaration,PrintMedia,NONE,NONE,0.955598,positive,0.8781899999999999,0.064916,0.177019,0.349724,0.048406,0.03188,1,1,Independence declaration,Independence declar,Independence declar,Independence decl,independ declar,independ declar,independ decl,NONE,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.5285380000000001,negative,-0.391363,0.428408,0.30937,0.025437,0.22059600000000001,0.204316,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3
+1u1yrD6GzyY,president,JobTitle,NONE,NONE,0.543039,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.8268,0.077,0.106,0.8170000000000001,0.09188492063492062,0.4092460317460319,positive,0.479604,0.068601,0.6547350000000001,0.505216,0.604911,0.449451,0.10000000149011612,6.300000190734862,Catalonia Independence,2017-10-28T00:38:39.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands celebrate in Barcelona after independence declaration,"In Barcelona, massive crowds have spent the day rallying in support of Catalonia's independence. TRT World's Sarah Morice described the atmosphere on the streets of Barcelona on a historic night.They filled the streets in their thousands to celebrate, but as Sarah Morice reports, not everyone is thrilled about leaving Spain.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan crisis', 'catalan', 'catalonia', 'Catalan independence', 'Spanish government', 'Catalan reaction', 'TRT World', 'TRT', 'TRT News'",PT2M25S,145,3

@@ -1,0 +1,144 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+fgMuGLPIcyc,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.44126499999999996,neutral,0.0,0.398978,0.277152,0.100604,0.329322,0.22219,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Belgium,Location,Country,NONE,0.333833,neutral,0.0,0.19212100000000001,0.13278800000000002,0.048991,0.10158099999999999,0.086302,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Catalonia,Location,City,NONE,0.444271,neutral,0.0,0.652768,0.066906,0.027052,0.28470100000000004,0.258866,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Catalonia,Location,Country,NONE,0.488005,negative,-0.6508149999999999,0.652768,0.066906,0.027052,0.28470100000000004,0.258866,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Long Live Spain,Location,City,NONE,0.818768,negative,-0.6508149999999999,0.646312,0.060626,0.025255,0.302168,0.256315,3,1,Long Live Spain,Long Live Spain,Long Live Spain,Long Live Spain,long live spain,long live spain,long liv spain,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Regional Police,Organization,NONE,NONE,0.421911,negative,-0.47425,0.398978,0.277152,0.100604,0.329322,0.22219,2,1,Regional Police,Regional Police,Regional Police,Regional Police,region polic,region polic,reg pol,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Sarah Morris Tau T World Barcelona,Organization,NONE,NONE,0.505386,negative,-0.47425,0.566046,0.135458,0.061558,0.277987,0.258809,1,1,Sarah Morris Tau T World Barcelona,Sarah Morris Tau T World Barcelona,Sarah Morris Tau T World Barcelona,Sarah Morris Tau T World Barcelona,sarah morri tau T world barcelona,sarah morri tau t world barcelona,sarah mor tau t world barcelon,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,Spanish National EU,Organization,NONE,NONE,0.456421,negative,-0.406074,0.270649,0.12565199999999999,0.036186,0.500849,0.423705,1,1,Spanish National EU,spanish National EU,spanish National EU,span National EU,spanish nation EU,spanish nation eu,span nat eu,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,five years,Quantity,NONE,NONE,0.333833,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,president,JobTitle,NONE,NONE,0.339253,negative,-0.406074,0.270649,0.12565199999999999,0.036186,0.500849,0.423705,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3
+fgMuGLPIcyc,prosecutor,JobTitle,NONE,NONE,0.351275,negative,-0.406074,0.270649,0.12565199999999999,0.036186,0.500849,0.423705,1,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,-0.3603,0.112,0.11,0.778,0.01752305665349143,0.37760869565217386,negative,-0.6990460000000001,0.161823,0.15828499999999998,0.639339,0.625918,0.496065,-0.10000000149011612,3.5,Catalonia Independence,2017-10-29T19:43:28.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan Crisis: Thousands rally against Catalan independence,"Hundreds of thousands of pro-unity Catalans have rallied in the streets of Barcelona. It was a strong show of support for a united Spain, following the region's declaration of independence. But as Sarah Morice reports, it's also a clear indication of how divided the region has become.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalonia independence', 'catalan independence', 'spain', 'barcelona', 'catalan protest', 'TRT World', 'TRT', 'TRT News'",PT2M28S,148,3

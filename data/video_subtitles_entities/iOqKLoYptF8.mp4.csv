@@ -1,0 +1,481 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+iOqKLoYptF8,Chicago,Location,City,http://dbpedia.org/resource/Chicago,0.178756,neutral,0.0,0.371319,0.101727,0.42734399999999995,0.093813,0.064348,1,1,Chicago,Chicago,Chicago,Chicago,chicago,chicago,chicago,http://en.wikipedia.org/wiki/Chicago,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,FDA,Organization,NONE,NONE,0.144352,negative,-0.469233,0.190916,0.507634,0.10492,0.14949400000000002,0.046905,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,Leach,Person,NONE,NONE,0.145892,negative,-0.469233,0.190916,0.507634,0.10492,0.14949400000000002,0.046905,1,1,Leach,Leach,Leach,Leach,leach,leach,leach,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,Mark black,Person,NONE,NONE,0.14751,positive,0.38689,0.331281,0.339624,0.301187,0.006953,0.118248,1,1,Mark black,Mark black,Mark black,Mark black,mark black,mark black,mark black,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,Mercury,Company,NONE,NONE,0.9019879999999999,negative,-0.694134,0.575715,0.236235,0.148075,0.11605,0.162996,21,1,Mercury,Mercury,Mercury,Mercury,mercuri,mercuri,mercury,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,autism,HealthCondition,"DiseaseOrMedicalCondition, Disease, OrganizationSector",http://dbpedia.org/resource/Autism,0.670435,negative,-0.32405,0.544587,0.263588,0.260137,0.052941999999999996,0.174234,16,1,autism,autism,autism,aut,autism,autism,aut,http://en.wikipedia.org/wiki/Autism,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,six months,Quantity,NONE,NONE,0.144352,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9
+iOqKLoYptF8,six years,Quantity,NONE,NONE,0.144352,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six year,six year,six year,six year,six year,six year,six year,NONE,0.9021,0.083,0.093,0.823,0.09647476035868892,0.4778583990414346,negative,-0.669962,0.130943,0.188259,0.519302,0.188151,0.118209,-0.10000000149011612,16.5,Vaccination,2010-10-16T06:10:53.000Z,UCGW2Yqy7GvjDg92HdW9urdA,Autism Causes: Mercury Poisoning from Vaccines & Environment - Dan Olmsted,"http://www.autismisreversible.info - Autism is a man-made epidemic according to Dan Olmsted, co-author of The Age of Autism: Mercury, Medicine, and a Man-Made Epidemic. Mr. Olmsted and co-author Mark Blaxill researched the use of mercury throughout recent history and conclude, in part, that the use of mercury and other heavy metals in vaccines is a root cause for the rise in Autism. And for good reason: mercury is the second most lethal substance to humans (behind plutonium), and hundreds of times more toxic than lead, and yet it has been injected into infants, babies and children in the name of ""medicine.""  
+
+Another metal used in vaccines - aluminum - is also extremely toxic. Flu shots contain organic mercury, which is many times more toxic than the mercury found in a thermometer. The use of extremely toxic substances in ""medicine"" - especially heavy metals like mercury - causes an untold number of neurological problems in children, including Autism. 
+
+Two unique problems that most Autistic children share in common are very serious digestive problems, and an inability to excrete heavy metals, such as mercury. Mercury poisoning will actually *cause* both of these health problems. For those already exposed, the solution is alternative medicine treatment that helps repair the gut and eliminate toxic metals from the body. 
+
+If you have a child with Autism, there is hope. Find a DAN! doctor near you and visit him/her. Parents have recovered children - either fully, or mostly - because of the alternative medicine steps they took, and so can you.
+
+For more information on the causes, symptoms and effective alternative medicine treatments of Autism, please visit: 
+http://www.thenaturalguide.com/autism/autism-is-reversible.html.
+
+Video Produced By:
+Larry Cook, author of The Beginner's Guide to Natural Living: http://www.thenaturalguide.com
+
+Interview Of:
+Dan Olmsted, co-author of The Age of Autism.
+http://danolmsted.com
+http://www.ageofautism.com
+
+Vaccines that still contain mercury can be found at the John Hopkins School of Public Health website: http://www.vaccinesafety.edu/thi-table.htm
+
+Videotaped at the ARI/Defeat Autism Now Conference in Long Beach, CA - http://www.defeatautismnow.com
+
+Dan Olmsted
+Mark Blaxill
+vaccine
+vaccines
+vaccination
+vaccinations
+immunization
+immunizations
+mercury
+mercury poisoning
+mercury in vaccines
+Autism
+symptoms of autism
+autism symptoms
+autism treatment
+autism causes
+alternative treatment
+alternative medicine
+cure for autism
+MMR vaccine
+Jenny McCarthy
+H1N1
+Flu Vaccine
+autoimmune
+autoimmunity
+oxidative stress
+methyl b12
+chelation
+chelation therapy
+glutathione
+autism cure
+natural medicine
+Naturopathic Medicine
+Autism is reversible
+autism spectrum disorder
+biomedical treatment for autism
+vaccines and autism",LarryCook333,"Dan Olmsted', 'Mark Blaxill', 'vaccine', 'vaccines', 'vaccination', 'vaccinations', 'immunization', 'immunizations', 'mercury', 'mercury poisoning', 'mercury in vaccines', 'Autism', 'autism symptoms', 'autism treatment', 'autism causes', 'alternative treatment', 'alternative medicine', 'cure for autism', 'MMR vaccine', 'Jenny McCarthy', 'autoimmune', 'autoimmunity', 'oxidative stress', 'methyl B12', 'chelation', 'chelation therapy', 'glutathione', 'autism cure', 'H1N1', 'Flu Vaccine', 'natural medicine', 'Naturopathic Medicine', 'health', 'conspiracy', 'nwo'",PT8M26S,506,9

@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+QlMKebueygY,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.271412,positive,0.781763,0.17877300000000002,0.171467,0.395811,0.298047,0.10030700000000001,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Catalan Administration,Organization,NONE,NONE,0.312395,neutral,0.0,0.24298499999999998,0.098371,0.292576,0.21841799999999997,0.115553,1,1,Catalan Administration,Catalan Administration,Catalan Administration,Catalan Administration,catalan administr,catalan administr,cat admin,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Catalan Capital Barcelona,Facility,NONE,NONE,0.31816,neutral,0.0,0.315404,0.10623900000000001,0.202079,0.047669,0.128749,1,1,Catalan Capital Barcelona,Catalan Capital Barcelona,Catalan Capital Barcelona,Catalan Capital Barcelona,catalan capit barcelona,catalan capit barcelona,cat capit barcelon,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Catalonia,Location,City,NONE,0.8338459999999999,negative,-0.106181,0.651575,0.569647,0.15295699999999998,0.099781,0.067623,8,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Felipe,Person,NONE,NONE,0.20777199999999998,neutral,0.0,0.37651599999999996,0.146841,0.09360700000000001,0.292898,0.27658299999999997,1,1,Felipe,Felipe,Felipe,Felipe,felip,felip,felip,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.28091700000000003,neutral,0.0,0.45799300000000004,0.062686,0.188943,0.028532,0.057214,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Mr. Roy,Person,NONE,NONE,0.20719,neutral,0.0,0.270831,0.08331000000000001,0.266024,0.052222000000000005,0.15013800000000002,2,1,Mr. Roy,Mr. Roy,Mr. Roy,Mr. Roy,mr. roy,mr. roy,mr. roy,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Sean,Person,NONE,NONE,0.185687,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Sean,Sean,Sean,Sean,sean,sean,sean,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.562735,positive,0.451074,0.0,0.0,0.0,0.0,0.0,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Tabu Jumbo,Company,NONE,NONE,0.23795100000000002,positive,0.781764,0.0,0.0,0.0,0.0,0.0,1,1,Tabu Jumbo,Tabu Jumbo,Tabu Jumbo,Tabu Jumbo,tabu jumbo,tabu jumbo,tabu jumbo,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Tom Barrett,Person,NONE,NONE,0.239635,neutral,0.0,0.315404,0.10623900000000001,0.202079,0.047669,0.128749,1,1,Tom Barrett,Tom Barrett,Tom Barrett,Tom Barrett,tom barrett,tom barrett,tom barret,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Tom Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.47513500000000003,neutral,0.0,0.494275,0.11482,0.232053,0.095465,0.05577000000000002,3,1,Tom Mariano rajoy,Tom Mariano rajoy,Tom Mariano rajoy,Tom Mariano rajoy,tom mariano rajoy,tom mariano rajoy,tom mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,Tom barrage,Person,NONE,NONE,0.256681,neutral,0.0,0.476062,0.2278030000000001,0.050481,0.12313800000000001,0.170163,1,1,Tom barrage,Tom barrag,Tom barrag,Tom bar,tom barrag,tom barrag,tom bar,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,prime minister,JobTitle,NONE,NONE,0.441475,positive,0.451074,0.438391,0.120524,0.144769,0.074298,0.063052,3,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,six months,Quantity,NONE,NONE,0.185687,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4
+QlMKebueygY,three weeks,Quantity,NONE,NONE,0.185687,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9118,0.07400000000000001,0.097,0.8290000000000001,0.03719231791600213,0.4491693248272195,positive,0.424268,0.126046,0.559149,0.595577,0.153176,0.11915,0.0,5.400000095367432,Catalonia Independence,2017-10-21T12:14:26.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan independence: Spain pushes to remove leaders - BBC News,"The Spanish prime minister has outlined plans to remove Catalonia's leaders, but not dissolve the parliament of the semi-autonomous region.
+Prime Minister Mariano Rajoy said after an emergency cabinet meeting that the government intended to hold regional elections as soon as possible.
+The measures put forward by the cabinet now go to a vote by Spain's Senate.
+They come almost three weeks after Catalonia held a disputed independence referendum.
+Catalan leader Carles Puigdemont has ignored pleas from the national government to abandon his independence campaign.
+Mr Rajoy said the government had no choice in seeking to impose direct rule, arguing that the Catalan government's actions were ""contrary to the law and seeking confrontation"".
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'Catalan independence', 'Catalan', 'Spanish prime minister', 'Mariano Rajoy', 'Prime Minister Mariano Rajoy', 'Catalonia'",PT3M15S,195,4

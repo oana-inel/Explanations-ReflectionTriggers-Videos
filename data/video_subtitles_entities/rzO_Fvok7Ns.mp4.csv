@@ -1,0 +1,58 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+rzO_Fvok7Ns,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.471674,negative,-0.4332720000000001,0.58895,0.202991,0.032737999999999996,0.278113,0.20007,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9802,0.075,0.107,0.818,0.059183694083694074,0.4728795093795093,negative,-0.431364,0.147025,0.607085,0.557955,0.195414,0.13209300000000002,-0.10000000149011612,7.599999904632567,Free Trade,2008-02-25T18:45:51.000Z,UCnzItcpd7WGVn80TRRb8RcQ,Peter Mandelson - In Defense of Free Trade,"Complete video at: http://fora.tv/2007/11/08/U_S__and_Europe_Confronting_Global_Challenges
+
+E.U. Commissioner for Trade Peter Mandelson gives a defense of free trade practices and globalization.
+
+-----
+
+Europe and the U.S.: Confronting Global Challenges with Peter Mandelson.
+
+In a speech at the Carnegie Endowment, EU Commissioner of Trade Peter Mandelson argued that the European Union and the United States must use their collective economic weight to underwrite the openness of the global economy as its adjusts to the rise of new economic powers and greater global flows of investment. Mandelson said that the U.S. and the EU should use their own openness to ""underwrite a strong multilateral order based on cooperation and economic openness"" - Carnegie Endowment for International Peace
+
+Peter Mandelson was born in Britain in 1953.
+
+He studied Philosophy, Politics and Economics at St Catherine's College, Oxford. As a young man he lived in Tanzania for a year, an experience which formed life-long impressions of Africa and the challenges of fighting poverty. A life-long pro-European, he led the British delegation to the first ever meeting of the European Communities Youth Forum in Strasbourg in 1979.
+
+After working as an economist at the Trades Union Congress and as a current affairs TV producer, Peter Mandelson was later appointed Labour Party Director for Campaigns and Communications in 1985. Later he was Tony Blairs Campaign Manager in the May 1997 election that brought Labour to power in Britain.
+
+In 1992 he was elected as member of parliament for the Northern English constituency of Hartlepool. He served until 2004 upon his appointment to the European Commission.
+
+Peter Mandelson is honorary Chair of Policy Network, a European and international think tank whose journal and conferences promote the exchange and debate of centre-left policy ideas and European social democratic thinking. He was UK chairman of the UK-Japan 21st Century Group, which brings together leading academics, politicians and business people. He has traveled widely and has lectured throughout Europe, in Asia and the United States.",FORA.tv,"globalisation', 'european', 'union', 'economics', 'economy', 'markets', 'practices', 'business', 'tariffs', 'mandleson', 'jobs', 'workers', 'eu', 'us', 'foratv', 'fora.tv', 'fora', 'tv'",PT5M51S,351,6
+rzO_Fvok7Ns,Joe soap,Person,NONE,NONE,0.49021000000000003,positive,0.271219,0.182587,0.066678,0.223996,0.231533,0.086099,1,1,Joe soap,Joe soap,Joe soap,Joe soap,joe soap,joe soap,joe soap,NONE,0.9802,0.075,0.107,0.818,0.059183694083694074,0.4728795093795093,negative,-0.431364,0.147025,0.607085,0.557955,0.195414,0.13209300000000002,-0.10000000149011612,7.599999904632567,Free Trade,2008-02-25T18:45:51.000Z,UCnzItcpd7WGVn80TRRb8RcQ,Peter Mandelson - In Defense of Free Trade,"Complete video at: http://fora.tv/2007/11/08/U_S__and_Europe_Confronting_Global_Challenges
+
+E.U. Commissioner for Trade Peter Mandelson gives a defense of free trade practices and globalization.
+
+-----
+
+Europe and the U.S.: Confronting Global Challenges with Peter Mandelson.
+
+In a speech at the Carnegie Endowment, EU Commissioner of Trade Peter Mandelson argued that the European Union and the United States must use their collective economic weight to underwrite the openness of the global economy as its adjusts to the rise of new economic powers and greater global flows of investment. Mandelson said that the U.S. and the EU should use their own openness to ""underwrite a strong multilateral order based on cooperation and economic openness"" - Carnegie Endowment for International Peace
+
+Peter Mandelson was born in Britain in 1953.
+
+He studied Philosophy, Politics and Economics at St Catherine's College, Oxford. As a young man he lived in Tanzania for a year, an experience which formed life-long impressions of Africa and the challenges of fighting poverty. A life-long pro-European, he led the British delegation to the first ever meeting of the European Communities Youth Forum in Strasbourg in 1979.
+
+After working as an economist at the Trades Union Congress and as a current affairs TV producer, Peter Mandelson was later appointed Labour Party Director for Campaigns and Communications in 1985. Later he was Tony Blairs Campaign Manager in the May 1997 election that brought Labour to power in Britain.
+
+In 1992 he was elected as member of parliament for the Northern English constituency of Hartlepool. He served until 2004 upon his appointment to the European Commission.
+
+Peter Mandelson is honorary Chair of Policy Network, a European and international think tank whose journal and conferences promote the exchange and debate of centre-left policy ideas and European social democratic thinking. He was UK chairman of the UK-Japan 21st Century Group, which brings together leading academics, politicians and business people. He has traveled widely and has lectured throughout Europe, in Asia and the United States.",FORA.tv,"globalisation', 'european', 'union', 'economics', 'economy', 'markets', 'practices', 'business', 'tariffs', 'mandleson', 'jobs', 'workers', 'eu', 'us', 'foratv', 'fora.tv', 'fora', 'tv'",PT5M51S,351,6
+rzO_Fvok7Ns,Us,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.760389,negative,-0.573583,0.513604,0.33437,0.086822,0.111937,0.222789,3,1,Us,Us,Us,Us,Us,us,us,http://en.wikipedia.org/wiki/United_States,0.9802,0.075,0.107,0.818,0.059183694083694074,0.4728795093795093,negative,-0.431364,0.147025,0.607085,0.557955,0.195414,0.13209300000000002,-0.10000000149011612,7.599999904632567,Free Trade,2008-02-25T18:45:51.000Z,UCnzItcpd7WGVn80TRRb8RcQ,Peter Mandelson - In Defense of Free Trade,"Complete video at: http://fora.tv/2007/11/08/U_S__and_Europe_Confronting_Global_Challenges
+
+E.U. Commissioner for Trade Peter Mandelson gives a defense of free trade practices and globalization.
+
+-----
+
+Europe and the U.S.: Confronting Global Challenges with Peter Mandelson.
+
+In a speech at the Carnegie Endowment, EU Commissioner of Trade Peter Mandelson argued that the European Union and the United States must use their collective economic weight to underwrite the openness of the global economy as its adjusts to the rise of new economic powers and greater global flows of investment. Mandelson said that the U.S. and the EU should use their own openness to ""underwrite a strong multilateral order based on cooperation and economic openness"" - Carnegie Endowment for International Peace
+
+Peter Mandelson was born in Britain in 1953.
+
+He studied Philosophy, Politics and Economics at St Catherine's College, Oxford. As a young man he lived in Tanzania for a year, an experience which formed life-long impressions of Africa and the challenges of fighting poverty. A life-long pro-European, he led the British delegation to the first ever meeting of the European Communities Youth Forum in Strasbourg in 1979.
+
+After working as an economist at the Trades Union Congress and as a current affairs TV producer, Peter Mandelson was later appointed Labour Party Director for Campaigns and Communications in 1985. Later he was Tony Blairs Campaign Manager in the May 1997 election that brought Labour to power in Britain.
+
+In 1992 he was elected as member of parliament for the Northern English constituency of Hartlepool. He served until 2004 upon his appointment to the European Commission.
+
+Peter Mandelson is honorary Chair of Policy Network, a European and international think tank whose journal and conferences promote the exchange and debate of centre-left policy ideas and European social democratic thinking. He was UK chairman of the UK-Japan 21st Century Group, which brings together leading academics, politicians and business people. He has traveled widely and has lectured throughout Europe, in Asia and the United States.",FORA.tv,"globalisation', 'european', 'union', 'economics', 'economy', 'markets', 'practices', 'business', 'tariffs', 'mandleson', 'jobs', 'workers', 'eu', 'us', 'foratv', 'fora.tv', 'fora', 'tv'",PT5M51S,351,6

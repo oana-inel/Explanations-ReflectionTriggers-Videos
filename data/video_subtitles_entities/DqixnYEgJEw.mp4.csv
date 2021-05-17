@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DqixnYEgJEw,12 months,Quantity,NONE,NONE,0.36959699999999995,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,12 month,12 month,12 month,12 month,12 month,12 month,12 month,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,Belgium,Location,Country,NONE,0.36959699999999995,neutral,0.0,0.284584,0.308651,0.041306,0.511634,0.12430699999999999,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,Carlos,Person,NONE,NONE,0.410649,negative,-0.54028,0.284584,0.308651,0.041306,0.511634,0.12430699999999999,2,1,Carlos,Carlos,Carlos,Carlos,carlo,carlo,carlo,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,Society pattern Society,Organization,NONE,NONE,0.39515900000000004,negative,-0.479289,0.7813060000000001,0.126871,0.09855499999999999,0.074437,0.045182,1,1,Society pattern Society,Society pattern Society,Society pattern Society,Society pattern Society,societi pattern societi,societi pattern societi,socy pattern socy,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,Spanish government,Organization,NONE,NONE,0.65766,positive,0.554868,0.039883,0.09435299999999999,0.118551,0.031651,0.038817000000000004,2,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,ninety percent,Quantity,NONE,NONE,0.36959699999999995,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ninety percent,nineti percent,nineti percent,nin perc,nineti percent,nineti percent,nin perc,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,one year,Quantity,NONE,NONE,0.36959699999999995,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one year,one year,one year,on year,one year,one year,on year,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,president,JobTitle,NONE,NONE,0.4240640000000001,neutral,0.0,0.269266,0.294551,0.054984000000000005,0.515912,0.126894,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,president president Tower,JobTitle,NONE,NONE,0.7497159999999999,negative,-0.224518,0.187613,0.101188,0.470736,0.10012,0.12879200000000002,8,1,president president Tower,presid presid Tower,presid presid Tower,presid presid Tower,presid presid tower,presid presid tower,presid presid tow,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,prime minister,JobTitle,NONE,NONE,0.399737,positive,0.521471,0.309724,0.101148,0.401328,0.07145599999999999,0.041530000000000004,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6
+DqixnYEgJEw,socialist government,Organization,NONE,NONE,0.8110229999999999,negative,-0.702306,0.404045,0.26599,0.056846,0.49826800000000004,0.243729,4,1,socialist government,socialist govern,socialist govern,soc govern,socialist govern,socialist govern,soc govern,NONE,-0.9545,0.11,0.093,0.7959999999999999,0.029365852401566687,0.3902073455644884,negative,-0.374386,0.132206,0.5517770000000001,0.5838720000000001,0.160903,0.43726,-0.10000000149011612,14.800000190734865,Catalonia Independence,2018-10-01T12:18:13.000Z,UC16niRr50-MSBwiO3YDb3RA,What happened to Catalonia? One year on from the referendum - BBC News,"A year on from the illegal independence referendum that took place in Spain’s Catalonia region, the BBC's Gavin Lee has been speaking to some of the major players on both sides.
+We look at the effect of the independence crisis, and ask what was achieved by activists in attempting to declare the north east region a separate state.
+Produced by Juan A. Dominguez
+
+
+Please subscribe HERE http://bit.ly/1rbfUog",BBC News,"bbc', 'bbc news', 'news', 'Catalonia', 'Catalonia region', 'Spain’s Catalonia region', 'referendum', 'catalan', 'catalonia independence'",PT5M59S,359,6

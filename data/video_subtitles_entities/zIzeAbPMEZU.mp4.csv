@@ -1,0 +1,92 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+zIzeAbPMEZU,16 17 years,Quantity,NONE,NONE,0.306655,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,16 17 year,16 17 year,16 17 year,16 17 year,16 17 year,16 17 year,16 17 year,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,25 years,Quantity,NONE,NONE,0.306655,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Catalonia,Location,Country,NONE,0.586804,negative,-0.618134,0.4247770000000001,0.114874,0.06374099999999999,0.484092,0.229409,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Catalonia Carl,Company,NONE,NONE,0.49120600000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia Carl,Catalonia Carl,Catalonia Carl,Catalonia Carl,catalonia carl,catalonia carl,catalon carl,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.37454499999999996,neutral,0.0,0.264625,0.182536,0.2354,0.354137,0.153355,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Francisco Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.376056,negative,-0.638549,0.566121,0.199169,0.052846000000000004,0.18118,0.318564,1,1,Francisco Franco,Francisco Franco,Francisco Franco,Francisco Franco,francisco franco,francisco franco,francisco franco,http://en.wikipedia.org/wiki/Francisco_Franco,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,K. Del,Person,NONE,NONE,0.306655,neutral,0.0,0.215525,0.010178,0.19180899999999998,0.425703,0.246646,1,1,K. Del,K. Del,K. Del,K. Del,K. del,k. del,k. del,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.589039,negative,-0.6288100000000001,0.457928,0.065594,0.009794,0.47300299999999995,0.340897,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.792734,negative,-0.638549,0.42918500000000004,0.181497,0.099249,0.329629,0.282756,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Spanish Nation,Organization,NONE,NONE,0.611304,negative,-0.639486,0.45585299999999995,0.036150999999999996,0.031239999999999997,0.403413,0.335301,2,1,Spanish Nation,spanish Nation,spanish Nation,span Nation,spanish nation,spanish nation,span nat,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,Toriel juncker,Person,NONE,NONE,0.671988,neutral,0.0,0.21518099999999998,0.0256,0.15659800000000001,0.508302,0.204568,2,1,Toriel juncker,Toriel juncker,Toriel juncker,Toriel junck,toriel juncker,toriel juncker,toriel junck,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,president,JobTitle,NONE,NONE,0.345908,neutral,0.0,0.18767999999999999,0.20743899999999998,0.113955,0.257813,0.096299,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3
+zIzeAbPMEZU,vice president,JobTitle,NONE,NONE,0.39165300000000003,negative,-0.638549,0.566121,0.199169,0.052846000000000004,0.18118,0.318564,1,1,vice president,vice presid,vice presid,vic presid,vice presid,vice presid,vic presid,NONE,-0.9891,0.16,0.038,0.802,0.022680776014109345,0.2975573192239859,negative,-0.735455,0.208874,0.102905,0.6032930000000001,0.104956,0.309118,-0.30000001192092896,3.9000000953674316,Catalonia Independence,2019-02-13T12:57:17.000Z,UCj_Wl3gu-KovyjAK9BsWmrQ,Catalonia independence leaders on trial in Madrid | USA news today,"Catalonia independence leaders on trial in Madrid
+
+
+
+
+
+catalonia,madrid,independence,trial,catalan independence movement,catalonia independence referendum,catalan independence,catalonia independence,catalan leaders trial,spain catalonia independence,catalonia leaders extradition,catalonia separatists,catalaonia referendum trial,catalonia in english,catalonia news in english,a failed independence bid,independence referendum,spain,catalonia secession,catalan separatist leaders",Specific,"news', 'latest news', 'breaking news', 'live news', 'today news', 'top news'",PT2M14S,134,3

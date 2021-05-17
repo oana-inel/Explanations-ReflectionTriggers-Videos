@@ -1,0 +1,82 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pguZ2d9G6g0,10 years,Quantity,NONE,NONE,0.169337,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,10%,Quantity,NONE,NONE,0.169337,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 %,10 %,10 %,10 %,10 %,10 %,10 %,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,Cuba,Location,Country,NONE,0.37157199999999996,negative,-0.277586,0.41952799999999996,0.289056,0.157818,0.08682100000000001,0.252627,5,1,Cuba,Cuba,Cuba,Cuba,cuba,cuba,cub,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,FDA,Organization,GovernmentAgency,http://dbpedia.org/resource/Food_and_Drug_Administration,0.308919,positive,0.192804,0.49949899999999997,0.298273,0.012268000000000001,0.254773,0.26313400000000003,3,1,FDA,FDA,FDA,FDA,fda,fda,fda,http://en.wikipedia.org/wiki/Food_and_Drug_Administration,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,Mexico,Location,Country,NONE,0.178782,neutral,0.0,0.254945,0.129151,0.119735,0.046350999999999996,0.12953699999999999,1,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.21755,negative,-0.621365,0.5675859999999999,0.158275,0.21033400000000002,0.08151599999999999,0.11092,2,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,cancer,HealthCondition,"FieldOfStudy, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, MedicalSpecialty, RiskFactor, Disease",http://dbpedia.org/resource/Cancer,0.894674,negative,-0.807635,0.635352,0.29461,0.43944399999999995,0.088632,0.063644,12,1,cancer,cancer,cancer,cant,cancer,cancer,cant,http://en.wikipedia.org/wiki/Cancer,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,five-year,Quantity,NONE,NONE,0.169337,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five-year,five-year,five-year,five-year,five-year,five-year,five-year,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8
+pguZ2d9G6g0,lung cancer,HealthCondition,NONE,NONE,0.673165,negative,-0.78923,0.40520700000000004,0.227929,0.193779,0.142157,0.143061,4,1,lung cancer,lung cancer,lung cancer,lung cant,lung cancer,lung cancer,lung cant,NONE,-0.873,0.115,0.118,0.767,0.1945051485731097,0.4586726768377253,positive,0.417602,0.098155,0.525151,0.568539,0.200607,0.113946,0.10000000149011612,18.100000381469727,Vaccination,2016-10-26T16:36:29.000Z,UC9rvJImXDgWy59xz_lPkGYw,CIMAvax: The Cuban Lung Cancer Vaccine Explained,"Dr. Kelvin Lee, Chair of the Department of Immunology at Roswell Park Cancer Institute, shares the groundbreaking potential of CIMAvax-EGF, a lung cancer vaccine developed in Cuba. Learn more: https://goo.gl/gLJYsp
+
+What we know so far: 0:00
+The innovation that led to CIMAvax: 1:09
+Benefits for high-risk patients: 2:02
+The future of CIMAvax: 4:12
+The science behind CIMAvax: 5:15
+The safety of CIMAvax: 5:47
+The Cuban collaboration: 6:17",Roswell Park Comprehensive Cancer Center,"nsclc', 'cimavax', 'cancer vaccine', 'cuban lung cancer vaccine', 'lung cancer vaccine', 'cimavax egf', 'cuba cancer vaccine', 'vaccine for cancer', 'lung cancer immunotherapy', 'immunotherapy', 'roswell park cancer institute', 'roswell buffalo', 'roswell park', 'cancer buffalo ny', 'roswell cancer', 'center for molecular immunology', 'egf', 'cancer research', 'CIM', 'epidermal growth factor'",PT7M36S,456,8

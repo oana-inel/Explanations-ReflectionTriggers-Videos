@@ -1,0 +1,274 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pyLp75tg6Rc,25 years,Quantity,NONE,NONE,0.192486,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,42 percent,Quantity,NONE,NONE,0.192486,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,42 percent,42 percent,42 percent,42 perc,42 percent,42 percent,42 perc,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,90%,Quantity,NONE,NONE,0.192486,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,America,Location,Continent,NONE,0.23736100000000002,positive,0.8646219999999999,0.0,0.0,0.0,0.0,0.0,1,1,America,America,America,America,america,america,americ,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.283722,neutral,0.0,0.312307,0.249142,0.017349,0.465235,0.342104,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Belgium,Location,Country,NONE,0.192486,neutral,0.0,0.604412,0.224892,0.15809600000000001,0.11097699999999999,0.08089500000000001,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Carlos,Person,NONE,NONE,0.5749270000000001,negative,-0.6099479999999999,0.6560739999999999,0.185658,0.100772,0.244998,0.163364,8,1,Carlos,Carlos,Carlos,Carlos,carlo,carlo,carlo,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Catalonia,Location,City,NONE,0.26514499999999996,neutral,0.0,0.4447930000000001,0.163233,0.018543,0.31235599999999997,0.370158,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Catalonia,Location,Country,NONE,0.315705,neutral,0.0,0.4447930000000001,0.163233,0.018543,0.31235599999999997,0.370158,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Julia chavala Artie,Person,NONE,NONE,0.244694,neutral,0.0,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Julia chavala Artie,Julia chavala Artie,Julia chavala Artie,Julia chaval Artie,julia chavala arti,julia chavala arti,jul chaval arty,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Julia shapovalov,Person,NONE,NONE,0.310948,negative,-0.293885,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,Julia shapovalov,Julia shapovalov,Julia shapovalov,Julia shapovalov,julia shapovalov,julia shapovalov,jul shapovalov,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Karis,Person,NONE,NONE,0.238477,neutral,0.0,0.194492,0.244273,0.124501,0.266477,0.077045,1,1,Karis,Karis,Karis,Karis,kari,kari,kar,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.871157,positive,0.02648,0.6087819999999999,0.15727,0.092502,0.299844,0.270568,6,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Oreo,Person,NONE,NONE,0.272052,neutral,0.0,0.180293,0.233442,0.148288,0.28360799999999997,0.081811,2,1,Oreo,Oreo,Oreo,Oreo,oreo,oreo,oreo,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Republic of Catalonia,Organization,NONE,NONE,0.298067,neutral,0.0,0.604412,0.224892,0.15809600000000001,0.11097699999999999,0.08089500000000001,1,1,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,Republic of Catalonia,republ of catalonia,republ of catalonia,republ of catalon,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Society,Location,Continent,NONE,0.201877,neutral,0.0,0.4447930000000001,0.163233,0.018543,0.31235599999999997,0.370158,1,1,Society,societi,societi,socy,societi,societi,socy,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.292047,neutral,0.0,0.512652,0.185373,0.016411000000000002,0.327594,0.343482,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.326181,neutral,0.0,0.512652,0.185373,0.016411000000000002,0.327594,0.343482,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.25368,positive,0.5406340000000001,0.082183,0.018682,0.281451,0.039075,0.055052,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,prime minister,JobTitle,NONE,NONE,0.36809400000000003,positive,0.5406340000000001,0.41259399999999996,0.130724,0.027232,0.39644,0.35831799999999997,3,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3
+pyLp75tg6Rc,vice president,JobTitle,NONE,NONE,0.2957,neutral,0.0,0.180293,0.233442,0.148288,0.28360799999999997,0.081811,2,1,vice president,vice presid,vice presid,vic presid,vice presid,vice presid,vic presid,NONE,-0.2726,0.083,0.08,0.8370000000000001,0.04431818181818182,0.34255050505050505,positive,0.672692,0.450422,0.562398,0.5363640000000001,0.102611,0.192339,0.0,5.5,Catalonia Independence,2019-02-15T00:09:03.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Leaders of Catalonia independence bid on trial in Madrid,"The trial of the leaders of the failed attempt to declare Catalonia’s independence from Spain is underway in Madrid. Twelve “separatist” leaders were accused of instigating and organizing the insurgency, as well as the misuse of public funds. Pro-independence protesters briefly blocked highways and roads in the Spanish city of Barcelona. RT’s Yulia Shapovalova has the story for News.Views.Hughes. 
+
+
+#NewsViewsHughes
+#QuestionMore
+#RTAmerica
+
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Catalan', 'Barcelona', 'Spain', 'Catalonia', 'RT', 'RTAmerica', 'EU', 'Brexit', 'Independence Barcelona'",PT3M,180,3

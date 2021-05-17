@@ -1,0 +1,256 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZrcsyNwmm1M,BBC World Service,Organization,"Broadcast, RadioStation",http://dbpedia.org/resource/BBC_World_Service,0.300324,neutral,0.0,0.344683,0.015498,0.207698,0.21821300000000002,0.22369899999999998,1,1,BBC World Service,BBC World Service,BBC World Service,BBC World Service,bbc world servic,bbc world servic,bbc world serv,http://en.wikipedia.org/wiki/BBC_World_Service,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.375553,neutral,0.0,0.219532,0.3886,0.182925,0.174341,0.13627,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Botta,Location,City,NONE,0.276943,positive,0.944372,0.09713,0.246486,0.375177,0.334846,0.112632,1,1,Botta,Botta,Botta,Botta,botta,botta,bott,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Catalan Independence Movement,Organization,NONE,NONE,0.498938,neutral,0.0,0.037557,0.21729,0.601029,0.169926,0.051007,1,1,Catalan Independence Movement,Catalan Independence Movement,Catalan Independence Movement,Catalan Independence Movement,catalan independ movement,catalan independ movement,cat independ mov,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Catalonia,Location,Country,NONE,0.297236,neutral,0.0,0.473246,0.11374100000000001,0.36787600000000004,0.079163,0.051963,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,England,Location,Country,NONE,0.3027,negative,-0.22286799999999998,0.419863,0.18723599999999999,0.070619,0.061637,0.139077,1,1,England,England,England,England,england,england,england,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Kathryn,Person,NONE,NONE,0.28172600000000003,neutral,0.0,0.255614,0.212261,0.347104,0.176515,0.189442,1,1,Kathryn,Kathryn,Kathryn,Kathryn,kathryn,kathryn,kathryn,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,London,Location,City,NONE,0.345584,neutral,0.0,0.25447800000000004,0.098596,0.22969099999999998,0.047197,0.07884,1,1,London,London,London,London,london,london,london,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,NAT Catalan National Congress Catalan National Assembly,Organization,NONE,NONE,0.640688,neutral,0.0,0.172626,0.058858000000000014,0.028722,0.716073,0.293195,1,1,NAT Catalan National Congress Catalan National Assembly,NAT Catalan National Congress Catalan National Assembly,NAT Catalan National Congress Catalan National Assembly,NAT Catalan National Congress Catalan National Assembly,nat catalan nation congress catalan nation assembl,nat catalan nation congress catalan nation assembl,nat cat nat congress cat nat assembl,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,National Police,Organization,NONE,NONE,0.613352,negative,-0.57702,0.254761,0.28368699999999997,0.033392000000000005,0.5394680000000001,0.175849,2,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.600488,negative,-0.542615,0.570855,0.182339,0.202275,0.172076,0.144782,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Spanish National Police,Organization,NONE,NONE,0.961938,negative,-0.684699,0.391741,0.156204,0.12387100000000001,0.27460500000000004,0.359242,4,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Tim,Person,NONE,NONE,0.262694,neutral,0.0,0.344683,0.015498,0.207698,0.21821300000000002,0.22369899999999998,1,1,Tim,Tim,Tim,Tim,tim,tim,tim,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,Twitter,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Twitter,0.450279,negative,-0.694547,0.446579,0.132573,0.284679,0.055827,0.19281800000000002,3,1,Twitter,Twitter,Twitter,Twitter,twitter,twitter,twit,http://en.wikipedia.org/wiki/Twitter,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.300978,neutral,0.0,0.473246,0.11374100000000001,0.36787600000000004,0.079163,0.051963,1,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,civil Gardens,Location,City,NONE,0.306079,negative,-0.6120439999999999,0.31640999999999997,0.163461,0.091943,0.285939,0.350066,1,1,civil Gardens,civil Gardens,civil Gardens,civil Gardens,civil garden,civil garden,civil gard,NONE,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10
+ZrcsyNwmm1M,tupperware,Company,Brand,http://dbpedia.org/resource/Tupperware,0.325306,negative,-0.377714,0.0,0.0,0.0,0.0,0.0,1,1,tupperware,tupperwar,tupperwar,tupperw,tupperwar,tupperwar,tupperw,http://en.wikipedia.org/wiki/Tupperware,-0.6891,0.07400000000000001,0.073,0.8540000000000001,0.03522588522588523,0.3695458105835465,positive,0.286103,0.143603,0.551766,0.4865930000000001,0.150803,0.14463,0.0,25.20000076293945,Catalonia Independence,2017-09-28T09:35:29.000Z,UCMpnS1ol8dl2dYmQHFOGxjw,Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead,"Programme Notes and Links
+Catalan Referendum Update: Why I Think The Independence Vote Will Go Ahead
+https://www.europeandefenceleague.com/2017/09/28/catalan-referendum-update-why-i-think-the-independence-vote-will-go-ahead/
+
+http://www.barcelonas.com/donate.html
+http://www.paypal.me/simonharrisbcn
+http://www.patreon.com/simonharris
+
+Twitter @simonharris
+Minds https://www.minds.com/SimonHarris
+Gab https://gab.ai/simonharris
+Vid.me https://vid.me/simonharris
+
+Join the conversation
+https://www.europeandefenceleague.com/forum/",Simon Harris,,PT9M25S,565,10

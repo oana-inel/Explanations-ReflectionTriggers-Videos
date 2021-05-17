@@ -1,0 +1,362 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uk1uv9AL9NE,Belgium,Location,"HumanLanguage, Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Belgium,0.238933,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,http://en.wikipedia.org/wiki/Belgium,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Catalonia,Location,City,NONE,0.8953049999999999,negative,-0.21279499999999998,0.62863,0.173493,0.5324399999999999,0.080601,0.11574100000000001,9,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Catalonia Imports,Company,NONE,NONE,0.443168,neutral,0.0,0.32621500000000003,0.121342,0.239152,0.218563,0.206618,1,1,Catalonia Imports,Catalonia import,Catalonia import,Catalonia import,catalonia import,catalonia import,catalon import,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Danny,Person,NONE,NONE,0.23407199999999997,negative,-0.448006,0.09511900000000001,0.04832,0.068905,0.031379000000000004,0.131857,1,1,Danny,Danny,Danny,Danny,danni,danni,danny,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.225962,neutral,0.0,0.41381599999999996,0.077053,0.13176400000000002,0.177125,0.25566700000000003,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,European Central Bank,Organization,Location,http://dbpedia.org/resource/European_Central_Bank,0.29888200000000004,negative,-0.52805,0.344723,0.036741,0.09824,0.035407,0.292028,2,1,European Central Bank,european Central Bank,european Central Bank,europ Central Bank,european central bank,european central bank,europ cent bank,http://en.wikipedia.org/wiki/European_Central_Bank,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.409754,neutral,0.0,0.34362600000000004,0.078341,0.274436,0.210233,0.2458090000000001,4,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.251954,neutral,0.0,0.22358899999999998,0.22311199999999998,0.499633,0.034464,0.104682,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,International Community,Organization,NONE,NONE,0.22482800000000008,neutral,0.0,0.233614,0.026180000000000002,0.630232,0.057211,0.093422,2,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Joy,Person,NONE,NONE,0.301191,positive,0.667046,0.033016000000000004,0.020419,0.8900520000000001,0.022719999999999997,0.024562,1,1,Joy,Joy,Joy,Joy,joy,joy,joy,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.23055,negative,-0.603564,0.68509,0.305978,0.006861,0.137208,0.191405,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.270494,positive,0.515286,0.34847399999999995,0.059803999999999996,0.24443600000000001,0.050082999999999996,0.096216,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Norway,Location,"HumanLanguage, GovernmentalJurisdiction, Kingdom, AwardDiscipline, Country",http://dbpedia.org/resource/Norway,0.208218,neutral,0.0,0.41381599999999996,0.077053,0.13176400000000002,0.177125,0.25566700000000003,1,1,Norway,Norway,Norway,Norway,norway,norway,norway,http://en.wikipedia.org/wiki/Norway,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Quebec,Location,Country,NONE,0.214331,negative,-0.532176,0.6981649999999999,0.19498800000000002,0.01157,0.267676,0.163327,1,1,Quebec,Quebec,Quebec,Quebec,quebec,quebec,quebec,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.337939,negative,-0.078543,0.692988,0.38343299999999997,0.039264,0.028501,0.092231,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.19689600000000002,neutral,0.0,0.41381599999999996,0.077053,0.13176400000000002,0.177125,0.25566700000000003,1,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,extremadura,Location,City,NONE,0.24791100000000002,neutral,0.0,0.40719299999999997,0.078043,0.201405,0.121901,0.053696,1,1,extremadura,extremadura,extremadura,extremadur,extremadura,extremadura,extremadur,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,0.351852,negative,-0.532176,0.70502,0.172312,0.01379,0.27149,0.166998,2,1,parliament,parliament,parliament,parlia,parliament,parliament,parlia,http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6
+uk1uv9AL9NE,senate,Organization,NONE,NONE,0.22092399999999998,negative,-0.603564,0.68509,0.305978,0.006861,0.137208,0.191405,1,1,senate,senat,senat,sen,senat,senat,sen,NONE,0.4153,0.097,0.102,0.8009999999999999,0.05408290494227993,0.3954836309523809,positive,0.35582800000000003,0.106329,0.588957,0.597416,0.14424800000000002,0.097994,0.0,13.300000190734865,Catalonia Independence,2017-10-27T15:12:24.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia: ""We declared independence, now we have to make it effective!""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia: ""We declared independence, now we have to make it effective!"" The economist Elisenda Paluzie answers Aurore Cloé Dupuis''s questions from Barcelona.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris'",PT5M45S,345,6

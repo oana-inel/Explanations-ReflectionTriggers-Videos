@@ -1,0 +1,369 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pQ5y0003xE0,Acosta,Person,NONE,NONE,0.493647,neutral,0.0,0.13977699999999998,0.078974,0.191236,0.18071500000000001,0.09764600000000001,1,1,Acosta,Acosta,Acosta,Acosta,acosta,acosta,acost,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Alex Castellanos,Person,NONE,NONE,0.509763,neutral,0.0,0.20988400000000001,0.43247299999999994,0.072795,0.37873,0.184201,1,1,Alex Castellanos,Alex Castellanos,Alex Castellanos,Alex Castellanos,alex castellano,alex castellano,alex castellano,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Alisoun,Person,NONE,NONE,0.47922299999999995,neutral,0.0,0.596312,0.095373,0.044041000000000004,0.300818,0.201699,1,1,Alisoun,Alisoun,Alisoun,Alisoun,alisoun,alisoun,alisoun,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Alito,Person,NONE,NONE,0.779564,negative,-0.71944,0.632504,0.13192,0.026729000000000003,0.207418,0.29004,3,1,Alito,Alito,Alito,Alito,alito,alito,alito,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Amanda,Person,NONE,NONE,0.431637,positive,0.8729399999999999,0.020952000000000002,0.037991000000000004,0.817084,0.018239,0.125615,1,1,Amanda,Amanda,Amanda,Amanda,amanda,amanda,amand,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Aruba,Location,City,NONE,0.47279099999999996,neutral,0.0,0.098499,0.056255999999999994,0.70908,0.04027,0.020863999999999997,1,1,Aruba,Aruba,Aruba,Aruba,aruba,aruba,arub,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Barbara,Person,NONE,NONE,0.438542,neutral,0.0,0.13977699999999998,0.078974,0.191236,0.18071500000000001,0.09764600000000001,1,1,Barbara,Barbara,Barbara,Barbara,barbara,barbara,barbar,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Catalunya,Location,City,NONE,0.607633,neutral,0.0,0.225156,0.13108599999999998,0.41587299999999994,0.09976900000000001,0.037749,1,1,Catalunya,Catalunya,Catalunya,Catalunya,catalunya,catalunya,cataluny,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Earnest,Location,Country,NONE,0.469552,positive,0.8729399999999999,0.020952000000000002,0.037991000000000004,0.817084,0.018239,0.125615,1,1,Earnest,Earnest,Earnest,Earnest,earnest,earnest,earnest,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,El programa de Catalunya,Location,City,NONE,0.731366,neutral,0.0,0.23071999999999998,0.28971199999999997,0.4636770000000001,0.063487,0.03902,1,1,El programa de Catalunya,El programa de Catalunya,El programa de Catalunya,El program de Catalunya,El programa de catalunya,el programa de catalunya,el program de cataluny,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.520464,neutral,0.0,0.49631800000000004,0.042306,0.100097,0.303634,0.165037,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Karthik,Company,NONE,NONE,0.5169590000000001,neutral,0.0,0.098499,0.056255999999999994,0.70908,0.04027,0.020863999999999997,1,1,Karthik,Karthik,Karthik,Karthik,karthik,karthik,karthik,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,La Nostra,Company,NONE,NONE,0.769509,positive,0.763304,0.443496,0.403408,0.151997,0.107179,0.102745,1,1,La Nostra,La Nostra,La Nostra,La Nostra,La nostra,la nostra,la nostr,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,La Nostra po política,Facility,NONE,NONE,0.9363969999999999,neutral,0.0,0.098584,0.14896900000000002,0.051780999999999994,0.155699,0.084971,1,1,La Nostra po política,La Nostra po política,La Nostra po política,La Nostra po polític,La nostra po política,la nostra po política,la nostr po polític,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,La Primera,Location,City,NONE,0.722963,negative,-0.740949,0.455759,0.352107,0.15170999999999998,0.179591,0.043118000000000004,1,1,La Primera,La Primera,La Primera,La Primera,La primera,la primera,la primer,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,La ciudad Ania,Facility,NONE,NONE,0.743243,negative,-0.50715,0.198964,0.080112,0.262214,0.02494,0.075316,1,1,La ciudad Ania,La ciudad Ania,La ciudad Ania,La ciudad Ania,La ciudad ania,la ciudad ania,la ciudad an,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Parliament,Organization,NONE,NONE,0.48429099999999997,neutral,0.0,0.6085649999999999,0.100992,0.088996,0.20901399999999998,0.178405,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Senora Gabrielle,Person,NONE,NONE,0.519976,positive,0.763304,0.443496,0.403408,0.151997,0.107179,0.102745,1,1,Senora Gabrielle,Senora Gabrielle,Senora Gabrielle,Senora Gabrielle,senora gabriel,senora gabriell,senor gabriel,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Sonja,Person,NONE,NONE,0.42859899999999995,positive,0.763304,0.443496,0.403408,0.151997,0.107179,0.102745,1,1,Sonja,Sonja,Sonja,Sonja,sonja,sonja,sonj,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Spagnola,Person,NONE,NONE,0.503972,negative,-0.50715,0.198964,0.080112,0.262214,0.02494,0.075316,1,1,Spagnola,Spagnola,Spagnola,Spagnola,spagnola,spagnola,spagnol,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Tina,Person,NONE,NONE,0.472264,neutral,0.0,0.191705,0.040924,0.237554,0.35281599999999996,0.062429,1,1,Tina,Tina,Tina,Tina,tina,tina,tin,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,Tonya,Person,NONE,NONE,0.46503500000000003,negative,-0.50715,0.198964,0.080112,0.262214,0.02494,0.075316,1,1,Tonya,Tonya,Tonya,Tonya,tonya,tonya,tony,NONE,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5
+pQ5y0003xE0,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.490516,neutral,0.0,0.49631800000000004,0.042306,0.100097,0.303634,0.165037,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.7361,0.091,0.107,0.8009999999999999,0.09552512704686617,0.3763363448146056,positive,0.309702,0.106449,0.555107,0.5543640000000001,0.14324,0.154316,0.0,5.699999809265138,Catalonia Independence,2017-10-27T15:26:26.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Anti-independence Catalan MPs storm out of parliament ahead of vote,"Several Members of Parliament who oppose Catalan independence left the parliamentary chamber in Barcelona ahead of a vote on the declaration of independence, Friday.
+
+""These elections have to stop the Brexit which Puigdemont is leading us to,"" said Carlos Carrizosa, Spokesperson of Ciudadanos in the Catalan Parliament. ""This document you have written breaks the holiest thing for people in Catalonia, it breaks the co-existence, it deprives them of their citizenship.""
+
+Many of MPs left Spanish and Catalan flags on their pews in their absence.
+
+The vote went ahead and saw 70 representatives voted in favour, with ten against and two abstinences, while Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell declared the result.
+
+It follows the Spanish central government's plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia.
+
+Video ID: 20171027-014
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'article 155', 'barcelona', 'catalan', 'spain'",PT4M13S,253,5

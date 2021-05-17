@@ -1,0 +1,161 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+aMScvL-Tahk,Artur Mas,Person,"Politician, President",http://dbpedia.org/resource/Artur_Mas_i_Gavarró,0.485501,neutral,0.0,0.159385,0.259751,0.156584,0.123375,0.14019700000000002,1,1,Artur Mas,Artur Mas,Artur Mas,Artur Mas,artur ma,artur mas,art mas,http://en.wikipedia.org/wiki/Artur_Mas_i_Gavarró,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,Catalonia,Location,City,NONE,0.5797979999999999,positive,0.575539,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,Karen,Person,NONE,NONE,0.573595,positive,0.23826799999999998,0.16686900000000002,0.066359,0.143249,0.189119,0.072348,3,1,Karen,Karen,Karen,Karen,karen,karen,kar,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.41602700000000004,neutral,0.0,0.474828,0.153881,0.262058,0.09222000000000001,0.061844,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,President,JobTitle,NONE,NONE,0.347968,neutral,0.0,0.159385,0.259751,0.156584,0.123375,0.14019700000000002,1,1,President,President,President,President,presid,presid,presid,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,Regional Catalonia,Location,Region,NONE,0.840362,neutral,0.0,0.474828,0.153881,0.262058,0.09222000000000001,0.061844,1,1,Regional Catalonia,Regional Catalonia,Regional Catalonia,Regional Catalonia,region catalonia,region catalonia,reg catalon,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,Spain,Location,Country,NONE,0.393203,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2
+aMScvL-Tahk,prime minister,JobTitle,NONE,NONE,0.44738199999999995,neutral,0.0,0.474828,0.153881,0.262058,0.09222000000000001,0.061844,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9174,0.028,0.11,0.862,-0.0125,0.34479166666666666,negative,-0.379301,0.092805,0.246244,0.232389,0.160966,0.144822,-0.10000000149011612,2.5999999046325684,Catalonia Independence,2014-11-11T22:25:41.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Spain: no negotiation on Catalonia independence,"Spain's regional Catalonia authorities have proposed that the Spanish prime minister establishes a permanent dialogue over Catalan independence. 
+
+This comes after Catalans voted in favor of breaking away from Madrid. The Spanish government does not recognise that symbolic vote and has dismissed secession.
+
+Speaking about Catalan independence, Spanish Deputy Prime Minister Soraya Sanez de Santamaria said, ""...it will be difficult to reach an agreement because, I tell you, neither this government…
+READ MORE : http://www.euronews.com/2014/11/11/spain-no-negotiation-on-catalonia-independence
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 14 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"euronews', 'world', 'Politics', 'Madrid', 'Barcelona', 'Spain', 'Referendum'",PT1M16S,76,2

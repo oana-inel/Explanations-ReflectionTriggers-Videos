@@ -1,0 +1,49 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+VLI6OTq8Kqo,HP,Company,NONE,NONE,0.8233889999999999,neutral,0.0,0.030539999999999998,0.050254,0.169786,0.038784,0.038600999999999996,1,1,HP,HP,HP,HP,HP,hp,hp,NONE,0.7964,0.024,0.133,0.843,0.1261904761904762,0.3321428571428572,neutral,0.0,0.027127,0.07425,0.154434,0.053423000000000005,0.207687,0.10000000149011612,0.6000000238418579,Vaccination,2018-10-16T06:54:17.000Z,UCVdt-K3UythSHVYLyP6K8lQ,Vaccination Subsidy Scheme 2018/19 (Seasonal Influenza Vaccination),"Middle-aged woman:
+(subtitle) The Government has expanded the Vaccination Subsidy Scheme
+I’d better get the influenza vaccination at once!
+Middle-aged man:
+(subtitle) We just turned 50. Are we eligible too?
+English MVO: Eligible groups for subsidised influenza vaccination
+have been extended to include persons aged 50 or above
+Super: Eligible groups include: 
+Persons aged 50 or above
+Pregnant women
+Children aged 6 months to under 12 years (or primary school students)
+Persons with intellectual disability 
+Persons receiving Disability Allowance
+English MVO: Pregnant women, children, persons with intellectual disability and
+persons receiving Disability Allowance are also eligible
+to receive subsidised influenza vaccination
+from private doctors enrolled in the Scheme
+ The subsidy has been increased to $210 per dose
+ For details, visit chp.gov.hk
+Super: Prevent Influenza
+Get Vaccinated Now
+chp.gov.hk
+Centre for Health Protection
+Department of Health","政府新聞處 Information Services Department, HKSARG","news.gov.hk', '政府新聞網', '新聞網', '特區政府', '新聞處', '香港', 'HK', 'Hong Kong', 'ISD', '政府新聞處', 'hksarg'",PT31S,31,1
+VLI6OTq8Kqo,ten dollars,Quantity,NONE,NONE,0.8233889999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ten dollar,ten dollar,ten dollar,ten doll,ten dollar,ten dollar,ten doll,NONE,0.7964,0.024,0.133,0.843,0.1261904761904762,0.3321428571428572,neutral,0.0,0.027127,0.07425,0.154434,0.053423000000000005,0.207687,0.10000000149011612,0.6000000238418579,Vaccination,2018-10-16T06:54:17.000Z,UCVdt-K3UythSHVYLyP6K8lQ,Vaccination Subsidy Scheme 2018/19 (Seasonal Influenza Vaccination),"Middle-aged woman:
+(subtitle) The Government has expanded the Vaccination Subsidy Scheme
+I’d better get the influenza vaccination at once!
+Middle-aged man:
+(subtitle) We just turned 50. Are we eligible too?
+English MVO: Eligible groups for subsidised influenza vaccination
+have been extended to include persons aged 50 or above
+Super: Eligible groups include: 
+Persons aged 50 or above
+Pregnant women
+Children aged 6 months to under 12 years (or primary school students)
+Persons with intellectual disability 
+Persons receiving Disability Allowance
+English MVO: Pregnant women, children, persons with intellectual disability and
+persons receiving Disability Allowance are also eligible
+to receive subsidised influenza vaccination
+from private doctors enrolled in the Scheme
+ The subsidy has been increased to $210 per dose
+ For details, visit chp.gov.hk
+Super: Prevent Influenza
+Get Vaccinated Now
+chp.gov.hk
+Centre for Health Protection
+Department of Health","政府新聞處 Information Services Department, HKSARG","news.gov.hk', '政府新聞網', '新聞網', '特區政府', '新聞處', '香港', 'HK', 'Hong Kong', 'ISD', '政府新聞處', 'hksarg'",PT31S,31,1

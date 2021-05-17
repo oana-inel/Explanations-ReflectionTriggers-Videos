@@ -1,0 +1,112 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Th8_grOkm5Q,Catalonia,Location,Region,NONE,0.921155,neutral,0.0,0.432141,0.23738499999999998,0.097617,0.18445999999999999,0.088521,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8225,0.0,0.282,0.718,0.2,0.7,positive,0.703773,0.142518,0.195936,0.312177,0.145326,0.138779,-0.20000000298023224,0.4000000059604645,Catalonia Independence,2014-09-11T20:03:31.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Two million Catalans demand independence on Barcelona streets,"Video ID: 20140911-044
+
+W/S Crowd gathering on Gran Via street 
+M/S Pro-independence people marching 
+M/S People waving Pro-independence flag (Estelada)
+M/S People marching 
+M/S Choir singing
+W/S Choir singing
+M/S Girl holding independence flag 
+SOT, Julia Dalma, demonstrator (in English): ""Yeah, we are different from Spain and it is like we are free. They want to stay but we don't want to stay with them .""
+W/S Crowd gathering on Gran Via street 
+SOT Female demonstrator (in English): ""We don't feel like we are Spanish, we are Catalan only, not Spanish. We are neighbours, only neighbours, but we don't feel like we are Spanish people. 
+Male demonstrator (in English) ""Catalonia is the new state of Europe."" 
+M/S Girl placing vote in ballot box at head of V 
+W/S Crowd doing Mexican wave 
+W/S People doing human pyramid 
+M/S People doing human pyramid 
+W/S People doing human pyramid 
+W/S Independence flags of Catalonia 
+
+SCRIPT
+
+Almost two million people according to local police gathered in Barcelona on Thursday to celebrate the Catalonian national day and to demand a referendum for the independence of Catalonia. 
+
+Demonstrators marched through Diagonal Street and Gran Via, converging to form the letter ""V"" for ""vote"" and ""victory"". Protesters also waved pro-independence flags and shouted ""we want to vote"" and ""independence"". 
+
+Many personalities addressed the crowds from three different stages along the march. Demonstrators explained that they did not feel Spanish and merely viewed Spain as a neighbour but not as part of their national and cultural identity.
+
+
+Facebook: http://www.facebook.com/Ruptly
+Twitter: http://twitter.com/Ruptly
+LiveLeak: http://www.liveleak.com/c/Ruptly
+Google Plus: http://google.com/+RuptlyTV
+Instagram: http://www.instagram.com/Ruptly
+YouTube: http://www.youtube.com/user/RuptlyTV
+DailyMotion: http://www.dailymotion.com/ruptly
+Video on Demand: http://www.ruptly.tv",Ruptly,"demo', 'barcelona', 'catalonia', 'news', 'Ruptly', 'Cataluña', 'catalan day', 'catalan independence', 'protest', 'spain'",PT1M22S,82,2
+Th8_grOkm5Q,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.707284,neutral,0.0,0.238504,0.112358,0.21881599999999998,0.113345,0.12949000000000002,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.8225,0.0,0.282,0.718,0.2,0.7,positive,0.703773,0.142518,0.195936,0.312177,0.145326,0.138779,-0.20000000298023224,0.4000000059604645,Catalonia Independence,2014-09-11T20:03:31.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Two million Catalans demand independence on Barcelona streets,"Video ID: 20140911-044
+
+W/S Crowd gathering on Gran Via street 
+M/S Pro-independence people marching 
+M/S People waving Pro-independence flag (Estelada)
+M/S People marching 
+M/S Choir singing
+W/S Choir singing
+M/S Girl holding independence flag 
+SOT, Julia Dalma, demonstrator (in English): ""Yeah, we are different from Spain and it is like we are free. They want to stay but we don't want to stay with them .""
+W/S Crowd gathering on Gran Via street 
+SOT Female demonstrator (in English): ""We don't feel like we are Spanish, we are Catalan only, not Spanish. We are neighbours, only neighbours, but we don't feel like we are Spanish people. 
+Male demonstrator (in English) ""Catalonia is the new state of Europe."" 
+M/S Girl placing vote in ballot box at head of V 
+W/S Crowd doing Mexican wave 
+W/S People doing human pyramid 
+M/S People doing human pyramid 
+W/S People doing human pyramid 
+W/S Independence flags of Catalonia 
+
+SCRIPT
+
+Almost two million people according to local police gathered in Barcelona on Thursday to celebrate the Catalonian national day and to demand a referendum for the independence of Catalonia. 
+
+Demonstrators marched through Diagonal Street and Gran Via, converging to form the letter ""V"" for ""vote"" and ""victory"". Protesters also waved pro-independence flags and shouted ""we want to vote"" and ""independence"". 
+
+Many personalities addressed the crowds from three different stages along the march. Demonstrators explained that they did not feel Spanish and merely viewed Spain as a neighbour but not as part of their national and cultural identity.
+
+
+Facebook: http://www.facebook.com/Ruptly
+Twitter: http://twitter.com/Ruptly
+LiveLeak: http://www.liveleak.com/c/Ruptly
+Google Plus: http://google.com/+RuptlyTV
+Instagram: http://www.instagram.com/Ruptly
+YouTube: http://www.youtube.com/user/RuptlyTV
+DailyMotion: http://www.dailymotion.com/ruptly
+Video on Demand: http://www.ruptly.tv",Ruptly,"demo', 'barcelona', 'catalonia', 'news', 'Ruptly', 'Cataluña', 'catalan day', 'catalan independence', 'protest', 'spain'",PT1M22S,82,2
+Th8_grOkm5Q,zooropa,Location,City,NONE,0.8782059999999999,neutral,0.0,0.422332,0.233096,0.101591,0.183753,0.084621,1,1,zooropa,zooropa,zooropa,zoorop,zooropa,zooropa,zoorop,NONE,0.8225,0.0,0.282,0.718,0.2,0.7,positive,0.703773,0.142518,0.195936,0.312177,0.145326,0.138779,-0.20000000298023224,0.4000000059604645,Catalonia Independence,2014-09-11T20:03:31.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Two million Catalans demand independence on Barcelona streets,"Video ID: 20140911-044
+
+W/S Crowd gathering on Gran Via street 
+M/S Pro-independence people marching 
+M/S People waving Pro-independence flag (Estelada)
+M/S People marching 
+M/S Choir singing
+W/S Choir singing
+M/S Girl holding independence flag 
+SOT, Julia Dalma, demonstrator (in English): ""Yeah, we are different from Spain and it is like we are free. They want to stay but we don't want to stay with them .""
+W/S Crowd gathering on Gran Via street 
+SOT Female demonstrator (in English): ""We don't feel like we are Spanish, we are Catalan only, not Spanish. We are neighbours, only neighbours, but we don't feel like we are Spanish people. 
+Male demonstrator (in English) ""Catalonia is the new state of Europe."" 
+M/S Girl placing vote in ballot box at head of V 
+W/S Crowd doing Mexican wave 
+W/S People doing human pyramid 
+M/S People doing human pyramid 
+W/S People doing human pyramid 
+W/S Independence flags of Catalonia 
+
+SCRIPT
+
+Almost two million people according to local police gathered in Barcelona on Thursday to celebrate the Catalonian national day and to demand a referendum for the independence of Catalonia. 
+
+Demonstrators marched through Diagonal Street and Gran Via, converging to form the letter ""V"" for ""vote"" and ""victory"". Protesters also waved pro-independence flags and shouted ""we want to vote"" and ""independence"". 
+
+Many personalities addressed the crowds from three different stages along the march. Demonstrators explained that they did not feel Spanish and merely viewed Spain as a neighbour but not as part of their national and cultural identity.
+
+
+Facebook: http://www.facebook.com/Ruptly
+Twitter: http://twitter.com/Ruptly
+LiveLeak: http://www.liveleak.com/c/Ruptly
+Google Plus: http://google.com/+RuptlyTV
+Instagram: http://www.instagram.com/Ruptly
+YouTube: http://www.youtube.com/user/RuptlyTV
+DailyMotion: http://www.dailymotion.com/ruptly
+Video on Demand: http://www.ruptly.tv",Ruptly,"demo', 'barcelona', 'catalonia', 'news', 'Ruptly', 'Cataluña', 'catalan day', 'catalan independence', 'protest', 'spain'",PT1M22S,82,2

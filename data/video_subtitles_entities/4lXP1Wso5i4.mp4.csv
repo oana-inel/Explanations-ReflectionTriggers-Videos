@@ -1,0 +1,15 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+4lXP1Wso5i4,four trillion dollar,Quantity,NONE,NONE,0.8959389999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four trillion dollar,four trillion dollar,four trillion dollar,four tril doll,four trillion dollar,four trillion dollar,four tril doll,NONE,0.8442,0.0,0.114,0.8859999999999999,-0.03999999999999998,0.78,positive,0.302927,0.123145,0.669167,0.132229,0.059385,0.040656,0.10000000149011612,0.5,Free Trade,2019-06-12T09:37:29.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"""We must not be afraid of free trade,"" says African Development Bank Group president","Subscribe to France 24 now: https://f24.my/YouTubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+https://f24.my/YTliveEN
+
+""We must not be afraid of free trade (...) You don't grow by closing your market.""
+
+African Development Bank Group president Akinwumi A. Adesina tells us more about the future of trade in Africa.
+
+Visit our website: https://www.france24.com
+
+Like us on Facebook: https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter: https://twitter.com/France24_en",FRANCE 24 English,"France 24', 'News', 'F24', 'news', 'Latest', 'ABAD', 'Malabo', 'free trade', 'trade', 'Africa', 'African Development Bank Group', 'Akinwumi A. Adesina'",PT29S,29,1

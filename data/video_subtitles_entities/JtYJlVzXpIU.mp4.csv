@@ -1,0 +1,49 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+JtYJlVzXpIU,Britain,Location,Country,NONE,0.16581400000000002,positive,0.812475,0.0,0.0,0.0,0.0,0.0,1,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3
+JtYJlVzXpIU,Customs Union,Organization,NONE,NONE,0.23576100000000005,negative,-0.717817,0.6340439999999999,0.193103,0.13907,0.065611,0.104307,2,1,Customs Union,Customs Union,Customs Union,Customs Union,custom union,custom union,custom un,NONE,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3
+JtYJlVzXpIU,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.365151,negative,-0.161017,0.579674,0.170008,0.15997,0.044160000000000005,0.10763099999999999,4,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3
+JtYJlVzXpIU,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.192958,positive,0.812475,0.294718,0.190307,0.293428,0.070037,0.087086,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3
+JtYJlVzXpIU,UK,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/England,0.507677,negative,-0.34989899999999996,0.498371,0.160631,0.612815,0.057102,0.11791800000000001,9,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/England,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3
+JtYJlVzXpIU,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.211488,negative,-0.7172,0.26915900000000004,0.091384,0.358002,0.075566,0.081067,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9828,0.07200000000000001,0.114,0.815,0.08264472455648925,0.5849945533769064,negative,-0.324602,0.104044,0.57701,0.501092,0.10927,0.398988,0.0,7.300000190734862,Free Trade,2018-01-10T14:01:21.000Z,UCKVW7yfpFSz9BRNBgryX_yw,The Case for Unilateral Free Trade,"Julian Jessop, the IEA's Chief Economist and Head of the Brexit Unit, explains what unilateral free trade is, and how it could benefit UK consumers and Third World producers alike. 
+
+For more on the advantages of truly open markets, read the IEA briefing, 'The case for free trade’: https://iea.org.uk/wp-content/uploads/2017/09/Brexit-Unit-Briefing-on-Free-Trade.pdf
+
+SUBSCRIBE to our YouTube channel: https://www.youtube.com/user/iealondon
+FOLLOW US on Twitter: https://twitter.com/iealondon
+LIKE US on Facebook: https://www.facebook.com/ieauk/
+LEARN MORE at: https://iea.org.uk/",iealondon,"Brexit', 'Free trade', 'European Union', 'Protectionism', 'Tariffs', 'Economics', 'Free markets', 'Unilateral free trade'",PT2M42S,162,3

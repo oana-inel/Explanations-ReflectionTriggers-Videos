@@ -1,0 +1,25 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+9kXl332I9ZQ,Austin,Person,NONE,NONE,0.47967299999999996,negative,-0.658387,0.275467,0.076337,0.057210000000000004,0.147202,0.542084,2,1,Austin,Austin,Austin,Austin,austin,austin,austin,NONE,0.3182,0.024,0.047,0.929,-0.2375,0.6066666666666667,negative,-0.360876,0.436524,0.573475,0.196532,0.44835,0.055913,0.10000000149011612,1.7000000476837158,Catalonia Independence,2017-10-22T19:57:26.000Z,UCLsKGgeEjstChtgnvrR0UlQ,Basque Country supporting Catalonia independence,"The city of Bilbao has organised a massive demonstration supporting Catalan independence and their solidarity with the Catalans.
+
+-~-~~-~~~-~~-~-
+Please watch: ""I'm a Catalan! Help Catalonia, Save Europe, save the democracy and basic human rights "" 
+https://www.youtube.com/watch?v=04Iai0j3dbY
+-~-~~-~~~-~~-~-",Hidden Democracy,"basque independence movement', 'basque independence', 'Basque country', 'independence', 'catalonia independence', 'basque', 'Euskal Herria', 'Catalonia', 'demonstration', 'solidarity', 'Bilbao', 'Spain', 'Pais Basc', 'País Vasco'",PT4M25S,265,5
+9kXl332I9ZQ,BC,Location,Country,NONE,0.5084390000000001,neutral,0.0,0.128917,0.044558999999999994,0.792817,0.010069,0.026423000000000002,1,1,BC,BC,BC,BC,BC,bc,bc,NONE,0.3182,0.024,0.047,0.929,-0.2375,0.6066666666666667,negative,-0.360876,0.436524,0.573475,0.196532,0.44835,0.055913,0.10000000149011612,1.7000000476837158,Catalonia Independence,2017-10-22T19:57:26.000Z,UCLsKGgeEjstChtgnvrR0UlQ,Basque Country supporting Catalonia independence,"The city of Bilbao has organised a massive demonstration supporting Catalan independence and their solidarity with the Catalans.
+
+-~-~~-~~~-~~-~-
+Please watch: ""I'm a Catalan! Help Catalonia, Save Europe, save the democracy and basic human rights "" 
+https://www.youtube.com/watch?v=04Iai0j3dbY
+-~-~~-~~~-~~-~-",Hidden Democracy,"basque independence movement', 'basque independence', 'Basque country', 'independence', 'catalonia independence', 'basque', 'Euskal Herria', 'Catalonia', 'demonstration', 'solidarity', 'Bilbao', 'Spain', 'Pais Basc', 'País Vasco'",PT4M25S,265,5
+9kXl332I9ZQ,Cena,Person,NONE,NONE,0.685701,negative,-0.853143,0.42431199999999997,0.546616,0.0045899999999999995,0.043381,0.049553,2,1,Cena,Cena,Cena,Cena,cena,cena,cen,NONE,0.3182,0.024,0.047,0.929,-0.2375,0.6066666666666667,negative,-0.360876,0.436524,0.573475,0.196532,0.44835,0.055913,0.10000000149011612,1.7000000476837158,Catalonia Independence,2017-10-22T19:57:26.000Z,UCLsKGgeEjstChtgnvrR0UlQ,Basque Country supporting Catalonia independence,"The city of Bilbao has organised a massive demonstration supporting Catalan independence and their solidarity with the Catalans.
+
+-~-~~-~~~-~~-~-
+Please watch: ""I'm a Catalan! Help Catalonia, Save Europe, save the democracy and basic human rights "" 
+https://www.youtube.com/watch?v=04Iai0j3dbY
+-~-~~-~~~-~~-~-",Hidden Democracy,"basque independence movement', 'basque independence', 'Basque country', 'independence', 'catalonia independence', 'basque', 'Euskal Herria', 'Catalonia', 'demonstration', 'solidarity', 'Bilbao', 'Spain', 'Pais Basc', 'País Vasco'",PT4M25S,265,5
+9kXl332I9ZQ,Estrada,Person,NONE,NONE,0.832218,positive,0.518157,0.174033,0.099801,0.254807,0.11293199999999999,0.173009,2,1,Estrada,Estrada,Estrada,Estrada,estrada,estrada,estrad,NONE,0.3182,0.024,0.047,0.929,-0.2375,0.6066666666666667,negative,-0.360876,0.436524,0.573475,0.196532,0.44835,0.055913,0.10000000149011612,1.7000000476837158,Catalonia Independence,2017-10-22T19:57:26.000Z,UCLsKGgeEjstChtgnvrR0UlQ,Basque Country supporting Catalonia independence,"The city of Bilbao has organised a massive demonstration supporting Catalan independence and their solidarity with the Catalans.
+
+-~-~~-~~~-~~-~-
+Please watch: ""I'm a Catalan! Help Catalonia, Save Europe, save the democracy and basic human rights "" 
+https://www.youtube.com/watch?v=04Iai0j3dbY
+-~-~~-~~~-~~-~-",Hidden Democracy,"basque independence movement', 'basque independence', 'Basque country', 'independence', 'catalonia independence', 'basque', 'Euskal Herria', 'Catalonia', 'demonstration', 'solidarity', 'Bilbao', 'Spain', 'Pais Basc', 'País Vasco'",PT4M25S,265,5

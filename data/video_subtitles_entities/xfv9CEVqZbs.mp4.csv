@@ -1,0 +1,71 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+xfv9CEVqZbs,Al Jazeera Barcelona Spain,Location,City,NONE,0.540185,neutral,0.0,0.042162,0.066812,0.580183,0.082165,0.21833200000000005,2,1,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al jazeera barcelona spain,al jazeera barcelona spain,al jazeer barcelon spain,NONE,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.29633200000000004,negative,-0.707591,0.304672,0.08929400000000001,0.012292,0.34672800000000004,0.480275,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,Catalonia,Location,Country,NONE,0.27072399999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,Guardia civil,Organization,NONE,NONE,0.315643,negative,-0.489482,0.401609,0.256362,0.058728999999999996,0.35836,0.250652,1,1,Guardia civil,Guardia civil,Guardia civil,Guardia civil,guardia civil,guardia civil,guard civil,NONE,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,Karl penhaul,Person,NONE,NONE,0.236654,neutral,0.0,0.046319,0.073755,0.5705060000000001,0.08067300000000001,0.20217000000000002,1,1,Karl penhaul,Karl penhaul,Karl penhaul,Karl penha,karl penhaul,karl penhaul,karl penha,NONE,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.801966,negative,-0.74725,0.618575,0.33372399999999997,0.008192,0.211369,0.16781300000000002,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3
+xfv9CEVqZbs,misappropriation,Crime,NONE,NONE,0.238758,negative,-0.629883,0.300914,0.326173,0.01112,0.40221599999999996,0.124946,1,1,misappropriation,misappropri,misappropri,misappropry,misappropri,misappropri,misappropry,NONE,-0.1738,0.104,0.073,0.823,-0.04456521739130435,0.31268115942028984,negative,-0.736409,0.5770489999999999,0.429562,0.5559350000000001,0.663221,0.152048,-0.10000000149011612,6.4000000953674325,Catalonia Independence,2017-09-23T07:47:16.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pressure on Barcelona to stop Catalan independence vote,"Pro and anti-independence protesters have met on the streets of the Catalan capital, Barcelona before next month's vote on independence from Spain.
+
+The central government in Madrid is trying to stop the vote.
+
+Al Jazeera’s Karl Penhaul reports.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5585549231001', 'nocms', 'latestnews', 'vote', 'madrid', 'package', 'Catalan capital', 'News', 'spain', 'catalan independence vote', 'English', 'pro-independence protesters', 'al Jazeera', 'youtube', 'pro', 'AJE', 'aljazeera', 'independence from Spain', 'barcelona', 'anti-independence protesters'",PT2M39S,159,3

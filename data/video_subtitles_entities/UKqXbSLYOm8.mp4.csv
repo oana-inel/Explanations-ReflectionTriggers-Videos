@@ -1,0 +1,109 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+UKqXbSLYOm8,13 billion dollars,Quantity,NONE,NONE,0.324459,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,13 billion dollar,13 billion dollar,13 billion dollar,13 bil doll,13 billion dollar,13 billion dollar,13 bil doll,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Carlos Bermudez,Person,NONE,NONE,0.4422640000000001,positive,0.6844,0.406471,0.019676,0.554177,0.018843000000000002,0.026641,1,1,Carlos Bermudez,Carlos Bermudez,Carlos Bermudez,Carlos Bermudez,carlo bermudez,carlo bermudez,carlo bermudez,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Colombia,Location,Country,NONE,0.773131,negative,-0.660279,0.70923,0.105227,0.095971,0.157971,0.140176,3,1,Colombia,Colombia,Colombia,Colombia,colombia,colombia,colomb,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Florida,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Florida,0.375335,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Florida,Florida,Florida,Florida,florida,florida,florid,http://en.wikipedia.org/wiki/Florida,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Gallagher Al Jazeera,Person,NONE,NONE,0.43227299999999996,negative,-0.586696,0.558843,0.5190560000000001,0.034952,0.064264,0.08490199999999999,1,1,Gallagher Al Jazeera,Gallagher Al Jazeera,Gallagher Al Jazeera,Gallagher Al Jazeera,gallagh Al jazeera,gallagh al jazeera,gallagh al jazeer,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Konya,Location,City,http://dbpedia.org/resource/Konya,0.397052,neutral,0.0,0.250127,0.030666000000000002,0.238603,0.146153,0.078949,1,1,Konya,Konya,Konya,Konya,konya,konya,kony,http://en.wikipedia.org/wiki/Konya,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Miami,Location,City,NONE,0.324459,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Miami,Miami,Miami,Miami,miami,miami,miam,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Obama Administration,Organization,NONE,NONE,0.5000939999999999,positive,0.49192299999999994,0.280105,0.035536,0.584713,0.06905900000000001,0.07108400000000001,2,1,Obama Administration,Obama Administration,Obama Administration,Obama Administration,obama administr,obama administr,obam admin,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,Santos Administration,Organization,NONE,NONE,0.38771,neutral,0.0,0.039674,0.082781,0.21949699999999997,0.11385,0.082968,1,1,Santos Administration,Santos Administration,Santos Administration,Santos Administration,santo administr,santo administr,santo admin,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,South Florida,Location,Region,NONE,0.439741,neutral,0.0,0.234694,0.024593,0.66175,0.043593,0.028645,1,1,South Florida,South Florida,South Florida,South Florida,south florida,south florida,sou florid,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.5814239999999999,negative,-0.755977,0.323642,0.048401,0.569963,0.039897,0.057966,2,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3
+UKqXbSLYOm8,sales manager,JobTitle,NONE,NONE,0.393471,positive,0.6844,0.406471,0.019676,0.554177,0.018843000000000002,0.026641,1,1,sale manager,sale manag,sale manag,sal man,sale manag,sale manag,sal man,NONE,0.9892,0.12,0.21,0.67,0.15662028447742735,0.4773623995052567,negative,-0.370691,0.690355,0.585498,0.573684,0.696241,0.100631,-0.10000000149011612,5.800000190734862,Free Trade,2011-10-13T05:49:37.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Pros and cons of US free-trade deals,"Subscribe to our channel http://bit.ly/AJSubscribe
+
+The US congress has approved free trade agreements with South Korea, Colombia and Panama, ending a four-year drought in the forming of new trade partnerships.
+
+Supporters of the deals say it will help stimulate the economy and put more than 20,000 people back to work in the United States. 
+
+However, there are fears it will not be good for all concerned. 
+
+Al Jazeera's Andy Gallacher reports from Miami, Florida.",Al Jazeera English,"americasnews', 'business', 'US', 'free trade agreements', 'al jazeera', 'aljazeera', 'Andy Gallacher', 'Miami', 'congress', 'south korea', 'colombua', 'panama', 'South', 'Korea', 'Panama', 'Colombia'",PT2M9S,129,3

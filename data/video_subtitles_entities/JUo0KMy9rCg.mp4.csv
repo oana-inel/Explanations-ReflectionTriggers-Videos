@@ -1,0 +1,61 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+JUo0KMy9rCg,Barber Benetton,Company,NONE,NONE,0.8502940000000001,neutral,0.0,0.230346,0.137079,0.04723,0.225791,0.044393,1,1,Barber Benetton,Barber Benetton,Barber Benetton,Barber Benetton,barber benetton,barber benetton,barb benetton,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Benetton Nicola,Person,NONE,NONE,0.658337,neutral,0.0,0.16048800000000002,0.094813,0.28807699999999997,0.072825,0.09740399999999999,1,1,Benetton Nicola,Benetton Nicola,Benetton Nicola,Benetton Nicola,benetton nicola,benetton nicola,benetton nicol,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Coca Miyabi,Company,NONE,NONE,0.6284529999999999,neutral,0.0,0.474792,0.029862,0.20385899999999998,0.15884700000000002,0.21436,1,1,Coca Miyabi,Coca Miyabi,Coca Miyabi,Coca Miyabi,coca miyabi,coca miyabi,coc miyab,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Katrina,Person,NONE,NONE,0.43119399999999997,positive,0.6627149999999999,0.24868400000000002,0.19004400000000002,0.098572,0.12244300000000001,0.20129,1,1,Katrina,Katrina,Katrina,Katrina,katrina,katrina,katrin,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Korea,Location,Country,NONE,0.389433,neutral,0.0,0.111571,0.14361600000000002,0.020049,0.7268560000000001,0.311907,1,1,Korea,Korea,Korea,Korea,korea,korea,kore,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Mahim,Person,NONE,NONE,0.431292,positive,0.534401,0.148831,0.091248,0.179551,0.074744,0.088473,1,1,Mahim,Mahim,Mahim,Mahim,mahim,mahim,mahim,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Maruyama Cambogia,Person,NONE,NONE,0.8767860000000001,negative,-0.373716,0.202845,0.28676,0.314994,0.05505499999999999,0.128935,3,1,Maruyama Cambogia,Maruyama Cambogia,Maruyama Cambogia,Maruyama Cambogia,maruyama cambogia,maruyama cambogia,maruyam cambog,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Memphis,Location,City,NONE,0.437381,positive,0.405474,0.0,0.0,0.0,0.0,0.0,1,1,Memphis,Memphis,Memphis,Memphis,memphi,memphi,memph,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Nia Pakistan,Person,NONE,NONE,0.544165,neutral,0.0,0.22876799999999997,0.074857,0.191735,0.051466,0.160106,1,1,Nia Pakistan,Nia Pakistan,Nia Pakistan,Nia Pakistan,nia pakistan,nia pakistan,nia pak,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Rawalpindi,Location,City,NONE,0.35375999999999996,neutral,0.0,0.16048800000000002,0.094813,0.28807699999999997,0.072825,0.09740399999999999,1,1,Rawalpindi,Rawalpindi,Rawalpindi,Rawalpindi,rawalpindi,rawalpindi,rawalpind,NONE,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Russia,Location,Country,http://dbpedia.org/resource/Russia,0.45866999999999997,neutral,0.0,0.168216,0.090827,0.176488,0.09710099999999999,0.076638,1,1,Russia,Russia,Russia,Russia,russia,russia,russ,http://en.wikipedia.org/wiki/Russia,0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1
+JUo0KMy9rCg,Yosemite,Location,City,"http://dbpedia.org/resource/Yosemite,_New_South_Wales",0.46653900000000004,negative,-0.609421,0.144548,0.087573,0.185315,0.077654,0.090723,1,1,Yosemite,Yosemite,Yosemite,Yosemite,yosemit,yosemit,yosemit,"http://en.wikipedia.org/wiki/Yosemite,_New_South_Wales",0.5023,0.025,0.055,0.919,0.10666666666666663,0.5266666666666666,neutral,0.0,0.149776,0.193275,0.180479,0.124495,0.551531,-0.10000000149011612,2.5,Vaccination,2019-06-20T04:27:59.000Z,UC_vt34wimdCzdkrzVejwX9g,First phase of anti-polio vaccination completed: Babar Bin Ata,"#GEOBREAKINGNEWS - First phase of anti-polio vaccination completed: Babar Bin Ata - 20 June 2019 | #GEONEWS
+
+#GeoSpecialReport
+#GEONEWS
+#BreakingNews",Geo News,"Geo News', 'Breaking News', 'Babar Bin Ata', '20 June 2019', 'anti-polio vaccination'",PT56S,56,1

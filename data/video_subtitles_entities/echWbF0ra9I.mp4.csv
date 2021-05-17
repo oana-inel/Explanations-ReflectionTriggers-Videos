@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+echWbF0ra9I,30 percent,Quantity,NONE,NONE,0.256393,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 percent,30 percent,30 percent,30 perc,30 percent,30 percent,30 perc,NONE,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2
+echWbF0ra9I,30 years,Quantity,NONE,NONE,0.256393,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2
+echWbF0ra9I,56%,Quantity,NONE,NONE,0.256393,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,56 %,56 %,56 %,56 %,56 %,56 %,56 %,NONE,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2
+echWbF0ra9I,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.256393,negative,-0.343427,0.312247,0.09764400000000001,0.293679,0.17613199999999998,0.242527,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2
+echWbF0ra9I,Rust Belt,Organization,NONE,NONE,0.26206199999999996,negative,-0.723725,0.717071,0.150282,0.040087,0.226025,0.143724,1,1,Rust Belt,Rust Belt,Rust Belt,Rust Belt,rust belt,rust belt,rust belt,NONE,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2
+echWbF0ra9I,seventy percent,Quantity,NONE,NONE,0.256393,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,seventy percent,seventi percent,seventi percent,seventy perc,seventi percent,seventi percent,seventy perc,NONE,-0.7152,0.13699999999999998,0.121,0.742,-0.012343434343434323,0.4948181818181818,negative,-0.6627689999999999,0.111858,0.515498,0.567407,0.110877,0.09819,-0.10000000149011612,4.800000190734863,Free Trade,2018-11-21T13:06:54.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Dead Wrong® with Johan Norberg - Is Free Trade Unpopular?,"Free trade is being forced upon us by the elite. People don’t want it and its more unpopular now than ever before. Breathe a sigh of relief because that’s Dead Wrong®. Look past the loud, boisterous minority and get to the facts with Free To Choose® Media Executive Editor and Cato Institute Senior Fellow Johan Norberg.
+
+Check out our Facebook page here: http://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://www.freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: http://www.twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://www.freetochoosenetwork.org
+
+Shop for related products here: http://www.freetochoose.net
+
+Stream from FreeToChoose.TV here: http://www.freetochoose.tv
+
+Connect with us on LinkedIn here: https://www.linkedin.com/company/free-to-choose-network?trk=top_nav_home",Free To Choose Network,"Dead Wrong', 'Free To Choose Media', 'Johan Norberg', 'Economics', 'Elite', 'Trade', 'Free Trade'",PT1M35S,95,2

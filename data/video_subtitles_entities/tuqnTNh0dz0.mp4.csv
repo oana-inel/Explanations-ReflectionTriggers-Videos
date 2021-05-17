@@ -1,0 +1,166 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+tuqnTNh0dz0,8377,Location,City,NONE,0.22441,negative,-0.371628,0.49093400000000004,0.324957,0.08072,0.17138599999999998,0.228836,1,1,8377,8377,8377,8377,8377,8377,8377,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.62939,negative,-0.088926,0.238371,0.11376800000000001,0.355712,0.291616,0.195117,4,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Catalan Capital,Company,NONE,NONE,0.46062299999999995,neutral,0.0,0.209511,0.093563,0.303784,0.08144900000000001,0.13461900000000002,1,1,Catalan Capital,Catalan Capital,Catalan Capital,Catalan Capital,catalan capit,catalan capit,cat capit,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Catalonia,Location,City,NONE,0.377254,positive,0.13784200000000002,0.193281,0.255231,0.284657,0.21393800000000002,0.232465,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Catalonia,Location,Region,NONE,0.334685,negative,-0.542463,0.193281,0.255231,0.284657,0.21393800000000002,0.232465,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.43229399999999996,negative,-0.36028899999999997,0.266734,0.034717000000000005,0.219248,0.39157600000000004,0.351493,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Newcastle University,Organization,"Location, CollegeUniversity, University",http://dbpedia.org/resource/Newcastle_University,0.217719,negative,-0.36028899999999997,0.372438,0.115336,0.041369,0.35284899999999997,0.4839770000000001,1,1,Newcastle University,Newcastle University,Newcastle University,Newcastle University,newcastl univers,newcastl univers,newcastl univers,http://en.wikipedia.org/wiki/Newcastle_University,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,One one year,Quantity,NONE,NONE,0.18508,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,One one year,one one year,one one year,on on year,one one year,one one year,on on year,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.256329,negative,-0.542463,0.0,0.0,0.0,0.0,0.0,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,UK,Location,Country,NONE,0.18508,negative,-0.36028899999999997,0.372438,0.115336,0.041369,0.35284899999999997,0.4839770000000001,1,1,UK,UK,UK,UK,UK,uk,uk,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4
+tuqnTNh0dz0,one year,Quantity,NONE,NONE,0.18508,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one year,one year,one year,on year,one year,one year,on year,NONE,-0.975,0.126,0.075,0.7979999999999999,0.10450980392156864,0.4041666666666667,negative,-0.548463,0.5317029999999999,0.453597,0.5953229999999999,0.12897,0.136852,-0.20000000298023224,6.300000190734862,Catalonia Independence,2018-12-22T15:56:22.000Z,UCpwvZwUam-URkxB7g4USKpg,Fight for Catalan independence: At least 60 injured in riots over Spanish cabinet meeting,"Violence has flared in Barcelona with pro-independence protests erupting in Spain's Catalonia region leaving more than 60 protesters & police officers injured. READ MORE: https://on.rt.com/9l05
+
+RT LIVE https://www.youtube.com/watch?v=IFAcqaNzNSc 
+
+Check out http://rt.com
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+
+#RT (Russia Today) is a global #news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalan leaders', 'pro-independence protesters', 'Catalonia inderpendence', 'Spain', 'Spanish prime minister', 'clashes with police', 'civil unrest', 'protest in Barcelona', 'Barcelona', 'Catalonia region'",PT3M21S,201,4

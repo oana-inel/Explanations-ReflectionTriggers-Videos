@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qG_tEU-WtA4,Amedeo Alta,Location,City,NONE,0.48806499999999997,neutral,0.0,0.139017,0.08825,0.090061,0.266388,0.30553,1,1,Amedeo Alta,Amedeo Alta,Amedeo Alta,Amedeo Alta,amedeo alta,amedeo alta,amedeo alt,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,BBC,Company,"MusicalAlbum, Broadcast, PeriodicalPublisher, ProductionCompany, TVNetwork, AwardNominee, AwardWinner, FilmDirector, FilmProducer, MusicalArtist, TVProducer",http://dbpedia.org/resource/BBC,0.460203,neutral,0.0,0.150377,0.145488,0.081147,0.39959,0.404505,1,1,BBC,BBC,BBC,BBC,bbc,bbc,bbc,http://en.wikipedia.org/wiki/BBC,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.472599,positive,0.9570290000000001,0.081105,0.043676,0.729309,0.10729100000000001,0.085107,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Brussels,Location,"AdministrativeDivision, SchoolDistrict, City",http://dbpedia.org/resource/Brussels,0.598769,neutral,0.0,0.126643,0.09849400000000001,0.061804,0.43639300000000003,0.458629,2,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,http://en.wikipedia.org/wiki/Brussels,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Brussels Amedeo,Location,City,NONE,0.504992,neutral,0.0,0.060341999999999986,0.202533,0.134804,0.21446199999999999,0.26113200000000003,1,1,Brussels Amedeo,Brussels Amedeo,Brussels Amedeo,Brussels Amedeo,brussel amedeo,brussel amedeo,brussel amedeo,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Catalan Civil Society,Organization,NONE,NONE,0.516891,neutral,0.0,0.182205,0.034802,0.601658,0.14670999999999998,0.0764,1,1,Catalan Civil Society,Catalan Civil Society,Catalan Civil Society,Catalan Civil Society,catalan civil societi,catalan civil societi,cat civil socy,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Catalonia,Location,City,NONE,0.417646,neutral,0.0,0.213573,0.046687,0.628544,0.052933,0.066828,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Catalonia,Location,Region,NONE,0.6346970000000001,positive,0.550597,0.213573,0.046687,0.628544,0.052933,0.066828,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Decades,Location,Country,NONE,0.505184,neutral,0.0,0.6855060000000001,0.056933000000000004,0.22065300000000002,0.073488,0.024621,2,1,Decades,decad,decad,decad,decad,decad,decad,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Dr. Ricardo,Person,NONE,NONE,0.435335,neutral,0.0,0.27818000000000004,0.273484,0.19352,0.044596,0.134055,1,1,Dr. Ricardo,Dr. Ricardo,Dr. Ricardo,Dr. Ricardo,dr. ricardo,dr. ricardo,dr. ricardo,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.4155680000000001,negative,-0.32519899999999996,0.56681,0.319152,0.059734,0.21629400000000001,0.111285,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.8265530000000001,neutral,0.0,0.193579,0.137296,0.22562,0.226149,0.191733,5,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Fina,Person,NONE,NONE,0.413983,neutral,0.0,0.07514,0.251052,0.419758,0.282504,0.06189400000000001,1,1,Fina,Fina,Fina,Fina,fina,fina,fin,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Jorge Toledo,Person,NONE,NONE,0.580262,positive,0.571117,0.12066199999999999,0.07913400000000001,0.4430270000000001,0.137801,0.11963199999999999,2,1,Jorge Toledo,Jorge Toledo,Jorge Toledo,Jorge Toledo,jorg toledo,jorg toledo,jorg toledo,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Leslie Riddick,Person,NONE,NONE,0.44147200000000003,neutral,0.0,0.07514,0.251052,0.419758,0.282504,0.06189400000000001,1,1,Leslie Riddick,Leslie Riddick,Leslie Riddick,Leslie Riddick,lesli riddick,lesli riddick,les riddick,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.708453,negative,-0.842083,0.5802109999999999,0.18501700000000001,0.154225,0.129669,0.148991,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Mr. Start,Person,NONE,NONE,0.43087200000000003,neutral,0.0,0.10203999999999999,0.175989,0.2473,0.031177999999999997,0.20683800000000002,1,1,Mr. Start,Mr. Start,Mr. Start,Mr. Start,mr. start,mr. start,mr. start,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.7242029999999999,negative,-0.440251,0.315305,0.085611,0.499118,0.030807,0.066834,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,Spanish government,Organization,NONE,NONE,0.595012,neutral,0.0,0.270957,0.249452,0.052384,0.324974,0.14258099999999999,1,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,United Kingdom,Organization,"Location, AdministrativeDivision, Country, GovernmentalJurisdiction, Kingdom, MeteorologicalService",http://dbpedia.org/resource/United_Kingdom,0.42140900000000003,neutral,0.0,0.547833,0.05494299999999999,0.261922,0.07247200000000001,0.047214,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,director of external Affairs,JobTitle,NONE,NONE,0.44405100000000003,neutral,0.0,0.188051,0.11265,0.29228699999999996,0.31550300000000003,0.274175,1,1,director of external Affairs,director of extern Affairs,director of extern Affairs,direct of extern Affairs,director of extern affair,director of extern affair,direct of extern affair,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,four Decades,Quantity,NONE,NONE,0.38068,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four Decades,four decad,four decad,four decad,four decad,four decad,four decad,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,four decades,Quantity,NONE,NONE,0.38068,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four decade,four decad,four decad,four decad,four decad,four decad,four decad,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,four minutes,Quantity,NONE,NONE,0.38068,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,four minute,four minut,four minut,four minut,four minut,four minut,four minut,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,mr. Al-fajr,Person,NONE,NONE,0.409342,neutral,0.0,0.139017,0.08825,0.090061,0.266388,0.30553,1,1,mr. Al-fajr,mr. Al-fajr,mr. Al-fajr,mr. Al-fajr,mr. al-fajr,mr. al-fajr,mr. al-fajr,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,mr. Speaker,Person,NONE,NONE,0.432816,neutral,0.0,0.105314,0.071142,0.13081800000000002,0.053926,0.17690799999999998,1,1,mr. Speaker,mr. Speaker,mr. Speaker,mr. Speaker,mr. speaker,mr. speaker,mr. speak,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,regional Parliament,Organization,NONE,NONE,0.40942,negative,-0.655208,0.6680619999999999,0.127911,0.012662,0.387596,0.108617,1,1,regional Parliament,region Parliament,region Parliament,reg Parliament,region parliament,region parliament,reg parlia,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8
+qG_tEU-WtA4,representative,JobTitle,NONE,NONE,0.5427310000000001,neutral,0.0,0.099319,0.11771400000000001,0.113337,0.292144,0.360282,2,1,representative,repres,repres,repres,repres,repres,repres,NONE,0.9006,0.073,0.092,0.8340000000000001,0.11434325396825396,0.3946977513227513,positive,0.535118,0.139934,0.5651079999999999,0.5681039999999999,0.115382,0.151975,0.0,17.200000762939453,Catalonia Independence,2017-10-29T15:50:50.000Z,UCeSyWU33OBDPbO3Tvd6D7MA,BBC World News Catalonia Independence Vote Debate.,"BBC World News Catalonia Independence Vote Debate.
+https://youtu.be/VJSuwKxQlzE
+https://youtu.be/wqRmNDLMazs
+(Asir77a)",S A R Creationz,"BBC World News', 'Catalonia', 'Independence', 'Vote', 'Debate.'",PT8M,480,8

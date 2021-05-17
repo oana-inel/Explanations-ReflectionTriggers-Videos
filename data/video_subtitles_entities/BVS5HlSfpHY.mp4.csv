@@ -1,0 +1,136 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+BVS5HlSfpHY,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.355067,positive,0.7081689999999999,0.015893,0.009603,0.946787,0.016156,0.005473,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,Bill Neely,Person,Journalist,http://dbpedia.org/resource/Bill_Neely,0.39909,positive,0.892241,0.292758,0.065292,0.170322,0.420917,0.160679,1,1,Bill Neely,Bill Neely,Bill Neely,Bill Neely,bill neeli,bill neeli,bil nee,http://en.wikipedia.org/wiki/Bill_Neely,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,Catalonia Balmorhea Spain,Location,City,NONE,0.619316,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia Balmorhea Spain,Catalonia Balmorhea Spain,Catalonia Balmorhea Spain,Catalonia Balmorhea Spain,catalonia balmorhea spain,catalonia balmorhea spain,catalon balmorhe spain,NONE,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.306589,neutral,0.0,0.309533,0.377799,0.00821,0.521836,0.191057,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,NBC,Broadcaster,"Broadcast, AwardNominee, AwardWinner, Company, FilmDistributor, TVNetwork, TVWriter, TelevisionStation",http://dbpedia.org/resource/NBC,0.40886500000000003,positive,0.892241,0.255364,0.052333000000000005,0.18809700000000001,0.451133,0.196179,2,1,NBC,NBC,NBC,NBC,nbc,nbc,nbc,http://en.wikipedia.org/wiki/NBC,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.859057,positive,0.195917,0.3294,0.43731099999999995,0.009551,0.463645,0.167277,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.302541,neutral,0.0,0.309533,0.377799,0.00821,0.521836,0.191057,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.34716199999999997,positive,0.957449,0.07414,0.012672,0.615754,0.034164,0.022548,1,1,YouTube,youtub,youtub,youtub,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2
+BVS5HlSfpHY,prime minister,JobTitle,NONE,NONE,0.35524,neutral,0.0,0.309533,0.377799,0.00821,0.521836,0.191057,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.8906,0.139,0.107,0.754,0.15212418300653596,0.4483660130718954,positive,0.735359,0.068062,0.683215,0.164348,0.129684,0.453328,0.30000001192092896,2.0,Catalonia Independence,2017-10-28T01:56:08.000Z,UCeY0bbntWzzVIaj2z3QigXg,Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News,"Shortly after the Catalan parliament passed a resolution to create “an independent state,” the Spanish government voted to take control of the region and remove the elected regional government.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and original digital videos. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Spain Moves To Take Control Of Catalonia After Defiant Independence Vote | NBC Nightly News",NBC News,"NBC Nightly News', 'Nightly News', 'NBC', 'Lester Holt', 'NBC News', 'Breaking News', 'US News', 'World News', 'Politics News', 'Current Events', 'Top Stories', 'Spain', 'news stories', 'technology', 'politics', 'health', 'entertainment', 'science', 'business', 'exclusive NBC investigations', 'Catalonia', 'Defiant Independence Vote', 'global news and information', 'leading source', 'region and remove', 'elected regional government', 'Catalan parliament', 'parliament', 'independent', 'independent state', 'government', 'government voted', 'voted'",PT1M24S,84,2

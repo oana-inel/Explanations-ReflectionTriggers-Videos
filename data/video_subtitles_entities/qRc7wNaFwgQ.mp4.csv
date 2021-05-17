@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qRc7wNaFwgQ,Aipac,Person,NONE,NONE,0.341908,neutral,0.0,0.125716,0.160675,0.49957399999999996,0.123151,0.080911,1,1,Aipac,Aipac,Aipac,Aipac,aipac,aipac,aipac,NONE,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,Beijing,Location,City,http://dbpedia.org/resource/Beijing,0.3533,positive,0.759325,0.048886,0.109448,0.721759,0.037509,0.051414,1,1,Beijing,Beijing,Beijing,Beijing,beij,beij,beid,http://en.wikipedia.org/wiki/Beijing,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.339554,positive,0.4386,0.0,0.0,0.0,0.0,0.0,1,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,Guangdong Daily newspaper,PrintMedia,NONE,NONE,0.416249,positive,0.4386,0.016232,0.117496,0.616433,0.167666,0.068989,1,1,Guangdong Daily newspaper,Guangdong Daily newspap,Guangdong Daily newspap,Guangdong Daily newspap,guangdong daili newspap,guangdong daili newspap,guangdong dai newspap,NONE,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,Hanoi,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Hanoi,0.395983,neutral,0.0,0.125716,0.160675,0.49957399999999996,0.123151,0.080911,1,1,Hanoi,Hanoi,Hanoi,Hanoi,hanoi,hanoi,hano,http://en.wikipedia.org/wiki/Hanoi,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,Xi Jinping,Person,"Politician, President",http://dbpedia.org/resource/Xi_Jinping,0.386312,positive,0.759325,0.048886,0.109448,0.721759,0.037509,0.051414,1,1,Xi Jinping,Xi Jinping,Xi Jinping,Xi Jinping,Xi jinp,xi jinp,xi jinp,http://en.wikipedia.org/wiki/Xi_Jinping,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,four trillion dollars,Quantity,NONE,NONE,0.32137899999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four trillion dollar,four trillion dollar,four trillion dollar,four tril doll,four trillion dollar,four trillion dollar,four tril doll,NONE,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2
+qRc7wNaFwgQ,president,JobTitle,NONE,NONE,0.32137899999999997,positive,0.759325,0.048886,0.109448,0.721759,0.037509,0.051414,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9888,0.011,0.223,0.7659999999999999,0.214,0.37488888888888894,positive,0.804728,0.063565,0.675233,0.072175,0.160215,0.077039,0.0,0.6000000238418579,Free Trade,2016-11-20T01:23:08.000Z,UCgrNz-aDmcr2uuto8_DL2jg,What is the Free Trade Area of the Asia-Pacific?,"APEC member economies account for 40 percent of the world's population and generate 53 percent of the global economic output. Two years ago, APEC members agreed to take steps towards regional integration with a Free Trade Area of the Asia-Pacific (FTAAP). Check the video to find out more about FTAAP. 
+
+Subscribe to us on Youtube: 
+https://goo.gl/lP12gA
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"CCTVNews', 'News', 'CCTV', 'Breaking', 'politics', 'APEC', 'Asia-Pacifi', 'Free Trade Area', 'FTAAP'",PT1M8S,68,2

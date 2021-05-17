@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+AoLFxRSvyZA,90%,Quantity,NONE,NONE,0.456842,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,Europe,Location,Continent,NONE,0.456842,negative,-0.738208,0.607209,0.110672,0.027388,0.460086,0.085735,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,NONE,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,France,Location,Country,NONE,0.7584569999999999,negative,-0.627812,0.264288,0.22146300000000002,0.230633,0.079165,0.101275,3,1,France,France,France,France,franc,franc,frant,NONE,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,Laura Clements,Person,NONE,NONE,0.629469,positive,0.6745899999999999,0.031772,0.024562999999999998,0.633706,0.044495,0.10106799999999999,1,1,Laura Clements,Laura Clements,Laura Clements,Laura Clements,laura clement,laura clement,laur cle,NONE,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,London,Location,City,NONE,0.528223,positive,0.6745899999999999,0.031772,0.024562999999999998,0.633706,0.044495,0.10106799999999999,1,1,London,London,London,London,london,london,london,NONE,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,diphtheria,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Diphtheria,0.468154,negative,-0.44686400000000004,0.110679,0.624909,0.125872,0.183107,0.209274,1,1,diphtheria,diphtheria,diphtheria,diphther,diphtheria,diphtheria,diphther,http://en.wikipedia.org/wiki/Diphtheria,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.716436,negative,-0.733637,0.378795,0.28985900000000003,0.156649,0.10774500000000001,0.11975699999999999,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3
+AoLFxRSvyZA,polio,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Poliomyelitis,0.49599799999999994,negative,-0.44686400000000004,0.110679,0.624909,0.125872,0.183107,0.209274,1,1,polio,polio,polio,polio,polio,polio,polio,http://en.wikipedia.org/wiki/Poliomyelitis,0.9942,0.059,0.156,0.785,0.1508167220376523,0.3676937984496124,positive,0.388752,0.095151,0.5853189999999999,0.549603,0.140281,0.093818,0.10000000149011612,8.699999809265138,Vaccination,2019-06-20T08:35:37.000Z,UC0j8jUDLzZdUT-4csd5cqjA,Vaccination Report; Why Does France Have Such Low Levels Of Trust In Vaccines,"From: https://www.youtube.com/user/france24english
+
+June 19, 2019 - Vaccination report: Why does France have such low levels of trust in vaccines?
+
+---
+
+PigMine6 on YouTube:  http://www.youtube.com/pigmine6
+PigMine7 on YouTube:  http://www.youtube.com/pigmine7
+
+FAIR USE NOTICE: This video may contain copyrighted material. Such material is made available for educational purposes only. This constitutes a 'fair use' of any such copyrighted material as provided for in Title 17 U.S.C. section 106A-117 of the U.S. Copyright Law.",PigMine 6,,PT2M59S,179,3

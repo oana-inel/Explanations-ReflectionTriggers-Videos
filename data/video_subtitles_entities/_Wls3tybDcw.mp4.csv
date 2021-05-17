@@ -1,0 +1,26 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+_Wls3tybDcw,Catalonia,Location,City,NONE,0.56074,negative,-0.695682,0.37503000000000003,0.078427,0.050008,0.400495,0.43250500000000003,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9104,0.105,0.069,0.826,0.029823481116584564,0.3661740558292282,negative,-0.316542,0.213006,0.441653,0.5237229999999999,0.081692,0.233414,0.0,1.7000000476837158,Catalonia Independence,2017-06-11T22:07:55.000Z,UCNh70Fd47p6iuW5837TLvJg,"Pep Guardiola – Catalonia Independence Manifest – June 11, 2017 – Catalan & English subtitles","Pep Guardiola's statement on the Catalan Republic Independence Referendum to be held October 1, 2017.
+
+Mont Juïc, Barcelona
+
+Catalan and English subtitles",Vinceroni0706,"independence', 'catalunya', 'catalonia', 'referendum', 'democracy', 'spain', 'republic'",PT2M20S,140,3
+_Wls3tybDcw,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.567367,negative,-0.470116,0.294172,0.025979000000000002,0.329554,0.36385100000000004,0.161161,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.9104,0.105,0.069,0.826,0.029823481116584564,0.3661740558292282,negative,-0.316542,0.213006,0.441653,0.5237229999999999,0.081692,0.233414,0.0,1.7000000476837158,Catalonia Independence,2017-06-11T22:07:55.000Z,UCNh70Fd47p6iuW5837TLvJg,"Pep Guardiola – Catalonia Independence Manifest – June 11, 2017 – Catalan & English subtitles","Pep Guardiola's statement on the Catalan Republic Independence Referendum to be held October 1, 2017.
+
+Mont Juïc, Barcelona
+
+Catalan and English subtitles",Vinceroni0706,"independence', 'catalunya', 'catalonia', 'referendum', 'democracy', 'spain', 'republic'",PT2M20S,140,3
+_Wls3tybDcw,International International Community,Organization,NONE,NONE,0.564107,positive,0.832619,0.42973599999999995,0.026369999999999998,0.083314,0.245286,0.44398000000000004,1,1,International International Community,International International Community,International International Community,International International Community,intern intern commun,intern intern communiti,intern intern commun,NONE,-0.9104,0.105,0.069,0.826,0.029823481116584564,0.3661740558292282,negative,-0.316542,0.213006,0.441653,0.5237229999999999,0.081692,0.233414,0.0,1.7000000476837158,Catalonia Independence,2017-06-11T22:07:55.000Z,UCNh70Fd47p6iuW5837TLvJg,"Pep Guardiola – Catalonia Independence Manifest – June 11, 2017 – Catalan & English subtitles","Pep Guardiola's statement on the Catalan Republic Independence Referendum to be held October 1, 2017.
+
+Mont Juïc, Barcelona
+
+Catalan and English subtitles",Vinceroni0706,"independence', 'catalunya', 'catalonia', 'referendum', 'democracy', 'spain', 'republic'",PT2M20S,140,3
+_Wls3tybDcw,Parliament,Organization,NONE,NONE,0.754707,neutral,0.0,0.483283,0.067886,0.015734,0.311969,0.272198,2,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.9104,0.105,0.069,0.826,0.029823481116584564,0.3661740558292282,negative,-0.316542,0.213006,0.441653,0.5237229999999999,0.081692,0.233414,0.0,1.7000000476837158,Catalonia Independence,2017-06-11T22:07:55.000Z,UCNh70Fd47p6iuW5837TLvJg,"Pep Guardiola – Catalonia Independence Manifest – June 11, 2017 – Catalan & English subtitles","Pep Guardiola's statement on the Catalan Republic Independence Referendum to be held October 1, 2017.
+
+Mont Juïc, Barcelona
+
+Catalan and English subtitles",Vinceroni0706,"independence', 'catalunya', 'catalonia', 'referendum', 'democracy', 'spain', 'republic'",PT2M20S,140,3
+_Wls3tybDcw,president,JobTitle,NONE,NONE,0.834834,negative,-0.542603,0.47851099999999996,0.121726,0.012293,0.393922,0.357167,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9104,0.105,0.069,0.826,0.029823481116584564,0.3661740558292282,negative,-0.316542,0.213006,0.441653,0.5237229999999999,0.081692,0.233414,0.0,1.7000000476837158,Catalonia Independence,2017-06-11T22:07:55.000Z,UCNh70Fd47p6iuW5837TLvJg,"Pep Guardiola – Catalonia Independence Manifest – June 11, 2017 – Catalan & English subtitles","Pep Guardiola's statement on the Catalan Republic Independence Referendum to be held October 1, 2017.
+
+Mont Juïc, Barcelona
+
+Catalan and English subtitles",Vinceroni0706,"independence', 'catalunya', 'catalonia', 'referendum', 'democracy', 'spain', 'republic'",PT2M20S,140,3

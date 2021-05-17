@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+CpNq5Qu3VUc,25%,Quantity,NONE,NONE,0.26471500000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 %,25 %,25 %,25 %,25 %,25 %,25 %,NONE,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,Australia,Location,"GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Australia,0.49058199999999996,positive,0.25240799999999997,0.211286,0.024311000000000003,0.656071,0.034000999999999997,0.100788,4,1,Australia,Australia,Australia,Australia,australia,australia,austral,http://en.wikipedia.org/wiki/Australia,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,Australian Dairy,Company,NONE,NONE,0.365587,positive,0.25240799999999997,0.215475,0.070999,0.270232,0.237198,0.300145,1,1,Australian Dairy,australian Dairy,australian Dairy,aust Dairy,australian dairi,australian dairi,aust dairy,NONE,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.937019,positive,0.31154499999999996,0.29864,0.064886,0.33561799999999997,0.11428599999999994,0.166216,8,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,China Market Wilson,Company,NONE,NONE,0.496961,positive,0.25240799999999997,0.215475,0.070999,0.270232,0.237198,0.300145,1,1,China Market Wilson,China Market Wilson,China Market Wilson,China Market Wilson,china market wilson,china market wilson,chin market wilson,NONE,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,Farmers,Company,NONE,NONE,0.26471500000000003,neutral,0.0,0.47663199999999994,0.053299,0.450509,0.018588999999999998,0.028720999999999997,1,1,Farmers,Farmers,Farmers,Farmers,farmer,farmer,farm,NONE,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,Sydney,Location,"AdministrativeDivision, GovernmentalJurisdiction, OlympicBiddingCity, OlympicHostCity, TouristAttraction, City",http://dbpedia.org/resource/Sydney,0.313154,neutral,0.0,0.114284,0.159577,0.17756,0.05906,0.33570700000000003,1,1,Sydney,Sydney,Sydney,Sydney,sydney,sydney,sydney,http://en.wikipedia.org/wiki/Sydney,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3
+CpNq5Qu3VUc,milk,Quantity,NONE,NONE,0.26471500000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,7,1,milk,milk,milk,milk,milk,milk,milk,NONE,0.9978,0.018000000000000002,0.17800000000000002,0.804,0.11194617604617607,0.45114280904280896,positive,0.481692,0.141459,0.466567,0.4750430000000001,0.156474,0.077251,0.20000000298023224,3.0999999046325684,Free Trade,2014-11-17T06:18:13.000Z,UCgrNz-aDmcr2uuto8_DL2jg,China & Australia to sign free trade agreement,"The free trade deal between China and Australia has been closely watched by a number of industries in Australia. Among those who hope to gain from the new agreement are the country’s dairy farmers. Click the video to watch more from CCTV correspondent’s report.
+
+Subscribe us on Youtube: https://www.youtube.com/user/CCTVNEWSbeijing
+
+Download for IOS: https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download for Android: https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+Facebook: https://www.facebook.com/cctvnewschina
+Twitter: https://twitter.com/CCTVNEWS
+Google+: https://plus.google.com/+CCTVNEWSbeijing
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing",CGTN,"cctvnews', 'News', 'China', 'CCTV', 'Breaking', 'news', 'Beijing', 'Shanghai', 'Guangzhou', 'politics'",PT2M45S,165,3

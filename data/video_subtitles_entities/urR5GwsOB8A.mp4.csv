@@ -1,0 +1,129 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+urR5GwsOB8A,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.729038,negative,-0.498076,0.357108,0.30762,0.226554,0.089192,0.201195,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,Berlin,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, OlympicBiddingCity, OlympicHostCity, PlaceWithNeighborhoods, FilmScreeningVenue, GermanState, City",http://dbpedia.org/resource/Berlin,0.694768,neutral,0.0,0.358099,0.08970800000000001,0.43942600000000004,0.056437,0.035826,1,1,Berlin,Berlin,Berlin,Berlin,berlin,berlin,berlin,http://en.wikipedia.org/wiki/Berlin,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,Darby,Person,NONE,NONE,0.668922,neutral,0.0,0.358099,0.08970800000000001,0.43942600000000004,0.056437,0.035826,1,1,Darby,Darby,Darby,Darby,darbi,darbi,darby,NONE,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.701902,negative,-0.44478999999999996,0.296614,0.146903,0.357619,0.131018,0.038279,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,Robert,Person,NONE,NONE,0.595428,neutral,0.0,0.049044,0.022591999999999998,0.334113,0.190352,0.061331,1,1,Robert,Robert,Robert,Robert,robert,robert,robert,NONE,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.627703,positive,0.701134,0.149052,0.160206,0.681852,0.007840999999999999,0.018746000000000002,1,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.9552879999999999,positive,0.365942,0.074987,0.350594,0.201097,0.053135,0.226018,2,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2
+urR5GwsOB8A,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.64981,neutral,0.0,0.200791,0.132709,0.15050999999999998,0.014230000000000001,0.033973,1,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,-0.1529,0.078,0.068,0.8540000000000001,0.14830952380952386,0.4117936507936507,positive,0.511306,0.085274,0.515403,0.491042,0.113421,0.064959,0.0,2.5999999046325684,Free Trade,2018-09-28T17:00:10.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Robert Peston and Boris Johnson clash over 'super Canada' free trade deal | ITV News,"In a lively exchange, ITV News Political Editor presses Boris Johnson on why the 'super Canada' free trade deal he is backing post-Brexit would not be damaging to manufacturing. In response, Mr Johnson said it would be similar to Switzerland’s relationship with the European Union.
+
+Switzerland is not part of the EU however it has signed up to a plethora of agreements and directives including free movement of people.
+
+“There are examples of just-in-time supply chains that operate with a high-degree of efficiency over customs union differentials – there is no reason why that can’t be done”, he said.
+
+“That should not be an obstacle to us properly taking back control, delivering what the British people voted for and doing great free-trade deals and seizing back control of our destiny.”
+
+“The Chequers proposals manifestly fail to do that”, Mr Johnson added.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Brexit', 'Boris Johnson', 'Robert Peston'",PT1M36S,96,2

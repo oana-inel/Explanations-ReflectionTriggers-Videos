@@ -1,0 +1,91 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jgj9B5F1cL8,Bart,Person,NONE,NONE,0.30399,positive,0.44447200000000003,0.296493,0.158613,0.187422,0.06514199999999999,0.466289,1,1,Bart,Bart,Bart,Bart,bart,bart,bart,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.9223809999999999,positive,0.287115,0.312087,0.07535599999999999,0.254669,0.295671,0.184599,7,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Catalonia,Location,City,NONE,0.46638199999999996,negative,-0.033296,0.194734,0.065724,0.34325100000000003,0.30075,0.294821,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.323239,positive,0.5158729999999999,0.287617,0.109697,0.305539,0.06577899999999999,0.374632,2,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Ireland,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Republic_of_Ireland,0.267442,positive,0.7653479999999999,0.294651,0.096623,0.37359499999999995,0.114225,0.11449000000000001,1,1,Ireland,Ireland,Ireland,Ireland,ireland,ireland,ireland,http://en.wikipedia.org/wiki/Republic_of_Ireland,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Madrid,Person,NONE,NONE,0.377081,negative,-0.44805100000000003,0.300653,0.05338300000000002,0.44379399999999997,0.21760900000000002,0.030004000000000006,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Madrid government,Organization,NONE,NONE,0.8406020000000001,negative,-0.25704299999999997,0.427354,0.075664,0.085648,0.292961,0.400032,6,1,Madrid government,Madrid govern,Madrid govern,Madrid govern,madrid govern,madrid govern,madrid govern,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Scotland,Location,Country,NONE,0.268343,positive,0.765349,0.294651,0.096623,0.37359499999999995,0.114225,0.11449000000000001,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.35663,negative,-0.509215,0.658032,0.07609099999999999,0.136017,0.17374,0.032695,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7
+jgj9B5F1cL8,prime minister,JobTitle,NONE,NONE,0.302199,neutral,0.0,0.42768199999999995,0.041655000000000005,0.30841799999999997,0.066308,0.04141,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9976,0.051,0.14300000000000002,0.8059999999999999,0.10353462228462226,0.4423351273351274,positive,0.328263,0.14505,0.615476,0.505774,0.53281,0.466172,0.0,13.5,Catalonia Independence,2017-11-01T00:18:27.000Z,UC6o-wWU-v2ClFMwougmK7dA,Catalonia declares independence - BBC Newsnight,"Newsnight's diplomatic editor Mark Urban reports from Barcelona on the day the Catalan regional parliament has voted to declare independence from Spain.
+
+Newsnight is the BBC's flagship news and current affairs TV programme - with analysis, debate, exclusives, and robust interviews. 
+
+Website: www.bbc.co.uk/newsnight
+YouTube: https://www.youtube.com/user/BBCNewsnight 
+Twitter: https://twitter.com/BBCNewsnight
+Facebook: https://www.facebook.com/bbcnewsnight
+Snapchat: https://www.snapchat.com/add/bbcnewsnight",BBC Newsnight,"bbc', 'newsnight', 'news', 'interview', 'Catalonia', 'Catalan Crisis', 'Barcelona', 'Spain', 'Politics', 'Report', 'Mark Urban'",PT6M14S,374,7

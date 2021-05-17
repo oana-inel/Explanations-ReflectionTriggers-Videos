@@ -1,0 +1,61 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Kqi2JszFtYc,General Motors,Company,"AircraftManufacturer, AutomobileCompany, AwardWinner",http://dbpedia.org/resource/General_Motors,0.178972,neutral,0.0,0.109668,0.036061,0.184644,0.08230499999999999,0.076187,1,1,General Motors,General Motors,General Motors,General Motors,gener motor,general motor,gen mot,http://en.wikipedia.org/wiki/General_Motors,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5
+Kqi2JszFtYc,Mexico,Location,"PoliticalDistrict, GovernmentalJurisdiction, FilmCinematographer, Country",http://dbpedia.org/resource/Mexico,0.26222199999999996,neutral,0.0,0.139652,0.030493,0.4824479999999999,0.243391,0.129681,5,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,http://en.wikipedia.org/wiki/Mexico,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5
+Kqi2JszFtYc,New York,Location,"PoliticalDistrict, GovernmentalJurisdiction, PlaceWithNeighborhoods, WineRegion, FilmScreeningVenue, City",http://dbpedia.org/resource/New_York_City,0.179385,neutral,0.0,0.17647100000000002,0.07251200000000001,0.251062,0.194385,0.09768099999999999,1,1,New York,New York,New York,New York,new york,new york,new york,http://en.wikipedia.org/wiki/New_York_City,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5
+Kqi2JszFtYc,Wikileaks,Company,NONE,NONE,0.169473,negative,-0.63544,0.406553,0.192132,0.178927,0.078836,0.256353,1,1,Wikileaks,Wikileaks,Wikileaks,Wikileaks,wikileak,wikileak,wikileak,NONE,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5
+Kqi2JszFtYc,state Authority,Organization,NONE,NONE,0.19439,negative,-0.5075109999999999,0.34120500000000004,0.161491,0.21481,0.084589,0.213484,1,1,state Authority,state Authority,state Authority,stat Authority,state author,state author,stat auth,NONE,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5
+Kqi2JszFtYc,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.172035,neutral,0.0,0.1571,0.042243,0.296547,0.257234,0.071492,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.9699,0.069,0.111,0.82,0.05145092612305728,0.4510464126037897,negative,-0.423699,0.128195,0.596119,0.469083,0.11503800000000006,0.128081,0.0,7.800000190734862,Free Trade,2017-05-12T20:58:46.000Z,UCe5hl70Es-VQ4OWvxssFH4A,"Noam Chomsky: ""Every word in the phrase 'Free Trade Agreement' is just false""","Noam Chomsky talks to acTVism Munich about Free Trade Agreements such as TTIP; TPP and NAFTA. 
+
+
+FOLLOW US ONLINE:
+Facebook: https://www.facebook.com/acTVism/
+Website: http://www.actvism.org/
+Twitter: https://twitter.com/acTVismMunich
+YouTube: https://www.youtube.com/acTVismMunich/
+
+Video was first published in 2015.",acTVism Munich,"Noam Chomsky', 'Chomsky', 'TTIP', 'TPP', 'NAFTA', 'Free Trade Agreements', 'Zain Raza', 'Raza', 'acTVism', 'acTVism Munich', 'Activism TV', 'Activism Munich', 'Corporations', 'Corporate State', 'Capitalism', 'Socialism', 'Donald Trump', 'Bernie Sanders', 'Hilary Clinton', 'Clinton', 'Trade', 'The Corporation'",PT4M38S,278,5

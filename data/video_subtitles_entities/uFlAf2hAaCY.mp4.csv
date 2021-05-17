@@ -1,0 +1,131 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uFlAf2hAaCY,Catalonia,Location,City,NONE,0.7776890000000001,negative,-0.530269,0.216998,0.122982,0.008239,0.551847,0.47653,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Civil Defense Forces,Organization,PoliticalParty,http://dbpedia.org/resource/Civil_Defence_Forces,0.35941799999999996,negative,-0.672826,0.426476,0.149849,0.008303,0.421183,0.36799,1,1,Civil Defense Forces,Civil Defense forc,Civil Defense forc,Civil Defense forc,civil defens forc,civil defens forc,civil defens forc,http://en.wikipedia.org/wiki/Civil_Defence_Forces,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,John hendren Al Jazeera Barcelona,Facility,NONE,NONE,0.47973299999999997,neutral,0.0,0.07273099999999999,0.145483,0.215304,0.45695600000000003,0.07642,1,1,John hendren Al Jazeera Barcelona,John hendren Al Jazeera Barcelona,John hendren Al Jazeera Barcelona,John hendr Al Jazeera Barcelona,john hendren Al jazeera barcelona,john hendren al jazeera barcelona,john hendr al jazeer barcelon,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,La,Location,City,NONE,0.282378,negative,-0.377927,0.203067,0.11525,0.008019,0.08969099999999999,0.770616,1,1,La,La,La,La,La,la,la,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.396884,negative,-0.45532399999999995,0.405298,0.061213,0.022338999999999998,0.21734699999999998,0.5977979999999999,2,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,National Police,Organization,NONE,NONE,0.687747,negative,-0.74395,0.34031500000000003,0.14613099999999998,0.022446,0.322195,0.498659,4,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Regional Police,Organization,NONE,NONE,0.5081289999999999,negative,-0.815074,0.234355,0.29667899999999997,0.086323,0.317369,0.383228,1,1,Regional Police,Regional Police,Regional Police,Regional Police,region polic,region polic,reg pol,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Sandy,Person,NONE,NONE,0.287715,negative,-0.672826,0.426476,0.149849,0.008303,0.421183,0.36799,1,1,Sandy,Sandy,Sandy,Sandy,sandi,sandi,sandy,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.899869,negative,-0.673541,0.515204,0.12913,0.072126,0.260654,0.26363200000000003,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,Spanish government,Organization,NONE,NONE,0.601598,negative,-0.332511,0.169487,0.232765,0.012094,0.627892,0.271043,2,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,catalans,Location,Country,NONE,0.346118,neutral,0.0,0.48519799999999996,0.15151199999999998,0.120523,0.036619,0.157648,1,1,catalan,catalan,catalan,cat,catalan,catalan,cat,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,interior Ministry,Organization,NONE,NONE,0.352528,neutral,0.0,0.365772,0.217415,0.055021,0.10948499999999999,0.154336,1,1,interior Ministry,interior Ministry,interior Ministry,intery Ministry,interior ministri,interior ministri,intery min,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3
+uFlAf2hAaCY,president,JobTitle,NONE,NONE,0.301315,negative,-0.532722,0.502953,0.0493,0.078283,0.298635,0.30383899999999997,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9918,0.121,0.014,0.8640000000000001,0.05912698412698414,0.37051587301587297,negative,-0.518895,0.499213,0.08986,0.275916,0.16678099999999998,0.5021720000000001,-0.20000000298023224,6.099999904632568,Catalonia Independence,2017-09-24T09:10:06.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,"Spain, Catalonia clash as 'illegal' independence referendum nears","The Spanish government has placed Catalan police under its command in another bid to try to block next weekend's independence referendum.
+
+Catalan leaders are calling it an unacceptable interference by Madrid.
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5586847325001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'europenews', 'joaquim forn', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M23S,143,3

@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+hCvevObr3Os,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.398783,neutral,0.0,0.043507,0.333951,0.019605,0.452837,0.315998,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.3506,0.08900000000000001,0.104,0.807,-0.04523809523809524,0.4142857142857143,negative,-0.872717,0.312296,0.014374,0.141256,0.284142,0.623438,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2019-02-16T19:47:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Massive Catalan independence rally in Barcelona,"The police estimated 200,000 took to the streets of Catalonia's capital but organisers put the figure at half a million.…
+READ MORE : https://www.euronews.com/2019/02/16/massive-catalan-independence-rally-in-barcelona
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"world', 'Barcelona', 'Spain', 'Independence'",PT46S,46,1
+hCvevObr3Os,Catalonia,Location,City,NONE,0.314295,neutral,0.0,0.357005,0.16936400000000001,0.049689,0.461663,0.213957,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.3506,0.08900000000000001,0.104,0.807,-0.04523809523809524,0.4142857142857143,negative,-0.872717,0.312296,0.014374,0.141256,0.284142,0.623438,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2019-02-16T19:47:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Massive Catalan independence rally in Barcelona,"The police estimated 200,000 took to the streets of Catalonia's capital but organisers put the figure at half a million.…
+READ MORE : https://www.euronews.com/2019/02/16/massive-catalan-independence-rally-in-barcelona
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"world', 'Barcelona', 'Spain', 'Independence'",PT46S,46,1
+hCvevObr3Os,Socialist Party,Organization,NONE,NONE,0.367933,neutral,0.0,0.123823,0.172757,0.410847,0.257801,0.140719,1,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,0.3506,0.08900000000000001,0.104,0.807,-0.04523809523809524,0.4142857142857143,negative,-0.872717,0.312296,0.014374,0.141256,0.284142,0.623438,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2019-02-16T19:47:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Massive Catalan independence rally in Barcelona,"The police estimated 200,000 took to the streets of Catalonia's capital but organisers put the figure at half a million.…
+READ MORE : https://www.euronews.com/2019/02/16/massive-catalan-independence-rally-in-barcelona
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"world', 'Barcelona', 'Spain', 'Independence'",PT46S,46,1
+hCvevObr3Os,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.327347,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.3506,0.08900000000000001,0.104,0.807,-0.04523809523809524,0.4142857142857143,negative,-0.872717,0.312296,0.014374,0.141256,0.284142,0.623438,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2019-02-16T19:47:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Massive Catalan independence rally in Barcelona,"The police estimated 200,000 took to the streets of Catalonia's capital but organisers put the figure at half a million.…
+READ MORE : https://www.euronews.com/2019/02/16/massive-catalan-independence-rally-in-barcelona
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"world', 'Barcelona', 'Spain', 'Independence'",PT46S,46,1
+hCvevObr3Os,prime minister,JobTitle,NONE,NONE,0.388486,neutral,0.0,0.357005,0.16936400000000001,0.049689,0.461663,0.213957,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.3506,0.08900000000000001,0.104,0.807,-0.04523809523809524,0.4142857142857143,negative,-0.872717,0.312296,0.014374,0.141256,0.284142,0.623438,-0.4000000059604645,0.8999999761581421,Catalonia Independence,2019-02-16T19:47:51.000Z,UCSrZ3UV4jOidv8ppoVuvW9Q,Massive Catalan independence rally in Barcelona,"The police estimated 200,000 took to the streets of Catalonia's capital but organisers put the figure at half a million.…
+READ MORE : https://www.euronews.com/2019/02/16/massive-catalan-independence-rally-in-barcelona
+
+What are the top stories today? Click to watch: https://www.youtube.com/playlist?list=PLSyY1udCyYqBeDOz400FlseNGNqReKkFd
+
+euronews: the most watched news channel in Europe
+Subscribe! http://www.youtube.com/subscription_center?add_user=euronews 
+
+euronews is available in 13 languages: https://www.youtube.com/user/euronewsnetwork/channels
+
+In English:
+Website: http://www.euronews.com/news
+Facebook: https://www.facebook.com/euronews
+Twitter: http://twitter.com/euronews
+Google+: http://google.com/+euronews
+VKontakte: http://vk.com/en.euronews",euronews (in English),"world', 'Barcelona', 'Spain', 'Independence'",PT46S,46,1

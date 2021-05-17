@@ -1,0 +1,51 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+dDiB97qwPkc,Kelly 4106140480399,Person,NONE,NONE,0.521829,negative,-0.41599899999999995,0.187896,0.11535799999999999,0.39974499999999996,0.22657399999999997,0.101005,1,1,Kelly 4106140480399,Kelly 4106140480399,Kelly 4106140480399,Kelly 4106140480399,kelli 4106140480399,kelli 4106140480399,kel 4106140480399,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Laguna,Location,City,NONE,0.527508,positive,0.87371,0.245417,0.179119,0.323908,0.20260699999999998,0.240258,1,1,Laguna,Laguna,Laguna,Laguna,laguna,laguna,lagun,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Lucy DC,Person,NONE,NONE,0.675728,positive,0.87371,0.263214,0.193474,0.282375,0.203971,0.272555,2,1,Lucy DC,Lucy DC,Lucy DC,Lucy DC,luci DC,luci dc,lucy dc,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Melody Youk,Person,NONE,NONE,0.630546,negative,-0.611945,0.468081,0.200419,0.037683999999999995,0.158777,0.12170399999999999,1,1,Melody Youk,Melody Youk,Melody Youk,Melody Youk,melodi youk,melodi youk,melody youk,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Nevada,Location,StateOrCounty,NONE,0.5129319999999999,neutral,0.0,0.05324400000000002,0.022022999999999997,0.776924,0.016047,0.02446,1,1,Nevada,Nevada,Nevada,Nevada,nevada,nevada,nevad,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Peralta,Person,NONE,NONE,0.558276,positive,0.873051,0.035195,0.023409,0.800705,0.058713999999999995,0.103679,1,1,Peralta,Peralta,Peralta,Peralta,peralta,peralta,peralt,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,Tracy,Person,NONE,NONE,0.5277229999999999,positive,0.590508,0.012789,0.093196,0.39882399999999996,0.006603,0.21764699999999998,1,1,Tracy,Tracy,Tracy,Tracy,traci,traci,tracy,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,officer,JobTitle,NONE,NONE,0.479258,negative,-0.41599899999999995,0.187896,0.11535799999999999,0.39974499999999996,0.22657399999999997,0.101005,1,1,officer,offic,offic,off,offic,offic,off,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,representative,JobTitle,NONE,NONE,0.505627,neutral,0.0,0.126832,0.086127,0.687489,0.022097,0.036084,1,1,representative,repres,repres,repres,repres,repres,repres,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6
+dDiB97qwPkc,researcher,JobTitle,NONE,NONE,0.49066099999999996,neutral,0.0,0.126832,0.086127,0.687489,0.022097,0.036084,1,1,researcher,research,research,research,research,research,research,NONE,0.4927,0.062,0.098,0.84,0.14223214285714286,0.4577142857142856,positive,0.5671609999999999,0.427392,0.623761,0.166718,0.12415,0.095001,0.0,4.0,Vaccination,2019-06-13T15:53:43.000Z,UCFaPzuoXcACu7jplePDfXmA,Varicelle et Vaccination : nous avons le droit d'être intelligents,"Bulletin d'information scientifique de l'IHU
+Didier Raoult, Directeur de l'IHU Méditerranée Infection
+Interview par Yanis Roussel
+
+Lien direct vers le calendrier vaccinal des Etats-Unis : https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html",IHU Méditerranée-Infection,"varicelle', 'vaccination', 'calendrier vaccinal', 'vaccines', 'rougeole'",PT5M22S,322,6

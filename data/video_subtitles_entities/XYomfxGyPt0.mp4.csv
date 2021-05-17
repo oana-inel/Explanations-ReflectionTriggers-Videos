@@ -1,0 +1,495 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+XYomfxGyPt0,72 hours,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,72 hour,72 hour,72 hour,72 hour,72 hour,72 hour,72 hour,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,9mm,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,9mm,9mm,9mm,9mm,9mm,9mm,9mm,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Baba,Person,NONE,NONE,0.662961,positive,0.921731,0.079127,0.08075800000000001,0.6968770000000001,0.009567,0.05329400000000002,2,1,Baba,Baba,Baba,Baba,baba,baba,bab,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Barcelona,Location,City,NONE,0.506812,positive,0.434254,0.158082,0.16378,0.291876,0.201757,0.25913600000000003,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Bashar,Person,NONE,NONE,0.559616,neutral,0.0,0.15779,0.10122300000000001,0.533511,0.027548000000000003,0.083121,1,1,Bashar,Bashar,Bashar,Bashar,bashar,bashar,bash,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Billy CeCe,Person,NONE,NONE,0.650696,positive,0.813812,0.092373,0.022009,0.710858,0.027839999999999997,0.033085,1,1,Billy CeCe,Billy CeCe,Billy CeCe,Billy CeCe,billi cece,billi cece,bil cec,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Jana,Person,NONE,NONE,0.842666,neutral,0.0,0.173791,0.133698,0.566387,0.012727,0.061546000000000003,2,1,Jana,Jana,Jana,Jana,jana,jana,jan,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Jessa polygit,Person,NONE,NONE,0.532004,neutral,0.0,0.205421,0.175395,0.392844,0.015616,0.054282000000000004,1,1,Jessa polygit,Jessa polygit,Jessa polygit,Jessa polygit,jessa polygit,jessa polygit,jess polygit,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Kalamata,Location,City,http://dbpedia.org/resource/Kalamata,0.666608,negative,-0.71431,0.39800599999999997,0.071547,0.134374,0.007234999999999998,0.076596,1,1,Kalamata,Kalamata,Kalamata,Kalamata,kalamata,kalamata,kalamat,http://en.wikipedia.org/wiki/Kalamata,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Kumiko,Person,NONE,NONE,0.533538,positive,0.582846,0.765993,0.10832,0.119305,0.003929,0.040513,1,1,Kumiko,Kumiko,Kumiko,Kumiko,kumiko,kumiko,kumiko,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Mama,Person,NONE,NONE,0.574781,positive,0.917206,0.041552,0.0037259999999999997,0.8585790000000001,0.0012640000000000001,0.050597,1,1,Mama,Mama,Mama,Mama,mama,mama,mam,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Medina,Location,City,NONE,0.517171,positive,0.559621,0.050719,0.017932,0.9083120000000001,0.0026219999999999998,0.017961,1,1,Medina,Medina,Medina,Medina,medina,medina,medin,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Michael,Person,NONE,NONE,0.717659,positive,0.4596020000000001,0.461812,0.379783,0.11776600000000001,0.185601,0.12173099999999999,2,1,Michael,Michael,Michael,Michael,michael,michael,michael,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Minnesota,Location,StateOrCounty,NONE,0.5027189999999999,neutral,0.0,0.205421,0.175395,0.392844,0.015616,0.054282000000000004,1,1,Minnesota,Minnesota,Minnesota,Minnesota,minnesota,minnesota,minnesot,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Nepal,Location,Country,NONE,0.587804,negative,-0.71431,0.39800599999999997,0.071547,0.134374,0.007234999999999998,0.076596,1,1,Nepal,Nepal,Nepal,Nepal,nepal,nepal,nep,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Newcastle,Location,City,http://dbpedia.org/resource/Newcastle_upon_Tyne,0.601984,negative,-0.71431,0.39800599999999997,0.071547,0.134374,0.007234999999999998,0.076596,1,1,Newcastle,Newcastle,Newcastle,Newcastle,newcastl,newcastl,newcastl,http://en.wikipedia.org/wiki/Newcastle_upon_Tyne,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Nicola,Person,NONE,NONE,0.622571,negative,-0.4568060000000001,0.376442,0.27516599999999997,0.069685,0.088784,0.374342,1,1,Nicola,Nicola,Nicola,Nicola,nicola,nicola,nicol,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Nong,Person,NONE,NONE,0.580697,positive,0.769994,0.083027,0.058198,0.7714409999999999,0.039943,0.054167999999999994,1,1,Nong,Nong,Nong,Nong,nong,nong,nong,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Paris,Location,City,NONE,0.511917,positive,0.434254,0.158082,0.16378,0.291876,0.201757,0.25913600000000003,1,1,Paris,Paris,Paris,Paris,pari,pari,par,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,Paso Summit,Location,City,NONE,0.6295729999999999,positive,0.4596020000000001,0.42794799999999994,0.248848,0.250931,0.12737,0.096374,1,1,Paso Summit,Paso Summit,Paso Summit,Paso Summit,paso summit,paso summit,paso summit,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,immunosuppression,HealthCondition,"DiseaseCause, RiskFactor, Symptom",http://dbpedia.org/resource/Immunosuppression,0.618267,neutral,0.0,0.198441,0.057464999999999995,0.563294,0.10563,0.176795,1,1,immunosuppression,immunosuppress,immunosuppress,immunosuppress,immunosuppress,immunosuppress,immunosuppress,http://en.wikipedia.org/wiki/Immunosuppression,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,obesity,HealthCondition,"DiseaseOrMedicalCondition, DiseaseCause, RiskFactor, Symptom",http://dbpedia.org/resource/Obesity,0.69706,neutral,0.0,0.176228,0.143263,0.029692000000000007,0.143601,0.158411,2,1,obesity,obes,obes,obes,obes,obes,obes,http://en.wikipedia.org/wiki/Obesity,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,one month,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one month,one month,one month,on mon,one month,one month,on mon,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,three days,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three day,three day,three day,three day,three day,three day,three day,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,three months,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three month,three month,three month,three month,three month,three month,three month,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6
+XYomfxGyPt0,three weeks,Quantity,NONE,NONE,0.5027189999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9756,0.048,0.14,0.8109999999999999,0.2671474358974359,0.4384615384615384,positive,0.570433,0.102416,0.626174,0.190574,0.128816,0.067164,0.20000000298023224,6.699999809265138,Vaccination,2018-06-15T21:00:01.000Z,UCzwvZtuFWsp-yC7H2tTx9WQ,Vaccines for NCD,"Kalusugan Atbp.
+Vaccines for NCD
+Doc Gil Nicolas Jr.
+Diplomate Philippine College of Poultry Practitioner
+
+Tukaan – Episode 912
+
+Watch Tukaan:
+TV-5 (Local TV Channel):
+Sundays – 8AM
+
+Pinoy Extreme Channel (Cable TV Channel):
+(Night schedule will be followed after horse race)
+Sundays – 5AM, 2PM & 9PM
+Mondays – 4AM, 1PM & 10PM
+Tuesdays – 5AM, 2PM
+Saturdays – 10PM
+
+Disclaimer: Footage containing sabong or cockfighting related topics can be found here. If it is inappropriate or illegal to watch in your respective country, please do not watch the show. Thank you.",Tukaan,"tukaan', 'gamefowl', 'sabong', 'manny berbano', 'pitgames', 'mj nama', '2016 kalusugan atbp', 'doc gil nicolas', '2016 tukaan episode', '2016 tukaan replay', 'tatak excellence', 'excellence poultry and livestock specialist'",PT5M44S,344,6

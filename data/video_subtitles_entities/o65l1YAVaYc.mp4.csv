@@ -1,0 +1,460 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+o65l1YAVaYc,14%,Quantity,NONE,NONE,0.173002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,14 %,14 %,14 %,14 %,14 %,14 %,14 %,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,72 percent,Quantity,NONE,NONE,0.173002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,72 percent,72 percent,72 percent,72 perc,72 percent,72 percent,72 perc,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,British medical journal,PrintMedia,Journal,http://dbpedia.org/resource/BMJ,0.314864,negative,-0.742239,0.632358,0.15922999999999998,0.19684000000000001,0.10360899999999999,0.046387,4,1,British medical journal,british medic journal,british medic journal,brit med journ,british medic journal,british medic journal,brit med journ,http://en.wikipedia.org/wiki/BMJ,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,California,Location,StateOrCounty,NONE,0.184962,neutral,0.0,0.21241500000000002,0.170874,0.256302,0.10229099999999999,0.088215,1,1,California,California,California,California,california,california,californ,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Cochrane,Organization,NONE,NONE,0.186541,neutral,0.0,0.141784,0.120323,0.571904,0.02489,0.041481,1,1,Cochrane,Cochrane,Cochrane,Cochrane,cochran,cochran,cochr,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Denmark,Location,"Brand, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Denmark,0.18950999999999998,neutral,0.0,0.269726,0.136026,0.54113,0.042388,0.07152599999999999,1,1,Denmark,Denmark,Denmark,Denmark,denmark,denmark,denmark,http://en.wikipedia.org/wiki/Denmark,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Finland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Profession, Country",http://dbpedia.org/resource/Finland,0.19751400000000002,negative,-0.410434,0.21556799999999998,0.245052,0.245497,0.05230800000000002,0.28661,1,1,Finland,Finland,Finland,Finland,finland,finland,finland,http://en.wikipedia.org/wiki/Finland,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Journal of the American Medical Association,PrintMedia,Journal,http://dbpedia.org/resource/Journal_of_the_American_Medical_Association,0.230373,neutral,0.0,0.21241500000000002,0.170874,0.256302,0.10229099999999999,0.088215,1,1,Journal of the American Medical Association,Journal of the American Medical Association,Journal of the American Medical Association,Journal of the American Medical Association,journal of the american medic associ,journal of the american medic associ,journ of the am med assocy,http://en.wikipedia.org/wiki/Journal_of_the_American_Medical_Association,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Lancet,PrintMedia,NONE,NONE,0.452309,negative,-0.574408,0.759984,0.287763,0.042283,0.054805999999999994,0.084938,5,1,Lancet,Lancet,Lancet,Lancet,lancet,lancet,lancet,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,MMR,HealthCondition,NONE,NONE,0.40031,negative,-0.465293,0.330167,0.14687999999999998,0.438813,0.066836,0.118039,4,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,MMR,Organization,NONE,NONE,0.298639,negative,-0.5583739999999999,0.330167,0.14687999999999998,0.438813,0.066836,0.118039,1,1,MMR,MMR,MMR,MMR,mmr,mmr,mmr,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,MMR vaccine,Drug,NONE,NONE,0.789813,negative,-0.6247739999999999,0.474764,0.203209,0.187888,0.08657000000000001,0.11755499999999999,8,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,NIH,Organization,"GovernmentAgency, SoftwareDeveloper",http://dbpedia.org/resource/National_Institutes_of_Health,0.199684,positive,0.678187,0.515374,0.249166,0.12858599999999998,0.07530099999999999,0.21940300000000001,1,1,NIH,NIH,NIH,NIH,nih,nih,nih,http://en.wikipedia.org/wiki/National_Institutes_of_Health,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,New England Journal of Medicine,PrintMedia,Journal,http://dbpedia.org/resource/The_New_England_Journal_of_Medicine,0.207406,neutral,0.0,0.269726,0.136026,0.54113,0.042388,0.07152599999999999,1,1,New England Journal of Medicine,New England Journal of Medicine,New England Journal of Medicine,New England Journal of Medicine,new england journal of medicin,new england journal of medicin,new england journ of medicin,http://en.wikipedia.org/wiki/The_New_England_Journal_of_Medicine,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,Rose,Person,NONE,NONE,0.173002,neutral,0.0,0.269726,0.136026,0.54113,0.042388,0.07152599999999999,1,1,Rose,Rose,Rose,Rose,rose,rose,ros,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.188686,negative,-0.353475,0.086755,0.095608,0.408941,0.095796,0.076972,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,audible.com,Company,VentureFundedCompany,http://dbpedia.org/resource/Audible.com,0.245219,positive,0.759242,0.198692,0.044423000000000004,0.093064,0.033283,0.07230199999999999,1,1,audible.com,audible.com,audible.com,audible.com,audible.com,audible.com,audible.com,http://en.wikipedia.org/wiki/Audible.com,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,autism,HealthCondition,"DiseaseOrMedicalCondition, Disease, OrganizationSector",http://dbpedia.org/resource/Autism,0.8323209999999999,negative,-0.254159,0.619609,0.58372,0.126996,0.083752,0.155298,15,1,autism,autism,autism,aut,autism,autism,aut,http://en.wikipedia.org/wiki/Autism,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,diarrhea,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, RiskFactor, Symptom, Disease",http://dbpedia.org/resource/Diarrhea,0.219761,negative,-0.80742,0.512659,0.432583,0.036588999999999997,0.058804999999999996,0.075583,1,1,diarrhea,diarrhea,diarrhea,diarrhe,diarrhea,diarrhea,diarrhe,http://en.wikipedia.org/wiki/Diarrhea,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,eighty two percent,Quantity,NONE,NONE,0.173002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,eighty two percent,eighti two percent,eighti two percent,eighty two perc,eighti two percent,eighti two percent,eighty two perc,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,fraud,Crime,NONE,NONE,0.243049,negative,-0.785509,0.478645,0.358466,0.093602,0.10259000000000001,0.259013,3,1,fraud,fraud,fraud,fraud,fraud,fraud,fraud,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,one year,Quantity,NONE,NONE,0.173002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one year,one year,one year,on year,one year,one year,on year,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,researcher,JobTitle,NONE,NONE,0.261125,positive,0.13022,0.155315,0.06376,0.428724,0.055251999999999996,0.052257000000000005,3,1,researcher,research,research,research,research,research,research,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,rubella,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Rubella,0.220421,negative,-0.80742,0.512659,0.432583,0.036588999999999997,0.058804999999999996,0.075583,1,1,rubella,rubella,rubella,rubell,rubella,rubella,rubell,http://en.wikipedia.org/wiki/Rubella,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,same Journal,PrintMedia,NONE,NONE,0.204022,negative,-0.495158,0.18961,0.313726,0.34031,0.110668,0.08371,1,1,same Journal,same Journal,same Journal,sam Journal,same journal,same journal,sam journ,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,seventy three percent,Quantity,NONE,NONE,0.173002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,seventy three percent,seventi three percent,seventi three percent,seventy three perc,seventi three percent,seventi three percent,seventy three perc,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8
+o65l1YAVaYc,thimerosal,HealthCondition,NONE,NONE,0.196371,negative,-0.8217690000000001,0.800147,0.149508,0.020683,0.17031400000000002,0.096863,2,1,thimerosal,thimeros,thimeros,thimeros,thimeros,thimeros,thimeros,NONE,-0.5615,0.085,0.085,0.83,0.0783814095695284,0.4835865729430086,negative,-0.553964,0.120338,0.544245,0.583196,0.17766400000000002,0.106092,-0.10000000149011612,21.899999618530273,Vaccination,2014-01-20T01:59:47.000Z,UCabaQPYxxKepWUsEVQMT4Kw,Vaccines Don't Cause Autism: Healthcare Triage #12,"Thanks to Audible.com for supporting this episode of Healthcare Triage. You can get Nate Silver's The Signal and the Noise, or a book of your choice, free at Audible.com: http://www.audible.com/triage
+
+There is almost no topic in health and health policy that immediately polarizes people more than the idea that vaccines cause autism. Even though the original big paper on this topic came out at the end of the last century, the anger this causes is still raw and potent. But there is a very, very large amount of research showing that vaccines and autism are unrelated. Please, watch the video before you jump down my throat.
+ 
+Make sure you subscribe above so you don't miss any upcoming episodes!
+
+Here are references for all the studies I talk about: http://theincidentaleconomist.com/wordpress/?p=52677
+
+John Green -- Executive Producer
+Stan Muller -- Director, Producer
+Aaron Carroll -- Writer
+Mark Olsen - Graphics
+
+http://www.twitter.com/aaronecarroll
+http://www.twitter.com/crashcoursestan
+http://www.twitter.com/realjohngreen
+http://www.twitter.com/olsenvideo",Healthcare Triage,"Autism', 'vaccines', 'wakefield', 'cause', 'effect', 'study', 'RCT', 'randomized controlled trial', 'aaron carroll', 'health care', 'policy', 'shots', 'innoculation', 'MMR', 'measles mumps rubella', 'scare'",PT7M57S,477,8

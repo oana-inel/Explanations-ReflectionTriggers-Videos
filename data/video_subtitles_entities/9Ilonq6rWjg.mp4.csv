@@ -1,0 +1,267 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+9Ilonq6rWjg,Angela Merkel,Person,"Politician, AwardWinner, Chancellor",http://dbpedia.org/resource/Angela_Merkel,0.8108850000000001,negative,-0.119869,0.510268,0.159726,0.32095799999999997,0.039619999999999995,0.088619,4,1,Angela Merkel,Angela Merkel,Angela Merkel,Angela Merkel,angela merkel,angela merkel,angel merkel,http://en.wikipedia.org/wiki/Angela_Merkel,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Australia India,Company,NONE,NONE,0.249239,positive,0.638997,0.465225,0.11363699999999999,0.40547300000000003,0.024057,0.07607,1,1,Australia India,Australia India,Australia India,Australia India,australia india,australia india,austral ind,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,British Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,0.32899999999999996,positive,0.720742,0.073081,0.038257,0.11266099999999996,0.053132000000000006,0.047497000000000004,1,1,British Parliament,british Parliament,british Parliament,brit Parliament,british parliament,british parliament,brit parlia,http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Chancellor,JobTitle,NONE,NONE,0.42187399999999997,neutral,0.0,0.342177,0.086242,0.12693,0.07257000000000001,0.071418,1,1,Chancellor,Chancellor,Chancellor,Chancellor,chancellor,chancellor,chancel,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.249045,negative,-0.878735,0.37448000000000004,0.403024,0.110045,0.097674,0.132891,1,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,EU,Location,Country,NONE,0.22897800000000001,negative,-0.878735,0.37448000000000004,0.403024,0.110045,0.097674,0.132891,1,1,EU,EU,EU,EU,EU,eu,eu,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.32048499999999996,negative,-0.87582,0.364478,0.050256999999999996,0.12750899999999998,0.010805,0.243606,1,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Helia,Person,NONE,NONE,0.279763,negative,-0.789661,0.482497,0.02535,0.16331800000000002,0.008681999999999999,0.179997,2,1,Helia,Helia,Helia,Helia,helia,helia,hel,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Japan,Location,"MusicalGroup, BroadcastArtist, MusicalArtist, RecordProducer, Country",http://dbpedia.org/resource/Japan,0.54807,negative,-0.074214,0.5000180000000001,0.195457,0.319864,0.030938,0.106058,4,1,Japan,Japan,Japan,Japan,japan,japan,jap,http://en.wikipedia.org/wiki/Japan,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Shima CTN Tokyo,Company,NONE,NONE,0.336618,positive,0.638997,0.465225,0.11363699999999999,0.40547300000000003,0.024057,0.07607,1,1,Shima CTN Tokyo,Shima CTN Tokyo,Shima CTN Tokyo,Shima CTN Tokyo,shima ctn tokyo,shima ctn tokyo,shim ctn tokyo,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,Shinzo Abby,Person,NONE,NONE,0.33221999999999996,neutral,0.0,0.342177,0.086242,0.12693,0.07257000000000001,0.071418,1,1,Shinzo Abby,Shinzo Abby,Shinzo Abby,Shinzo Abby,shinzo abbi,shinzo abbi,shinzo abby,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.42938000000000004,negative,-0.37185300000000004,0.5367149999999999,0.246738,0.239423,0.04501,0.095509,3,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.26314,positive,0.638997,0.465225,0.11363699999999999,0.40547300000000003,0.024057,0.07607,1,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3
+9Ilonq6rWjg,prime minister,JobTitle,NONE,NONE,0.35134099999999996,neutral,0.0,0.141323,0.068615,0.428075,0.039229,0.044308999999999994,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9812,0.069,0.163,0.768,0.08516414141414141,0.3143781565656566,negative,-0.423383,0.122183,0.150719,0.258264,0.527832,0.100142,0.0,3.4000000953674316,Free Trade,2019-02-05T04:39:36.000Z,UCgrNz-aDmcr2uuto8_DL2jg,"Japan, Germany pledge to maintain free trade","The leaders of Japan and Germany have pledged to pursue free trade in the face of rising protectionism. Shinzo Abe and Angela Merkel held talks in Tokyo on Monday, just days after a Japan-EU free trade deal went into force.  
+
+Subscribe to us on YouTube: https://goo.gl/lP12gA
+
+Download our APP on Apple Store (iOS): https://itunes.apple.com/us/app/cctvnews-app/id922456579?l=zh&ls=1&mt=8
+
+Download our APP on Google Play (Android): https://play.google.com/store/apps/details?id=com.imib.cctv
+
+Follow us on:
+
+Website: https://www.cgtn.com/
+Facebook: https://www.facebook.com/ChinaGlobalTVNetwork/
+Instagram: https://www.instagram.com/cgtn/?hl=zh-cn
+Twitter: https://twitter.com/CGTNOfficial
+Pinterest: https://www.pinterest.com/CGTNOfficial/
+Tumblr: http://cctvnews.tumblr.com/
+Weibo: http://weibo.com/cctvnewsbeijing
+Tiktok: https://m.tiktok.com/h5/share/usr/6593878228716666886.html?u_code=d1kab7mki4ai6e&utm_campaign=client_share&app=musically&utm_medium=ios&user_id=6593878228716666886&tt_from=copy&utm_source=copy
+Douyin: https://www.youtube.com/redirect?q=http%3A%2F%2Fv.douyin.com%2F8QTXhV%2F&redir_token=WkBScl40kZbx7ZwJ9M7QhhTjErx8MTU0NTcyMTg3N0AxNTQ1NjM1NDc3&event=channel_description",CGTN,"CCTV', 'CGTN', 'CCTVNews', 'News', 'ChinaNews', 'WorldNews', 'Politics', 'Japan', 'Germany', 'protectionism', 'ShinzoAbe', 'AngelaMerkel', 'Tokyo', 'Japan-EUfreetradedeal'",PT2M12S,132,3

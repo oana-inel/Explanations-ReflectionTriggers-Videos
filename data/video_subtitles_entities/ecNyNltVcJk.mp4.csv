@@ -1,0 +1,813 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ecNyNltVcJk,20 percent,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 percent,20 percent,20 percent,20 perc,20 percent,20 percent,20 perc,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,40 percent,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 percent,40 percent,40 percent,40 perc,40 percent,40 percent,40 perc,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,40%,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 %,40 %,40 %,40 %,40 %,40 %,40 %,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,50 percent,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 percent,50 percent,50 percent,50 perc,50 percent,50 percent,50 perc,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,50%,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 %,50 %,50 %,50 %,50 %,50 %,50 %,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.35438000000000003,negative,-0.83975,0.645559,0.237738,0.022784,0.167971,0.267511,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Caledonia,Location,City,NONE,0.215507,negative,-0.4468720000000001,0.5711609999999999,0.350804,0.045893,0.08268099999999999,0.250289,1,1,Caledonia,Caledonia,Caledonia,Caledonia,caledonia,caledonia,caledon,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,California,Location,"PoliticalDistrict, AdministrativeDivision, Appellation, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/California,0.256797,negative,-0.546716,0.463639,0.067009,0.174354,0.07725499999999999,0.11039600000000001,1,1,California,California,California,California,california,california,californ,http://en.wikipedia.org/wiki/California,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Catalonia,Location,City,NONE,0.305991,negative,-0.344989,0.22936199999999998,0.192916,0.201995,0.502312,0.12095299999999999,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Catalonia,Location,Region,NONE,0.782307,neutral,0.0,0.22936199999999998,0.192916,0.201995,0.502312,0.12095299999999999,8,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Czech Republic,Location,Country,NONE,0.208329,neutral,0.0,0.223646,0.196595,0.276248,0.41661899999999996,0.043983999999999995,1,1,Czech Republic,Czech Republic,Czech Republic,Czech Republic,czech republ,czech republ,czech republ,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Czechoslovakia,Location,Country,NONE,0.199442,neutral,0.0,0.223646,0.196595,0.276248,0.41661899999999996,0.043983999999999995,1,1,Czechoslovakia,Czechoslovakia,Czechoslovakia,Czechoslovakia,czechoslovakia,czechoslovakia,czechoslovak,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.243707,neutral,0.0,0.223646,0.196595,0.276248,0.41661899999999996,0.043983999999999995,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Fernando,Person,NONE,NONE,0.23755199999999999,neutral,0.0,0.48545299999999997,0.11698800000000001,0.269266,0.099561,0.130077,1,1,Fernando,Fernando,Fernando,Fernando,fernando,fernando,fernando,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Five years,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Madrid government,Organization,NONE,NONE,0.45647,neutral,0.0,0.175519,0.147275,0.21414,0.371106,0.178816,2,1,Madrid government,madrid govern,madrid govern,madrid govern,madrid govern,madrid govern,madrid govern,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.256986,neutral,0.0,0.152203,0.110552,0.309554,0.08555499999999999,0.12051400000000001,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Montenegro,Location,Country,NONE,0.204855,neutral,0.0,0.243204,0.230048,0.39555799999999997,0.182943,0.091136,1,1,Montenegro,Montenegro,Montenegro,Montenegro,montenegro,montenegro,montenegro,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Montenegro,Person,NONE,NONE,0.22916999999999998,neutral,0.0,0.243204,0.230048,0.39555799999999997,0.182943,0.091136,1,1,Montenegro,Montenegro,Montenegro,Montenegro,montenegro,montenegro,montenegro,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Nando,Person,NONE,NONE,0.252783,positive,0.596943,0.250913,0.146357,0.220732,0.043432,0.133179,1,1,Nando,Nando,Nando,Nando,nando,nando,nando,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,0.355674,neutral,0.0,0.337441,0.181096,0.035233,0.552452,0.129491,2,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,http://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Regional Police,Organization,NONE,NONE,0.235699,neutral,0.0,0.474858,0.214263,0.035166,0.336524,0.107928,1,1,Regional Police,Regional Police,Regional Police,Regional Police,region polic,region polic,reg pol,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Rocco,Person,NONE,NONE,0.2260530000000001,neutral,0.0,0.404888,0.119425,0.113048,0.081818,0.4225640000000001,1,1,Rocco,Rocco,Rocco,Rocco,rocco,rocco,rocco,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Scotland,Location,Country,NONE,0.333803,positive,0.36359,0.05907100000000001,0.050486,0.800164,0.507727,0.046588,4,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.45815,negative,-0.4662520000000001,0.6094579999999999,0.11565299999999999,0.4463,0.447564,0.187319,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Spain,Location,Country,http://dbpedia.org/resource/Francoist_Spain,0.301674,negative,-0.557595,0.6094579999999999,0.11565299999999999,0.4463,0.447564,0.187319,1,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Francoist_Spain,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.397982,neutral,0.0,0.6094579999999999,0.11565299999999999,0.4463,0.447564,0.187319,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,five years,Quantity,NONE,NONE,0.199442,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,five year,five year,five year,fiv year,five year,five year,fiv year,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7
+ecNyNltVcJk,prime minister,JobTitle,NONE,NONE,0.241369,neutral,0.0,0.423415,0.25455,0.12140999999999999,0.131838,0.294563,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9983,0.07400000000000001,0.145,0.78,0.05503697691197691,0.493074666735381,negative,-0.426438,0.15779400000000002,0.183093,0.518447,0.149449,0.137829,-0.10000000149011612,17.899999618530273,Catalonia Independence,2017-10-28T01:17:29.000Z,UC1yBKRuGpC1tSM73A0ZjYjQ,"Catalonia Declares Independence, Spain Doesn't Care","Spain has vowed to ‘dismantle the Catalan government.” Cenk Uygur, Ana Kasparian, Francesca Fiorentini, and Nando Vila, hosts of The Young Turks, discuss. Tell us what you think in the comment section below. Join TYT: https://goo.gl/v8E64M
+
+""Catalonia declared itself an independent republic on Friday. But nobody is sure how long it will last.
+Within hours of Catalonia’s emotional vote, Spain’s prime minister announced he would dismantle the Catalan government, suspend its ministers, dissolve its upstart parliament, take over the regional police and call home any Catalan diplomats abroad.
+The orders were effective immediately. In a Europe where change once took place at a glacial pace, this was the latest surprise in a continent rocked by division and upset, populism and nationalism.
+But how the central government will enforce its orders is the question everyone is asking. Will the National Police carry out the new orders? Or will the separatist leaders in Barcelona step aside to fight another day?”*
+
+Read more here: https://www.washingtonpost.com/world/a-day-of-fireworks-in-catalonia-both-spanish-and-catalan-parliaments-are-scheduled-to-convene/2017/10/27/09685d34-ba90-11e7-9b93-b97043e57a22_story.html?utm_term=.a266123ee996
+
+Hosts: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+Cast: Cenk Uygur, Ana Kasparian, Francesca Fiorentini, Nando Vila
+
+***
+
+The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. https://goo.gl/tJpj1m
+
+Subscribe to The Young Turks on YouTube: https://goo.gl/a3JY9i
+
+Like The Young Turks on Facebook: https://goo.gl/txrhrh
+
+Follow The Young Turks on Twitter: https://goo.gl/w6ahdV
+
+Buy TYT Merch: https://goo.gl/KVysaM
+
+Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at https://goo.gl/v8E64M. Your membership supports the day to day operations and is vital for our continued success and growth.
+
+Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)",The Young Turks,"171027__TB04CataloniasOutOfTheBag', 'TYT', 'The Young Turks', 'Cenk Uygur', 'News', 'Liberal', 'Progressive', 'Politics', 'TYT Network', 'Democratic', 'Republican', 'Donald Trump', 'Trump', 'GOP', 'Catalonia', 'Spain', 'independence', 'vote', 'referendum', 'secede', 'break off', 'catalonia declares independence from spain', 'protests', 'riot police'",PT6M10S,370,7

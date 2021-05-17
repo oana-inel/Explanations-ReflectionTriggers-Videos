@@ -1,0 +1,191 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ftbc0z9_fFo,48 hours,Quantity,NONE,NONE,0.330431,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.414142,negative,-0.46556400000000003,0.0,0.0,0.0,0.0,0.0,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Barcelona racing Barcelona,Facility,NONE,NONE,0.516039,neutral,0.0,0.1221,0.211439,0.129093,0.323408,0.231629,1,1,Barcelona race Barcelona,Barcelona race Barcelona,Barcelona race Barcelona,Barcelona rac Barcelona,barcelona race barcelona,barcelona race barcelona,barcelon rac barcelon,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Catalonia,Location,City,NONE,0.6660159999999999,negative,-0.16480699999999998,0.256139,0.072137,0.296379,0.25853200000000004,0.250775,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Dominic waghorn,Person,NONE,NONE,0.330431,neutral,0.0,0.072948,0.20227,0.554437,0.25356799999999996,0.014368,1,1,Dominic waghorn,Dominic waghorn,Dominic waghorn,Dominic waghorn,domin waghorn,domin waghorn,domin waghorn,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.44872799999999996,positive,0.42376099999999994,0.096219,0.179674,0.527841,0.284356,0.026641,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.672913,negative,-0.482904,0.12164900000000001,0.112347,0.28215,0.04593,0.059389,3,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,National Police,Organization,NONE,NONE,0.746553,negative,-0.584917,0.30318,0.302212,0.060145000000000004,0.231383,0.332432,7,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.559079,negative,-0.298414,0.315386,0.189526,0.07586799999999999,0.42103999999999997,0.17668,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4
+ftbc0z9_fFo,Stage National Unity,Organization,NONE,NONE,0.46634899999999996,positive,0.095978,0.341882,0.19616,0.083991,0.46121999999999996,0.179946,2,1,Stage National Unity,Stage National Unity,Stage National Unity,Stage National Unity,stage nation uniti,stage nation uniti,stag nat un,NONE,0.9836,0.07200000000000001,0.13,0.7979999999999999,0.02554814814814816,0.4366846560846562,negative,-0.338856,0.153975,0.559027,0.211731,0.528027,0.168625,0.0,5.5,Catalonia Independence,2017-09-30T12:49:35.000Z,UCoMdktPbSTixAyNGwb-UYkQ,Young Catalans march for independence,"In the Spanish region of Catalonia, an independence vote has been outlawed by the governments in Madrid. 
+
+Police forces have seized ballot boxes and arrested polling officials, but despite that more than 60% of the population are expected to cast their vote.
+
+Sky's Diplomatic Editor Dominic Waghorn reports from Barcelona.
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews
+
+Follow us on Twitter: https://twitter.com/skynews and https://twitter.com/skynewsbreak
+
+Like us on Facebook: https://www.facebook.com/skynews
+
+For more content go to http://news.sky.com and download our apps:
+
+iPad https://itunes.apple.com/gb/app/Sky-News-for-iPad/id422583124
+
+iPhone https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB",Sky News,"Sky News', 'SkyNews', 'current affairs', 'news', 'Spain', 'Catalonia', 'independence', 'referendum', 'Europe', 'politics', 'Government'",PT3M43S,223,4

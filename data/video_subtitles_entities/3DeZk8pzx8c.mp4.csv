@@ -1,0 +1,116 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+3DeZk8pzx8c,Andrew,Person,NONE,NONE,0.681059,negative,-0.375633,0.5079140000000001,0.068987,0.518808,0.178509,0.18193199999999998,5,1,Andrew,Andrew,Andrew,Andrew,andrew,andrew,andrew,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Arizona,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Arizona,0.559103,negative,-0.41809399999999997,0.47616899999999995,0.146061,0.035184,0.0541,0.066996,2,1,Arizona,Arizona,Arizona,Arizona,arizona,arizona,arizon,http://en.wikipedia.org/wiki/Arizona,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Arkansas,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Arkansas,0.36983,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Arkansas,Arkansas,Arkansas,Arkansas,arkansa,arkansa,arkansa,http://en.wikipedia.org/wiki/Arkansas,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Louisiana,Location,StateOrCounty,NONE,0.35226799999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Louisiana,Louisiana,Louisiana,Louisiana,louisiana,louisiana,louisian,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Minnesota,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Minnesota,0.406617,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Minnesota,Minnesota,Minnesota,Minnesota,minnesota,minnesota,minnesot,http://en.wikipedia.org/wiki/Minnesota,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Missouri,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Missouri,0.356072,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Missouri,Missouri,Missouri,Missouri,missouri,missouri,missour,http://en.wikipedia.org/wiki/Missouri,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,North Dakota,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/North_Dakota,0.362212,neutral,0.0,0.172406,0.17666099999999998,0.143128,0.079722,0.123401,1,1,North Dakota,North Dakota,North Dakota,North Dakota,north dakota,north dakota,nor dakot,http://en.wikipedia.org/wiki/North_Dakota,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Ohio,Location,StateOrCounty,NONE,0.319564,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Ohio,Ohio,Ohio,Ohio,ohio,ohio,ohio,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Oklahoma,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Oklahoma,0.356642,negative,-0.22863899999999998,0.0,0.0,0.0,0.0,0.0,1,1,Oklahoma,Oklahoma,Oklahoma,Oklahoma,oklahoma,oklahoma,oklahom,http://en.wikipedia.org/wiki/Oklahoma,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Oregon,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/Oregon,0.543776,negative,-0.822717,0.278123,0.135944,0.236902,0.066705,0.0959,2,1,Oregon,Oregon,Oregon,Oregon,oregon,oregon,oregon,http://en.wikipedia.org/wiki/Oregon,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Pennsylvania,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, GovernmentAgency, StateOrCounty",http://dbpedia.org/resource/Pennsylvania,0.35385,negative,-0.355158,0.200742,0.114554,0.14048,0.423155,0.141477,1,1,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,pennsylvania,pennsylvania,pennsylvan,http://en.wikipedia.org/wiki/Pennsylvania,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Philip,Person,NONE,NONE,0.41323999999999994,neutral,0.0,0.21737399999999998,0.088749,0.121178,0.09867000000000001,0.11878699999999999,1,1,Philip,Philip,Philip,Philip,philip,philip,philip,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Rwanda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Rwanda,0.43714200000000003,negative,-0.722857,0.432489,0.141743,0.00804,0.608251,0.075999,1,1,Rwanda,Rwanda,Rwanda,Rwanda,rwanda,rwanda,rwand,http://en.wikipedia.org/wiki/Rwanda,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Santa Cruz,Location,City,"http://dbpedia.org/resource/Santa_Cruz,_California",0.449121,neutral,0.0,0.324192,0.4284270000000001,0.029265,0.374206,0.24183400000000002,1,1,Santa Cruz,Santa Cruz,Santa Cruz,Santa Cruz,santa cruz,santa cruz,sant cruz,"http://en.wikipedia.org/wiki/Santa_Cruz,_California",-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Seattle,Location,"AdministrativeDivision, GovernmentalJurisdiction, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/Seattle,0.471318,negative,-0.6828609999999999,0.46995299999999995,0.229419,0.048575,0.330696,0.282945,1,1,Seattle,Seattle,Seattle,Seattle,seattl,seattl,seattl,http://en.wikipedia.org/wiki/Seattle,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Shakespeare,Person,NONE,NONE,0.425097,negative,-0.565341,0.281321,0.13759000000000002,0.07016900000000001,0.270123,0.419446,1,1,Shakespeare,Shakespeare,Shakespeare,Shakespeare,shakespear,shakespear,shakespear,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Utah,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Utah,0.515213,neutral,0.0,0.15221400000000002,0.07134,0.205804,0.075059,0.10618699999999999,2,1,Utah,Utah,Utah,Utah,utah,utah,utah,http://en.wikipedia.org/wiki/Utah,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Wakefield,Location,City,"http://dbpedia.org/resource/Wakefield,_Louisiana",0.47518599999999994,neutral,0.0,0.099856,0.141878,0.346455,0.053176,0.168201,1,1,Wakefield,wakefield,wakefield,wakefield,wakefield,wakefield,wakefield,"http://en.wikipedia.org/wiki/Wakefield,_Louisiana",-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Washington,Location,StateOrCounty,NONE,0.518592,negative,-0.822717,0.28311,0.137996,0.23879899999999998,0.061831,0.085672,2,1,Washington,Washington,Washington,Washington,washington,washington,washington,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,Wisconsin,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Wisconsin,0.37183099999999997,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Wisconsin,Wisconsin,Wisconsin,Wisconsin,wisconsin,wisconsin,wisconsin,http://en.wikipedia.org/wiki/Wisconsin,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,York,Location,City,"http://dbpedia.org/resource/York,_New_York",0.43924399999999997,negative,-0.4253770000000001,0.28338800000000003,0.1839,0.146894,0.252713,0.131297,1,1,York,York,York,York,york,york,york,"http://en.wikipedia.org/wiki/York,_New_York",-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,two year,Quantity,NONE,NONE,0.319564,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5
+3DeZk8pzx8c,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.44988900000000004,neutral,0.0,0.315587,0.25447800000000004,0.356317,0.061104,0.045626,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,-0.9949,0.114,0.063,0.823,0.03933138993622864,0.468865207373272,negative,-0.740987,0.522275,0.548225,0.563658,0.160949,0.191224,-0.10000000149011612,12.100000381469727,Vaccination,2019-02-06T18:51:07.000Z,UCeH6qE4V7n5tVwP7NkdrtJg,Measles Outbreak Renews Debate Over Vaccinations | The View,"MORE FROM 'THE VIEW':
+Full episodes: http://abcn.ws/2tl10qh
+Twitter: http://twitter.com/theview
+Facebook: http://facebook.com/TheView
+Instagram: http://instagram.com/theviewabc",The View,,PT4M54S,294,5

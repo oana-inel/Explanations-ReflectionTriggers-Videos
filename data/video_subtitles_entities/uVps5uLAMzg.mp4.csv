@@ -1,0 +1,37 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uVps5uLAMzg,30 years,Quantity,NONE,NONE,0.796353,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,0.9109,0.0,0.125,0.875,0.07071789321789321,0.3683189033189034,positive,0.643583,0.044859,0.7633449999999999,0.113206,0.07206900000000001,0.037401,0.0,1.2000000476837158,Free Trade,2017-07-25T09:44:15.000Z,UCx8LIRh6VuPamPrqYDNF2QQ,"Economy of the Silk Road. Trade, shopping & Duty-free towns on China’s new Silk Road (Trailer) 28/7","More films about the Silk Road: https://rtd.rt.com/films/the-silk-road/
+China is among the world’s fastest developing countries and much of its success is rooted in a unique brand of socialism, which encourages a market economy allowing private business to flourish within a state-dominated system. State owned businesses and self-starting entrepreneurs are enjoying new opportunities for international growth as the nation embarks on a mission to revive the ancient Silk Road trade routes.
+
+SUBSCRIBE TO RTD Channel to get documentaries firsthand! http://bit.ly/1MgFbVy
+
+FOLLOW US
+RTD WEBSITE: https://RTD.rt.com/
+RTD ON TWITTER: http://twitter.com/RT_DOC
+RTD ON FACEBOOK: http://www.facebook.com/RTDocumentary
+RTD ON DAILYMOTION http://www.dailymotion.com/rt_doc
+RTD ON INSTAGRAM https://www.instagram.com/rtd_documentary_channel/
+RTD LIVE https://rtd.rt.com/on-air/",RT Documentary,"RT', 'RT Documentary', 'documentary filmmaking', 'producers', 'China', 'Asia', 'Economy', 'Economics', 'Silk Road', 'trade', 'shopping', 'Duty-free', 'development'",PT1M3S,63,2
+uVps5uLAMzg,50 years,Quantity,NONE,NONE,0.796353,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,0.9109,0.0,0.125,0.875,0.07071789321789321,0.3683189033189034,positive,0.643583,0.044859,0.7633449999999999,0.113206,0.07206900000000001,0.037401,0.0,1.2000000476837158,Free Trade,2017-07-25T09:44:15.000Z,UCx8LIRh6VuPamPrqYDNF2QQ,"Economy of the Silk Road. Trade, shopping & Duty-free towns on China’s new Silk Road (Trailer) 28/7","More films about the Silk Road: https://rtd.rt.com/films/the-silk-road/
+China is among the world’s fastest developing countries and much of its success is rooted in a unique brand of socialism, which encourages a market economy allowing private business to flourish within a state-dominated system. State owned businesses and self-starting entrepreneurs are enjoying new opportunities for international growth as the nation embarks on a mission to revive the ancient Silk Road trade routes.
+
+SUBSCRIBE TO RTD Channel to get documentaries firsthand! http://bit.ly/1MgFbVy
+
+FOLLOW US
+RTD WEBSITE: https://RTD.rt.com/
+RTD ON TWITTER: http://twitter.com/RT_DOC
+RTD ON FACEBOOK: http://www.facebook.com/RTDocumentary
+RTD ON DAILYMOTION http://www.dailymotion.com/rt_doc
+RTD ON INSTAGRAM https://www.instagram.com/rtd_documentary_channel/
+RTD LIVE https://rtd.rt.com/on-air/",RT Documentary,"RT', 'RT Documentary', 'documentary filmmaking', 'producers', 'China', 'Asia', 'Economy', 'Economics', 'Silk Road', 'trade', 'shopping', 'Duty-free', 'development'",PT1M3S,63,2
+uVps5uLAMzg,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.796353,positive,0.705627,0.138996,0.086497,0.678109,0.066484,0.080939,4,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9109,0.0,0.125,0.875,0.07071789321789321,0.3683189033189034,positive,0.643583,0.044859,0.7633449999999999,0.113206,0.07206900000000001,0.037401,0.0,1.2000000476837158,Free Trade,2017-07-25T09:44:15.000Z,UCx8LIRh6VuPamPrqYDNF2QQ,"Economy of the Silk Road. Trade, shopping & Duty-free towns on China’s new Silk Road (Trailer) 28/7","More films about the Silk Road: https://rtd.rt.com/films/the-silk-road/
+China is among the world’s fastest developing countries and much of its success is rooted in a unique brand of socialism, which encourages a market economy allowing private business to flourish within a state-dominated system. State owned businesses and self-starting entrepreneurs are enjoying new opportunities for international growth as the nation embarks on a mission to revive the ancient Silk Road trade routes.
+
+SUBSCRIBE TO RTD Channel to get documentaries firsthand! http://bit.ly/1MgFbVy
+
+FOLLOW US
+RTD WEBSITE: https://RTD.rt.com/
+RTD ON TWITTER: http://twitter.com/RT_DOC
+RTD ON FACEBOOK: http://www.facebook.com/RTDocumentary
+RTD ON DAILYMOTION http://www.dailymotion.com/rt_doc
+RTD ON INSTAGRAM https://www.instagram.com/rtd_documentary_channel/
+RTD LIVE https://rtd.rt.com/on-air/",RT Documentary,"RT', 'RT Documentary', 'documentary filmmaking', 'producers', 'China', 'Asia', 'Economy', 'Economics', 'Silk Road', 'trade', 'shopping', 'Duty-free', 'development'",PT1M3S,63,2

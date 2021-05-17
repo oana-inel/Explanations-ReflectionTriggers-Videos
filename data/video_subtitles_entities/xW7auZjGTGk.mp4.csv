@@ -1,0 +1,43 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+xW7auZjGTGk,Becky,Person,NONE,NONE,0.762143,negative,-0.513343,0.305198,0.144957,0.405471,0.124428,0.109452,2,1,Becky,Becky,Becky,Becky,becki,becki,becky,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,Bonnie,Person,NONE,NONE,0.480335,negative,-0.53525,0.44045100000000004,0.461591,0.074337,0.093123,0.047231,1,1,Bonnie,Bonnie,Bonnie,Bonnie,bonni,bonni,bonny,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,EAP,Organization,NONE,NONE,0.524982,positive,0.867398,0.235777,0.022971000000000002,0.705989,0.026349,0.022017,1,1,EAP,EAP,EAP,EAP,eap,eap,eap,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,Hilo,Location,City,"http://dbpedia.org/resource/Hilo,_Hawaii",0.631667,neutral,0.0,0.5286270000000001,0.152615,0.258332,0.010236,0.15193399999999999,1,1,Hilo,Hilo,Hilo,Hilo,hilo,hilo,hilo,"http://en.wikipedia.org/wiki/Hilo,_Hawaii",0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,Megan,Person,NONE,NONE,0.758258,negative,-0.9093889999999999,0.392152,0.20294,0.07374800000000001,0.46821599999999997,0.069137,2,1,Megan,Megan,Megan,Megan,megan,megan,meg,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,Rose City Veterinary Hospital,Facility,NONE,NONE,0.615498,neutral,0.0,0.2149510000000001,0.101639,0.307234,0.280436,0.086017,1,1,Rose City Veterinary Hospital,Rose City Veterinary Hospital,Rose City Veterinary Hospital,Rose City Veterinary Hospital,rose citi veterinari hospit,rose citi veterinari hospit,ros city veterin hospit,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5
+xW7auZjGTGk,three weeks,Quantity,NONE,NONE,0.472945,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9263,0.045,0.063,0.892,0.09583333333333334,0.4796934865900385,negative,-0.363869,0.093281,0.509854,0.529486,0.151319,0.07194,0.0,10.399999618530273,Vaccination,2014-09-09T18:49:23.000Z,UChsuTzIcGC2-6A2LJE5FfkA,Administering Vaccines - Canine,"On location at Rose City Veterinary Hospital, Becky Smith CVT, VTS (Clinical Practice) demonstrates the proper location of canine vaccines and administers vaccines to a puppy. Megan Brashear plays a supporting role with skilled puppy restraint.
+
+- - - - - - - - - - - - - - - - - - -
+Follow our Instagram ► https://www.instagram.com/atdoveorg/
+Follow us on Twitter ► https://twitter.com/atdoveorg
+Like us on Facebook ► http://bit.ly/1nDjSJR",atdove.org,"Veterinary Medicine (Field Of Study)', 'Preventive Medicine (Medical Specialty)', 'Paraveterinary Worker (Job Title)', 'Veterinarian (Profession)', 'Vaccine (Drug Class)', 'Dog (Domesticated Animal)'",PT4M14S,254,5

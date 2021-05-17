@@ -1,0 +1,61 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+-haS-KL7Q4s,New York City,Location,"PoliticalDistrict, GovernmentalJurisdiction, PlaceWithNeighborhoods, WineRegion, FilmScreeningVenue, City",http://dbpedia.org/resource/New_York_City,0.464829,negative,-0.458106,0.033783999999999995,0.063564,0.051095,0.463881,0.179621,1,1,New York City,New York City,New York City,New York City,new york citi,new york citi,new york city,http://en.wikipedia.org/wiki/New_York_City,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6
+-haS-KL7Q4s,Seco,Location,StateOrCounty,NONE,0.917499,negative,-0.687377,0.318643,0.513338,0.146678,0.184728,0.204266,21,1,Seco,Seco,Seco,Seco,seco,seco,seco,NONE,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6
+-haS-KL7Q4s,hundred percent,Quantity,NONE,NONE,0.464829,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,hundred percent,hundr percent,hundr percent,hundr perc,hundr percent,hundr percent,hundr perc,NONE,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6
+-haS-KL7Q4s,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.505551,negative,-0.458106,0.033783999999999995,0.063564,0.051095,0.463881,0.179621,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6
+-haS-KL7Q4s,nine percent,Quantity,NONE,NONE,0.464829,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,nine percent,nine percent,nine percent,nin perc,nine percent,nine percent,nin perc,NONE,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6
+-haS-KL7Q4s,one hand,Quantity,NONE,NONE,0.464829,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one hand,one hand,one hand,on hand,one hand,one hand,on hand,NONE,0.9793,0.053,0.07400000000000001,0.873,0.007435701553348598,0.5555979967744674,negative,-0.568084,0.122757,0.573489,0.525836,0.447595,0.143718,0.0,10.300000190734863,Vaccination,2019-06-21T02:22:17.000Z,UCve-TyhraLQMkeCcclW8HtA,Compulsory 2019 MEASLES VACCINATION! -Vax Anti,"Christian Jackson developed this video. Grievance Studies Hoax, Musk & SEC, open source software, & more Taken from Yaron Brook Show.
+
+https://www.youtube.com/watch?v=R71z_...
+
+#MeaslesNYC #Vaccines #AntiVax
+
+Like what you hear?  Become a sponsor member, get exclusive content and support the creation of more videos like this at https://www.yaronbrookshow.com/support/, Subscribestar https://www.subscribestar.com/yaronbr... or direct through PayPal: PayPal.me/YaronBrookShow.
+
+
+For more information please visit my page @ http://12664645.usana.com",PinoyNurse Educator,"How is measles diagnosed?', 'If you have measles symptoms', 'What are the symptoms of measles?', 'Measles symptoms and diagnosis', 'How is measles treated?', 'How is measles prevented?', 'Measles vaccine', 'Vaccinations for adults', 'What does measles rash look like?', 'Look out for symptoms of measles', 'including rash'",PT5M44S,344,6

@@ -1,0 +1,97 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+n1Jn7zEbEC4,Catalonia,Location,City,NONE,0.424753,neutral,0.0,0.238957,0.045958,0.342362,0.21366999999999997,0.247656,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.642015,neutral,0.0,0.303718,0.198142,0.169985,0.11413,0.155729,3,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,European commission,Organization,NONE,NONE,0.8455719999999999,neutral,0.0,0.119005,0.053602,0.451308,0.122302,0.27542300000000003,3,1,European commission,european commiss,european commiss,europ commit,european commiss,european commiss,europ commit,NONE,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.421809,positive,0.562207,0.524489,0.167402,0.10372100000000001,0.282269,0.140862,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.668654,positive,0.675429,0.37817199999999995,0.120272,0.187884,0.250506,0.253257,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,Yuka,Person,NONE,NONE,0.393756,neutral,0.0,0.12193299999999999,0.059594000000000015,0.170074,0.07676000000000001,0.444849,1,1,Yuka,Yuka,Yuka,Yuka,yuka,yuka,yuk,NONE,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,president,JobTitle,NONE,NONE,0.377648,neutral,0.0,0.238957,0.045958,0.342362,0.21366999999999997,0.247656,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4
+n1Jn7zEbEC4,prime minister,JobTitle,NONE,NONE,0.387144,positive,0.562207,0.524489,0.167402,0.10372100000000001,0.282269,0.140862,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.928,0.133,0.104,0.762,0.036458333333333336,0.4366435185185185,negative,-0.472009,0.546067,0.14291700000000002,0.713558,0.684429,0.516286,0.0,6.9000000953674325,Catalonia Independence,2017-10-02T15:26:15.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Catalan independence referendum 'was not legal' - EC spokesperson,"""Under the Spanish Constitution, yesterday's vote in Catalonia was not legal,"" stated European Commission Chief Spokesperson Margaritis Schinas, during a press briefing in Brussels on Monday.
+
+""For the European Commission, as President Juncker has reiterated repeatedly, this is an internal matter for Spain that has to be dealt with in line with the constitutional order of Spain,"" said Schinas. The EC spokesperson then continued saying that ""if a referendum were to be organised in line with the Spanish Constitution it would mean that the territory leaving would find itself outside of the European Union."" 
+
+Schinas also called for ""all relevant players to now move very swiftly from confrontation to dialogue."" 
+
+Video ID: 20171002 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT3M34S,214,4

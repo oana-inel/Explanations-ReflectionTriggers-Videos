@@ -1,0 +1,287 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+j49z9Q9mHoo,90%,Quantity,NONE,NONE,0.270748,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.40171100000000004,negative,-0.438353,0.320342,0.029863999999999998,0.26659099999999997,0.15632000000000001,0.009967,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Bernard Alum,Person,NONE,NONE,0.29539499999999996,neutral,0.0,0.545801,0.096955,0.206105,0.082315,0.218745,1,1,Bernard Alum,Bernard Alum,Bernard Alum,Bernard Alum,bernard alum,bernard alum,bernard al,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Catalonia,Location,City,NONE,0.909716,negative,-0.589333,0.5470619999999999,0.09992899999999999,0.033475,0.486133,0.16580799999999998,6,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Crouch,Person,NONE,NONE,0.272912,negative,-0.374942,0.237504,0.03154,0.222505,0.14407,0.122608,1,1,Crouch,Crouch,Crouch,Crouch,crouch,crouch,crouch,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Drew,Person,NONE,NONE,0.27358299999999997,neutral,0.0,0.39415100000000003,0.12805,0.020582,0.627243,0.181587,1,1,Drew,Drew,Drew,Drew,drew,drew,drew,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.336293,neutral,0.0,0.337865,0.11703599999999999,0.11813900000000001,0.286542,0.092738,2,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Girona,Location,City,http://dbpedia.org/resource/Girona,0.34317800000000004,negative,-0.562609,0.275924,0.21245799999999998,0.074417,0.558876,0.097328,1,1,Girona,Girona,Girona,Girona,girona,girona,giron,http://en.wikipedia.org/wiki/Girona,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Keats,Person,NONE,NONE,0.313598,negative,-0.736539,0.338233,0.16618,0.012306000000000001,0.441671,0.37496199999999996,1,1,Keats,Keats,Keats,Keats,keat,keat,keat,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.526195,neutral,0.0,0.4747560000000001,0.076405,0.054054,0.57114,0.13001,3,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Medina,Location,City,"http://dbpedia.org/resource/Medina,_New_York",0.313035,neutral,0.0,0.349792,0.028807999999999997,0.251867,0.15745599999999998,0.00854,1,1,Medina,Medina,Medina,Medina,medina,medina,medin,"http://en.wikipedia.org/wiki/Medina,_New_York",-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,National Guard,Organization,NONE,NONE,0.319247,neutral,0.0,0.39415100000000003,0.12805,0.020582,0.627243,0.181587,1,1,National Guard,National Guard,National Guard,National Guard,nation guard,nation guard,nat guard,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,National Police,Organization,NONE,NONE,0.7167680000000001,negative,-0.21099400000000001,0.22096,0.32594,0.08870399999999999,0.6745329999999999,0.13647,4,1,National Police,National Police,National Police,National Police,nation polic,nation polic,nat pol,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Norby,Person,NONE,NONE,0.292863,neutral,0.0,0.110534,0.100534,0.270854,0.01991,0.115146,1,1,Norby,Norby,Norby,Norby,norbi,norbi,norby,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Northeastern Catalonia,Location,Region,NONE,0.43005699999999997,negative,-0.562609,0.275924,0.21245799999999998,0.074417,0.558876,0.097328,1,1,Northeastern Catalonia,Northeastern Catalonia,Northeastern Catalonia,Northeastern Catalonia,northeastern catalonia,northeastern catalonia,northeastern catalon,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.541563,neutral,0.0,0.20623899999999998,0.217783,0.137309,0.502101,0.19284,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Spanish Civil guard,Organization,NONE,NONE,0.343116,negative,-0.46545299999999995,0.622707,0.095038,0.015581,0.329756,0.260173,1,1,Spanish Civil guard,spanish Civil guard,spanish Civil guard,span Civil guard,spanish civil guard,spanish civil guard,span civil guard,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,Tasha cuerpo,Person,NONE,NONE,0.293602,positive,0.803285,0.135863,0.048234,0.739913,0.044095,0.011401,1,1,Tasha cuerpo,Tasha cuerpo,Tasha cuerpo,Tasha cuerpo,tasha cuerpo,tasha cuerpo,tash cuerpo,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,la policía Nacional De La Guardia civil,Facility,NONE,NONE,0.352387,positive,0.803285,0.135863,0.048234,0.739913,0.044095,0.011401,1,1,la policía Nacional De La Guardia civil,la policía Nacional De La Guardia civil,la policía Nacional De La Guardia civil,la policí Nacional De La Guardia civil,la policía nacion De La guardia civil,la policía nacion de la guardia civil,la policí nac de la guard civil,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,officer,JobTitle,NONE,NONE,0.41692799999999997,negative,-0.569289,0.643487,0.183514,0.010043,0.269756,0.25521900000000003,3,1,officer,offic,offic,off,offic,offic,off,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,president,JobTitle,NONE,NONE,0.349839,neutral,0.0,0.068552,0.013044,0.682182,0.16203499999999998,0.08076599999999999,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9
+j49z9Q9mHoo,prime minister,JobTitle,NONE,NONE,0.753687,positive,0.4678060000000001,0.50751,0.062835,0.044573,0.516374,0.19570099999999999,6,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.9891,0.12,0.096,0.784,0.0458139880952381,0.4420193452380953,negative,-0.423767,0.518439,0.545363,0.5795020000000001,0.13530899999999998,0.4921430000000001,0.0,21.5,Catalonia Independence,2017-10-02T05:25:27.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia's independence: 90% vote 'Yes' to break away from Spain,"The overwhelming majority of Catalans who participated in the banned referendum have voted in favor of independence from Spain, the Catalan government has announced. READ MORE: https://on.rt.com/8oqf
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', ""Catalonia's independence"", 'Independecia', 'Catalonia', 'Spain', 'catalonia votes', 'catalan referendum', 'referendum in catalonia', 'independece', 'Barcelona', 'Madrid', 'EU', 'Europe'",PT8M37S,517,9

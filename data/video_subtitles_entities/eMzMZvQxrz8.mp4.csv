@@ -1,0 +1,131 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+eMzMZvQxrz8,3 trillion dollars,Quantity,NONE,NONE,0.33676300000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,3 trillion dollar,3 trillion dollar,3 trillion dollar,3 tril doll,3 trillion dollar,3 trillion dollar,3 tril doll,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,50%,Quantity,NONE,NONE,0.33676300000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 %,50 %,50 %,50 %,50 %,50 %,50 %,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.47324700000000003,neutral,0.0,0.492303,0.064175,0.194019,0.125004,0.09412100000000001,1,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,East Africa,Location,Region,NONE,0.9394239999999999,positive,0.234056,0.187709,0.042438,0.55019,0.18417,0.128707,5,1,East Africa,East Africa,East Africa,East Africa,east africa,east africa,east afric,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Kenya,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Kenya,0.649598,negative,-0.603744,0.101029,0.282224,0.468937,0.082307,0.10613099999999999,3,1,Kenya,Kenya,Kenya,Kenya,kenya,kenya,keny,http://en.wikipedia.org/wiki/Kenya,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Kenyan Coast,GeographicFeature,NONE,NONE,0.343049,neutral,0.0,0.21838000000000002,0.025124,0.12328399999999999,0.051821000000000006,0.150469,1,1,Kenyan Coast,Kenyan Coast,Kenyan Coast,Kenyan Coast,kenyan coast,kenyan coast,keny coast,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Mombasa,Location,City,http://dbpedia.org/resource/Mombasa,0.713458,positive,0.44718800000000003,0.413479,0.016617,0.302649,0.031010000000000006,0.033955,3,1,Mombasa,Mombasa,Mombasa,Mombasa,mombasa,mombasa,mombas,http://en.wikipedia.org/wiki/Mombasa,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Rajesh muji,Person,NONE,NONE,0.426921,positive,0.44718800000000003,0.0,0.0,0.0,0.0,0.0,1,1,Rajesh muji,Rajesh muji,Rajesh muji,Rajesh muj,rajesh muji,rajesh muji,rajesh muj,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Tamela Al Jazeera,Location,City,NONE,0.353774,negative,-0.600139,0.090693,0.456187,0.311498,0.084986,0.103029,1,1,Tamela Al Jazeera,Tamela Al Jazeera,Tamela Al Jazeera,Tamela Al Jazeera,tamela Al jazeera,tamela al jazeera,tamel al jazeer,NONE,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3
+eMzMZvQxrz8,Uganda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Uganda,0.33676300000000003,neutral,0.0,0.21838000000000002,0.025124,0.12328399999999999,0.051821000000000006,0.150469,1,1,Uganda,Uganda,Uganda,Uganda,uganda,uganda,ugand,http://en.wikipedia.org/wiki/Uganda,0.9142,0.043,0.08800000000000001,0.8690000000000001,0.13567909363363911,0.4111609980928163,positive,0.407854,0.124624,0.565022,0.5020180000000001,0.5263479999999999,0.128604,0.0,4.699999809265137,Free Trade,2018-01-26T12:11:14.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Africa: free trade zones to boost trade,"Trade across Africa is about to get an overhaul with measures aimed at cutting the cost of doing business.
+
+It is hoped that a digital free trade zone will make connecting online easier for export and import companies.
+
+The move away from manual paperwork would be a first for Africa, allowing more goods to move through the region faster.
+
+
+Al Jazeera's Fahmida Miller reports from Mombasa Port, Kenya.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'africa', 'al jazeera', 'aljazeera', 'mombasa port', 'free trade zones to boost trade', 'africanews', 'aljazeera english', 'free trade', 'al jazeera english', 'kenya', 'trade', 'free trade zones', 'africa: free trade zones to boost trade', 'digital free trade zone', 'free trade zone', 'china', 'breaking', 'politics', 'free trade (literature subject)', 'cgtn africa', 'stocks', 'egypt', 'nollywood full movies', 'african movies'",PT2M58S,178,3

@@ -1,0 +1,13 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DcCcV5oF2TA,Russia Schumacher Sushi,Company,NONE,NONE,0.9159799999999999,positive,0.960774,0.15625999999999998,0.218454,0.287047,0.026194,0.036672,1,1,Russia Schumacher Sushi,Russia Schumacher Sushi,Russia Schumacher Sushi,Russia Schumacher Sushi,russia schumach sushi,russia schumach sushi,russ schumacher sush,NONE,0.29600000000000004,0.0,0.053,0.947,0.02083333333333334,0.33541666666666664,positive,0.945935,0.065926,0.385479,0.269485,0.199494,0.010449,0.0,1.5,Catalonia Independence,2017-10-31T18:46:57.000Z,UC5aeU5hk31cLzq_sAExLVWg,Belgium: Anti-Catalan independence protests rage outside Puigdemont Brussels presser,"A group of anti-Catalan independence protesters gathered outside the Brussels Press Club, Tuesday, where former Catalan President Carles Puigdemont held a press conference.
+
+The protesters chanted ""Long Live Spain"" in front of police and press reporters. A retired member of the Spanish Armed Forces, Ignacio said that the Catalan government had ""conditioned thinking in society"" in favour of independence.
+
+He went on to question the independence movement's links to corruption in the past and its future viability as an independent state, saying, ""Explain to me who is going to give a new country €30 billion which in theory would be born bankrupt, outside of the European Union, with all those companies that will also go bankrupt. Who can lend them money? Unless, they already have it.""
+
+Video ID: 20171031 032
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly'",PT2M14S,134,3

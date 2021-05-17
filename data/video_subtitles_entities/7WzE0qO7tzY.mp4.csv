@@ -1,0 +1,67 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+7WzE0qO7tzY,Blake Lively,Person,"Actor, Celebrity, FilmActor, TVActor",http://dbpedia.org/resource/Blake_Lively,0.806003,positive,0.657615,0.173699,0.082699,0.661075,0.072402,0.092425,10,1,Blake Lively,Blake Lively,Blake Lively,Blake Lively,blake live,blake live,blak liv,http://en.wikipedia.org/wiki/Blake_Lively,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5
+7WzE0qO7tzY,Fox News,Company,NONE,NONE,0.508774,negative,-0.688624,0.27560999999999997,0.242921,0.280582,0.223167,0.094423,2,1,Fox News,Fox News,Fox News,Fox News,fox new,fox news,fox new,NONE,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5
+7WzE0qO7tzY,Justin,Person,NONE,NONE,0.392546,neutral,0.0,0.208765,0.035332999999999996,0.611347,0.107866,0.057205999999999986,1,1,Justin,Justin,Justin,Justin,justin,justin,justin,NONE,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5
+7WzE0qO7tzY,Kate Moss,Person,"Celebrity, Model, TVActor",http://dbpedia.org/resource/Kate_Moss,0.391828,negative,-0.459304,0.302598,0.141479,0.29943200000000003,0.23191399999999998,0.143718,1,1,Kate Moss,Kate Moss,Kate Moss,Kate Moss,kate moss,kate moss,kat moss,http://en.wikipedia.org/wiki/Kate_Moss,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5
+7WzE0qO7tzY,Marilyn Monroe,Person,"Actor, FilmCharacter, MusicalArtist, AwardNominee, AwardWinner, Celebrity, FilmActor, MusicalGroupMember, OperaCharacter, TVActor",http://dbpedia.org/resource/Marilyn_Monroe,0.470894,positive,0.03344,0.062615,0.009821,0.778371,0.111174,0.039361,3,1,Marilyn Monroe,Marilyn Monroe,Marilyn Monroe,Marilyn Monroe,marilyn monro,marilyn monro,marilyn monro,http://en.wikipedia.org/wiki/Marilyn_Monroe,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5
+7WzE0qO7tzY,honu Kennedy,Person,NONE,NONE,0.529451,negative,-0.371786,0.31602600000000003,0.257849,0.23136199999999998,0.303732,0.132981,3,1,honu Kennedy,honu Kennedy,honu Kennedy,honu Kennedy,honu kennedi,honu kennedi,honu kennedy,NONE,0.9648,0.104,0.116,0.779,0.08944463431305537,0.5731312656641604,negative,-0.313226,0.13278800000000002,0.6155689999999999,0.502645,0.576669,0.092933,0.10000000149011612,21.299999237060547,Vaccination,2014-03-17T19:00:01.000Z,UC32PoR2aMsYaiTI7hTXHJlA,Kristin Cavallari: 'I've Read Too Many Books' To Vaccinate,"Former 'Hills' star Kristin Cavallari joins us on-set to discuss why she thinks vaccines aren't for her and her role on E! Network's new half-hour lifestyle show 'Fabulist,' as co-host alongside clothing designer & 'Fashion Star' contestant, Orly Shani.
+
+Watch Full Segment Here: http://huff.lv/1oiAuRO
+Subscribe to HuffPost Live Today: http://bit.ly/13Rzzjw
+
+HuffPost Live is a live-streaming network that puts you, the community, front and center.  HuffPost Live streams 12 hours of original programming 5 days a week with highlights showing overnight and on weekends. We operate out of a state-of-the-art studio in New York City and feature a rotating team of hosts and producers.
+
+Get More HuffPost Live!
+Watch: http://live.huffingtonpost.com/
+Tweet: https://twitter.com/HuffPostLive
+Like: http://www.facebook.com/HuffPostLive",HuffPost Live,"kristin cavallari', 'kristin cavallari interview', 'kristin cavallari interview 2014', 'kristin cavallari 2014', 'kristin cavallari vaccines', 'kristin cavalari the fabulist', 'the fabulist', 'the fabulist 2014', 'kristn cavallari interview vaccines', 'HuffPost Live (Website)'",PT4M14S,254,5

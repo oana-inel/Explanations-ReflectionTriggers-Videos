@@ -1,0 +1,85 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+7yDVvsP2dmk,Adam Smith,Person,Philosopher,http://dbpedia.org/resource/Adam_Smith,0.360716,neutral,0.0,0.32555,0.12918,0.171486,0.048216,0.134644,1,1,Adam Smith,Adam Smith,Adam Smith,Adam Smith,adam smith,adam smith,adam smi,http://en.wikipedia.org/wiki/Adam_Smith,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,Britain,Location,Country,NONE,0.763191,negative,-0.13852,0.2346820000000001,0.072193,0.493489,0.10472000000000001,0.072675,6,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,John Maynard Keynes,Person,"Politician, Philosopher",http://dbpedia.org/resource/John_Maynard_Keynes,0.8902100000000001,positive,0.225134,0.233837,0.071773,0.512007,0.105904,0.08531799999999999,10,1,John Maynard Keynes,John Maynard Keynes,John Maynard Keynes,John Maynard Keynes,john maynard keyn,john maynard keyn,john maynard keyn,http://en.wikipedia.org/wiki/John_Maynard_Keynes,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,four dollars,Quantity,NONE,NONE,0.360716,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,four dollar,four dollar,four dollar,four doll,four dollar,four dollar,four doll,NONE,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,one hand,Quantity,NONE,NONE,0.360716,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one hand,one hand,one hand,on hand,one hand,one hand,on hand,NONE,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,one week,Quantity,NONE,NONE,0.360716,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one week,one week,one week,on week,one week,one week,on week,NONE,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5
+7yDVvsP2dmk,three weeks,Quantity,NONE,NONE,0.360716,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9976,0.034,0.149,0.8170000000000001,0.21832482993197275,0.37363945578231306,positive,0.34694400000000003,0.106579,0.5540109999999999,0.231537,0.082985,0.102266,-0.10000000149011612,6.4000000953674325,Free Trade,2013-02-25T06:00:30.000Z,UCjybkKoA2wzMcJiwKOKemlQ,Milton Friedman: John Maynard Keynes Deviation Away From Free Trade,"For more videos:
+Facebook: www.facebook.com/FreeToChooseNetwork
+
+Media Website: http://freetochoosemedia.org/index.php
+
+Twitter: https://twitter.com/FreeToChooseNet
+
+Company: http://freetochoosenetwork.org
+
+Shop: http://www.freetochoose.net
+
+Stream: http://freetochoose.tv",Common Sense Capitalism,"milton friedman', 'john maynard keynes', 'free trade', 'common sense capitalism'",PT4M37S,277,5

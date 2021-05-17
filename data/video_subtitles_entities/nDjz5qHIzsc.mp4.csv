@@ -1,0 +1,36 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+nDjz5qHIzsc,103 degrees,Quantity,NONE,NONE,0.478548,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,103 degree,103 degre,103 degre,103 degr,103 degre,103 degre,103 degr,NONE,0.9851,0.064,0.14,0.7959999999999999,0.17301587301587304,0.4715277777777777,negative,-0.37544,0.130866,0.618324,0.559461,0.157182,0.116003,0.0,14.199999809265135,Vaccination,2015-03-26T19:00:04.000Z,UCPDXXXJj9nax0fr0Wfc048g,If Anti-Vaccine Parents Rode The Magic School Bus,"Measles are contagious. Unfortunately, intelligence isn't.
+
+See more http://www.collegehumor.com
+LIKE us on: http://www.facebook.com/collegehumor
+FOLLOW us on: http://www.twitter.com/collegehumor
+FOLLOW us on: http://www.collegehumor.tumblr.com
+Subscribe to our new channel: CH2: https://www.youtube.com/ch2",CollegeHumor,"Collegehumor', 'CH originals', 'The Magic School Bus', 'vaccine', 'vaccinations', 'anti-vaccine', 'anti-vaccination', 'Chris Christie', 'Jenny McCarthy (Celebrity)', 'Ms. Frizzle', 'school bus', 'children', 'television', 'science', 'health', 'medicine', 'safety', 'Vaccine Controversies', 'comedy', 'sketch', 'sketch comedy', 'internet', 'humor', 'funny'",PT2M47S,167,3
+nDjz5qHIzsc,CollegeHumor,Company,NONE,NONE,0.5792229999999999,positive,0.702758,0.34625900000000004,0.024202,0.48771800000000004,0.07510499999999999,0.105254,1,1,CollegeHumor,CollegeHumor,CollegeHumor,CollegeHumor,collegehumor,collegehumor,collegehum,NONE,0.9851,0.064,0.14,0.7959999999999999,0.17301587301587304,0.4715277777777777,negative,-0.37544,0.130866,0.618324,0.559461,0.157182,0.116003,0.0,14.199999809265135,Vaccination,2015-03-26T19:00:04.000Z,UCPDXXXJj9nax0fr0Wfc048g,If Anti-Vaccine Parents Rode The Magic School Bus,"Measles are contagious. Unfortunately, intelligence isn't.
+
+See more http://www.collegehumor.com
+LIKE us on: http://www.facebook.com/collegehumor
+FOLLOW us on: http://www.twitter.com/collegehumor
+FOLLOW us on: http://www.collegehumor.tumblr.com
+Subscribe to our new channel: CH2: https://www.youtube.com/ch2",CollegeHumor,"Collegehumor', 'CH originals', 'The Magic School Bus', 'vaccine', 'vaccinations', 'anti-vaccine', 'anti-vaccination', 'Chris Christie', 'Jenny McCarthy (Celebrity)', 'Ms. Frizzle', 'school bus', 'children', 'television', 'science', 'health', 'medicine', 'safety', 'Vaccine Controversies', 'comedy', 'sketch', 'sketch comedy', 'internet', 'humor', 'funny'",PT2M47S,167,3
+nDjz5qHIzsc,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.733432,negative,-0.853751,0.638879,0.405989,0.011516,0.051701,0.054835,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9851,0.064,0.14,0.7959999999999999,0.17301587301587304,0.4715277777777777,negative,-0.37544,0.130866,0.618324,0.559461,0.157182,0.116003,0.0,14.199999809265135,Vaccination,2015-03-26T19:00:04.000Z,UCPDXXXJj9nax0fr0Wfc048g,If Anti-Vaccine Parents Rode The Magic School Bus,"Measles are contagious. Unfortunately, intelligence isn't.
+
+See more http://www.collegehumor.com
+LIKE us on: http://www.facebook.com/collegehumor
+FOLLOW us on: http://www.twitter.com/collegehumor
+FOLLOW us on: http://www.collegehumor.tumblr.com
+Subscribe to our new channel: CH2: https://www.youtube.com/ch2",CollegeHumor,"Collegehumor', 'CH originals', 'The Magic School Bus', 'vaccine', 'vaccinations', 'anti-vaccine', 'anti-vaccination', 'Chris Christie', 'Jenny McCarthy (Celebrity)', 'Ms. Frizzle', 'school bus', 'children', 'television', 'science', 'health', 'medicine', 'safety', 'Vaccine Controversies', 'comedy', 'sketch', 'sketch comedy', 'internet', 'humor', 'funny'",PT2M47S,167,3
+nDjz5qHIzsc,pneumonia,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, RiskFactor, Symptom, Disease",http://dbpedia.org/resource/Pneumonia,0.580888,negative,-0.8070579999999999,0.283594,0.32909,0.168534,0.043154000000000005,0.228805,1,1,pneumonia,pneumonia,pneumonia,pneumon,pneumonia,pneumonia,pneumon,http://en.wikipedia.org/wiki/Pneumonia,0.9851,0.064,0.14,0.7959999999999999,0.17301587301587304,0.4715277777777777,negative,-0.37544,0.130866,0.618324,0.559461,0.157182,0.116003,0.0,14.199999809265135,Vaccination,2015-03-26T19:00:04.000Z,UCPDXXXJj9nax0fr0Wfc048g,If Anti-Vaccine Parents Rode The Magic School Bus,"Measles are contagious. Unfortunately, intelligence isn't.
+
+See more http://www.collegehumor.com
+LIKE us on: http://www.facebook.com/collegehumor
+FOLLOW us on: http://www.twitter.com/collegehumor
+FOLLOW us on: http://www.collegehumor.tumblr.com
+Subscribe to our new channel: CH2: https://www.youtube.com/ch2",CollegeHumor,"Collegehumor', 'CH originals', 'The Magic School Bus', 'vaccine', 'vaccinations', 'anti-vaccine', 'anti-vaccination', 'Chris Christie', 'Jenny McCarthy (Celebrity)', 'Ms. Frizzle', 'school bus', 'children', 'television', 'science', 'health', 'medicine', 'safety', 'Vaccine Controversies', 'comedy', 'sketch', 'sketch comedy', 'internet', 'humor', 'funny'",PT2M47S,167,3
+nDjz5qHIzsc,president,JobTitle,NONE,NONE,0.478548,negative,-0.544199,0.139466,0.10256099999999999,0.132049,0.189308,0.152892,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9851,0.064,0.14,0.7959999999999999,0.17301587301587304,0.4715277777777777,negative,-0.37544,0.130866,0.618324,0.559461,0.157182,0.116003,0.0,14.199999809265135,Vaccination,2015-03-26T19:00:04.000Z,UCPDXXXJj9nax0fr0Wfc048g,If Anti-Vaccine Parents Rode The Magic School Bus,"Measles are contagious. Unfortunately, intelligence isn't.
+
+See more http://www.collegehumor.com
+LIKE us on: http://www.facebook.com/collegehumor
+FOLLOW us on: http://www.twitter.com/collegehumor
+FOLLOW us on: http://www.collegehumor.tumblr.com
+Subscribe to our new channel: CH2: https://www.youtube.com/ch2",CollegeHumor,"Collegehumor', 'CH originals', 'The Magic School Bus', 'vaccine', 'vaccinations', 'anti-vaccine', 'anti-vaccination', 'Chris Christie', 'Jenny McCarthy (Celebrity)', 'Ms. Frizzle', 'school bus', 'children', 'television', 'science', 'health', 'medicine', 'safety', 'Vaccine Controversies', 'comedy', 'sketch', 'sketch comedy', 'internet', 'humor', 'funny'",PT2M47S,167,3

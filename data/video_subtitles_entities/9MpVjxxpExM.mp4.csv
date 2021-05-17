@@ -1,0 +1,324 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+9MpVjxxpExM,$100,Quantity,NONE,NONE,0.35131599999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 100,$ 100,$ 100,$ 100,$ 100,$ 100,$ 100,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,$32,Quantity,NONE,NONE,0.35131599999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 32,$ 32,$ 32,$ 32,$ 32,$ 32,$ 32,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,25 years,Quantity,NONE,NONE,0.35131599999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Bangladesh,Location,Country,NONE,0.37033499999999997,negative,-0.497392,0.172174,0.0528,0.387182,0.029682999999999998,0.09399400000000001,1,1,Bangladesh,Bangladesh,Bangladesh,Bangladesh,bangladesh,bangladesh,bangladesh,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Chin,Person,NONE,NONE,0.358121,negative,-0.56179,0.294569,0.4273770000000001,0.20675300000000002,0.07425,0.16555699999999998,1,1,Chin,Chin,Chin,Chin,chin,chin,chin,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Eunice,Person,NONE,NONE,0.37793499999999997,neutral,0.0,0.134786,0.070655,0.742498,0.016706,0.071662,1,1,Eunice,Eunice,Eunice,Eunice,eunic,eunic,eun,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,International Community,Organization,NONE,NONE,0.383077,neutral,0.0,0.5528890000000001,0.106057,0.22337800000000002,0.066813,0.072756,1,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,International Trade,Company,NONE,NONE,0.42691,positive,0.674871,0.26603499999999997,0.04407,0.47774700000000003,0.008546999999999999,0.055366,1,1,International Trade,International Trade,International Trade,International Trade,intern trade,intern trade,intern trad,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Jacob Clifford,Person,NONE,NONE,0.47348,positive,0.47193100000000004,0.121797,0.077203,0.163994,0.07762000000000001,0.155327,1,1,Jacob Clifford,jacob Clifford,jacob Clifford,jacob Clifford,jacob clifford,jacob clifford,jacob clifford,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Jeffrey Sachs,Person,"Scientist, TVActor",http://dbpedia.org/resource/Jeffrey_Sachs,0.4410689999999999,positive,0.871713,0.076718,0.115127,0.52076,0.046269,0.055635000000000004,1,1,Jeffrey Sachs,Jeffrey Sachs,Jeffrey Sachs,Jeffrey Sachs,jeffrey sach,jeffrey sach,jeffrey sach,http://en.wikipedia.org/wiki/Jeffrey_Sachs,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Muhammad yunus,Person,"AwardWinner, BoardMember, CompanyFounder, TVActor",http://dbpedia.org/resource/Muhammad_Yunus,0.383841,neutral,0.0,0.013918999999999999,0.0182,0.8875149999999999,0.013585,0.017215,1,1,Muhammad yunus,Muhammad yunu,Muhammad yunus,Muhammad yun,muhammad yunu,muhammad yunus,muhammad yun,http://en.wikipedia.org/wiki/Muhammad_Yunus,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Paul Krugman,Person,"Academic, AwardWinner",http://dbpedia.org/resource/Paul_Krugman,0.42918900000000004,negative,-0.497392,0.172174,0.0528,0.387182,0.029682999999999998,0.09399400000000001,1,1,Paul Krugman,Paul Krugman,Paul Krugman,Paul Krugman,paul krugman,paul krugman,paul krugm,http://en.wikipedia.org/wiki/Paul_Krugman,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,Professor,JobTitle,NONE,NONE,0.35131599999999996,neutral,0.0,0.013918999999999999,0.0182,0.8875149999999999,0.013585,0.017215,1,1,Professor,Professor,Professor,Professor,professor,professor,profess,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.570067,negative,-0.76928,0.537441,0.020359,0.369772,0.009023999999999999,0.111892,2,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,United Nations,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.787538,negative,-0.201296,0.36375,0.16253099999999998,0.226715,0.073026,0.232442,6,1,United Nations,United Nations,United Nations,United Nations,unit nation,unit nation,unit nat,http://en.wikipedia.org/wiki/United_Nations,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,education humanitarian Aid,Organization,NONE,NONE,0.41388,positive,0.665183,0.303476,0.10537300000000001,0.30562,0.030831,0.32157800000000003,1,1,education humanitarian Aid,educ humanitarian Aid,educ humanitarian Aid,educ humanit Aid,educ humanitarian aid,educ humanitarian aid,educ humanit aid,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10
+9MpVjxxpExM,seventy dollars,Quantity,NONE,NONE,0.35131599999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,seventy dollar,seventi dollar,seventi dollar,seventy doll,seventi dollar,seventi dollar,seventy doll,NONE,0.998,0.127,0.171,0.7020000000000001,0.11020259918408062,0.4992216699624109,negative,-0.391812,0.113048,0.614004,0.524155,0.115653,0.062255999999999985,0.0,19.600000381469727,Free Trade,2015-11-27T18:32:04.000Z,UCX6b17PVsYBQ0ip5gyeme-Q,Globalization and Trade and Poverty: Crash Course Economics #16,"What is globalization? Is globalization a good thing or not. Well, I have an answer that may not surprise you: It's complicated. This week, Jacob and Adriene will argue that globalization is, in aggregate, good. Free trade and globalization tend to provide an overall benefit, and raises average incomes across the globe. The downside is that it isn't good for every individual in the system. In some countries, manufacturing jobs move to places where labor costs are lower. And some countries that receive the influx of jobs aren't prepared to deal with it, from a regulatory standpoint. Anyway, Jacob and Adriene can explain the whole thing to you in 10 minutes.
+
+***
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following Patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Mark, Eric Kitchen, Jessica Wode, Jeffrey Thompson, Steve Marshall, Moritz Schmidt, Robert Kunz, Tim Curwick, Jason A Saslow, SR Foxley, Elliot Beter, Jacob Ash, Christian, Jan Schmid, Jirat, Christy Huddleston, Daniel Baulig, Chris Peters, Anna-Ester Volozh, Ian Dundore, Caleb Weeks
+
+--
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids",CrashCourse,"Crash Course', 'crashcourse', 'economics', 'econ', 'globalization', 'trade', 'free trade', 'outsourcing', 'economy', 'economic', 'economist', 'trade globalization', 'AP', 'exam', 'study', 'test', 'homework help', 'teacher resource', 'john green', 'hank green', 'vlogbrothers', 'poverty', 'poverty line', 'inequality'",PT9M2S,542,10

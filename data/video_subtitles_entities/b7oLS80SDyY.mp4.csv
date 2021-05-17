@@ -1,0 +1,121 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+b7oLS80SDyY,Al Jazeera Barcelona Spain,Location,City,NONE,0.680509,neutral,0.0,0.054996,0.117841,0.254483,0.152059,0.080308,1,1,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al Jazeera Barcelona Spain,Al jazeera barcelona spain,al jazeera barcelona spain,al jazeer barcelon spain,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Barcelona State,Location,City,NONE,0.452487,negative,-0.7354970000000001,0.34915999999999997,0.147423,0.048398000000000004,0.538114,0.27436900000000003,1,1,Barcelona State,Barcelona State,Barcelona State,Barcelona State,barcelona state,barcelona state,barcelon stat,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Belgium,Location,Country,NONE,0.295944,neutral,0.0,0.14433800000000002,0.247074,0.22360100000000002,0.061827,0.178361,1,1,Belgium,Belgium,Belgium,Belgium,belgium,belgium,belg,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Catalan Regional Police,Organization,NONE,NONE,0.602043,negative,-0.91833,0.244964,0.556289,0.033283999999999994,0.194601,0.252369,2,1,Catalan Regional Police,Catalan Regional Police,Catalan Regional Police,Catalan Regional Police,catalan region polic,catalan region polic,cat reg pol,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Catalonia,Location,City,NONE,0.8153600000000001,negative,-0.649742,0.14433800000000002,0.247074,0.22360100000000002,0.061827,0.178361,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Franco,Person,NONE,NONE,0.36754699999999996,negative,-0.9082049999999999,0.250775,0.27912600000000004,0.14393399999999998,0.25356999999999996,0.213444,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Greece,Location,Country,NONE,0.28389000000000003,neutral,0.0,0.14433800000000002,0.247074,0.22360100000000002,0.061827,0.178361,1,1,Greece,Greece,Greece,Greece,greec,greec,greec,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Karl penhaul,Person,NONE,NONE,0.378498,neutral,0.0,0.054996,0.117841,0.254483,0.152059,0.080308,1,1,Karl penhaul,Karl penhaul,Karl penhaul,Karl penha,karl penhaul,karl penhaul,karl penha,NONE,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Portugal,Location,Country,http://dbpedia.org/resource/First_Portuguese_Republic,0.301166,neutral,0.0,0.14433800000000002,0.247074,0.22360100000000002,0.061827,0.178361,1,1,Portugal,Portugal,Portugal,Portugal,portug,portug,portug,http://en.wikipedia.org/wiki/First_Portuguese_Republic,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3
+b7oLS80SDyY,Spain,Location,Country,http://dbpedia.org/resource/Francoist_Spain,0.8725280000000001,negative,-0.658231,0.551966,0.13902,0.015747,0.30005,0.369322,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Francoist_Spain,-0.5676,0.098,0.086,0.815,0.16177663332835746,0.4657498631636562,negative,-0.585448,0.232044,0.13939300000000002,0.527663,0.50867,0.454969,0.0,7.300000190734862,Catalonia Independence,2017-09-17T09:01:04.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalan pro-independence mayors defy Spanish government before referendum,"More than 700 mayors from across the Catalonia region of northeast Spain have protested in Barcelona in support of a planned independence referendum.
+
+Political tensions in Spain are increasing as the proposed October voting date nears.
+
+The Catalan government plans to go ahead with the referendum despite the central government's warning of legal prosecution.
+
+Al Jazeera's Karl Penhaul reports from Barcelona. 
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5578617136001', 'nocms', 'package', 'Catalonia', 'Europe', 'catalan mayors', 'News', 'spain', 'English', 'al Jazeera', 'karl penhaul', 'youtube', 'AJE', 'aljazeera', 'barcelona'",PT2M1S,121,3

@@ -1,0 +1,73 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DlOd4EXK-UY,95%,Quantity,NONE,NONE,0.191661,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,95 %,95 %,95 %,95 %,95 %,95 %,95 %,NONE,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Catalonia,Location,City,NONE,0.407134,negative,-0.719949,0.036717,0.271823,0.42866000000000004,0.11716099999999999,0.033812,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.334044,negative,-0.375765,0.268085,0.136811,0.516663,0.07157000000000001,0.093947,5,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Frank,Person,NONE,NONE,0.22055300000000005,positive,0.8920239999999999,0.008747,0.052701,0.41313599999999995,0.035309,0.21692399999999998,2,1,Frank,Frank,Frank,Frank,frank,frank,frank,NONE,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,General Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.191661,negative,-0.550521,0.348864,0.240661,0.102256,0.307717,0.27987199999999995,1,1,General Franco,General Franco,General Franco,General Franco,gener franco,general franco,gen franco,http://en.wikipedia.org/wiki/Francisco_Franco,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Libya,Location,Country,NONE,0.8260040000000001,negative,-0.48440900000000003,0.25859499999999996,0.107839,0.551845,0.17285799999999998,0.059532,10,1,Libya,Libya,Libya,Libya,libya,libya,liby,NONE,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Mediterranean Coast,GeographicFeature,"Location, BodyOfWater",http://dbpedia.org/resource/Mediterranean_Sea,0.242992,neutral,0.0,0.26651199999999997,0.167778,0.30996399999999996,0.069284,0.14383900000000002,1,1,Mediterranean Coast,Mediterranean Coast,Mediterranean Coast,Mediterranean Coast,mediterranean coast,mediterranean coast,mediter coast,http://en.wikipedia.org/wiki/Mediterranean_Sea,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.43289799999999995,negative,-0.375765,0.29168099999999997,0.15448,0.51008,0.105153,0.101361,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3
+DlOd4EXK-UY,Two hours,Quantity,NONE,NONE,0.191661,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Two hour,two hour,two hour,two hour,two hour,two hour,two hour,NONE,-0.9456,0.081,0.038,0.8809999999999999,0.059228650137741035,0.4539944903581267,negative,-0.273045,0.117918,0.5354720000000001,0.454887,0.136643,0.11961199999999995,0.0,4.0,Catalonia Independence,2017-11-11T15:44:01.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Small Catalan village strives for Catalonia's independence,"The Catalan village of Llivia already geographically separated from Spain nearly 500 years ago.
+Now its residents are ardent supporters of Catalonia's drive for independence.
+Al Jazeera’s Jonah Hull reports from Llivia.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"news', 'youtube', 'spain', 'al jazeera', 'strive for independence', 'catalonia crisis', 'aljazeera', 'catalans', 'aljazeera english', 'llivia', 'al jazeera english', 'catalan', 'barcelona', 'madrid', 'village', 'catalonia', 'referendum', 'independence', 'catalonia independence', 'catalan referendum', 'catalan independence', 'independence referendum', 'spanish government', 'cataluña', 'carles puigdemont', 'catalonia referendum', 'breaking news', 'parliament', 'catalonia vs spain', 'catalonia independence explained'",PT2M48S,168,3

@@ -1,0 +1,341 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+__mZkioPp3E,21 percent,Quantity,NONE,NONE,0.125277,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,21 percent,21 percent,21 percent,21 perc,21 percent,21 percent,21 perc,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.160614,positive,0.708469,0.33687399999999995,0.13844700000000001,0.395275,0.137388,0.12488599999999996,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Catalonia,Location,City,NONE,0.923317,positive,0.148119,0.5729609999999999,0.140494,0.302904,0.12191099999999999,0.12134600000000001,14,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Chalmers,Person,NONE,NONE,0.17058800000000002,neutral,0.0,0.2422570000000001,0.066872,0.051240999999999995,0.11049300000000001,0.147255,1,1,Chalmers,chalmer,chalmer,chalm,chalmer,chalmer,chalm,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Constitutional Court,Organization,NONE,NONE,0.15359,positive,0.708469,0.292962,0.138605,0.392374,0.147396,0.15751099999999998,1,1,Constitutional Court,Constitutional Court,Constitutional Court,Constitutional Court,constitut court,constitut court,constitut court,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Define Catalonia,Location,City,NONE,0.27358299999999997,neutral,0.0,0.124954,0.02847,0.41539,0.081585,0.031428,1,1,Define Catalonia,Define Catalonia,Define Catalonia,Define Catalonia,defin catalonia,defin catalonia,defin catalon,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.156936,neutral,0.0,0.34536500000000003,0.21023200000000009,0.150233,0.1142,0.16448800000000002,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.152195,neutral,0.0,0.385613,0.177645,0.257189,0.101523,0.07450599999999999,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Francisco Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.20242000000000002,negative,-0.341471,0.558327,0.182372,0.157665,0.147848,0.210405,3,1,Francisco Franco,Francisco Franco,Francisco Franco,Francisco Franco,francisco franco,francisco franco,francisco franco,http://en.wikipedia.org/wiki/Francisco_Franco,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.13333699999999998,negative,-0.690642,0.6749890000000001,0.2348,0.102701,0.042786000000000005,0.115256,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,National Constitution,Organization,NONE,NONE,0.275319,neutral,0.0,0.366399,0.063473,0.330544,0.25747800000000004,0.147344,4,1,National Constitution,National Constitution,National Constitution,National Constitution,nation constitut,nation constitut,nat constitut,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Regional government,Organization,NONE,NONE,0.19353599999999999,negative,-0.366116,0.188722,0.168982,0.057316999999999986,0.245619,0.20264400000000002,1,1,Regional government,region govern,region govern,reg govern,region govern,region govern,reg govern,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.629851,negative,-0.010511,0.552537,0.454926,0.242914,0.144072,0.145169,15,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,Spanish government,Organization,NONE,NONE,0.200695,neutral,0.0,0.188842,0.19559,0.088684,0.23526,0.166243,1,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,culture Cuisine,PrintMedia,NONE,NONE,0.15476900000000002,positive,0.820808,0.120678,0.169826,0.408458,0.07197,0.159949,1,1,culture Cuisine,cultur Cuisine,cultur Cuisine,cult Cuisine,cultur cuisin,cultur cuisin,cult cuisin,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,four years,Quantity,NONE,NONE,0.125277,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,ninety percent,Quantity,NONE,NONE,0.125277,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ninety percent,nineti percent,nineti percent,nin perc,nineti percent,nineti percent,nin perc,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,official,JobTitle,NONE,NONE,0.134279,neutral,0.0,0.22861399999999998,0.164135,0.36366,0.146058,0.063451,1,1,official,offici,offici,off,offici,offici,off,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,one-fifth,Quantity,NONE,NONE,0.125277,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one-fifth,one-fifth,one-fifth,one-fifth,one-fifth,one-fifth,one-fifth,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6
+__mZkioPp3E,six percent,Quantity,NONE,NONE,0.125277,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six percent,six percent,six percent,six perc,six percent,six percent,six perc,NONE,0.9599,0.087,0.105,0.8079999999999999,0.0820790320790321,0.3287784437784437,positive,0.292771,0.14254,0.19111,0.562425,0.159242,0.16251500000000002,0.0,9.399999618530273,Catalonia Independence,2017-11-03T12:10:02.000Z,UCLXo7UDZvByw2ixzpQCufnA,"Catalonia’s independence movement, explained","This referendum was not the region's first. 
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+On October 1st Catalonia held a controversial referendum on independence. Before the vote took place, the Spanish Constitutional Courts ruled the vote illegal and sent the national guard to stop it from happening. Despite government opposition, the vote was held and clashes between voters and police ensued.
+
+Ninety percent of the participants voted in favor of independence, but public surveys say that current support for independence in Catalonia is only 41 percent. 
+
+Despite the contested referendum results, Catalonia has declared independence unilaterally. In response, Spain is moving to dissolve the Catalan regional government, remove its leaders from office and hold regional elections.
+
+You can read a full explainer on the situation via Sarah Wildman at our website: https://www.vox.com/world/2017/10/2/16393956/catalonia-catalan-independence-crackdown-vote-referendum
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+Or on Facebook: http://goo.gl/U2g06o",Vox,"vox.com', 'vox', 'explain', 'catalonia', 'catalan', 'catalan independence', 'libertat', 'francisco franco', 'referendum', 'catalonia secession', 'spain', 'spain catalonia', 'barcelona protests', 'mariano rajoy', 'european economics', 'catalonia economy', 'geopolitics', 'catalonia data visualization', 'carles puigdemont', 'catalonia independence', 'independence', 'catalonia referendum', 'madrid', 'barcelona', 'catalan referendum', 'spain news'",PT5M44S,344,6

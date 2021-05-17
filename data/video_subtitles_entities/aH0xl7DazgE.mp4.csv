@@ -1,0 +1,385 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+aH0xl7DazgE,Alba,Person,NONE,NONE,0.28291700000000003,neutral,0.0,0.141036,0.08419299999999999,0.316035,0.063973,0.064335,1,1,Alba,Alba,Alba,Alba,alba,alba,alb,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.896368,negative,-0.411857,0.294823,0.048257999999999995,0.173441,0.32253699999999996,0.100895,6,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Bella,Person,NONE,NONE,0.252423,neutral,0.0,0.345094,0.116051,0.060641999999999995,0.222788,0.16612000000000002,1,1,Bella,Bella,Bella,Bella,bella,bella,bell,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Borussia Dortmund,Facility,NONE,NONE,0.293044,neutral,0.0,0.42384799999999995,0.12228800000000001,0.272436,0.257704,0.056271,1,1,Borussia Dortmund,Borussia Dortmund,Borussia Dortmund,Borussia Dortmund,borussia dortmund,borussia dortmund,boruss dortmund,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Captain Sergio Ramos,Person,"Athlete, FootballPlayer",http://dbpedia.org/resource/Sergio_Ramos,0.323567,neutral,0.0,0.134665,0.087022,0.196123,0.056639,0.097153,1,1,Captain Sergio Ramos,Captain Sergio Ramos,Captain Sergio Ramos,Captain Sergio Ramos,captain sergio ramo,captain sergio ramo,captain sergio ramo,http://en.wikipedia.org/wiki/Sergio_Ramos,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Carvajal,Location,City,NONE,0.270865,neutral,0.0,0.345094,0.116051,0.060641999999999995,0.222788,0.16612000000000002,1,1,Carvajal,Carvajal,Carvajal,Carvajal,carvaj,carvaj,carvas,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Catalonia,Location,Region,NONE,0.36506,neutral,0.0,0.265433,0.496618,0.046387,0.300431,0.168114,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Gerard Piqué,Person,FootballPlayer,http://dbpedia.org/resource/Gerard_Piqué,0.578266,negative,-0.068062,0.29658,0.06579299999999999,0.051411,0.5845199999999999,0.31760900000000003,3,1,Gerard Piqué,Gerard Piqué,Gerard Piqué,Gerard Piqué,gerard piqué,gerard piqué,gerard piqué,http://en.wikipedia.org/wiki/Gerard_Piqué,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Germany,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Germany,0.29533899999999996,neutral,0.0,0.42384799999999995,0.12228800000000001,0.272436,0.257704,0.056271,1,1,Germany,Germany,Germany,Germany,germani,germani,germany,http://en.wikipedia.org/wiki/Germany,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Jordi,Person,NONE,NONE,0.299621,neutral,0.0,0.375743,0.091588,0.317064,0.07964,0.17824700000000002,1,1,Jordi,Jordi,Jordi,Jordi,jordi,jordi,jord,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Las Palmas,Facility,NONE,NONE,0.30394899999999997,neutral,0.0,0.206594,0.051511,0.246049,0.124578,0.09913999999999999,1,1,Las Palmas,Las Palmas,Las Palmas,Las Palmas,la palma,las palma,las palma,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Marcus Alonzo,Person,NONE,NONE,0.30406700000000003,positive,0.5282859999999999,0.15903399999999998,0.097582,0.636976,0.057580999999999986,0.056988,1,1,Marcus Alonzo,Marcus Alonzo,Marcus Alonzo,Marcus Alonzo,marcu alonzo,marcus alonzo,marc alonzo,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Milan,Location,"ItalianComune, City",http://dbpedia.org/resource/Milan,0.347787,negative,-0.45527,0.305663,0.048313,0.004027,0.22721100000000002,0.34980500000000003,1,1,Milan,Milan,Milan,Milan,milan,milan,mil,http://en.wikipedia.org/wiki/Milan,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Senegal,Location,Country,NONE,0.307555,positive,0.380232,0.136046,0.051624,0.226789,0.153085,0.134688,1,1,Senegal,Senegal,Senegal,Senegal,seneg,seneg,seneg,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Sergey,Person,NONE,NONE,0.297101,neutral,0.0,0.206594,0.051511,0.246049,0.124578,0.09913999999999999,1,1,Sergey,Sergey,Sergey,Sergey,sergey,sergey,sergey,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Sergio Roberto,Person,NONE,NONE,0.447871,neutral,0.0,0.343702,0.11625899999999999,0.077239,0.203283,0.14116800000000002,2,1,Sergio Roberto,Sergio Roberto,Sergio Roberto,Sergio Roberto,sergio roberto,sergio roberto,sergio roberto,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Sergio busquets,Person,FootballPlayer,http://dbpedia.org/resource/Sergio_Busquets,0.473304,neutral,0.0,0.423789,0.032119999999999996,0.46974799999999994,0.034418000000000004,0.026857,1,1,Sergio busquets,Sergio busquet,Sergio busquet,Sergio busquet,sergio busquet,sergio busquet,sergio busquet,http://en.wikipedia.org/wiki/Sergio_Busquets,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.8364379999999999,negative,-0.584947,0.516367,0.203125,0.551222,0.168506,0.081737,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.478483,neutral,0.0,0.516367,0.203125,0.551222,0.168506,0.081737,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,Vincente,Person,NONE,NONE,0.290763,neutral,0.0,0.129665,0.054434,0.583613,0.131802,0.197166,1,1,Vincente,Vincente,Vincente,Vincente,vincent,vincent,vint,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,azpilicueta,Person,NONE,NONE,0.275878,neutral,0.0,0.136668,0.022037,0.48779399999999995,0.012913999999999998,0.06089,1,1,azpilicueta,azpilicueta,azpilicueta,azpilicuet,azpilicueta,azpilicueta,azpilicuet,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,football,Sport,NONE,NONE,0.412397,negative,-0.614397,0.315094,0.087091,0.013906,0.606159,0.3417,2,1,football,footbal,footbal,footbal,footbal,footbal,footbal,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,mill,Quantity,NONE,NONE,0.252423,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,mill,mill,mill,mil,mill,mill,mil,NONE,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7
+aH0xl7DazgE,quetta,Location,City,http://dbpedia.org/resource/Quetta,0.299646,neutral,0.0,0.345094,0.116051,0.060641999999999995,0.222788,0.16612000000000002,1,1,quetta,quetta,quetta,quett,quetta,quetta,quett,http://en.wikipedia.org/wiki/Quetta,0.9973,0.057,0.12,0.823,0.08910733801717409,0.3508827288376468,negative,-0.366087,0.109007,0.507814,0.5587340000000001,0.114009,0.15744,0.0,17.399999618530273,Catalonia Independence,2017-10-09T16:04:40.000Z,UC2-0sEOYbQFuaURd_AU6Krg,"Independence for Catalonia? The 10 players Spain could lose - including Busquets, Fabregas & Pique!","With debate again raging in Catalonia regarding a possible independence from Spain, we look at how this could affect the Spanish national team and who could star for a potential Catalonia side.
+
+With outspoken Gerard Pique leading the line, we take a look at nine other Spanish national players who, if Catalona were to separate from Spain, would be lost to La Roja - and could play a part in a Catalan national side. 
+
+Do you think a Catalan national team could qualify for the World Cup with players of this calibre?
+
+► Liked the video? Let us know by subscribing to our channel: http://bit.ly/SubscribeToOnefootball
+► Liked it a lot? Download our app: http://bit.do/Onefootball_YT
+Onefootball is the world's most comprehensive football app and is available free on iOS, Android and Windows Phone!
+
+► Like us on Facebook: http://bit.ly/1YpT8ud
+► Follow us on Twitter: http://bit.ly/2lDcoK8
+► Follow us on Instagram: http://bit.ly/1U7uYQh
+► Listen to the Onefootball podcast: http://bit.ly/2617W55
+
+Photo credits: Getty",Onefootball English,"Football', 'Onefootball', 'Football app', 'Spain', 'Catalunya', 'Spain referendum', 'Catalonia', 'Catalonia referendum', 'Spain football team', 'Catalunya football', 'Catalonia football', 'Gerard Pique', 'Pique Spain', 'Pique Barcelona', 'Jordi Alba', 'Spain World Cup', 'Sergio Busquets', 'Cesc Fabregas', 'Marc Bartra', 'Sergi Roberto', 'Hector Bellerin', 'Gerard Deulofeu', 'World Cup 2018', 'pique spain', 'pique catalunya', 'pique catalonia', 'pique quits spain', 'Independence', 'Independence for Catalonia', 'independence from Spain'",PT6M12S,372,7

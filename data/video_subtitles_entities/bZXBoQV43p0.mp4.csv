@@ -1,0 +1,438 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+bZXBoQV43p0,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.27126500000000003,neutral,0.0,0.21056999999999998,0.22892600000000002,0.146508,0.259508,0.12227400000000001,1,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,America,Location,Continent,NONE,0.4706010000000001,negative,-0.774018,0.12421700000000001,0.053911,0.679128,0.135436,0.06580599999999999,3,1,America,America,America,America,america,america,americ,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Botswana,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Botswana,0.24379,negative,-0.630321,0.6057319999999999,0.142501,0.149088,0.055178,0.042003,1,1,Botswana,Botswana,Botswana,Botswana,botswana,botswana,botswan,http://en.wikipedia.org/wiki/Botswana,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.23079499999999997,neutral,0.0,0.532621,0.205554,0.2579,0.023146,0.038100999999999996,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Central America,Location,Region,NONE,0.294937,neutral,0.0,0.21056999999999998,0.22892600000000002,0.146508,0.259508,0.12227400000000001,1,1,Central America,Central America,Central America,Central America,central america,central america,cent americ,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.320809,negative,-0.29774,0.295026,0.166261,0.160865,0.207467,0.022806,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Europe Italy Portugal Spain,Location,City,NONE,0.459183,neutral,0.0,0.25967399999999996,0.355319,0.26207600000000003,0.157672,0.15754300000000002,2,1,Europe Italy Portugal Spain,Europe Italy Portugal Spain,Europe Italy Portugal Spain,Europe Italy Portugal Spain,europ itali portug spain,europ itali portug spain,europ ita portug spain,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.784512,negative,-0.014981999999999999,0.47549600000000003,0.11898099999999999,0.640563,0.109802,0.09008,7,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.289078,neutral,0.0,0.068878,0.096491,0.743905,0.10318,0.035138,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Greece,Location,Country,NONE,0.27625500000000003,neutral,0.0,0.29825799999999997,0.452797,0.091651,0.199531,0.09935,1,1,Greece,Greece,Greece,Greece,greec,greec,greec,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Guatemala,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Guatemala,0.241725,negative,-0.630321,0.6057319999999999,0.142501,0.149088,0.055178,0.042003,1,1,Guatemala,Guatemala,Guatemala,Guatemala,guatemala,guatemala,guatemal,http://en.wikipedia.org/wiki/Guatemala,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Jamaica,Location,Country,NONE,0.22755799999999998,negative,-0.630321,0.6057319999999999,0.142501,0.149088,0.055178,0.042003,1,1,Jamaica,Jamaica,Jamaica,Jamaica,jamaica,jamaica,jamaic,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Mexico,Location,"PoliticalDistrict, GovernmentalJurisdiction, FilmCinematographer, Country",http://dbpedia.org/resource/Mexico,0.260808,neutral,0.0,0.532621,0.205554,0.2579,0.023146,0.038100999999999996,1,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,http://en.wikipedia.org/wiki/Mexico,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Munich,Location,City,NONE,0.29649000000000003,positive,0.7648659999999999,0.08718,0.190445,0.202948,0.14762,0.124893,1,1,Munich,Munich,Munich,Munich,munich,munich,munich,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Nigeria,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Nigeria,0.282474,negative,-0.630321,0.6057319999999999,0.142501,0.149088,0.055178,0.042003,1,1,Nigeria,Nigeria,Nigeria,Nigeria,nigeria,nigeria,niger,http://en.wikipedia.org/wiki/Nigeria,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,Norway,Location,Country,NONE,0.22538000000000002,neutral,0.0,0.532621,0.205554,0.2579,0.023146,0.038100999999999996,1,1,Norway,Norway,Norway,Norway,norway,norway,norway,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.318422,neutral,0.0,0.068878,0.096491,0.743905,0.10318,0.035138,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.8782989999999999,negative,-0.267994,0.506988,0.15684700000000001,0.625904,0.10425,0.090303,9,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6
+bZXBoQV43p0,evil Institute,Organization,NONE,NONE,0.313145,positive,0.7648659999999999,0.08718,0.190445,0.202948,0.14762,0.124893,1,1,evil Institute,evil Institute,evil Institute,evil Institute,evil institut,evil institut,evil institut,NONE,0.9989,0.051,0.234,0.715,0.06792343073593075,0.4081770833333333,positive,0.397885,0.089922,0.536284,0.521979,0.154052,0.127371,0.0,5.800000190734862,Free Trade,2013-06-16T19:45:52.000Z,UCJ6cqy4VKEaAl7LgGyeOgNg,Economic Effects Of a Transatlantic Free Trade Deal (TTIP),"Please see http://youtu.be/QIYHrFp_EOU for HD Quality!
+
+Who will benefit from a transatlantic free trade deal?
+
+Dr. Ulrich Schoof, Project Manager GED - Global Economic Dynamics, explains the economic effects of the Transatlantic Trade and Investment Partnership (TTIP) between the United States and Europe. The video is based on the latest GED-Study, conducted in partnership with the ifo-Institute, Prof. Gabriel Felbermayer. More information www.ged-shorts.org or www.ged-projects.de.
+
+Subscribe to get notified about our latest videos:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1 
+
+Visit the GEDShorts Channel to watch more videos:
+https://www.youtube.com/user/GEDShorts
+
+Watch more videos in our 'Interviews | GED' playlist:
+https://www.youtube.com/watch?v=Inty-3wCkb8&list=PL1uxfpsZZK-wtkMxSSeyg87ik1v7kY7_a
+
+You can also follow us on Twitter:
+https://twitter.com/GED_Tweet
+
+Visit our Website
+http://www.ged-project.de/home/
+
+subscribe to our channel:
+http://www.youtube.com/user/GEDShorts?sub_confirmation=1",GEDProject,"economic', 'freetrade', 'transatlantic', 'Bertelsmann Stiftung', 'GEDShorts', 'Data', 'Daten', 'global complexity', 'wirtschaft', 'Software', 'GED VIZ', 'experts', 'Data Visualization (Industry)', 'interview', 'TTIP'",PT5M54S,354,6

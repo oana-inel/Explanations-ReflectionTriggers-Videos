@@ -1,0 +1,15 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gLvKOot7ffA,Boudin Blanc,Person,NONE,NONE,0.33,positive,0.724176,0.007687999999999999,0.06377200000000001,0.6692140000000001,0.034260000000000006,0.045454,1,1,Boudin Blanc,Boudin Blanc,Boudin Blanc,Boudin Blanc,boudin blanc,boudin blanc,boudin blant,NONE,0.0,0.0,0.0,1.0,0.0,0.0,neutral,0.0,0.045454,0.6692140000000001,0.007687999999999999,0.06377200000000001,0.034260000000000006,0.10000000149011612,0.10000000149011612,Catalonia Independence,2017-10-27T13:53:48.000Z,UCpwvZwUam-URkxB7g4USKpg,"RAW: Moment Catalan parliament declares independence from Spain, crowds cheering","Following a secret ballot, separatist lawmakers in Catalonia have passed a motion to declare independence from Spain. Opposition members boycotted the vote.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'catalonia', 'independence', 'spain', 'parliament', 'puigdemont', 'Rajoy', 'barcelona', 'referendum'",PT38S,38,1

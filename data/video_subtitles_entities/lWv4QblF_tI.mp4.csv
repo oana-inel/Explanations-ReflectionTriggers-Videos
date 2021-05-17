@@ -1,0 +1,183 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+lWv4QblF_tI,Catalonia,Location,Country,NONE,0.774158,negative,-0.4714350000000001,0.39664099999999997,0.27831,0.199408,0.172336,0.063551,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Charlotte dubinsky,Person,NONE,NONE,0.39712,neutral,0.0,0.474203,0.156108,0.164276,0.064933,0.10140700000000001,1,1,Charlotte dubinsky,Charlotte dubinski,Charlotte dubinski,Charlotte dubinsky,charlott dubinski,charlott dubinski,charlot dubinsky,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.9584790000000001,negative,-0.695022,0.478818,0.197332,0.180964,0.264162,0.063916,5,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,France,Location,Country,http://dbpedia.org/resource/French_Fourth_Republic,0.36552199999999996,neutral,0.0,0.205258,0.242894,0.372504,0.114167,0.028527999999999998,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/French_Fourth_Republic,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Grandfather McGee,Person,NONE,NONE,0.370996,positive,0.773826,0.26760300000000004,0.032214,0.12372000000000001,0.325961,0.439979,1,1,Grandfather McGee,Grandfather McGee,Grandfather McGee,Grandfather McGee,grandfath mcgee,grandfath mcgee,grandfath mcgee,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Madrid,Location,City,NONE,0.31742600000000004,neutral,0.0,0.21703899999999998,0.04551,0.054949,0.03365,0.066499,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Manuel valls,Person,Politician,http://dbpedia.org/resource/Manuel_Valls,0.421267,neutral,0.0,0.45741499999999996,0.136484,0.151478,0.17393,0.046395,1,1,Manuel valls,Manuel vall,Manuel vall,Manuel val,manuel vall,manuel vall,manuel val,http://en.wikipedia.org/wiki/Manuel_Valls,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Pandora,Company,NONE,NONE,0.325815,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Pandora,Pandora,Pandora,Pandora,pandora,pandora,pandor,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.513622,neutral,0.0,0.336545,0.52366,0.098385,0.23651799999999998,0.06714099999999999,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Twitter,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Twitter,0.368666,positive,0.773826,0.26760300000000004,0.032214,0.12372000000000001,0.325961,0.439979,1,1,Twitter,Twitter,Twitter,Twitter,twitter,twitter,twit,http://en.wikipedia.org/wiki/Twitter,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,Wells,Person,NONE,NONE,0.358004,negative,-0.9324120000000001,0.43908800000000003,0.20591900000000002,0.13053599999999999,0.378657,0.14643399999999998,2,1,Wells,Wells,Wells,Wells,well,well,wel,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,president,JobTitle,NONE,NONE,0.313301,neutral,0.0,0.20213,0.233278,0.4943,0.152583,0.04202,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3
+lWv4QblF_tI,prime minister,JobTitle,NONE,NONE,0.569782,neutral,0.0,0.328936,0.185477,0.311871,0.167577,0.03394,2,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.4323,0.083,0.08,0.8370000000000001,-0.009090909090909087,0.3306818181818181,negative,-0.5484979999999999,0.131527,0.222767,0.468666,0.440895,0.15905999999999998,0.0,5.699999809265138,Catalonia Independence,2017-10-25T09:39:21.000Z,UCpwvZwUam-URkxB7g4USKpg,‘Pandora box for Europe’: Catalan independence from Spain may collapse EU – Manuel Valls,"A former French prime minister who has roots in the breakaway region is concerned about the repercussions it could have for a broader Europe.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on VK https://vk.com/rt_international
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Spain', 'Catalan region', 'Barcelona', 'Catalan independence referendum', ""Catalonia's push for independence"", 'Catalan president', 'Manuel Valls', 'Former French PM', 'Pandora box for Europe', 'European unity'",PT2M14S,134,3

@@ -1,0 +1,331 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uQAT9S5n344,Ankara,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Ankara,0.39858899999999997,neutral,0.0,0.141719,0.08519,0.191139,0.07810800000000001,0.091797,1,1,Ankara,Ankara,Ankara,Ankara,ankara,ankara,ankar,http://en.wikipedia.org/wiki/Ankara,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Catalonia,Location,City,NONE,0.8733219999999999,positive,0.03185,0.24701900000000002,0.149249,0.44125,0.068784,0.175264,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Dole,Person,NONE,NONE,0.576391,positive,0.774688,0.140818,0.010502,0.589951,0.07825599999999999,0.055621000000000004,4,1,Dole,Dole,Dole,Dole,dole,dole,dol,NONE,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.387571,negative,-0.528257,0.48357100000000003,0.27273200000000003,0.10837000000000001,0.132796,0.08035700000000001,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Iraq,Location,"GovernmentalJurisdiction, MilitaryPost, CityTown, Country",http://dbpedia.org/resource/Iraq,0.4847770000000001,positive,0.071732,0.221475,0.081571,0.265922,0.177259,0.149644,2,1,Iraq,Iraq,Iraq,Iraq,iraq,iraq,iraq,http://en.wikipedia.org/wiki/Iraq,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Kurdistan,Location,Country,http://dbpedia.org/resource/Kingdom_of_Kurdistan,0.351671,negative,-0.31066900000000003,0.26614699999999997,0.162605,0.061765,0.175593,0.193436,1,1,Kurdistan,Kurdistan,Kurdistan,Kurdistan,kurdistan,kurdistan,kurd,http://en.wikipedia.org/wiki/Kingdom_of_Kurdistan,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Lucio,Person,NONE,NONE,0.363501,positive,0.774688,0.089773,0.017966,0.594576,0.045785,0.038394,1,1,Lucio,Lucio,Lucio,Lucio,lucio,lucio,lucio,NONE,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Martin,Person,NONE,NONE,0.333654,negative,-0.45456899999999995,0.34129699999999996,0.344142,0.138343,0.183158,0.276045,1,1,Martin,Martin,Martin,Martin,martin,martin,martin,NONE,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Rogers Centre,Facility,"Location, TouristAttraction, SportsFacility",http://dbpedia.org/resource/Rogers_Centre,0.400125,neutral,0.0,0.48893400000000004,0.040010000000000004,0.074478,0.20125,0.20818899999999999,1,1,Rogers Centre,Rogers Centre,Rogers Centre,Rogers Centre,roger centr,roger centr,rog cent,http://en.wikipedia.org/wiki/Rogers_Centre,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5
+uQAT9S5n344,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.430492,positive,0.071732,0.221475,0.081571,0.265922,0.177259,0.149644,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.3283,0.083,0.07400000000000001,0.843,0.13856389986824771,0.4797101449275363,negative,-0.402648,0.120768,0.6048439999999999,0.262756,0.501391,0.113467,0.0,4.400000095367432,Catalonia Independence,2018-01-13T13:42:17.000Z,UCHTK-2W11Vh1V4uwofOfR4w,Kurds reflect on Kurdish and Catalan independence push,"(8 Jan 2018) LEADIN:
+Kurds living in Catalonia have been reflecting on the duel independence referendums held last year.
+Both the Spanish region and the northern Kurdish region of Iraq held votes on secession - both triggering serious diplomatic rifts.
+STORYLINE:
+A place with a strong independence movement that held a controversial referendum last year. Sound familiar? But this is Barcelona, not Irbil.
+Just like the northern Kurdish region of Iraq, voters went to polls in Catalonia to have their say on independence.
+And just like the Kurds, the October 2017 ballot has caused a diplomatic rift with central government.
+A few hundred Kurds live in this region of Spain, according to unofficial figures from the local Middle East community.
+Enwer Hama, a Kurdish mechanical engineer from Sulaymaniyah, has lived in Barcelona for eight years.
+He thinks the strong showing for pro-independence parties in December's regional elections shows the movement is gaining momentum here.
+The pro-secession parties won 70 out of the regional parliament's 135 seats .
+""This new election (on December 21st) confirmed that there is a tendency for more auto (self) -governing in Catalonia. And I believe this will end up positive for the Catalan people,"" he says. 
+""But up to now it was very bad consequences for the southern Kurdistan.""
+He believes their similar experiences mean people here ""understand the Kurdish cause more easily"" than other Europeans.
+Both the Catalan and the Kurdish referendums came out in favour of independence.
+But the Catalan vote was deemed illegal and several members of Catalonia's pro-secession regional cabinet were fired and jailed for their roles in the drive for independence.
+Other members of the Catalonia government, including ex-leader Carles Puigdemont, are fugitives in Brussels.
+And in Iraq, September's landslide victory for independence has not achieved its goal.
+Instead, the Iraqi military advanced into disputed areas and took back control from the Kurdish Peshmerga. 
+The Iraqi central government also imposed a ban on international flights into the region and some countries closed border crossings.
+Iraqi Assyrian Pius Alibek has watched events unfold in both countries.
+""What hurts me from all of this is the disappointment that all Kurds went through after voting 'yes' full of excitement. And also the disappointment that all Catalans went through after hoping they would vote in freedom,"" he says.
+He doesn't believe either the Kurds or the Catalans will achieve independence, because those in power will also stop it from happening.
+In the popular neighbourhood of Gotic, a group of Kurds from southeast Turkey gather for a lively chat about politics in a Middle Eastern restaurant.
+The owner, Ismet Turk Yilmaz, a 53 year-old from Adiyaman, says he was very excited and closely following the two referendums in September and October, but that his hopes were dashed.
+""Disappointed in Catalonia because in the beginning Spain looks more democratic than Iraq. But in this case Iraq was more democratically (democratic) than Spain,"" he says.
+His friend Zana Suphandagi, a former political activist from Agri, who has been living in Europe for about 22 years, says the Spanish government's response was shocking.
+More than 800 people were injured as riot police attacked peaceful protesters and unarmed civilians trying to cast their ballots.
+""I didn't expect the Spanish state to react so harshly. If this is happening in the European Union, this is a shame for democracy.""
+
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/38313f8816c15623bbd3d5e0c043ee18 
+Find out more about AP Archive: http://www.aparchive.com/HowWeWork",AP Archive,"AP Archive', '4133790', '38313f8816c15623bbd3d5e0c043ee18', 'MEEX Spain Kurds', 'Carles Puigdemont', 'Turkey', 'Western Europe', 'Middle East', 'Spain', 'Iraq', 'Barcelona', 'Government and politics'",PT4M28S,268,5

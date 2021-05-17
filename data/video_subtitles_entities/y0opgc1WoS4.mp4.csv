@@ -1,0 +1,430 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+y0opgc1WoS4,10 days,Quantity,NONE,NONE,0.18856199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 day,10 day,10 day,10 day,10 day,10 day,10 day,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,40 percent,Quantity,NONE,NONE,0.18856199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 percent,40 percent,40 percent,40 perc,40 percent,40 percent,40 perc,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,84%,Quantity,NONE,NONE,0.18856199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,84 %,84 %,84 %,84 %,84 %,84 %,84 %,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,90%,Quantity,NONE,NONE,0.18856199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,Action Center,Organization,NONE,NONE,0.202029,positive,0.5146609999999999,0.090753,0.055489,0.07534,0.034119,0.148862,1,1,Action Center,Action Center,Action Center,Action Center,action center,action center,act cent,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,HIV,HealthCondition,"OrganismClassification, DiseaseCause, RiskFactor",http://dbpedia.org/resource/Virus,0.19153499999999998,negative,-0.8306319999999999,0.33503099999999997,0.312265,0.126386,0.116694,0.11089700000000001,1,1,HIV,HIV,HIV,HIV,hiv,hiv,hiv,http://en.wikipedia.org/wiki/Virus,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,Mark,Person,NONE,NONE,0.240542,negative,-0.6928479999999999,0.373571,0.402537,0.062289,0.074073,0.422166,2,1,Mark,Mark,Mark,Mark,mark,mark,mark,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.544107,negative,-0.6068640000000001,0.082817,0.045665,0.066125,0.031118,0.031505,1,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,pneumonia,HealthCondition,NONE,NONE,0.18856199999999998,negative,-0.876347,0.673006,0.354665,0.017506,0.176878,0.057874,1,1,pneumonia,pneumonia,pneumonia,pneumon,pneumonia,pneumonia,pneumon,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,protective Army,Organization,NONE,NONE,0.20569,negative,-0.865072,0.049441000000000006,0.6481859999999999,0.17640699999999998,0.228555,0.060348,1,1,protective Army,protect Army,protect Army,protect Army,protect armi,protect armi,protect army,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6
+y0opgc1WoS4,three weeks,Quantity,NONE,NONE,0.18856199999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,-0.9936,0.154,0.12,0.726,0.06537882018479033,0.5033240938166311,negative,-0.780616,0.106062,0.175199,0.5572,0.568964,0.102485,-0.10000000149011612,13.0,Vaccination,2015-02-24T15:09:20.000Z,UCsXVk37bltHxD1rDPwtNM8Q,Measles Explained — Vaccinate or Not?,"Everybody is talking about Measles – but what does the virus actually do in the body? Is it really so harmful that you need a vaccination? We go deep into the body of an infected person and see what Measles does and how the immune system reacts to it!
+
+Videos, explaining things. Like evolution, time, space, global energy or our existence in this strange universe. 
+We are a team of designers, journalists and musicians who want to make science look beautiful. Because it is beautiful. 
+
+You can get the MUSIC from this video here: 
+
+https://soundcloud.com/epicmountain/measles
+
+http://epicmountainmusic.bandcamp.com/track/measles
+
+http://www.epic-mountain.com
+
+
+Visit us on our Website, Twitter, Facebook, Patreon or Behance to say hi!
+
+http://kurzgesagt.org
+https://www.facebook.com/Kurzgesagt
+https://twitter.com/Kurz_Gesagt
+http://www.patreon.com/Kurzgesagt
+http://www.behance.net/Kurzgesagt
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+THANKS A LOT TO OUR LOVELY PATRONS FOR SUPPORTING US:
+
+Andrzej Rejman, Joseph McKnight, Andrew Jagasothy, Stephen Bassett, Raphael Hviding, Sam Elitzer, Eric, Jordan Gardner,
+Jeff Le, Devir Islas, Kirstie,Francesca Monteiro, Duncan Cheong,Derek, Juan Manuel Corredor,Osric Lord-Williams,Jesse Järvi, Scott Zell, AgentK, Mehmet Sevil, Carly Tawse, [ K A I ] = 石 : :, Kevin Dam, Neelfyn, Charlie, Nat Ryall,Christopher Lang, Nicholas Holtz, Tony Morley, Jónatan Nilsson, Zr4g0n, Jeroen Koerts, Tanya Smirnova, Patrick Eyrich, Manuel Auer, J.J., Chris Linardos,Cody, trefmanic, Dean Herbert, Adam Smith,David Garcia Quintas, Gaëtan Duvaux,Caroline Andrewes, Tom Alexander Kutil, Alex Kaplan, Vincent, Okan, Sasha C, Marcelo, KokLiang Lim, Mikel De Uranga,Matthew Gill,Alexander Heavens, Fluffy19, Adam Primaeros, Jan Schmid, Sara Shah, Michal, Eduardo Barbosa,maarten ligtenberg, Ozan, Ghitea Andrei Paul, Ryan, Malthe Agger, Larry Bunyard, Josh Maleszewski, Isaac, Volodymyr Khomenko, Sebastian Laiseca, Chase Gotlieb, Giovanna Cardoso, Eric Austin, Enrico, Theo Alves Monteiro, Tony Montuori,
+David Davenport-Firth, Hamad, Michael Ren, Andrew Connor, Vaelohs, Peter Schuller,Brandy Alexander, Alexander Kosenkov, Scott Laing, Eric, Gizem Gürkan, George Chearswat, Brandon Liu, oscar gautama, Philip Freeman, Tim, Bruno Araújo, Carlos Bohorquez, David Harbinson, Daniel OCL, Rikard Nyberg, Lethargicpanda, Florian Guitton, Jezariael Demos, Mark Scheurwater, Ajay Shekhar, Ryan Nai, Jon Moroney, Eugene Cham, Renaud Savignard, James, Nick Yonge, Pranab Shenoy, Terry Lipstein, Ryan, somersault18:24, Tim Carll, Ben Shackman,
+Jan Berdel,Lucas Lohr, Sieglinde Geisel, Javier de la Garza, Peter Žnuderl, Clayton Fussell, Rory Bennett, Daniel Gonzalez, Stephen Joseph DCruz, Jeff Churchill, Dan Q, Jonathan Velazquez Gore, Daniel, Pol Lutgen, Seona Tea, Morten, Thomas Lee, Finn Edwards. David Taylor, Alan Feyaerts, Jesse MacLean, Matt Collins, Corbin, Fabricio Godoy, Charles Kuang, Maximilian Ritter, Yousif, Jesse Powell, Praveen Muthu, Bahjat, Mike Mintz,
+Jem Arnold, Wei Wong, Jon Davis, Steffen Weng, Lars Vas Dias, Igor Benicio de Mesquita, Siddharth Bajaj, Eli Fisker, Greeny Liu, Tibor Schiemann, Andres Montoya, dante harper, Bünyamin Tetik, Joe Pond, Gustavo, Stephen Morse, Jørgen Smalås,Tommi Mansikka, Evan Low, Muath, Dario Wünsch, Edgar Duarte Ortega, Matthew Macomber, Stephen, Alipasha Sadri, Daniel McCouid-Carr, Kevin P, Ziggy Freed, Steven Ratner, Brucelow, José,
+Philipp Weber, Brad Wardell, Alexander Scheffer
+
+
+Measles Explained — Do You Really Need To Vaccinate?
+
+Help us caption & translate this video!
+
+http://www.youtube.com/timedtext_cs_panel?c=UCsXVk37bltHxD1rDPwtNM8Q&tab=2",Kurzgesagt – In a Nutshell,"Measles (Disease Or Medical Condition)', 'Vaccination (Field Of Study)', 'Measles', 'virus', 'measles virus', 'vaccination', 'vaccine', 'measles vaccine', 'measles outbreak', 'outbreak', 'news', 'symptoms', 'USA', 'death', 'deceased', 'california', 'berlin', 'conspiracy', 'anti vaxxers', 'toddler', 'cases', 'animation', 'documentary', 'strain', '2014', '2015', 'Germany', 'Deutschland', 'Masern', 'Exposure', 'danger', 'disneyland', 'children', 'kids', 'explained', 'amazing', 'funny', 'infographic', 'flat design', 'kurzgesagt', 'in a nutshell', 'Health (Industry)', 'Medicine (Field Of Study)'",PT5M34S,334,6

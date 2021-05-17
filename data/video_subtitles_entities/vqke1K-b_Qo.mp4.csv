@@ -1,0 +1,253 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+vqke1K-b_Qo,25 years,Quantity,NONE,NONE,0.302358,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Carlos acusados,Person,NONE,NONE,0.32323,neutral,0.0,0.094526,0.482745,0.08391599999999999,0.120644,0.223394,1,1,Carlos acusados,Carlos acusado,Carlos acusado,Carlos acusado,carlo acusado,carlo acusado,carlo acusado,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Catalonia,Location,City,NONE,0.376874,neutral,0.0,0.74629,0.20416900000000002,0.013447999999999998,0.21206999999999998,0.126505,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Catalonia,Location,Country,NONE,0.41797,neutral,0.0,0.74629,0.20416900000000002,0.013447999999999998,0.21206999999999998,0.126505,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Fondo tienen Que,Facility,NONE,NONE,0.46101800000000004,neutral,0.0,0.308319,0.091801,0.20766300000000001,0.151443,0.14345,1,1,Fondo tienen Que,Fondo tienen Que,Fondo tienen Que,Fondo tien Que,fondo tienen que,fondo tienen que,fondo tien que,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Haiti,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Haiti,0.361849,neutral,0.0,0.05630900000000001,0.21597199999999997,0.30105,0.063805,0.165247,1,1,Haiti,Haiti,Haiti,Haiti,haiti,haiti,hait,http://en.wikipedia.org/wiki/Haiti,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,India,Location,Country,NONE,0.338018,neutral,0.0,0.712838,0.208542,0.014569,0.229096,0.139823,1,1,India,India,India,India,india,india,ind,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.329373,neutral,0.0,0.27455,0.064484,0.12753299999999998,0.146021,0.571735,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Sanchez,Person,NONE,NONE,0.399781,neutral,0.0,0.210633,0.042542,0.16298900000000002,0.147698,0.609322,2,1,Sanchez,Sanchez,Sanchez,Sanchez,sanchez,sanchez,sanchez,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.843882,neutral,0.0,0.461294,0.047036,0.060312,0.200148,0.513242,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Summers,Person,NONE,NONE,0.320588,neutral,0.0,0.094526,0.482745,0.08391599999999999,0.120644,0.223394,1,1,Summers,Summers,Summers,Summers,summer,summer,sum,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Supreme Court,Organization,NONE,NONE,0.625178,neutral,0.0,0.484162,0.354532,0.008729,0.33050799999999997,0.190038,2,1,Supreme Court,Supreme Court,Supreme Court,Supreme Court,suprem court,suprem court,suprem court,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Syria,Location,Country,NONE,0.302358,positive,0.4873560000000001,0.345012,0.162397,0.163159,0.304249,0.06891900000000001,1,1,Syria,Syria,Syria,Syria,syria,syria,syr,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Victoria,Person,NONE,NONE,0.32009499999999996,neutral,0.0,0.210633,0.042542,0.16298900000000002,0.147698,0.609322,2,1,Victoria,Victoria,Victoria,Victoria,victoria,victoria,victor,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,Westeros,Location,City,NONE,0.324664,neutral,0.0,0.094526,0.482745,0.08391599999999999,0.120644,0.223394,1,1,Westeros,Westeros,Westeros,Westeros,westero,westero,westero,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,prime minister,JobTitle,NONE,NONE,0.32355700000000004,neutral,0.0,0.27455,0.064484,0.12753299999999998,0.146021,0.571735,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,prosecutor,JobTitle,NONE,NONE,0.339771,negative,-0.454585,0.441352,0.062516,0.051608,0.553534,0.166498,1,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3
+vqke1K-b_Qo,three months,Quantity,NONE,NONE,0.302358,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three month,three month,three month,three month,three month,three month,three month,NONE,-0.8196,0.097,0.073,0.83,0.06666666666666668,0.3462962962962963,negative,-0.5547489999999999,0.489224,0.126558,0.596758,0.158748,0.537507,-0.20000000298023224,3.799999952316284,Catalonia Independence,2019-02-12T10:49:31.000Z,UC_gUM8rL-Lrg6O3adPW9K1g,12 Catalan leaders go on trial in Madrid over independence bid,"Twelve Catalan secessionist leaders go on trial in Spain's Supreme Court on Tuesday, charged for their role in a failed independence bid 16 months ago that deeply divided the country and triggered the biggest political crisis in decades.
+
+The World is One News, WION examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. 
+ 
+Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.
+
+Subscribe to our channel at https://goo.gl/JfY3NI
+
+Check out our website: http://www.wionews.com
+
+Connect with us on our social media handles:
+Facebook: https://www.facebook.com/WIONews
+Twitter: https://twitter.com/WIONews
+Google Plus: https://plus.google.com/+WIONews",WION,"Wion', 'Catalan secessionist leaders', '12 Catalan leaders', 'Madrid', 'Spain'",PT2M48S,168,3

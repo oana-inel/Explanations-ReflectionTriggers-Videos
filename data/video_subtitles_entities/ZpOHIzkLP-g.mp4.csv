@@ -1,0 +1,36 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZpOHIzkLP-g,Boyle,Person,NONE,NONE,0.390353,positive,0.8420340000000001,0.053405999999999995,0.08106100000000001,0.7612939999999999,0.049061,0.084231,1,1,Boyle,Boyle,Boyle,Boyle,boyl,boyl,boyl,NONE,0.9773,0.109,0.17800000000000002,0.713,0.11233579638752053,0.5915229885057471,positive,0.395429,0.093782,0.596936,0.496883,0.130838,0.520179,0.10000000149011612,11.0,Vaccination,2015-04-17T09:36:17.000Z,UCPky_U7C3p6Y7qMoLCsTA-w,Surgeon General and Elmo team up to talk vaccinations,"Elmo's a little nervous about getting a shot, but Surgeon General Vivek Murthy stops by to explain how vaccines work, and why they're so important for children's health.
+
+The U.S. Department of Health & Human Services, Sesame Street, and the Daily Dot have teamed up to create this short video that you can share with friends, family, and new parents.
+
+You can find more information and resources about childhood vaccinations here: http://www.hhs.gov/blog/2015/04/17/if-you-want-stay-healthy-get-all-your-vaccinations.html
+
+This video and partnership supports the Sesame Workshop's mission to help all kids grow up smarter, stronger and kinder.",The Daily Dot,"Elmo', 'United States Surgeon General (Government Office Or Title)', 'Sesame Street (TV Program)', 'Vaccine (Drug Class)', 'Health', 'Medicine'",PT2M54S,174,3
+ZpOHIzkLP-g,Dr. Murphy,Person,NONE,NONE,0.397779,neutral,0.0,0.024346,0.038555,0.8378610000000001,0.038501,0.054854999999999994,1,1,Dr. Murphy,Dr. Murphy,Dr. Murphy,Dr. Murphy,dr. murphi,dr. murphi,dr. murph,NONE,0.9773,0.109,0.17800000000000002,0.713,0.11233579638752053,0.5915229885057471,positive,0.395429,0.093782,0.596936,0.496883,0.130838,0.520179,0.10000000149011612,11.0,Vaccination,2015-04-17T09:36:17.000Z,UCPky_U7C3p6Y7qMoLCsTA-w,Surgeon General and Elmo team up to talk vaccinations,"Elmo's a little nervous about getting a shot, but Surgeon General Vivek Murthy stops by to explain how vaccines work, and why they're so important for children's health.
+
+The U.S. Department of Health & Human Services, Sesame Street, and the Daily Dot have teamed up to create this short video that you can share with friends, family, and new parents.
+
+You can find more information and resources about childhood vaccinations here: http://www.hhs.gov/blog/2015/04/17/if-you-want-stay-healthy-get-all-your-vaccinations.html
+
+This video and partnership supports the Sesame Workshop's mission to help all kids grow up smarter, stronger and kinder.",The Daily Dot,"Elmo', 'United States Surgeon General (Government Office Or Title)', 'Sesame Street (TV Program)', 'Vaccine (Drug Class)', 'Health', 'Medicine'",PT2M54S,174,3
+ZpOHIzkLP-g,Dr. Murthy,Person,NONE,NONE,0.4840930000000001,neutral,0.0,0.151045,0.12695499999999998,0.224219,0.049419,0.092051,1,1,Dr. Murthy,Dr. Murthy,Dr. Murthy,Dr. Murthy,dr. murthi,dr. murthi,dr. murthy,NONE,0.9773,0.109,0.17800000000000002,0.713,0.11233579638752053,0.5915229885057471,positive,0.395429,0.093782,0.596936,0.496883,0.130838,0.520179,0.10000000149011612,11.0,Vaccination,2015-04-17T09:36:17.000Z,UCPky_U7C3p6Y7qMoLCsTA-w,Surgeon General and Elmo team up to talk vaccinations,"Elmo's a little nervous about getting a shot, but Surgeon General Vivek Murthy stops by to explain how vaccines work, and why they're so important for children's health.
+
+The U.S. Department of Health & Human Services, Sesame Street, and the Daily Dot have teamed up to create this short video that you can share with friends, family, and new parents.
+
+You can find more information and resources about childhood vaccinations here: http://www.hhs.gov/blog/2015/04/17/if-you-want-stay-healthy-get-all-your-vaccinations.html
+
+This video and partnership supports the Sesame Workshop's mission to help all kids grow up smarter, stronger and kinder.",The Daily Dot,"Elmo', 'United States Surgeon General (Government Office Or Title)', 'Sesame Street (TV Program)', 'Vaccine (Drug Class)', 'Health', 'Medicine'",PT2M54S,174,3
+ZpOHIzkLP-g,Elmo,Person,NONE,NONE,0.74363,positive,0.7591140000000001,0.014553,0.026902,0.8360860000000001,0.046157,0.032869,2,1,Elmo,Elmo,Elmo,Elmo,elmo,elmo,elmo,NONE,0.9773,0.109,0.17800000000000002,0.713,0.11233579638752053,0.5915229885057471,positive,0.395429,0.093782,0.596936,0.496883,0.130838,0.520179,0.10000000149011612,11.0,Vaccination,2015-04-17T09:36:17.000Z,UCPky_U7C3p6Y7qMoLCsTA-w,Surgeon General and Elmo team up to talk vaccinations,"Elmo's a little nervous about getting a shot, but Surgeon General Vivek Murthy stops by to explain how vaccines work, and why they're so important for children's health.
+
+The U.S. Department of Health & Human Services, Sesame Street, and the Daily Dot have teamed up to create this short video that you can share with friends, family, and new parents.
+
+You can find more information and resources about childhood vaccinations here: http://www.hhs.gov/blog/2015/04/17/if-you-want-stay-healthy-get-all-your-vaccinations.html
+
+This video and partnership supports the Sesame Workshop's mission to help all kids grow up smarter, stronger and kinder.",The Daily Dot,"Elmo', 'United States Surgeon General (Government Office Or Title)', 'Sesame Street (TV Program)', 'Vaccine (Drug Class)', 'Health', 'Medicine'",PT2M54S,174,3
+ZpOHIzkLP-g,MD MBA,Organization,NONE,NONE,0.5140170000000001,neutral,0.0,0.065946,0.044883,0.133043,0.087806,0.10439200000000001,1,1,MD MBA,MD MBA,MD MBA,MD MBA,MD mba,md mba,md mba,NONE,0.9773,0.109,0.17800000000000002,0.713,0.11233579638752053,0.5915229885057471,positive,0.395429,0.093782,0.596936,0.496883,0.130838,0.520179,0.10000000149011612,11.0,Vaccination,2015-04-17T09:36:17.000Z,UCPky_U7C3p6Y7qMoLCsTA-w,Surgeon General and Elmo team up to talk vaccinations,"Elmo's a little nervous about getting a shot, but Surgeon General Vivek Murthy stops by to explain how vaccines work, and why they're so important for children's health.
+
+The U.S. Department of Health & Human Services, Sesame Street, and the Daily Dot have teamed up to create this short video that you can share with friends, family, and new parents.
+
+You can find more information and resources about childhood vaccinations here: http://www.hhs.gov/blog/2015/04/17/if-you-want-stay-healthy-get-all-your-vaccinations.html
+
+This video and partnership supports the Sesame Workshop's mission to help all kids grow up smarter, stronger and kinder.",The Daily Dot,"Elmo', 'United States Surgeon General (Government Office Or Title)', 'Sesame Street (TV Program)', 'Vaccine (Drug Class)', 'Health', 'Medicine'",PT2M54S,174,3

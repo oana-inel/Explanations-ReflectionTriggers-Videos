@@ -1,0 +1,196 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+CI3sJKMQ5uE,15 months,Quantity,NONE,NONE,0.180137,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15 month,15 month,15 month,15 month,15 month,15 month,15 month,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,41.1%,Quantity,NONE,NONE,0.180137,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,41.1 %,41.1 %,41.1 %,41.1 %,41.1 %,41.1 %,41.1 %,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,49.4%,Quantity,NONE,NONE,0.180137,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,49.4 %,49.4 %,49.4 %,49.4 %,49.4 %,49.4 %,49.4 %,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Allen,Person,NONE,NONE,0.226556,negative,-0.552511,0.0,0.0,0.0,0.0,0.0,1,1,Allen,Allen,Allen,Allen,allen,allen,al,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.268386,neutral,0.0,0.36633699999999997,0.165797,0.15542,0.437701,0.072844,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Castile,Location,City,NONE,0.191742,neutral,0.0,0.283319,0.059485,0.408871,0.050589,0.08372,1,1,Castile,Castile,Castile,Castile,castil,castil,castil,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Catalonia,Location,City,NONE,0.6090760000000001,neutral,0.0,0.353525,0.175263,0.21489499999999997,0.12282699999999999,0.175948,7,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Felipe V. Franco Castilian Army,Person,NONE,NONE,0.43377899999999997,negative,-0.487162,0.450746,0.269068,0.107723,0.101914,0.348411,3,1,Felipe V. Franco Castilian Army,Felipe V. Franco Castilian Army,Felipe V. Franco Castilian Army,Felipe V. Franco Castilian Army,felip V. franco castilian armi,felip v. franco castilian armi,felip v. franco castil army,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Ferdinand,Person,NONE,NONE,0.180137,neutral,0.0,0.283319,0.059485,0.408871,0.050589,0.08372,1,1,Ferdinand,Ferdinand,Ferdinand,Ferdinand,ferdinand,ferdinand,ferdinand,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.19129100000000002,neutral,0.0,0.21224099999999999,0.207894,0.115639,0.046651,0.073671,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Kingdom of Aragon,Facility,NONE,NONE,0.250961,negative,-0.371967,0.334321,0.161549,0.27319,0.100961,0.145457,1,1,Kingdom of Aragon,Kingdom of Aragon,Kingdom of Aragon,Kingdom of Aragon,kingdom of aragon,kingdom of aragon,kingdom of aragon,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Parliament,Organization,NONE,NONE,0.183979,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Queen Isabella,Person,NONE,NONE,0.181697,neutral,0.0,0.283319,0.059485,0.408871,0.050589,0.08372,1,1,Queen Isabella,Queen Isabella,Queen Isabella,Queen Isabella,queen isabella,queen isabella,queen isabell,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.887443,negative,-0.552511,0.590457,0.158117,0.18295799999999998,0.168286,0.07961599999999999,10,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4
+CI3sJKMQ5uE,three weeks,Quantity,NONE,NONE,0.180137,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,-0.9528,0.125,0.102,0.773,0.09257442849548114,0.3708526049973418,negative,-0.709867,0.142828,0.16129200000000002,0.611739,0.171651,0.139703,-0.10000000149011612,4.0,Catalonia Independence,2017-09-20T15:08:45.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Catalan separatism explained,"Catalans will soon hold a vote on a referendum on whether to separate from Spain, and this is the whole story behind it.
+
+Subscribe: http://trt.world/subscribe
+
+Livestream: http://trt.world/ytlive
+
+Facebook: http://trt.world/facebook
+
+Twitter: http://trt.world/twitter
+
+Instagram: http://trt.world/instagram
+
+Visit our website: http://trt.world",TRT World,"catalan', 'spain', 'separatism', 'referendum', 'Catalan separatism'",PT3M17S,197,4

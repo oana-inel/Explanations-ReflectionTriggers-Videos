@@ -1,0 +1,166 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+nUGhn06ij0o,300 years,Quantity,NONE,NONE,0.179123,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,300 year,300 year,300 year,300 year,300 year,300 year,300 year,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.22756500000000002,positive,0.885017,0.18026,0.07254400000000001,0.584946,0.152247,0.028577999999999996,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Catalonia,Location,City,NONE,0.402354,neutral,0.0,0.663118,0.154627,0.11561600000000001,0.14438199999999998,0.13758,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Catalonia,Location,Region,NONE,0.727236,positive,0.566021,0.663118,0.154627,0.11561600000000001,0.14438199999999998,0.13758,6,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Constitutional Court,Organization,NONE,NONE,0.302979,positive,0.556353,0.441134,0.053465,0.098901,0.22363400000000005,0.440111,2,1,Constitutional Court,Constitutional Court,Constitutional Court,Constitutional Court,constitut court,constitut court,constitut court,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,France Catalonia,Facility,NONE,NONE,0.450622,neutral,0.0,0.46970500000000004,0.268024,0.071286,0.367479,0.129118,1,1,France Catalonia,France Catalonia,France Catalonia,France Catalonia,franc catalonia,franc catalonia,frant catalon,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Francisco Franco,Person,"Politician, MilitaryPerson, OfficeHolder, FilmActor, FilmWriter",http://dbpedia.org/resource/Francisco_Franco,0.216757,neutral,0.0,0.46970500000000004,0.268024,0.071286,0.367479,0.129118,1,1,Francisco Franco,Francisco Franco,Francisco Franco,Francisco Franco,francisco franco,francisco franco,francisco franco,http://en.wikipedia.org/wiki/Francisco_Franco,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.232882,negative,-0.039374,0.462271,0.144252,0.151136,0.123118,0.362369,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Parliament police force,Organization,NONE,NONE,0.20199,neutral,0.0,0.77313,0.189936,0.036150999999999996,0.122705,0.09428500000000001,1,1,Parliament police force,Parliament polic forc,Parliament polic forc,Parliament pol forc,parliament polic forc,parliament polic forc,parlia pol forc,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Scotland,Location,Country,NONE,0.179123,neutral,0.0,0.211916,0.08014600000000001,0.125155,0.050887,0.148051,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3
+nUGhn06ij0o,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.869509,negative,-0.251447,0.4990850000000001,0.22484400000000002,0.05279400000000002,0.368454,0.177636,8,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9503,0.099,0.057,0.845,0.2049382716049383,0.4709876543209877,negative,-0.441947,0.16555899999999998,0.483429,0.619604,0.139253,0.155278,0.0,2.299999952316284,Catalonia Independence,2014-11-07T19:22:01.000Z,UCeY0bbntWzzVIaj2z3QigXg,Catalonia Wants Independence From Spain | Long Story Short | NBC News,"Despite a court ruling, separatists in Catalonia plan to push ahead with a symbolic vote on the country's independence from Spain.
+» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC
+» Watch more NBC video: http://bit.ly/MoreNBCNews
+
+NBC News is a leading source of global news and information. Here you will find clips from NBC Nightly News, Meet The Press, and our original series Debunker, Flashback, Nerdwatch, and Show Me. Subscribe to our channel for news stories, technology, politics, health, entertainment, science, business, and exclusive NBC investigations.
+
+Connect with NBC News Online!
+Visit NBCNews.Com: http://nbcnews.to/ReadNBC
+Find NBC News on Facebook: http://nbcnews.to/LikeNBC
+Follow NBC News on Twitter: http://nbcnews.to/FollowNBC
+Follow NBC News on Google+: http://nbcnews.to/PlusNBC
+Follow NBC News on Instagram: http://nbcnews.to/InstaNBC
+Follow NBC News on Pinterest: http://nbcnews.to/PinNBC
+
+Catalonia Wants Independence From Spain | Long Story Short | NBC News",NBC News,"nbc news', 'nbc', 'news', 'news channel', 'news station', 'newspaper', 'breaking news', 'us news', 'world news', 'politics', 'nightly news', 'current events', 'top stories', 'pop culture', 'business', 'health', 'Catalonia (Spanish Autonomous Community)', 'Catalan Independence (Membership Organization)', 'catalan', 'barcelona', 'spain', 'catalonia independence', 'succession', 'catalan succession', 'catalonian succession', 'spanish', 'Spanish Civil War (Military Conflict)', 'franco'",PT2M2S,122,3

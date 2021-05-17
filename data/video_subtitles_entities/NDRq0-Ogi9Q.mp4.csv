@@ -1,0 +1,265 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+NDRq0-Ogi9Q,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.27381700000000003,negative,-0.460059,0.41802799999999996,0.27736500000000003,0.028816,0.438316,0.128655,1,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Alfred,Person,NONE,NONE,0.347609,neutral,0.0,0.10404400000000001,0.119948,0.369894,0.051733,0.091699,1,1,Alfred,Alfred,Alfred,Alfred,alfr,alfr,alfr,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.262182,negative,-0.460059,0.41802799999999996,0.27736500000000003,0.028816,0.438316,0.128655,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Brussels,Location,"AdministrativeDivision, SchoolDistrict, City",http://dbpedia.org/resource/Brussels,0.330678,neutral,0.0,0.132219,0.041395999999999995,0.127876,0.188966,0.222402,1,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,http://en.wikipedia.org/wiki/Brussels,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Carl,Person,NONE,NONE,0.422209,negative,-0.017755,0.4819560000000001,0.194686,0.210065,0.174644,0.124321,2,1,Carl,Carl,Carl,Carl,carl,carl,carl,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Catalonia,Location,City,NONE,0.274278,negative,-0.810772,0.543513,0.112777,0.064304,0.343695,0.268461,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Chavez,Person,NONE,NONE,0.279434,negative,-0.7202649999999999,0.465699,0.221721,0.08382300000000001,0.134757,0.16868699999999998,1,1,Chavez,Chavez,Chavez,Chavez,chavez,chavez,chavez,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Donald Trump,Person,"AwardNominee, AwardWinner, Celebrity, CompanyFounder, TVPersonality, TVProducer, FilmActor, TVActor",http://dbpedia.org/resource/Donald_Trump,0.31601399999999996,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Donald Trump,Donald Trump,Donald Trump,Donald Trump,donald trump,donald trump,donald trump,http://en.wikipedia.org/wiki/Donald_Trump,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Equitable International,Organization,NONE,NONE,0.432771,positive,0.588076,0.184336,0.069226,0.220806,0.021694,0.096359,2,1,Equitable International,equit International,equit International,equit International,equit intern,equit intern,equit intern,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.316056,negative,-0.6787270000000001,0.508273,0.28991100000000003,0.022408,0.22397399999999998,0.2353,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,European Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/European_Parliament,0.300302,negative,-0.810772,0.543513,0.112777,0.064304,0.343695,0.268461,1,1,European Parliament,European Parliament,European Parliament,European Parliament,european parliament,european parliament,europ parlia,http://en.wikipedia.org/wiki/European_Parliament,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.5927819999999999,positive,0.19736099999999998,0.4424270000000001,0.102952,0.179055,0.186697,0.26865500000000003,5,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,European commission The,Organization,NONE,NONE,0.272962,negative,-0.810772,0.543513,0.112777,0.064304,0.343695,0.268461,1,1,European commission The,european commiss the,european commiss the,europ commit the,european commiss the,european commiss the,europ commit the,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Franco,Person,NONE,NONE,0.273039,negative,-0.810772,0.0,0.0,0.0,0.0,0.0,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Gaza,Location,StateOrCounty,NONE,0.283004,negative,-0.460059,0.41802799999999996,0.27736500000000003,0.028816,0.438316,0.128655,1,1,Gaza,Gaza,Gaza,Gaza,gaza,gaza,gaz,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Geneva,Location,"AdministrativeDivision, City",http://dbpedia.org/resource/Geneva,0.33562600000000004,neutral,0.0,0.10404400000000001,0.119948,0.369894,0.051733,0.091699,1,1,Geneva,Geneva,Geneva,Geneva,geneva,geneva,genev,http://en.wikipedia.org/wiki/Geneva,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Hungary,Location,"HumanLanguage, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Hungary,0.26848099999999997,negative,-0.5551229999999999,0.146766,0.250621,0.268333,0.309114,0.211325,1,1,Hungary,Hungary,Hungary,Hungary,hungari,hungari,hung,http://en.wikipedia.org/wiki/Hungary,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,ICC,Organization,"Location, GovernmentAgency",http://dbpedia.org/resource/International_Criminal_Court,0.541547,negative,-0.555405,0.479997,0.11273499999999999,0.15476199999999998,0.0876,0.13122999999999999,6,1,ICC,ICC,ICC,ICC,icc,icc,icc,http://en.wikipedia.org/wiki/International_Criminal_Court,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Jean-Claude juncker,Person,"Politician, ChivalricOrderMember",http://dbpedia.org/resource/Jean-Claude_Juncker,0.36178699999999997,neutral,0.0,0.14593,0.107678,0.464868,0.038196,0.137922,1,1,Jean-Claude juncker,Jean-Claude juncker,Jean-Claude juncker,Jean-Claude junck,jean-claud juncker,jean-claud juncker,jean-claude junck,http://en.wikipedia.org/wiki/Jean-Claude_Juncker,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Jody,Person,NONE,NONE,0.311715,negative,-0.719435,0.045954,0.06100700000000001,0.346027,0.443194,0.15348,1,1,Jody,jodi,jodi,jody,jodi,jodi,jody,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Latin America,Location,Continent,NONE,0.289976,negative,-0.706418,0.70438,0.233827,0.032287,0.039881,0.269477,1,1,Latin America,Latin America,Latin America,Latin America,latin america,latin america,latin americ,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Maduro government,Organization,NONE,NONE,0.327849,negative,-0.637361,0.22755999999999998,0.084302,0.033113,0.444688,0.177249,1,1,Maduro government,Maduro govern,Maduro govern,Maduro govern,maduro govern,maduro govern,maduro govern,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,NATO,Organization,"Location, MembershipOrganization",http://dbpedia.org/resource/NATO,0.298484,negative,-0.541741,0.20213299999999998,0.083492,0.16278299999999998,0.115311,0.171955,1,1,NATO,NATO,NATO,NATO,nato,nato,nato,http://en.wikipedia.org/wiki/NATO,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Obama,Person,"Politician, President, Appointer, AwardWinner, Celebrity, PoliticalAppointer, U.S.Congressperson, USPresident, TVActor",http://dbpedia.org/resource/Barack_Obama,0.32232,negative,-0.552217,0.330877,0.085517,0.125122,0.13461700000000001,0.112469,1,1,Obama,Obama,Obama,Obama,obama,obama,obam,http://en.wikipedia.org/wiki/Barack_Obama,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Professor,JobTitle,NONE,NONE,0.320702,positive,0.636038,0.287075,0.062023,0.191477,0.019418,0.109617,1,1,Professor,Professor,Professor,Professor,professor,professor,profess,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Richard Nixon,Person,"FilmCharacter, MusicalArtist, Politician, President, Appointer, MilitaryCommander, MilitaryPerson, PoliticalAppointer, TVPersonality, U.S.Congressperson, USPresident, USVicePresident, FilmActor, TVActor",http://dbpedia.org/resource/Richard_Nixon,0.282623,neutral,0.0,0.6280279999999999,0.09151000000000001,0.135046,0.118449,0.10271199999999996,1,1,Richard Nixon,Richard Nixon,Richard Nixon,Richard Nixon,richard nixon,richard nixon,richard nixon,http://en.wikipedia.org/wiki/Richard_Nixon,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Russia,Location,"GovernmentalJurisdiction, Kingdom, AwardPresentingOrganization, FilmFestivalFocus, Country",http://dbpedia.org/resource/Poland,0.395169,neutral,0.0,0.223043,0.207161,0.367532,0.279303,0.112948,2,1,Russia,Russia,Russia,Russia,russia,russia,russ,http://en.wikipedia.org/wiki/Poland,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Salvador Allende,Person,"Physician, Politician, President",http://dbpedia.org/resource/Salvador_Allende,0.317625,neutral,0.0,0.6280279999999999,0.09151000000000001,0.135046,0.118449,0.10271199999999996,1,1,Salvador Allende,Salvador Allende,Salvador Allende,Salvador Allende,salvador allend,salvador allend,salvad allend,http://en.wikipedia.org/wiki/Salvador_Allende,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.29380500000000004,negative,-0.810772,0.543513,0.112777,0.064304,0.343695,0.268461,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Slovakia,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Slovakia,0.282535,negative,-0.5551229999999999,0.146766,0.250621,0.268333,0.309114,0.211325,1,1,Slovakia,Slovakia,Slovakia,Slovakia,slovakia,slovakia,slovak,http://en.wikipedia.org/wiki/Slovakia,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.587816,negative,-0.810772,0.42163100000000003,0.05711,0.126611,0.262205,0.423417,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.35012,neutral,0.0,0.23337,0.149091,0.068642,0.081597,0.027514,1,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Switzerland Alfred,Location,City,NONE,0.321544,neutral,0.0,0.10404400000000001,0.119948,0.369894,0.051733,0.091699,1,1,Switzerland Alfred,Switzerland Alfred,Switzerland Alfred,Switzerland Alfred,switzerland alfr,switzerland alfr,switzerland alfr,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Syria,Location,Country,http://dbpedia.org/resource/Ottoman_Syria,0.26579,negative,-0.436313,0.20186600000000002,0.08738,0.269443,0.17211500000000002,0.214294,1,1,Syria,Syria,Syria,Syria,syria,syria,syr,http://en.wikipedia.org/wiki/Ottoman_Syria,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Treaty of London of Lisbon,Facility,NONE,NONE,0.37669,negative,-0.582368,0.4997140000000001,0.100393,0.08261900000000001,0.12986,0.304906,1,1,Treaty of London of Lisbon,Treaty of London of Lisbon,Treaty of London of Lisbon,Treaty of London of Lisbon,treati of london of lisbon,treati of london of lisbon,treaty of london of lisbon,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,United Nations,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.404118,negative,-0.070894,0.30849,0.057448,0.35498,0.038207,0.157813,2,1,United Nations,United Nations,United Nations,United Nations,unit nation,unit nation,unit nat,http://en.wikipedia.org/wiki/United_Nations,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.297025,negative,-0.541741,0.20213299999999998,0.083492,0.16278299999999998,0.115311,0.171955,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,Venezuela,Location,Country,NONE,0.761181,negative,-0.741572,0.257918,0.169769,0.199458,0.116755,0.144485,7,1,Venezuela,Venezuela,Venezuela,Venezuela,venezuela,venezuela,venezuel,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,chief of staff,JobTitle,NONE,NONE,0.28630900000000004,positive,0.448063,0.24905,0.181046,0.16396,0.251496,0.212614,1,1,chief of staff,chief of staff,chief of staff,chief of staff,chief of staff,chief of staff,chief of staff,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,mr. Maduro,Person,NONE,NONE,0.339024,negative,-0.3844280000000001,0.19900199999999998,0.11788599999999999,0.323255,0.023532,0.085276,2,1,mr. Maduro,mr. Maduro,mr. Maduro,mr. Maduro,mr. maduro,mr. maduro,mr. maduro,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,president,JobTitle,NONE,NONE,0.354507,negative,-0.810772,0.6089439999999999,0.085039,0.06951,0.307473,0.235808,2,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,prosecutor,JobTitle,NONE,NONE,0.301492,negative,-0.31501799999999996,0.155662,0.141899,0.129455,0.058483000000000014,0.165226,1,1,prosecutor,prosecutor,prosecutor,prosecut,prosecutor,prosecutor,prosecut,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,secretary-general,JobTitle,NONE,NONE,0.304469,neutral,0.0,0.14593,0.107678,0.464868,0.038196,0.137922,1,1,secretary-general,secretary-gener,secretary-gener,secretary-general,secretary-gener,secretary-gener,secretary-general,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9
+NDRq0-Ogi9Q,white house,Organization,NONE,NONE,0.27221599999999996,positive,0.448063,0.24905,0.181046,0.16396,0.251496,0.212614,1,1,white house,white hous,white hous,whit hous,white hous,white hous,whit hous,NONE,-0.9979,0.127,0.069,0.804,0.03370141332097853,0.3051152350065393,negative,-0.461157,0.149674,0.560666,0.516763,0.112326,0.137353,0.0,14.300000190734865,Catalonia Independence,2018-03-30T19:08:42.000Z,UC1nrVLHNfnsxpJthrAP8wNw,UN Independent Expert says Brussels is to lose its credibility over Catalonia,"We ask UN Independent Expert on the Promotion of a Democratic and Equitable International Order, Professor Alfred M. de Zayas about the detention of Carles Puigdemont and whether it’s a sign of the end of democracy in the European Union
+
+LIKE Going Underground http://fb.me/GoingUndergroundRT
+FOLLOW Going Underground http://twitter.com/Underground_RT
+FOLLOW Afshin Rattansi http://twitter.com/AfshinRattansi
+FOLLOW on Instagram http://instagram.com/officialgoingundergroundrt",goingundergroundRT,,PT8M26S,506,9

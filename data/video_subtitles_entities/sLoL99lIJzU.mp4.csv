@@ -1,0 +1,64 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+sLoL99lIJzU,$15,Quantity,NONE,NONE,0.15693800000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 15,$ 15,$ 15,$ 15,$ 15,$ 15,$ 15,NONE,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,200 years,Quantity,NONE,NONE,0.15693800000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,200 year,200 year,200 year,200 year,200 year,200 year,200 year,NONE,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,America,Location,Continent,NONE,0.235724,negative,-0.672653,0.151725,0.034707,0.509189,0.24286,0.10997,3,1,America,America,America,America,america,america,americ,NONE,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,China,Location,"GeographicFeature, Island, Country",http://dbpedia.org/resource/Taiwan,0.166658,neutral,0.0,0.19059500000000001,0.053470000000000004,0.406045,0.123356,0.12458,1,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/Taiwan,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,Congress,Organization,NONE,NONE,0.159351,negative,-0.585436,0.64195,0.14812,0.004764,0.135951,0.238819,1,1,Congress,Congress,Congress,Congress,congress,congress,congress,NONE,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,Mexico,Location,"PoliticalDistrict, GovernmentalJurisdiction, FilmCinematographer, Country",http://dbpedia.org/resource/Mexico,0.181867,negative,-0.635592,0.27776999999999996,0.12681900000000002,0.10668299999999999,0.388379,0.15070899999999998,1,1,Mexico,Mexico,Mexico,Mexico,mexico,mexico,mexico,http://en.wikipedia.org/wiki/Mexico,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,OSHA,Organization,GovernmentAgency,http://dbpedia.org/resource/Occupational_Safety_and_Health_Administration,0.164888,neutral,0.0,0.19059500000000001,0.053470000000000004,0.406045,0.123356,0.12458,1,1,OSHA,OSHA,OSHA,OSHA,osha,osha,osh,http://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.205366,negative,-0.5935010000000001,0.199725,0.051947,0.29985900000000004,0.47793800000000003,0.067544,2,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5
+sLoL99lIJzU,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.181857,negative,-0.35193,0.189855,0.033811,0.24973099999999998,0.22436199999999998,0.064489,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9866,0.07200000000000001,0.135,0.792,0.14281352975382824,0.4090639335788589,positive,0.509892,0.127206,0.5806140000000001,0.508617,0.438931,0.153426,0.0,9.5,Free Trade,2015-05-04T17:36:30.000Z,UCD_PvRz7fvX9WOBL6T4P45Q,What is Free Trade?,"In 1955, free-trade advocate Dr. Lewis E. Lloyd wrote a book on how eight conditions must be met to have free and fair trade. What he discovered changed his view of free trade, especially in regard to free trade agreements and the welfare of America. Are you in favor of merging America with other countries?
+
+Contact Congress in opposition to the Trans-Pacific Partnership: https://www.votervoice.net/JBS/campaigns/40031/respond
+
+Text trade to 88588 to keep up with our trade alerts.
+
+For more information, go to jbs.org.",TheJohnBirchSociety,,PT4M41S,281,5

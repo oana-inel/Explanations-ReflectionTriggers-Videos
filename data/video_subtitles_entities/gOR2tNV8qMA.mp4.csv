@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gOR2tNV8qMA,America,Location,Continent,NONE,0.312508,negative,-0.68818,0.218588,0.15293099999999998,0.181273,0.2449010000000001,0.192796,1,1,America,America,America,America,america,america,americ,NONE,0.907,0.08800000000000001,0.111,0.802,0.2179828504828505,0.5506139693639693,negative,-0.282642,0.129406,0.590589,0.480968,0.190626,0.106924,0.0,8.300000190734862,Vaccination,2018-11-26T01:04:16.000Z,UC85x4iQIC8JENyLy6xRsF8Q,Ex pharma exec gives explosive speech on vaccines before CDC advisory committee,"Please like and share and Subscribe to our page to support our mission. This is my friend and colleague, Brandy Vaughan. 
+
+
+Facebook: https://www.facebook.com/HealthNutNews
+
+Twitter: https://twitter.com/unhealthytruth
+
+Instagram: https://www.instagram.com/HealthNutNews
+
+Tumblr: http://erinhealthnut.tumblr.com/
+
+backup Facebook http://Facebook.com/RawfoodRevolution
+
+Contact: http://HealthNutNews.com/contact 
+
+https://www.pinterest.com/healthnutnews/",Erin Elizabeth at Health Nut News,"flu shot', 'vaccines', 'cdc', 'vaccine injury', 'gardasil'",PT4M3S,243,5
+gOR2tNV8qMA,CDC,Organization,NONE,NONE,0.49103,neutral,0.0,0.254831,0.150009,0.289738,0.19322999999999999,0.169051,2,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,NONE,0.907,0.08800000000000001,0.111,0.802,0.2179828504828505,0.5506139693639693,negative,-0.282642,0.129406,0.590589,0.480968,0.190626,0.106924,0.0,8.300000190734862,Vaccination,2018-11-26T01:04:16.000Z,UC85x4iQIC8JENyLy6xRsF8Q,Ex pharma exec gives explosive speech on vaccines before CDC advisory committee,"Please like and share and Subscribe to our page to support our mission. This is my friend and colleague, Brandy Vaughan. 
+
+
+Facebook: https://www.facebook.com/HealthNutNews
+
+Twitter: https://twitter.com/unhealthytruth
+
+Instagram: https://www.instagram.com/HealthNutNews
+
+Tumblr: http://erinhealthnut.tumblr.com/
+
+backup Facebook http://Facebook.com/RawfoodRevolution
+
+Contact: http://HealthNutNews.com/contact 
+
+https://www.pinterest.com/healthnutnews/",Erin Elizabeth at Health Nut News,"flu shot', 'vaccines', 'cdc', 'vaccine injury', 'gardasil'",PT4M3S,243,5
+gOR2tNV8qMA,FDA,Organization,GovernmentAgency,http://dbpedia.org/resource/Food_and_Drug_Administration,0.296247,negative,-0.68818,0.218588,0.15293099999999998,0.181273,0.2449010000000001,0.192796,1,1,FDA,FDA,FDA,FDA,fda,fda,fda,http://en.wikipedia.org/wiki/Food_and_Drug_Administration,0.907,0.08800000000000001,0.111,0.802,0.2179828504828505,0.5506139693639693,negative,-0.282642,0.129406,0.590589,0.480968,0.190626,0.106924,0.0,8.300000190734862,Vaccination,2018-11-26T01:04:16.000Z,UC85x4iQIC8JENyLy6xRsF8Q,Ex pharma exec gives explosive speech on vaccines before CDC advisory committee,"Please like and share and Subscribe to our page to support our mission. This is my friend and colleague, Brandy Vaughan. 
+
+
+Facebook: https://www.facebook.com/HealthNutNews
+
+Twitter: https://twitter.com/unhealthytruth
+
+Instagram: https://www.instagram.com/HealthNutNews
+
+Tumblr: http://erinhealthnut.tumblr.com/
+
+backup Facebook http://Facebook.com/RawfoodRevolution
+
+Contact: http://HealthNutNews.com/contact 
+
+https://www.pinterest.com/healthnutnews/",Erin Elizabeth at Health Nut News,"flu shot', 'vaccines', 'cdc', 'vaccine injury', 'gardasil'",PT4M3S,243,5
+gOR2tNV8qMA,Ninety-five percent,Quantity,NONE,NONE,0.296247,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Ninety-five percent,ninety-f percent,ninety-f percent,ninety-five perc,ninety-f percent,ninety-f percent,ninety-five perc,NONE,0.907,0.08800000000000001,0.111,0.802,0.2179828504828505,0.5506139693639693,negative,-0.282642,0.129406,0.590589,0.480968,0.190626,0.106924,0.0,8.300000190734862,Vaccination,2018-11-26T01:04:16.000Z,UC85x4iQIC8JENyLy6xRsF8Q,Ex pharma exec gives explosive speech on vaccines before CDC advisory committee,"Please like and share and Subscribe to our page to support our mission. This is my friend and colleague, Brandy Vaughan. 
+
+
+Facebook: https://www.facebook.com/HealthNutNews
+
+Twitter: https://twitter.com/unhealthytruth
+
+Instagram: https://www.instagram.com/HealthNutNews
+
+Tumblr: http://erinhealthnut.tumblr.com/
+
+backup Facebook http://Facebook.com/RawfoodRevolution
+
+Contact: http://HealthNutNews.com/contact 
+
+https://www.pinterest.com/healthnutnews/",Erin Elizabeth at Health Nut News,"flu shot', 'vaccines', 'cdc', 'vaccine injury', 'gardasil'",PT4M3S,243,5
+gOR2tNV8qMA,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.38209,neutral,0.0,0.238554,0.093798,0.076666,0.058437,0.09364,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,0.907,0.08800000000000001,0.111,0.802,0.2179828504828505,0.5506139693639693,negative,-0.282642,0.129406,0.590589,0.480968,0.190626,0.106924,0.0,8.300000190734862,Vaccination,2018-11-26T01:04:16.000Z,UC85x4iQIC8JENyLy6xRsF8Q,Ex pharma exec gives explosive speech on vaccines before CDC advisory committee,"Please like and share and Subscribe to our page to support our mission. This is my friend and colleague, Brandy Vaughan. 
+
+
+Facebook: https://www.facebook.com/HealthNutNews
+
+Twitter: https://twitter.com/unhealthytruth
+
+Instagram: https://www.instagram.com/HealthNutNews
+
+Tumblr: http://erinhealthnut.tumblr.com/
+
+backup Facebook http://Facebook.com/RawfoodRevolution
+
+Contact: http://HealthNutNews.com/contact 
+
+https://www.pinterest.com/healthnutnews/",Erin Elizabeth at Health Nut News,"flu shot', 'vaccines', 'cdc', 'vaccine injury', 'gardasil'",PT4M3S,243,5

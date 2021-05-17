@@ -1,0 +1,40 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+kc_L7zxaxjA,Facebook,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Facebook,0.732057,positive,0.6388560000000001,0.467128,0.156757,0.23929,0.068327,0.214671,1,1,Facebook,Facebook,Facebook,Facebook,facebook,facebook,facebook,http://en.wikipedia.org/wiki/Facebook,0.9336,0.07,0.191,0.7390000000000001,0.11106060606060608,0.4928787878787878,negative,-0.329241,0.098654,0.093622,0.446345,0.06600299999999999,0.5320729999999999,0.0,1.8999999761581416,Vaccination,2015-09-18T15:24:23.000Z,UC6ZXNYiuVra9HdM_ghjF1ig,Tara's Story: Getting Vaccinated Can Help Keep You and Your Family Safe,"Getting Vaccinated Can Help Keep You and Your Family Safe: Tara Hills | Protégez votre santé et celle de votre famille par la vaccination : Tara Hills | 
+
+When Tara Hills chose not to vaccinate her children, they became ill with whooping cough. Seeing her children ill made Tara realize that getting vaccinated is one of the best things a mother can do to protect her family.
+
+A descriptive transcript for this video is available by visiting the following link:
+
+http://media.ontarionewsroom.com/desctxt/getting-vaccinated-can-help-keep-you-and-your-family-safe-tara-hills.html
+
+Tara Hills avait choisi de ne pas faire vacciner ses enfants, mais ils ont attrapé la coqueluche. Ses petits ont été tellement malades qu’elle reconnaît maintenant que l’un des meilleurs moyens de protéger ses enfants, c’est de les faire vacciner.
+
+Pour obtenir une transcription descriptive de cette vidéo, cliquer sur le lien suivant :
+
+http://media.ontarionewsroom.com/desctxt/protegez-votre-sante-et-celle-de-votre-famille-par-la-vaccination-:-tara-hills.html",ONgov,"Ontario Canada', 'Government of Ontario', 'Ontario', 'Toronto', 'Premier of Ontario', ""Queen's Park"", 'Legislature', 'Toronto Ontario', 'service Ontario', 'ontario jobs', 'boy', 'baby', 'big', 'brother', 'sister', 'little', 'grandmother', 'mom', 'dad', 'vaccines', 'get', 'vaccinated', 'protect', 'protection', 'playing', 'home', 'greeting', 'children', 'infants', 'health', 'vaccinations', 'tv', 'immunization', 'family', 'story', 'anti-vaxx', 'anti-vaccination', 'science'",PT53S,53,1
+kc_L7zxaxjA,cough,HealthCondition,"DiseaseOrMedicalCondition, RiskFactor, Symptom",http://dbpedia.org/resource/Cough,0.831965,negative,-0.9294819999999999,0.6569470000000001,0.165233,0.01234,0.32316,0.135638,1,1,cough,cough,cough,cough,cough,cough,cough,http://en.wikipedia.org/wiki/Cough,0.9336,0.07,0.191,0.7390000000000001,0.11106060606060608,0.4928787878787878,negative,-0.329241,0.098654,0.093622,0.446345,0.06600299999999999,0.5320729999999999,0.0,1.8999999761581416,Vaccination,2015-09-18T15:24:23.000Z,UC6ZXNYiuVra9HdM_ghjF1ig,Tara's Story: Getting Vaccinated Can Help Keep You and Your Family Safe,"Getting Vaccinated Can Help Keep You and Your Family Safe: Tara Hills | Protégez votre santé et celle de votre famille par la vaccination : Tara Hills | 
+
+When Tara Hills chose not to vaccinate her children, they became ill with whooping cough. Seeing her children ill made Tara realize that getting vaccinated is one of the best things a mother can do to protect her family.
+
+A descriptive transcript for this video is available by visiting the following link:
+
+http://media.ontarionewsroom.com/desctxt/getting-vaccinated-can-help-keep-you-and-your-family-safe-tara-hills.html
+
+Tara Hills avait choisi de ne pas faire vacciner ses enfants, mais ils ont attrapé la coqueluche. Ses petits ont été tellement malades qu’elle reconnaît maintenant que l’un des meilleurs moyens de protéger ses enfants, c’est de les faire vacciner.
+
+Pour obtenir une transcription descriptive de cette vidéo, cliquer sur le lien suivant :
+
+http://media.ontarionewsroom.com/desctxt/protegez-votre-sante-et-celle-de-votre-famille-par-la-vaccination-:-tara-hills.html",ONgov,"Ontario Canada', 'Government of Ontario', 'Ontario', 'Toronto', 'Premier of Ontario', ""Queen's Park"", 'Legislature', 'Toronto Ontario', 'service Ontario', 'ontario jobs', 'boy', 'baby', 'big', 'brother', 'sister', 'little', 'grandmother', 'mom', 'dad', 'vaccines', 'get', 'vaccinated', 'protect', 'protection', 'playing', 'home', 'greeting', 'children', 'infants', 'health', 'vaccinations', 'tv', 'immunization', 'family', 'story', 'anti-vaxx', 'anti-vaccination', 'science'",PT53S,53,1
+kc_L7zxaxjA,two-year,Quantity,NONE,NONE,0.732057,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two-year,two-year,two-year,two-year,two-year,two-year,two-year,NONE,0.9336,0.07,0.191,0.7390000000000001,0.11106060606060608,0.4928787878787878,negative,-0.329241,0.098654,0.093622,0.446345,0.06600299999999999,0.5320729999999999,0.0,1.8999999761581416,Vaccination,2015-09-18T15:24:23.000Z,UC6ZXNYiuVra9HdM_ghjF1ig,Tara's Story: Getting Vaccinated Can Help Keep You and Your Family Safe,"Getting Vaccinated Can Help Keep You and Your Family Safe: Tara Hills | Protégez votre santé et celle de votre famille par la vaccination : Tara Hills | 
+
+When Tara Hills chose not to vaccinate her children, they became ill with whooping cough. Seeing her children ill made Tara realize that getting vaccinated is one of the best things a mother can do to protect her family.
+
+A descriptive transcript for this video is available by visiting the following link:
+
+http://media.ontarionewsroom.com/desctxt/getting-vaccinated-can-help-keep-you-and-your-family-safe-tara-hills.html
+
+Tara Hills avait choisi de ne pas faire vacciner ses enfants, mais ils ont attrapé la coqueluche. Ses petits ont été tellement malades qu’elle reconnaît maintenant que l’un des meilleurs moyens de protéger ses enfants, c’est de les faire vacciner.
+
+Pour obtenir une transcription descriptive de cette vidéo, cliquer sur le lien suivant :
+
+http://media.ontarionewsroom.com/desctxt/protegez-votre-sante-et-celle-de-votre-famille-par-la-vaccination-:-tara-hills.html",ONgov,"Ontario Canada', 'Government of Ontario', 'Ontario', 'Toronto', 'Premier of Ontario', ""Queen's Park"", 'Legislature', 'Toronto Ontario', 'service Ontario', 'ontario jobs', 'boy', 'baby', 'big', 'brother', 'sister', 'little', 'grandmother', 'mom', 'dad', 'vaccines', 'get', 'vaccinated', 'protect', 'protection', 'playing', 'home', 'greeting', 'children', 'infants', 'health', 'vaccinations', 'tv', 'immunization', 'family', 'story', 'anti-vaxx', 'anti-vaccination', 'science'",PT53S,53,1

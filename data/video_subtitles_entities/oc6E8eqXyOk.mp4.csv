@@ -1,0 +1,22 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+oc6E8eqXyOk,Connecticut,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Connecticut,0.739164,negative,-0.684305,0.46525,0.245002,0.105491,0.15828499999999998,0.28937399999999996,2,1,Connecticut,Connecticut,Connecticut,Connecticut,connecticut,connecticut,connecticut,http://en.wikipedia.org/wiki/Connecticut,-0.9787,0.14800000000000002,0.098,0.753,0.05451058201058201,0.38441798941798944,negative,-0.578361,0.118122,0.522407,0.567211,0.121818,0.12236,0.0,6.5,Vaccination,2017-04-18T00:35:07.000Z,UCXVR-WWoQ6J4kZNmPwdZkNQ,The Dangers of Vaccine Overdosing Pets,"Over-vaccinating and the overdosing of pet vaccines has become a global issue. 5 lbs dogs are receiving the same dose of the rabies vaccine as 150 lbs Great Danes, and vets are now witnessing terrible side effects.
+
+Find me 
+on https://facebook.com/PlanetPaws.ca 
+on https://www.facebook.com/rodneyhabib
+on https://www.instagram.com/rodneyhabib
+snapchat - rodneyhabib",Rodney Habib,"John Robb', 'Rodney Habib', 'Planet Paws', 'Vaccines', 'Over-Vaccinating', 'Rabies', 'Banfield', 'Veterinarian', 'dogs', 'cats', 'pets'",PT2M28S,148,3
+oc6E8eqXyOk,State Board,Organization,NONE,NONE,0.887108,negative,-0.771522,0.47538400000000003,0.23248400000000002,0.022848,0.26405300000000004,0.36693899999999996,2,1,State Board,State Board,State Board,State Board,state board,state board,stat board,NONE,-0.9787,0.14800000000000002,0.098,0.753,0.05451058201058201,0.38441798941798944,negative,-0.578361,0.118122,0.522407,0.567211,0.121818,0.12236,0.0,6.5,Vaccination,2017-04-18T00:35:07.000Z,UCXVR-WWoQ6J4kZNmPwdZkNQ,The Dangers of Vaccine Overdosing Pets,"Over-vaccinating and the overdosing of pet vaccines has become a global issue. 5 lbs dogs are receiving the same dose of the rabies vaccine as 150 lbs Great Danes, and vets are now witnessing terrible side effects.
+
+Find me 
+on https://facebook.com/PlanetPaws.ca 
+on https://www.facebook.com/rodneyhabib
+on https://www.instagram.com/rodneyhabib
+snapchat - rodneyhabib",Rodney Habib,"John Robb', 'Rodney Habib', 'Planet Paws', 'Vaccines', 'Over-Vaccinating', 'Rabies', 'Banfield', 'Veterinarian', 'dogs', 'cats', 'pets'",PT2M28S,148,3
+oc6E8eqXyOk,United States,Location,Country,NONE,0.599217,neutral,0.0,0.21557800000000002,0.092966,0.16388699999999998,0.15268800000000002,0.05229400000000002,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,NONE,-0.9787,0.14800000000000002,0.098,0.753,0.05451058201058201,0.38441798941798944,negative,-0.578361,0.118122,0.522407,0.567211,0.121818,0.12236,0.0,6.5,Vaccination,2017-04-18T00:35:07.000Z,UCXVR-WWoQ6J4kZNmPwdZkNQ,The Dangers of Vaccine Overdosing Pets,"Over-vaccinating and the overdosing of pet vaccines has become a global issue. 5 lbs dogs are receiving the same dose of the rabies vaccine as 150 lbs Great Danes, and vets are now witnessing terrible side effects.
+
+Find me 
+on https://facebook.com/PlanetPaws.ca 
+on https://www.facebook.com/rodneyhabib
+on https://www.instagram.com/rodneyhabib
+snapchat - rodneyhabib",Rodney Habib,"John Robb', 'Rodney Habib', 'Planet Paws', 'Vaccines', 'Over-Vaccinating', 'Rabies', 'Banfield', 'Veterinarian', 'dogs', 'cats', 'pets'",PT2M28S,148,3

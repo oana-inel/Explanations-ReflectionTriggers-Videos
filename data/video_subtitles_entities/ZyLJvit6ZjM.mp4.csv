@@ -1,0 +1,101 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZyLJvit6ZjM,$100,Quantity,NONE,NONE,0.134778,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 100,$ 100,$ 100,$ 100,$ 100,$ 100,$ 100,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,7 billion dollars,Quantity,NONE,NONE,0.134778,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,7 billion dollar,7 billion dollar,7 billion dollar,7 bil doll,7 billion dollar,7 billion dollar,7 bil doll,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.8405969999999999,positive,0.020314,0.5114380000000001,0.119559,0.567504,0.153848,0.14440699999999998,23,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Africa,Location,Country,NONE,0.442276,negative,-0.23674699999999999,0.5114380000000001,0.119559,0.567504,0.153848,0.14440699999999998,6,1,Africa,Africa,Africa,Africa,africa,africa,afric,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Africans,Location,Country,NONE,0.390546,positive,0.057771,0.196472,0.074575,0.604638,0.095496,0.177569,8,1,Africans,Africans,Africans,Africans,african,african,afr,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,America,Location,Continent,NONE,0.306103,negative,-0.163471,0.5645979999999999,0.09857300000000001,0.126074,0.57115,0.156401,6,1,America,America,America,America,america,america,americ,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Barry,Person,NONE,NONE,0.140001,negative,-0.635493,0.172772,0.014537999999999999,0.636882,0.058971,0.208418,1,1,Barry,Barry,Barry,Barry,barri,barri,barry,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,China,Location,Country,NONE,0.146003,negative,-0.27770700000000004,0.358023,0.070674,0.287438,0.186615,0.185564,1,1,China,China,China,China,china,china,chin,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Connecticut,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, StateOrCounty",http://dbpedia.org/resource/Connecticut,0.178983,positive,0.642476,0.102583,0.376431,0.421174,0.031088,0.141645,1,1,Connecticut,Connecticut,Connecticut,Connecticut,connecticut,connecticut,connecticut,http://en.wikipedia.org/wiki/Connecticut,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.151612,neutral,0.0,0.323374,0.12573099999999998,0.068676,0.32813000000000003,0.300987,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Middle East,Location,Region,http://dbpedia.org/resource/Middle_East,0.18371600000000002,neutral,0.0,0.201907,0.19975,0.28362600000000004,0.06277100000000001,0.15045,1,1,Middle East,Middle East,Middle East,Middle East,middl east,middl east,middl east,http://en.wikipedia.org/wiki/Middle_East,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Natural Resources,Organization,NONE,NONE,0.21072,positive,0.593064,0.106475,0.05218,0.421951,0.021928,0.059830999999999995,2,1,Natural Resources,Natural Resources,Natural Resources,Natural Resources,natur resourc,natur resourc,nat resourc,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Peter Schiff,Person,TVActor,http://dbpedia.org/resource/Peter_Schiff,0.182703,neutral,0.0,0.16261199999999998,0.10431700000000001,0.180452,0.247488,0.089791,1,1,Peter Schiff,Peter Schiff,Peter Schiff,Peter Schiff,peter schiff,peter schiff,pet schiff,http://en.wikipedia.org/wiki/Peter_Schiff,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,President Obama,Person,NONE,NONE,0.28474099999999997,negative,-0.181417,0.32761399999999996,0.139875,0.220631,0.228848,0.304293,4,1,President Obama,President Obama,President Obama,President Obama,presid obama,presid obama,presid obam,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Ron Paul,Person,"Physician, Politician, U.S.Congressperson, MilitaryPerson, FilmActor, TVActor",http://dbpedia.org/resource/Ron_Paul,0.178862,negative,-0.087622,0.19883399999999998,0.10304400000000001,0.212752,0.133352,0.40007600000000004,2,1,Ron Paul,Ron Paul,Ron Paul,Ron Paul,ron paul,ron paul,ron paul,http://en.wikipedia.org/wiki/Ron_Paul,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Ron Paul Espionage,Person,NONE,NONE,0.16706,negative,-0.292946,0.096983,0.0933,0.21491500000000002,0.036108999999999995,0.6168640000000001,1,1,Ron Paul Espionage,Ron Paul Espionage,Ron Paul Espionage,Ron Paul Espionage,ron paul espionag,ron paul espionag,ron paul esp,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,Snowden,Person,NONE,NONE,0.160195,negative,-0.90914,0.47492700000000004,0.051865999999999995,0.012240000000000001,0.239313,0.556711,2,1,Snowden,Snowden,Snowden,Snowden,snowden,snowden,snowd,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.25706799999999996,negative,-0.203268,0.465292,0.171007,0.362937,0.023191,0.08848099999999999,5,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,president,JobTitle,NONE,NONE,0.210504,positive,0.698433,0.460294,0.035086,0.037502,0.484941,0.175213,3,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10
+ZyLJvit6ZjM,sub-Saharan Africa,Location,Country,NONE,0.23613800000000001,negative,-0.635493,0.172772,0.014537999999999999,0.636882,0.058971,0.208418,1,1,sub-Saharan Africa,sub-saharan Africa,sub-saharan Africa,sub-saharan Africa,sub-saharan africa,sub-saharan africa,sub-saharan afric,NONE,0.9918,0.073,0.109,0.8170000000000001,0.09799052171933524,0.4534506218828253,negative,-0.359978,0.183303,0.191724,0.477143,0.093182,0.456217,0.0,27.10000038146973,Free Trade,2013-07-01T22:03:04.000Z,UCIjuLiLHdFxYtFmWlbTGQRQ,"Obama's Hot New Idea to Save Africa: Less Free Trade, More Child Labor","The Peter Schiff Show (7/1/2013)
+Live Weekdays 10am to noon ET on http://www.SchiffRadio.com
+Buy my newest book at http://www.tinyurl.com/RealCrash
+Friend me on http://www.Facebook.com/PeterSchiff
+Follow me on http://www,Twitter.com/PeterSchiff",Peter Schiff,"obama', 'Barack Obama (US President)', 'africa', 'african', 'soccer', 'energy', 'economy', 'oil', 'resources', 'hypocrisy'",PT9M25S,565,10

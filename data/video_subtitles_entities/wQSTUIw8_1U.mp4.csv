@@ -1,0 +1,755 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+wQSTUIw8_1U,10 years,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,20 percent,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 percent,20 percent,20 percent,20 perc,20 percent,20 percent,20 perc,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,20 years,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 year,20 year,20 year,20 year,20 year,20 year,20 year,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,30%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 %,30 %,30 %,30 %,30 %,30 %,30 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,35%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,35 %,35 %,35 %,35 %,35 %,35 %,35 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,64%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,64 %,64 %,64 %,64 %,64 %,64 %,64 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,70%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,70 %,70 %,70 %,70 %,70 %,70 %,70 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,74%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,74 %,74 %,74 %,74 %,74 %,74 %,74 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,75 percent,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,75 percent,75 percent,75 percent,75 perc,75 percent,75 percent,75 perc,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,90%,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,99 percent,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,99 percent,99 percent,99 percent,99 perc,99 percent,99 percent,99 perc,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.18673800000000002,negative,-0.840016,0.707058,0.316223,0.034194,0.124224,0.057111,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,Gardasil,Drug,NONE,NONE,0.209135,negative,-0.737372,0.32335,0.071374,0.098101,0.095877,0.041214,2,1,Gardasil,Gardasil,Gardasil,Gardasil,gardasil,gardasil,gardasil,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,HPV,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Human_papillomavirus,0.964198,negative,-0.714142,0.653003,0.24060399999999998,0.550728,0.12216800000000001,0.059722000000000004,13,1,HPV,HPV,HPV,HPV,hpv,hpv,hpv,http://en.wikipedia.org/wiki/Human_papillomavirus,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,HPV vaccine,Drug,NONE,NONE,0.930802,negative,-0.22737600000000002,0.715478,0.235704,0.077046,0.116799,0.058602,5,1,HPV vaccine,HPV vaccin,HPV vaccin,HPV vaccin,hpv vaccin,hpv vaccin,hpv vaccin,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,TMI,Company,NONE,NONE,0.201737,negative,-0.704497,0.38116700000000003,0.372809,0.13335,0.195454,0.116969,1,1,TMI,TMI,TMI,TMI,tmi,tmi,tmi,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,Volvo,Company,AwardWinner,http://dbpedia.org/resource/Volvo,0.21954899999999997,negative,-0.226861,0.44943599999999995,0.098419,0.091486,0.050779000000000005,0.069088,1,1,Volvo,Volvo,Volvo,Volvo,volvo,volvo,volvo,http://en.wikipedia.org/wiki/Volvo,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,anal cancer,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, Disease",http://dbpedia.org/resource/Anal_cancer,0.4562520000000001,negative,-0.708283,0.633077,0.346071,0.047108,0.127349,0.015236000000000001,3,1,anal cancer,anal cancer,anal cancer,an cant,anal cancer,anal cancer,an cant,http://en.wikipedia.org/wiki/Anal_cancer,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,cancer,HealthCondition,"FieldOfStudy, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, MedicalSpecialty, RiskFactor, Disease",http://dbpedia.org/resource/Cancer,0.597282,negative,-0.732966,0.7625890000000001,0.232712,0.077766,0.188296,0.057022,9,1,cancer,cancer,cancer,cant,cancer,cancer,cant,http://en.wikipedia.org/wiki/Cancer,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,cervical cancer,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, Symptom, Disease",http://dbpedia.org/resource/Cervical_cancer,0.867226,negative,-0.7614390000000001,0.744287,0.26758899999999997,0.091282,0.120597,0.056776,10,1,cervical cancer,cervic cancer,cervic cancer,cerv cant,cervic cancer,cervic cancer,cerv cant,http://en.wikipedia.org/wiki/Cervical_cancer,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,dr. Mike Evans,Person,NONE,NONE,0.233579,neutral,0.0,0.257577,0.164859,0.241339,0.139917,0.09101000000000001,1,1,dr. Mike Evans,dr. Mike Evans,dr. Mike Evans,dr. Mike Evans,dr. mike evan,dr. mike evan,dr. mik ev,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,flu,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.19623,negative,-0.8761610000000001,0.460258,0.21273499999999998,0.101904,0.10720199999999999,0.053191999999999996,1,1,flu,flu,flu,flu,flu,flu,flu,http://en.wikipedia.org/wiki/Influenza,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,hepatitis,HealthCondition,NONE,NONE,0.16178,negative,-0.8761610000000001,0.460258,0.21273499999999998,0.101904,0.10720199999999999,0.053191999999999996,1,1,hepatitis,hepat,hepat,hepatit,hepat,hepat,hepatit,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,hundred percent,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred percent,hundr percent,hundr percent,hundr perc,hundr percent,hundr percent,hundr perc,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,one hand,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,one hand,one hand,one hand,on hand,one hand,one hand,on hand,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,six months,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six month,six month,six month,six month,six month,six month,six month,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,ten years,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ten year,ten year,ten year,ten year,ten year,ten year,ten year,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,two days,Quantity,NONE,NONE,0.16178,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two day,two day,two day,two day,two day,two day,two day,NONE,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9
+wQSTUIw8_1U,u.s,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.199691,neutral,0.0,0.14811300000000002,0.041895,0.370603,0.266839,0.158816,1,1,u.s,u.,u.,u.s,u.,u.,u.s,http://en.wikipedia.org/wiki/United_States,-0.9977,0.139,0.109,0.7509999999999999,0.10200766530553763,0.479788208245655,negative,-0.508391,0.077,0.541597,0.584113,0.172939,0.131053,-0.10000000149011612,18.899999618530273,Vaccination,2012-10-03T21:13:43.000Z,UCL-IWPkXQn3JYYYsPnpGlIg,Should You Get the HPV Vaccine?,"Check out our new website http://www.evanshealthlab.com/
+Follow Dr. Mike for new videos! http://twitter.com/docmikeevans
+Dr. Mike Evans http://www.myfavouritemedicine.com and the Campaign to Control Cancer http://controlcancer.ca are very proud to launch a new video explaining the facts behind the HPV vaccination. 
+
+""There is a lot of conflicting information out there, we want to present the facts in a simple way allowing people to make their own decision"" Dr. Mike Evans
+
+http://twitter.com/docmikeevans
+http://www.facebook.com/docmikeevans
+
+Dr. Mike Evans is founder of the Health Design Lab at the Li Ka Shing Knowledge Institute, an Associate Professor of Family Medicine and Public Health at the University of Toronto, and a staff physician at St. Michael's Hospital.
+
+Greek verbatim transcription and translation by Olympia Kardala 
+Subtitling by Orestis  A. Varvitsiotis 
+for the Hellenic Society for the Research and Treatment of HPV ( http://www.hpvsociety.gr/ )""
+
+Written and Narrated by Dr. Mike Evans
+Executive Producer, Dr. Mike Evans
+Illustrations by Liisa Sorsa
+Produced, Directed, and Photographed by Nick De Pencier 
+Editor, David Schmidt 
+Story/Graphic Facilitator, Disa Kauk 
+Whiteboard Construction, James Vanderkleyn
+Production Assistant, Chris Niesing 
+Script Consultant, Hilary Cousins 
+
+©2012 Michael Evans and Mercury Films Inc.",DocMikeEvans,"HPV', 'vaccine', 'Dr. Mike Evans', 'health', 'wellness', 'medical', 'cancer', 'C2CC'",PT8M47S,527,9

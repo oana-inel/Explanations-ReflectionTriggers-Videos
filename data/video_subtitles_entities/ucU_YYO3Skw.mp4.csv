@@ -1,0 +1,113 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ucU_YYO3Skw,20%,Quantity,NONE,NONE,0.188057,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 %,20 %,20 %,20 %,20 %,20 %,20 %,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,40 Years,Quantity,NONE,NONE,0.188057,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,40 Years,40 year,40 year,40 year,40 year,40 year,40 year,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Artie,Person,NONE,NONE,0.188057,positive,0.817351,0.0,0.0,0.0,0.0,0.0,1,1,Artie,Artie,Artie,Artie,arti,arti,arty,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.5237310000000001,positive,0.7829470000000001,0.206576,0.13364700000000002,0.358931,0.100516,0.064598,6,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.8115220000000001,positive,0.29297399999999996,0.492414,0.139323,0.33182399999999995,0.16784100000000002,0.102557,6,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Catalonia,Location,City,NONE,0.369688,positive,0.592082,0.35215,0.08920499999999999,0.079738,0.396294,0.286514,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Catalonia,Location,Country,NONE,0.288438,neutral,0.0,0.35215,0.08920499999999999,0.079738,0.396294,0.286514,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Charlotte,Location,City,NONE,0.261633,positive,0.592082,0.26619699999999996,0.223425,0.221464,0.279487,0.22623800000000002,2,1,Charlotte,Charlotte,Charlotte,Charlotte,charlott,charlott,charlot,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Charlotte dubinsky,Person,NONE,NONE,0.316907,positive,0.7829470000000001,0.132193,0.107118,0.656181,0.086966,0.067501,2,1,Charlotte dubinsky,Charlotte dubinski,Charlotte dubinski,Charlotte dubinsky,charlott dubinski,charlott dubinski,charlot dubinsky,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.5488109999999999,negative,-0.600007,0.582244,0.17529,0.11913399999999999,0.535131,0.166897,7,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Madrid government,Organization,NONE,NONE,0.294796,neutral,0.0,0.598755,0.075649,0.074749,0.361219,0.156802,1,1,Madrid government,Madrid govern,Madrid govern,Madrid govern,madrid govern,madrid govern,madrid govern,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.25249499999999997,neutral,0.0,0.279242,0.202444,0.42662700000000003,0.025707999999999998,0.024509,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.700042,negative,-0.102974,0.634452,0.120604,0.14338099999999998,0.225181,0.156816,9,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,catalonian parliament,Organization,NONE,NONE,0.500449,neutral,0.0,0.5536979999999999,0.059832,0.10082,0.37451599999999996,0.181517,3,1,catalonian parliament,catalonian parliament,catalonian parliament,catalon parlia,catalonian parliament,catalonian parliament,catalon parlia,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,hundred years,Quantity,NONE,NONE,0.188057,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred year,hundr year,hundr year,hundr year,hundr year,hundr year,hundr year,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5
+ucU_YYO3Skw,prime minister,JobTitle,NONE,NONE,0.23362199999999997,neutral,0.0,0.279242,0.202444,0.42662700000000003,0.025707999999999998,0.024509,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,0.9966,0.04,0.117,0.843,0.20880817099567087,0.4400365259740259,positive,0.484587,0.115702,0.515335,0.512486,0.119623,0.156437,0.0,10.800000190734863,Catalonia Independence,2017-10-27T23:58:32.000Z,UCczrL-2b-gYK3l4yDld4XlQ,Catalans declare independence from Spain in historic vote,"Spanish Prime Minister Mariano Rajoy just moved to dissolve Catalonia's parliament a few hours after it voted to become totally independent from the rest of the country. Thousands had gathered in Barcelona to celebrate, but now the mood has changed. RT's Charlotte Dubenskij has the details.
+
+Find RT America in your area: http://rt.com/where-to-watch/
+Or watch us online: http://rt.com/on-air/rt-america-air/
+
+Like us on Facebook http://www.facebook.com/RTAmerica
+Follow us on Twitter http://twitter.com/RT_America",RT America,"Charlotte Dubenskij', ""Catalonia's Parliament"", 'Spanish prime minister Mariano Rajoy', 'Barcelona', 'historic vote', 'referendum', 'declare independence', 'freedom'",PT4M37S,277,5

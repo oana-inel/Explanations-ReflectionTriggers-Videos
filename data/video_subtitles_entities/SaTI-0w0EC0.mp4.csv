@@ -1,0 +1,1135 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+SaTI-0w0EC0,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.4099100000000001,neutral,0.0,0.201429,0.06008400000000001,0.298126,0.472575,0.09735,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Baghdad,Location,"GovernmentalJurisdiction, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/Baghdad,0.530728,negative,-0.6239600000000001,0.183603,0.105826,0.022813,0.356561,0.49376499999999995,1,1,Baghdad,Baghdad,Baghdad,Baghdad,baghdad,baghdad,baghdad,http://en.wikipedia.org/wiki/Baghdad,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Baghdad government,Organization,NONE,NONE,0.6696439999999999,negative,-0.49723199999999995,0.182612,0.129938,0.036251,0.324293,0.35483600000000004,1,1,Baghdad government,Baghdad govern,Baghdad govern,Baghdad govern,baghdad govern,baghdad govern,baghdad govern,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.432547,neutral,0.0,0.33427199999999996,0.174316,0.23364200000000002,0.09117,0.277781,2,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Eritrea,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Eritrea,0.466563,negative,-0.805403,0.42135900000000004,0.199489,0.155823,0.14735399999999998,0.308603,2,1,Eritrea,Eritrea,Eritrea,Eritrea,eritrea,eritrea,eritre,http://en.wikipedia.org/wiki/Eritrea,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Ethiopia,Location,Country,http://dbpedia.org/resource/Ethiopia,0.340238,negative,-0.805403,0.43923,0.216232,0.142377,0.14432799999999998,0.294595,1,1,Ethiopia,Ethiopia,Ethiopia,Ethiopia,ethiopia,ethiopia,ethiop,http://en.wikipedia.org/wiki/Ethiopia,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,European commission,Organization,NONE,NONE,0.39012399999999997,neutral,0.0,0.334365,0.174424,0.236646,0.09049199999999999,0.26729899999999995,1,1,European commission,European commiss,European commiss,European commit,european commiss,european commiss,europ commit,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Gulf of Aden,GeographicFeature,"Location, BodyOfWater",http://dbpedia.org/resource/Gulf_of_Aden,0.439327,neutral,0.0,0.174868,0.081916,0.249933,0.13811199999999998,0.186879,1,1,Gulf of Aden,Gulf of Aden,Gulf of Aden,Gulf of Aden,gulf of aden,gulf of aden,gulf of ad,http://en.wikipedia.org/wiki/Gulf_of_Aden,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Iraq,Location,Country,NONE,0.460975,neutral,0.0,0.338999,0.347364,0.146019,0.32813600000000004,0.132662,1,1,Iraq,Iraq,Iraq,Iraq,iraq,iraq,iraq,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Jean-Claude juncker,Person,"Politician, ChivalricOrderMember",http://dbpedia.org/resource/Jean-Claude_Juncker,0.5501560000000001,neutral,0.0,0.14308099999999999,0.07532799999999999,0.436936,0.054721000000000006,0.02607,1,1,Jean-Claude juncker,Jean-Claude juncker,Jean-Claude juncker,Jean-Claude junck,jean-claud juncker,jean-claud juncker,jean-claude junck,http://en.wikipedia.org/wiki/Jean-Claude_Juncker,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Montevideo,Location,City,http://dbpedia.org/resource/Montevideo,0.46759799999999996,neutral,0.0,0.178928,0.127885,0.10945799999999999,0.067834,0.134548,1,1,Montevideo,Montevideo,Montevideo,Montevideo,montevideo,montevideo,montevideo,http://en.wikipedia.org/wiki/Montevideo,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Somalia,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Somalia,0.575186,negative,-0.7500829999999999,0.349432,0.09589199999999999,0.11221500000000001,0.22988899999999998,0.270827,2,1,Somalia,Somalia,Somalia,Somalia,somalia,somalia,somal,http://en.wikipedia.org/wiki/Somalia,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Somaliland,Organization,NONE,NONE,0.475012,neutral,0.0,0.177535,0.079351,0.414213,0.116899,0.12954000000000002,2,1,Somaliland,Somaliland,Somaliland,Somaliland,somaliland,somaliland,somaliland,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,South Sudan,Location,Country,http://dbpedia.org/resource/South_Sudan,0.593001,neutral,0.0,0.484126,0.071078,0.35048,0.13031900000000002,0.05957000000000001,3,1,South Sudan,South Sudan,South Sudan,South Sudan,south sudan,south sudan,sou sud,http://en.wikipedia.org/wiki/South_Sudan,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Southeastern,Location,Region,NONE,0.397387,positive,0.34827600000000003,0.20358099999999998,0.173672,0.375316,0.06504800000000001,0.073744,1,1,Southeastern,Southeastern,Southeastern,Southeastern,southeastern,southeastern,southeastern,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.533085,neutral,0.0,0.468738,0.08707999999999999,0.27863499999999997,0.06163200000000001,0.223595,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,Taiwan,Location,"GeographicFeature, Island, Country",http://dbpedia.org/resource/Taiwan,0.8426629999999999,positive,0.34827600000000003,0.19655799999999998,0.11455599999999999,0.477365,0.101999,0.144799,7,1,Taiwan,Taiwan,Taiwan,Taiwan,taiwan,taiwan,taiw,http://en.wikipedia.org/wiki/Taiwan,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5
+SaTI-0w0EC0,president,JobTitle,NONE,NONE,0.41831499999999994,neutral,0.0,0.334365,0.174424,0.236646,0.09049199999999999,0.26729899999999995,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.9945,0.154,0.08,0.7659999999999999,0.1028409090909091,0.493844696969697,negative,-0.513484,0.14695899999999998,0.514738,0.562032,0.154058,0.124781,-0.20000000298023224,8.5,Catalonia Independence,2017-11-09T20:30:07.000Z,UC0p5jTq6Xx_DosDFxVXnWaQ,The struggles for independence and the impact of redrawing borders | The Economist,"From Catalonia to Kurdistan and Quebec, many people are demanding independence. What does it take to transform a cultural identity into a nation-state? And what is the impact?
+
+Click here to subscribe to The Economist on YouTube: http://econ.st/2zpWFnB 
+
+The number of countries in the United Nations has grown over the decades – from 51 states in 1945 to 193 today. Many more places want to become independent.
+ 
+But national governments almost always oppose secession.
+Catalonia’s parliament declared independence from Spain in October 2017 following a referendum deemed illegal by the central authorities in Madrid.
+
+Spain dismissed the region’s government, and decreed that a fresh election should be held. Catalan politicians leading the independence movement could be jailed for decades if found guilty of rebellion and sedition. 
+
+The autonomous Kurdish region in Iraq also held a recent independence referendum. It outraged the government in Baghdad and neighbouring countries, which also have Kurdish minorities.
+
+The Baghdad government claimed the independence referendum was illegal and seized back the lands Kurds had taken beyond their region. 
+
+The desire for secession is nothing new.
+
+There are estimated to be more than than 8000 ethno-cultural groups in the world. With many independence movements demanding that their homelands be recognised as countries. 
+
+Jean-Claude Juncker, the president of the European Commission, said that if every region had its way, the EU would become unmanageable. 
+
+So who gets to form a state?
+
+There are no clear international rules. The 1933 Montevideo Convention declared that a region needs 4 things to become a state:
+- a permanent population
+- a defined territory
+- a government
+- and the capacity to enter into relations with other states.
+
+But these are only guidelines. Ideally a region would also meet other conditions, such as:
+- show that a clear majority have freely chosen independence
+- respect its own minorities
+- have a viable state
+- and settle terms with the state it leaves and its neighbours
+
+In practice, all these conditions are hard to meet. 
+
+Taiwan is a modern, democratic state in all but international law. 
+It’s an island off the south-eastern coast of China which has its own constitution, functions as an independent state, has democratically elected leaders, and was the first place in Asia to rule in favour of gay marriage.
+
+Per head it’s around three times richer than mainland China. But China regards Taiwan as a renegade province. It insists that no country can have diplomatic ties with both itself and Taiwan. Only 19 countries, plus the Vatican, officially recognise it.
+
+Somaliland is another region seeking to be recognised as a country. The semi-desert territory on the coast of the Gulf of Aden declared independence from Somalia in 1991. It has its own government, police force and currency. But no foreign government recognises it. Perhaps for good reason.
+
+To recognise Somaliland would encourage other separatists in the region. It would undermine the already-weak federal government of Somalia. And it would probably lead to war. 
+
+There have only been two major changes to African borders since the 1960s and neither is a success story. 
+
+Eritrea declared independence from Ethiopia in 1993. Today the country has a despotic government and its people are mired in abject poverty.
+
+In 2011 South Sudan seceded from Sudan, making it the world’s newest country. Soon after South Sudan formed civil war broke out displacing 2.2 million people. Although a ceasefire was signed in 2015, the country lies in ruins - plagued by hyper-inflation, famine and violence.
+
+Independence has a romantic ring. Many sympathise with the demand for freedom. But redrawing borders is dangerous, and often causes as many problems as it solves.
+
+Daily Watch: mind-stretching short films throughout the working week.
+
+For more from Economist Films visit: http://econ.st/2zpaHWN 
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+Like The Economist on Facebook: http://econ.st/2zpaJ0R 
+Follow The Economist on Twitter: http://econ.st/2zpaKBX 
+Follow us on Instagram: http://econ.st/2zpaL8Z 
+Follow us on LINE: http://econ.st/1WXkOo6 
+Follow us on Medium: http://econ.st/2zpWHMf",The Economist,"The Economist', 'Economist', 'Economist Films', 'Economist Videos', 'Politics', 'News', 'short-documentary', 'catalonia independence', 'independence referendum', 'independence', 'independent state', 'what makes a country', 'how to make a new country', 'what makes a new country', 'the economist', 'economist', 'economist films', 'economist video', 'kurdistan independence', 'quebec independence', 'arguements for independence', 'sucession'",PT4M36S,276,5

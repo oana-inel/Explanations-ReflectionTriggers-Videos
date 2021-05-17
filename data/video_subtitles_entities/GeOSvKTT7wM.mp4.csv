@@ -1,0 +1,49 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+GeOSvKTT7wM,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.46352299999999996,positive,0.614883,0.179607,0.052652,0.6484260000000001,0.037761,0.075852,3,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,Eichmann,Person,NONE,NONE,0.258698,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Eichmann,Eichmann,Eichmann,Eichmann,eichmann,eichmann,eichman,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,Israel,Location,"GovernmentalJurisdiction, FilmArtDirector, Country",http://dbpedia.org/resource/Israel,0.8509209999999999,positive,0.346927,0.122517,0.042024,0.659989,0.05359,0.135026,5,1,Israel,Israel,Israel,Israel,israel,israel,israel,http://en.wikipedia.org/wiki/Israel,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,Israeli National,Organization,NONE,NONE,0.24914499999999998,negative,-0.45693999999999996,0.144324,0.126637,0.12300499999999999,0.121652,0.186859,1,1,Israeli National,Israeli National,Israeli National,Israeli National,isra nation,isra nation,israel nat,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,Marine Agriculture,Organization,NONE,NONE,0.278647,positive,0.5739479999999999,0.238512,0.057896,0.5976640000000001,0.036019999999999996,0.054473,1,1,Marine Agriculture,Marine Agriculture,Marine Agriculture,Marine Agriculture,marin agricultur,marin agricultur,marin agricult,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,Weisman Institute,Organization,NONE,NONE,0.264252,neutral,0.0,0.143368,0.06754299999999999,0.263813,0.142764,0.133048,1,1,Weisman Institute,Weisman Institute,Weisman Institute,Weisman Institute,weisman institut,weisman institut,weism institut,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,partner,JobTitle,NONE,NONE,0.20641199999999998,positive,0.5739479999999999,0.238512,0.057896,0.5976640000000001,0.036019999999999996,0.054473,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3
+GeOSvKTT7wM,president,JobTitle,NONE,NONE,0.22733699999999998,neutral,0.0,0.143368,0.06754299999999999,0.263813,0.142764,0.133048,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9868,0.0,0.17,0.83,0.2327248677248677,0.4871693121693122,positive,0.8511489999999999,0.087513,0.637247,0.157075,0.084256,0.069898,0.20000000298023224,3.5,Free Trade,2016-03-29T12:13:33.000Z,UCKM3VQFIITaRegPDkLlLeKA,Israel and China enter talks over establishing free-trade zone,"Read the story at the Times of Israel: http://toi.sr/1TfWtdM
+
+Credit: Government Press Office
+
+וידאו: איתי בית-און, לע""מ
+סאונד: איתמר בוטון, לע""מ",Times of Israel,"israel', 'china', 'netanyahu', 'liujindong'",PT2M24S,144,3

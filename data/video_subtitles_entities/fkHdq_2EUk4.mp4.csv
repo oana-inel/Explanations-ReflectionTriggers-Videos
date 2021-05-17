@@ -1,0 +1,105 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+fkHdq_2EUk4,$4,Quantity,NONE,NONE,0.47048100000000004,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,$ 4,$ 4,$ 4,$ 4,$ 4,$ 4,$ 4,NONE,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,Europe,Location,Continent,NONE,0.47048100000000004,negative,-0.640516,0.795713,0.209735,0.005966,0.153623,0.090167,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,NONE,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,Hong Kong,Location,"HumanLanguage, AdministrativeDivision, Country, GovernmentalJurisdiction, BodyOfWater, Cuisine, City",http://dbpedia.org/resource/Hong_Kong,0.528914,negative,-0.8751120000000001,0.15069200000000002,0.16906,0.453107,0.11175299999999999,0.080252,1,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,http://en.wikipedia.org/wiki/Hong_Kong,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,Japan,Location,"Kingdom, Country",http://dbpedia.org/resource/Empire_of_Japan,0.5112329999999999,negative,-0.640516,0.795713,0.209735,0.005966,0.153623,0.090167,1,1,Japan,Japan,Japan,Japan,japan,japan,jap,http://en.wikipedia.org/wiki/Empire_of_Japan,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,President Reagan,Person,"Politician, President, AwardWinner, ChivalricOrderMember, MilitaryPerson, PoliticalAppointer, USPresident, FilmActor, TVActor",http://dbpedia.org/resource/Ronald_Reagan,0.818914,neutral,0.0,0.122146,0.036025,0.453607,0.198076,0.24319699999999997,3,1,President Reagan,President Reagan,President Reagan,President Reagan,presid reagan,presid reagan,presid reag,http://en.wikipedia.org/wiki/Ronald_Reagan,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,San Francisco,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, PlaceWithNeighborhoods, USCounty, FilmScreeningVenue, City",http://dbpedia.org/resource/San_Francisco,0.540925,neutral,0.0,0.16206600000000002,0.05148,0.40085,0.203817,0.232064,1,1,San Francisco,San Francisco,San Francisco,San Francisco,san francisco,san francisco,san francisco,http://en.wikipedia.org/wiki/San_Francisco,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,Singapore,Location,Country,http://dbpedia.org/resource/Singapore,0.481854,negative,-0.8751120000000001,0.15069200000000002,0.16906,0.453107,0.11175299999999999,0.080252,1,1,Singapore,Singapore,Singapore,Singapore,singapor,singapor,singap,http://en.wikipedia.org/wiki/Singapore,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3
+fkHdq_2EUk4,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.49115699999999995,positive,0.5397810000000001,0.140124,0.062993,0.5051479999999999,0.198981,0.18348699999999998,1,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.983,0.077,0.123,0.8,0.26179138321995465,0.5582766439909296,positive,0.32948,0.174249,0.563958,0.522217,0.138682,0.14298699999999998,0.0,7.699999809265138,Free Trade,2013-04-22T14:48:02.000Z,UCo4bDsRZPS_Nyljf7MR1ugg,Milton Friedman on Free Trade,"Milton Friedman urges America to maintain her role as leader of The Free World, by embracing Free Trade.
+
+Check out our Facebook page here: https://www.facebook.com/FreeToChooseNetwork
+
+Visit our media website to find other programs here: http://freetochoosemedia.org/index.php
+
+Connect with us on Twitter here: https://twitter.com/FreeToChooseNet
+
+Learn more about our company here: http://freetochoosenetwork.org/
+
+Shop for related products here: http://www.freetochoose.net/
+
+Stream from FreeToChoose.TV here: http://freetochoose.tv/",Free To Choose Network,"Milton Friedman (Economist)', 'Milton Friedman (Academic)', 'Free Trade (Literature Subject)', 'Economist (Profession)', 'Economic Development (Organization Sector)', 'Economic Growth (Literature Subject)', 'Trade (Quotation Subject)', 'United States Of America (Country)'",PT2M34S,154,3

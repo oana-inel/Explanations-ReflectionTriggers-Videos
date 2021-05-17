@@ -1,0 +1,129 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+fiULsm_qY7Y,Anna Faris,Person,"Actor, AwardNominee, Celebrity, FilmActor, FilmProducer, TVActor",http://dbpedia.org/resource/Anna_Faris,0.622031,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Anna Faris,Anna Faris,Anna Faris,Anna Faris,anna fari,anna fari,ann far,http://en.wikipedia.org/wiki/Anna_Faris,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Antoni Ballas,Person,NONE,NONE,0.67166,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Antoni Ballas,Antoni Ballas,Antoni Ballas,Antoni Ballas,antoni balla,antoni balla,anton balla,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Fernando,Person,NONE,NONE,0.429375,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Fernando,Fernando,Fernando,Fernando,fernando,fernando,fernando,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Martinez,Person,NONE,NONE,0.413332,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Martinez,Martinez,Martinez,Martinez,martinez,martinez,martinez,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Noemi Villa Callie,Facility,NONE,NONE,0.82537,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Noemi Villa Callie,Noemi Villa Callie,Noemi Villa Callie,Noemi Villa Callie,noemi villa calli,noemi villa calli,noem vill cal,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Ron casals,Person,NONE,NONE,0.5988060000000001,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Ron casals,Ron casal,Ron casal,Ron cas,ron casal,ron casal,ron cas,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,Su,Person,NONE,NONE,0.45138900000000004,neutral,0.0,0.250324,0.090931,0.356005,0.177395,0.123951,1,1,Su,Su,Su,Su,Su,su,su,NONE,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4
+fiULsm_qY7Y,mehsana,Location,City,http://dbpedia.org/resource/Mehsana,0.401967,positive,0.535986,0.057658,0.140966,0.289381,0.4694930000000001,0.1837,1,1,mehsana,mehsana,mehsana,mehsan,mehsana,mehsana,mehsan,http://en.wikipedia.org/wiki/Mehsana,0.0258,0.076,0.08800000000000001,0.836,-0.2,0.9333333333333332,positive,0.422281,0.098045,0.660179,0.128111,0.044783,0.133597,0.20000000298023224,1.7999999523162842,Catalonia Independence,2017-10-27T14:33:48.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan parliament overwhelmingly approves independence declaration,"The Catalan Parliament voted in favour of approving an independence declaration for the region in Barcelona, Friday.
+
+70 representatives voted in favour, with ten against and two abstinences, with another handful of senators boycotting the vote altogether and leaving Spanish flags on their pews.
+
+Catalan President Carles Puigdemont cast the final of the 82 votes before the Speaker Carme Forcadell set about counting the result.
+
+She declared to a standing ovation from the parliament before some members started singing the Catalan national anthem and shouting 'Visca la Republica Catalana' ('Long live the Catalan Republic').
+
+It follows the Spanish central government’s plans to invoke Article 155 which would impose direct rule by Madrid over Catalonia. 
+
+Video ID: 20171027-026
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan independence', 'catalan referendum', 'catalan parliament'",PT3M29S,209,4

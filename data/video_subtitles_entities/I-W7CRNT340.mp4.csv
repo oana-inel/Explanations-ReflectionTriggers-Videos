@@ -1,0 +1,326 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+I-W7CRNT340,CNBC,Company,NONE,NONE,0.347565,negative,-0.765283,0.444226,0.182199,0.400405,0.027645,0.059601,2,1,CNBC,CNBC,CNBC,CNBC,cnbc,cnbc,cnbc,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.701667,negative,-0.534053,0.098875,0.105491,0.701228,0.005742000000000001,0.10453,6,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,George Will,Person,AwardWinner,http://dbpedia.org/resource/George_Will,0.8259850000000001,positive,0.064489,0.18925899999999998,0.074062,0.701557,0.037725999999999996,0.094222,7,1,George Will,George Will,George Will,George Will,georg will,georg will,georg wil,http://en.wikipedia.org/wiki/George_Will,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Gil Scott-Heron,Person,"Composer, MusicalArtist, BroadcastArtist, MusicalGroupMember, TVActor",http://dbpedia.org/resource/Gil_Scott-Heron,0.485926,negative,-0.69813,0.6546810000000001,0.09138500000000001,0.104995,0.087575,0.30698600000000004,2,1,Gil Scott-Heron,Gil Scott-Heron,Gil Scott-Heron,Gil Scott-Heron,gil scott-heron,gil scott-heron,gil scott-heron,http://en.wikipedia.org/wiki/Gil_Scott-Heron,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,International Trade,Company,NONE,NONE,0.409485,neutral,0.0,0.392836,0.069185,0.260354,0.323428,0.12904300000000002,1,1,International Trade,International Trade,International Trade,International Trade,intern trade,intern trade,intern trad,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Italy Germany,Location,Country,NONE,0.27279499999999995,positive,0.050997,0.28594200000000003,0.156197,0.5425260000000001,0.11744600000000001,0.11035899999999996,1,1,Italy Germany,Italy Germany,Italy Germany,Italy Germany,itali germani,itali germani,ita germany,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Japan,Location,"MusicalGroup, BroadcastArtist, MusicalArtist, RecordProducer, Country",http://dbpedia.org/resource/Japan,0.269424,neutral,0.0,0.256033,0.219133,0.185614,0.122294,0.207594,1,1,Japan,Japan,Japan,Japan,japan,japan,jap,http://en.wikipedia.org/wiki/Japan,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Mr. Minutia,Person,NONE,NONE,0.34568000000000004,negative,-0.6844,0.577629,0.09124299999999999,0.304709,0.04695,0.092331,1,1,Mr. Minutia,Mr. Minutia,Mr. Minutia,Mr. Minutia,mr. minutia,mr. minutia,mr. minut,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,NATO,Organization,"Location, MembershipOrganization",http://dbpedia.org/resource/NATO,0.32249099999999997,negative,-0.679505,0.551175,0.103228,0.05335499999999999,0.318838,0.29436799999999996,1,1,NATO,NATO,NATO,NATO,nato,nato,nato,http://en.wikipedia.org/wiki/NATO,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,National Health,Organization,NONE,NONE,0.317605,positive,0.5281600000000001,0.156115,0.106465,0.580599,0.011398,0.079947,1,1,National Health,National Health,National Health,National Health,nation health,nation health,nat heal,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,National Security,Company,NONE,NONE,0.680059,negative,-0.38210700000000003,0.300583,0.532258,0.125108,0.169207,0.044966000000000006,5,1,National Security,National Security,National Security,National Security,nation secur,nation secur,nat sec,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,North Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/North_Korea,0.8860040000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,6,1,North Korea,North Korea,North Korea,North Korea,north korea,north korea,nor kore,http://en.wikipedia.org/wiki/North_Korea,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,President Trump,Person,NONE,NONE,0.370915,negative,-0.575386,0.238452,0.54174,0.078467,0.064591,0.359665,2,1,President Trump,President Trump,President Trump,President Trump,presid trump,presid trump,presid trump,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Pulitzer,PrintMedia,NONE,NONE,0.346804,positive,0.8560639999999999,0.033202999999999996,0.016124,0.40015,0.017171000000000002,0.018101,1,1,Pulitzer,Pulitzer,Pulitzer,Pulitzer,pulitz,pulitz,pulitz,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Qaddafi,Person,NONE,NONE,0.4703,neutral,0.0,0.24835700000000002,0.048237,0.173733,0.157354,0.10940599999999999,6,1,Qaddafi,Qaddafi,Qaddafi,Qaddafi,qaddafi,qaddafi,qaddaf,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Saddam Hussein,Person,"Politician, OfficeHolder",http://dbpedia.org/resource/Saddam_Hussein,0.393671,neutral,0.0,0.257745,0.1052,0.021447,0.143173,0.163475,3,1,Saddam Hussein,Saddam Hussein,Saddam Hussein,Saddam Hussein,saddam hussein,saddam hussein,saddam hussein,http://en.wikipedia.org/wiki/Saddam_Hussein,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,South Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/South_Korea,0.366375,negative,-0.38210700000000003,0.300583,0.532258,0.125108,0.169207,0.044966000000000006,1,1,South Korea,South Korea,South Korea,South Korea,south korea,south korea,sou kore,http://en.wikipedia.org/wiki/South_Korea,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Soviet Union,Organization,"Location, Country, GovernmentalJurisdiction",http://dbpedia.org/resource/Soviet_Union,0.38064699999999996,positive,0.17266199999999998,0.17922000000000002,0.077434,0.613193,0.064557,0.097163,2,1,Soviet Union,Soviet Union,Soviet Union,Soviet Union,soviet union,soviet union,soviet un,http://en.wikipedia.org/wiki/Soviet_Union,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Tyler,Person,NONE,NONE,0.397946,negative,-0.583904,0.280679,0.093534,0.6231939999999999,0.129665,0.096375,2,1,Tyler,Tyler,Tyler,Tyler,tyler,tyler,tyl,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.312012,neutral,0.0,0.186328,0.7412350000000001,0.040991,0.119745,0.140105,1,1,US,US,us,us,US,us,us,http://en.wikipedia.org/wiki/United_States,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Upper Volta,GeographicFeature,NONE,NONE,0.38336,negative,-0.6595979999999999,0.469738,0.664339,0.098476,0.073925,0.32000500000000004,2,1,Upper Volta,Upper Volta,Upper Volta,Upper Volta,upper volta,upper volta,up volt,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,Washington,Location,"AdministrativeDivision, GovernmentalJurisdiction, MilitaryPost, PlaceWithNeighborhoods, USCounty, City","http://dbpedia.org/resource/Washington,_D.C.",0.371296,positive,0.857289,0.044607,0.02447,0.7489279999999999,0.049982,0.059129999999999995,1,1,Washington,Washington,Washington,Washington,washington,washington,washington,"http://en.wikipedia.org/wiki/Washington,_D.C.",0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.287062,positive,0.188094,0.095612,0.03803,0.588013,0.034848000000000004,0.043656,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,president,JobTitle,NONE,NONE,0.571425,positive,0.8224049999999999,0.24355500000000002,0.044993,0.558928,0.08365700000000001,0.014836000000000004,4,1,president,presid,presid,presid,presid,presid,presid,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6
+I-W7CRNT340,three weeks,Quantity,NONE,NONE,0.269424,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three week,three week,three week,three week,three week,three week,three week,NONE,0.9978,0.086,0.158,0.755,0.057565724206349235,0.4163795882936508,positive,0.28941300000000003,0.114156,0.6276109999999999,0.488943,0.124862,0.080689,0.0,17.5,Free Trade,2018-05-29T19:36:04.000Z,UCvJJ_dzjViJCoLf5uKUTwoA,Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will,"Pulitzer Prize winner George Will discusses what is happening with China and North Korea.
+» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC
+
+About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.
+
+Connect with CNBC News Online
+Get the latest news: http://www.cnbc.com/
+Find CNBC News on Facebook: http://cnb.cx/LikeCNBC
+Follow CNBC News on Twitter: http://cnb.cx/FollowCNBC
+Follow CNBC News on Google+: http://cnb.cx/PlusCNBC
+Follow CNBC News on Instagram: http://cnb.cx/InstagramCNBC
+
+Governments Love To Profess Free Trade And Turn It In To Swiss Cheese: George Will | CNBC",CNBC,"CNBC', 'business news', 'finance', 'stock', 'stock market', 'news channel', 'news station', 'breaking news', 'us news', 'world news', 'finance news', 'money', 'money tips', 'market news', 'stock market news', 'free trade', 'free trade vs protection', 'free trade policy', 'free trade agreement', 'free trade benefits', 'free trade commercial', 'free trade documentary', 'free trade debate', 'free trade deals', 'free trade economics', 'free trade history', 'free trade ideas', 'george will', 'george will interview', 'george will cnbc'",PT5M17S,317,6

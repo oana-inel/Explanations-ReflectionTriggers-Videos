@@ -1,0 +1,248 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+9Juzn2lHm4g,4 days,Quantity,NONE,NONE,0.291104,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,4 day,4 day,4 day,4 day,4 day,4 day,4 day,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,60%,Quantity,NONE,NONE,0.291104,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,60 %,60 %,60 %,60 %,60 %,60 %,60 %,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,America,Location,Continent,NONE,0.35839499999999996,negative,-0.68796,0.0,0.0,0.0,0.0,0.0,1,1,America,America,America,America,america,america,americ,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,Foster Economic Development,Organization,NONE,NONE,0.369345,positive,0.624805,0.062689,0.031373000000000005,0.185558,0.366675,0.32406999999999997,1,1,Foster Economic Development,Foster Economic Development,Foster Economic Development,Foster Economic Development,foster econom develop,foster econom develop,fost econom develop,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,Geneva,Location,City,NONE,0.299352,neutral,0.0,0.200909,0.074192,0.57503,0.048535,0.032261,1,1,Geneva,Geneva,Geneva,Geneva,geneva,geneva,genev,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,International economic system,Organization,NONE,NONE,0.404219,negative,-0.621949,0.164716,0.133183,0.578871,0.030576,0.0379,1,1,International economic system,International econom system,International econom system,International econom system,intern econom system,intern econom system,intern econom system,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,Specter,Organization,NONE,NONE,0.31892,negative,-0.900186,0.770227,0.12567899999999999,0.04966,0.099444,0.21838400000000002,1,1,Specter,specter,specter,spect,specter,specter,spect,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,Switzerland,Location,Country,http://dbpedia.org/resource/Switzerland,0.297028,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Switzerland,Switzerland,Switzerland,Switzerland,switzerland,switzerland,switzerland,http://en.wikipedia.org/wiki/Switzerland,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.8682290000000001,negative,-0.302001,0.51108,0.22448099999999999,0.22990500000000005,0.016166,0.22844899999999999,6,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,United States Industries,Company,NONE,NONE,0.348616,neutral,0.0,0.040138,0.021177,0.480124,0.074924,0.13248,1,1,United States Industries,United States Industries,United States Industries,United States Industries,unit state industri,unit state industri,unit stat industry,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,five acres,Quantity,NONE,NONE,0.291104,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,five acre,five acr,five acr,fiv acr,five acr,five acr,fiv acr,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,international monetary,JobTitle,NONE,NONE,0.318268,positive,0.624805,0.062689,0.031373000000000005,0.185558,0.366675,0.32406999999999997,1,1,international monetary,intern monetari,intern monetari,intern monet,intern monetari,intern monetari,intern monet,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7
+9Juzn2lHm4g,partner,JobTitle,NONE,NONE,0.304503,negative,-0.355263,0.306361,0.447496,0.078796,0.11935599999999999,0.354047,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.9987,0.105,0.191,0.7040000000000001,0.11211459284853782,0.4098512980393712,positive,0.309597,0.140963,0.5988899999999999,0.5498149999999999,0.143054,0.109009,0.20000000298023224,16.0,Free Trade,2017-06-05T21:08:33.000Z,UCMP5_7v48WfDKfoirLCcNgQ,"President Reagan’s Radio Address to the Nation on International Free Trade on November 20, 1982","Full Title: President Reagan’s Radio Address to the Nation on International Free Trade at Camp David, Maryland on November 20, 1982
+
+Creator(s): President (1981-1989 : Reagan). White House Television Office. 1/20/1981-1/20/1989  (Most Recent)
+Series: Video Recordings, 1/20/1981 - 1/20/1989
+Collection: Records of the White House Television Office (WHTV) (Reagan Administration), 1/20/1981 - 1/20/1989
+
+Transcript: https://www.reaganlibrary.gov/research/speeches/112082a
+
+Production Date: 11/20/1982
+
+Access Restriction(s):Unrestricted
+Use Restriction(s):Unrestricted
+
+Contact(s): Ronald Reagan Library (LP-RR), 40 Presidential Drive, Simi Valley, CA 93065-0600
+Phone: 800-410-8354, Fax: 805-577-4074, Email: reagan.library@nara.gov
+
+National Archives Identifier:5730544
+
+https://catalog.archives.gov/id/5730544",Reagan Library,"Ronald Reagan', 'U. S. National Archives', 'Reagan Presidential Library', 'Radio Address', 'Camp David', 'International Free Trade'",PT6M1S,361,7

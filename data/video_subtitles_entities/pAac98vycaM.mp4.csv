@@ -1,0 +1,71 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pAac98vycaM,Lourdes,Person,NONE,NONE,0.882174,neutral,0.0,0.061439999999999995,0.08027000000000001,0.812545,0.003462,0.022348,1,1,Lourdes,Lourdes,Lourdes,Lourdes,lourd,lourd,lourd,NONE,0.4404,0.0,0.073,0.927,0.31666666666666665,0.2833333333333334,neutral,0.0,0.077152,0.434655,0.294835,0.205777,0.075295,-0.10000000149011612,0.4000000059604645,Catalonia Independence,2017-09-29T12:40:30.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan farmers rally in the name of independence,"Hundreds of farmers rallied in Barcelona, Friday, as Catalonia gears up for the October 1st independence referendum.
+
+SOT, Albert, farmer (Catalan): ""Throughout Catalonia there are a lot of people that want what we want and what the government is doing to Catalonia is illogical.""
+
+SOT, Jordi, farmer (Catalan): ""We came to show our discontent with the fact that they are not letting us vote. Not letting us vote is actually anachronisitic.""
+
+SOT, Josep, farmer (Catalan): ""We wanted to be seen, because some people cannot see what is happening here. We want to vote, we want freedom of speech and this is our land.""
+
+Video ID: 20170929 020
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan farmers protest', 'catalonia independence', 'catalunya referendum'",PT1M52S,112,2
+pAac98vycaM,Lucas,Person,NONE,NONE,0.744233,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Lucas,Lucas,Lucas,Lucas,luca,luca,luca,NONE,0.4404,0.0,0.073,0.927,0.31666666666666665,0.2833333333333334,neutral,0.0,0.077152,0.434655,0.294835,0.205777,0.075295,-0.10000000149011612,0.4000000059604645,Catalonia Independence,2017-09-29T12:40:30.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan farmers rally in the name of independence,"Hundreds of farmers rallied in Barcelona, Friday, as Catalonia gears up for the October 1st independence referendum.
+
+SOT, Albert, farmer (Catalan): ""Throughout Catalonia there are a lot of people that want what we want and what the government is doing to Catalonia is illogical.""
+
+SOT, Jordi, farmer (Catalan): ""We came to show our discontent with the fact that they are not letting us vote. Not letting us vote is actually anachronisitic.""
+
+SOT, Josep, farmer (Catalan): ""We wanted to be seen, because some people cannot see what is happening here. We want to vote, we want freedom of speech and this is our land.""
+
+Video ID: 20170929 020
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan farmers protest', 'catalonia independence', 'catalunya referendum'",PT1M52S,112,2
+pAac98vycaM,River College,Organization,NONE,NONE,0.841899,negative,-0.462913,0.301925,0.18704300000000001,0.281471,0.24138400000000002,0.046227,1,1,River College,River College,River College,River College,river colleg,river colleg,riv colleg,NONE,0.4404,0.0,0.073,0.927,0.31666666666666665,0.2833333333333334,neutral,0.0,0.077152,0.434655,0.294835,0.205777,0.075295,-0.10000000149011612,0.4000000059604645,Catalonia Independence,2017-09-29T12:40:30.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan farmers rally in the name of independence,"Hundreds of farmers rallied in Barcelona, Friday, as Catalonia gears up for the October 1st independence referendum.
+
+SOT, Albert, farmer (Catalan): ""Throughout Catalonia there are a lot of people that want what we want and what the government is doing to Catalonia is illogical.""
+
+SOT, Jordi, farmer (Catalan): ""We came to show our discontent with the fact that they are not letting us vote. Not letting us vote is actually anachronisitic.""
+
+SOT, Josep, farmer (Catalan): ""We wanted to be seen, because some people cannot see what is happening here. We want to vote, we want freedom of speech and this is our land.""
+
+Video ID: 20170929 020
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan farmers protest', 'catalonia independence', 'catalunya referendum'",PT1M52S,112,2
+pAac98vycaM,Serbia,Location,Country,NONE,0.819099,negative,-0.462913,0.301925,0.18704300000000001,0.281471,0.24138400000000002,0.046227,1,1,Serbia,Serbia,Serbia,Serbia,serbia,serbia,serb,NONE,0.4404,0.0,0.073,0.927,0.31666666666666665,0.2833333333333334,neutral,0.0,0.077152,0.434655,0.294835,0.205777,0.075295,-0.10000000149011612,0.4000000059604645,Catalonia Independence,2017-09-29T12:40:30.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan farmers rally in the name of independence,"Hundreds of farmers rallied in Barcelona, Friday, as Catalonia gears up for the October 1st independence referendum.
+
+SOT, Albert, farmer (Catalan): ""Throughout Catalonia there are a lot of people that want what we want and what the government is doing to Catalonia is illogical.""
+
+SOT, Jordi, farmer (Catalan): ""We came to show our discontent with the fact that they are not letting us vote. Not letting us vote is actually anachronisitic.""
+
+SOT, Josep, farmer (Catalan): ""We wanted to be seen, because some people cannot see what is happening here. We want to vote, we want freedom of speech and this is our land.""
+
+Video ID: 20170929 020
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan farmers protest', 'catalonia independence', 'catalunya referendum'",PT1M52S,112,2
+pAac98vycaM,partner,JobTitle,NONE,NONE,0.76994,neutral,0.0,0.061439999999999995,0.08027000000000001,0.812545,0.003462,0.022348,1,1,partner,partner,partner,partn,partner,partner,partn,NONE,0.4404,0.0,0.073,0.927,0.31666666666666665,0.2833333333333334,neutral,0.0,0.077152,0.434655,0.294835,0.205777,0.075295,-0.10000000149011612,0.4000000059604645,Catalonia Independence,2017-09-29T12:40:30.000Z,UC5aeU5hk31cLzq_sAExLVWg,Spain: Catalan farmers rally in the name of independence,"Hundreds of farmers rallied in Barcelona, Friday, as Catalonia gears up for the October 1st independence referendum.
+
+SOT, Albert, farmer (Catalan): ""Throughout Catalonia there are a lot of people that want what we want and what the government is doing to Catalonia is illogical.""
+
+SOT, Jordi, farmer (Catalan): ""We came to show our discontent with the fact that they are not letting us vote. Not letting us vote is actually anachronisitic.""
+
+SOT, Josep, farmer (Catalan): ""We wanted to be seen, because some people cannot see what is happening here. We want to vote, we want freedom of speech and this is our land.""
+
+Video ID: 20170929 020
+Video on Demand: http://www.ruptly.tv
+Contact: cd@ruptly.tv
+
+Twitter: http://twitter.com/Ruptly
+Facebook: http://www.facebook.com/Ruptly",Ruptly,"news', 'ruptly', 'catalan farmers protest', 'catalonia independence', 'catalunya referendum'",PT1M52S,112,2

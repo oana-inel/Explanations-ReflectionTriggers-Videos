@@ -1,0 +1,145 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+HbhSyLxayws,10 years,Quantity,NONE,NONE,0.24705500000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.337895,positive,0.832926,0.110943,0.09972400000000001,0.5814520000000001,0.010124,0.061609000000000004,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Catalonia,Location,Region,NONE,0.385468,neutral,0.0,0.31140100000000004,0.029660000000000002,0.03349,0.595985,0.339592,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Catherine,Person,NONE,NONE,0.316581,negative,-0.38193499999999997,0.140672,0.17564100000000002,0.311879,0.069366,0.234589,1,1,Catherine,Catherine,Catherine,Catherine,catherin,catherin,catherin,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.352042,neutral,0.0,0.453221,0.076312,0.16008599999999998,0.16603900000000002,0.263298,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,France,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmDirector, Country",http://dbpedia.org/resource/France,0.273471,positive,0.47766499999999995,0.084613,0.039529,0.741081,0.043308,0.053674,1,1,France,France,France,France,franc,franc,frant,http://en.wikipedia.org/wiki/France,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,International Community,Organization,NONE,NONE,0.275485,neutral,0.0,0.111426,0.06355,0.503221,0.024272,0.19228900000000002,1,1,International Community,International Community,International Community,International Community,intern commun,intern communiti,intern commun,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Iraq,Location,"GovernmentalJurisdiction, MilitaryPost, CityTown, Country",http://dbpedia.org/resource/Iraq,0.354313,positive,0.832926,0.110943,0.09972400000000001,0.5814520000000001,0.010124,0.061609000000000004,1,1,Iraq,Iraq,Iraq,Iraq,iraq,iraq,iraq,http://en.wikipedia.org/wiki/Iraq,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Italy,Location,"HumanLanguage, PoliticalDistrict, Region, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Italy,0.24705500000000002,positive,0.47766499999999995,0.084613,0.039529,0.741081,0.043308,0.053674,1,1,Italy,Italy,Italy,Italy,itali,itali,ita,http://en.wikipedia.org/wiki/Italy,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Jonah,Person,ReligiousLeader,http://dbpedia.org/resource/Jonah,0.366935,neutral,0.0,0.31140100000000004,0.029660000000000002,0.03349,0.595985,0.339592,1,1,Jonah,Jonah,Jonah,Jonah,jonah,jonah,jonah,http://en.wikipedia.org/wiki/Jonah,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Karen,Person,NONE,NONE,0.279035,positive,0.47766499999999995,0.0,0.0,0.0,0.0,0.0,1,1,Karen,Karen,Karen,Karen,karen,karen,kar,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Mass,Location,City,NONE,0.31855300000000003,negative,-0.88985,0.170734,0.309132,0.141061,0.322429,0.24054299999999998,1,1,Mass,Mass,Mass,Mass,mass,mass,mass,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.7196899999999999,negative,-0.388369,0.314314,0.013258,0.058306,0.515545,0.413987,5,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,official,JobTitle,NONE,NONE,0.29084699999999997,negative,-0.38193499999999997,0.140672,0.17564100000000002,0.311879,0.069366,0.234589,1,1,official,offici,offici,off,offici,offici,off,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,president,JobTitle,NONE,NONE,0.330766,neutral,0.0,0.31140100000000004,0.029660000000000002,0.03349,0.595985,0.339592,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6
+HbhSyLxayws,turkey,Location,"Brand, GovernmentalJurisdiction, ProjectParticipant, Country",http://dbpedia.org/resource/Turkey,0.26211,positive,0.47766499999999995,0.084613,0.039529,0.741081,0.043308,0.053674,1,1,turkey,turkey,turkey,turkey,turkey,turkey,turkey,http://en.wikipedia.org/wiki/Turkey,0.996,0.067,0.145,0.789,0.11916483516483516,0.4273943833943835,negative,-0.320525,0.184417,0.565301,0.250363,0.146645,0.145531,0.0,8.300000190734862,Catalonia Independence,2017-02-07T00:41:25.000Z,UC7fWeaHhqgM4Ry-RMpM2YYw,Interview with Anna Arqué on Catalan Independence,"Subscribe: https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw?sub_confirmation=1
+
+Livestream: http://www.youtube.com/c/trtworld/live
+
+Facebook: https://www.facebook.com/TRTWorld
+
+Twitter: https://twitter.com/TRTWorld
+
+Visit our website: http://www.trtworld.com/",TRT World,"independence', 'catalan', 'artur mas', 'criminal', 'disobedience', 'former catalan president', 'catalan leader', 'referendum', 'federal gov', 'catalonia', 'Politics', 'Europe', 'TRT World', 'News', 'TRT', 'TRT News', 'World News'",PT5M7S,307,6

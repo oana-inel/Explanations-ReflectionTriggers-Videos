@@ -1,0 +1,1805 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+pQsIIhSrbOY,20%,Quantity,NONE,NONE,0.32813000000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,20 %,20 %,20 %,20 %,20 %,20 %,20 %,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,41%,Quantity,NONE,NONE,0.32813000000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,41 %,41 %,41 %,41 %,41 %,41 %,41 %,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,42.3%,Quantity,NONE,NONE,0.32813000000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,42.3 %,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,48 hours,Quantity,NONE,NONE,0.32813000000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,48 hour,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Aragon,Location,City,NONE,0.370701,neutral,0.0,0.205238,0.057477999999999994,0.14841400000000002,0.059469000000000015,0.053426999999999995,1,1,Aragon,Aragon,Aragon,Aragon,aragon,aragon,aragon,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.44689399999999996,neutral,0.0,0.35378000000000004,0.305356,0.170487,0.077783,0.14826199999999998,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Beijing,Location,City,http://dbpedia.org/resource/Beijing,0.421996,neutral,0.0,0.272469,0.114704,0.154813,0.068435,0.117479,1,1,Beijing,Beijing,Beijing,Beijing,beij,beij,beid,http://en.wikipedia.org/wiki/Beijing,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Britain,Location,Country,NONE,0.417537,negative,-0.159473,0.403702,0.048923,0.240369,0.28491700000000003,0.09124199999999999,3,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Burton,Person,NONE,NONE,0.337038,positive,0.317596,0.0,0.0,0.0,0.0,0.0,1,1,Burton,Burton,Burton,Burton,burton,burton,burton,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Castile,Location,City,NONE,0.354216,neutral,0.0,0.205238,0.057477999999999994,0.14841400000000002,0.059469000000000015,0.053426999999999995,1,1,Castile,Castile,Castile,Castile,castil,castil,castil,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Catalonia,Location,City,NONE,0.767832,neutral,0.0,0.575591,0.171977,0.015058000000000004,0.240195,0.349195,3,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Catalonia,Location,Country,NONE,0.590777,negative,-0.696717,0.575591,0.171977,0.015058000000000004,0.240195,0.349195,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Catalonia,Location,Region,NONE,0.592749,neutral,0.0,0.575591,0.171977,0.015058000000000004,0.240195,0.349195,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.5678340000000001,negative,-0.102802,0.31238699999999997,0.30092800000000003,0.191445,0.295806,0.12776500000000002,4,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Congress,Organization,"Dedicator, GovernmentalBody, Legislature, NaturalOrCulturalPreservationAgency",http://dbpedia.org/resource/United_States_Congress,0.418368,neutral,0.0,0.289123,0.10197200000000001,0.120005,0.296234,0.285975,1,1,Congress,Congress,Congress,Congress,congress,congress,congress,http://en.wikipedia.org/wiki/United_States_Congress,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Cy,Person,NONE,NONE,0.39634899999999995,neutral,0.0,0.050342000000000005,0.05685800000000001,0.04172,0.089325,0.922376,1,1,Cy,Cy,Cy,Cy,Cy,cy,cy,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,David Cameron,Person,"Politician, MemberOfParliament, FilmActor, TVActor",http://dbpedia.org/resource/David_Cameron,0.396548,positive,0.317596,0.397968,0.047782,0.24804600000000002,0.280901,0.076722,2,1,David Cameron,David Cameron,David Cameron,David Cameron,david cameron,david cameron,david cameron,http://en.wikipedia.org/wiki/David_Cameron,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,El Presidente Del Universal,Company,NONE,NONE,0.363196,negative,-0.693587,0.36335500000000004,0.100428,0.33500100000000005,0.167233,0.123895,1,1,El Presidente Del Universal,El Presidente Del Universal,El Presidente Del Universal,El Presidente Del Universal,El president del univers,el president del univers,el presid del univers,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.52965,negative,-0.574599,0.337857,0.2268550000000001,0.038903,0.290526,0.49944399999999994,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.758649,negative,-0.162227,0.481818,0.10690699999999999,0.16489600000000001,0.193951,0.493227,9,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Facebook,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Facebook,0.371371,positive,0.384488,0.298858,0.138175,0.14038,0.324063,0.315512,1,1,Facebook,Facebook,Facebook,Facebook,facebook,facebook,facebook,http://en.wikipedia.org/wiki/Facebook,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Franco,Person,NONE,NONE,0.388653,negative,-0.696717,0.525273,0.332254,0.0068189999999999995,0.254153,0.231087,2,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Greeley Colorado,Location,City,NONE,0.35854400000000003,positive,0.384488,0.298858,0.138175,0.14038,0.324063,0.315512,1,1,Greeley Colorado,Greeley Colorado,Greeley Colorado,Greeley Colorado,greeley colorado,greeley colorado,greeley colorado,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Hong Kong,Location,"HumanLanguage, AdministrativeDivision, Country, GovernmentalJurisdiction, BodyOfWater, Cuisine, City",http://dbpedia.org/resource/Hong_Kong,0.548308,neutral,0.0,0.352759,0.195161,0.10940699999999999,0.317818,0.105896,2,1,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong kong,hong kong,hong kong,http://en.wikipedia.org/wiki/Hong_Kong,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Hong Kong Independence,Company,NONE,NONE,0.45326700000000003,negative,-0.344285,0.1801,0.262415,0.108732,0.293335,0.128573,1,1,Hong Kong Independence,Hong Kong Independence,Hong Kong Independence,Hong Kong Independence,hong kong independ,hong kong independ,hong kong independ,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Leone,Person,NONE,NONE,0.32813000000000003,neutral,0.0,0.408856,0.23527800000000001,0.280998,0.146162,0.09829199999999999,1,1,Leone,Leone,Leone,Leone,leon,leon,leon,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Liang,Person,NONE,NONE,0.33093,neutral,0.0,0.408856,0.23527800000000001,0.280998,0.146162,0.09829199999999999,1,1,Liang,Liang,Liang,Liang,liang,liang,liang,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.453294,neutral,0.0,0.362558,0.209306,0.045531999999999996,0.116755,0.380862,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,National Spirit,Organization,NONE,NONE,0.400687,positive,0.508566,0.325811,0.17124,0.484012,0.017827000000000003,0.022353,1,1,National Spirit,National Spirit,National Spirit,National Spirit,nation spirit,nation spirit,nat spirit,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Parliament police force,Organization,NONE,NONE,0.387038,negative,-0.696717,0.5375979999999999,0.34489899999999996,0.005911,0.240706,0.216214,1,1,Parliament police force,Parliament polic forc,Parliament polic forc,Parliament pol forc,parliament polic forc,parliament polic forc,parlia pol forc,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Prime Minister,JobTitle,NONE,NONE,0.34174499999999997,positive,0.317596,0.378446,0.051285000000000004,0.23727600000000001,0.254358,0.04247,1,1,Prime Minister,Prime Minister,Prime Minister,Prime Minister,prime minist,prime minist,prim min,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Samuel Adams,Person,NONE,NONE,0.740421,positive,0.384488,0.26042,0.232292,0.114922,0.314137,0.296162,6,1,Samuel Adams,Samuel Adams,Samuel Adams,Samuel Adams,samuel adam,samuel adam,samuel adam,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Scotland,Location,"AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/Scotland,0.361875,neutral,0.0,0.506684,0.285302,0.066576,0.288881,0.157135,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,http://en.wikipedia.org/wiki/Scotland,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.640405,neutral,0.0,0.263693,0.296431,0.035906,0.504084,0.285621,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,Sterling Heights,Facility,NONE,NONE,0.433354,neutral,0.0,0.155254,0.389383,0.085635,0.299485,0.380382,2,1,Sterling Heights,Sterling Heights,Sterling Heights,Sterling Heights,sterl height,sterl height,sterl height,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.42860299999999996,negative,-0.703936,0.50646,0.068088,0.08893,0.34217800000000004,0.29709800000000003,2,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,UK,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/England,0.516778,positive,0.317596,0.50646,0.068088,0.08893,0.34217800000000004,0.29709800000000003,5,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/England,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,YouTube,Company,"Website, BroadcastDistributor, FilmDistributor, VentureFundedCompany, AwardWinner",http://dbpedia.org/resource/YouTube,0.352161,positive,0.384488,0.298858,0.138175,0.14038,0.324063,0.315512,1,1,YouTube,YouTube,YouTube,YouTube,youtub,youtub,youtub,http://en.wikipedia.org/wiki/YouTube,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,analyst,JobTitle,NONE,NONE,0.34225700000000003,neutral,0.0,0.28825500000000004,0.25066700000000003,0.072738,0.431875,0.31560900000000003,1,1,analyst,analyst,analyst,analyst,analyst,analyst,analyst,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,ledge Co,GeographicFeature,NONE,NONE,0.363688,neutral,0.0,0.408856,0.23527800000000001,0.280998,0.146162,0.09829199999999999,1,1,ledge Co,ledg Co,ledg Co,ledg Co,ledg Co,ledg co,ledg co,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,legislative Council,Organization,NONE,NONE,0.341172,negative,-0.344285,0.1801,0.262415,0.108732,0.293335,0.128573,1,1,legislative Council,legisl Council,legisl Council,legisl Council,legisl council,legisl council,legisl council,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,marijuana,Drug,NONE,NONE,0.360219,neutral,0.0,0.28825500000000004,0.25066700000000003,0.072738,0.431875,0.31560900000000003,1,1,marijuana,marijuana,marijuana,marijuan,marijuana,marijuana,marijuan,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,president,JobTitle,NONE,NONE,0.356646,neutral,0.0,0.268347,0.227721,0.031794,0.553491,0.294887,1,1,president,presid,presid,presid,presid,presid,presid,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9
+pQsIIhSrbOY,two days,Quantity,NONE,NONE,0.32813000000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two day,two day,two day,two day,two day,two day,two day,NONE,-0.957,0.1,0.087,0.813,0.08895505204015844,0.3902714838353136,negative,-0.444521,0.536296,0.513946,0.294501,0.176689,0.195158,-0.20000000298023224,11.5,Catalonia Independence,2017-10-04T09:34:53.000Z,UCt-WqkTyKK1_70U4bb4k4lQ,"Catalonia referendum: Catalonia's long fight for independence, explained - TomoNews","BARCELONA — On October 1, 2017, Catalonia voted for independence, despite massive opposition from the central Spanish government.
+
+BBC reports that the northeast region of Catalonia is one of Spain's 17 autonomous communities. It's home to 7.5 million people, and has its own distinct language, history, and culture.
+
+Catalonia was once under the kingdom of Aragon, which unified with Castile in the 15th century. It remained a state until it was defeated in the 1714 Siege of Barcelona, and its sovereignty was abolished. Under the newly centralized Spanish realm, Catalans were forced to adopt the Castilian language and customs.
+
+The region regained autonomy when Spain became a republic in 1931, but lost it again during the Franco dictatorship. Franco's death restored democracy, allowing Catalonia to have its own Parliament, police force, and education system.
+
+Though they have a high degree of autonomy, Catalans are not satisfied with the central government.
+
+As Spain's wealthiest region, it generates 20% of the national GDP. But high budget cuts during the 2008 financial crisis, and complaints of paying more taxes than they get back have increased separatist sentiment.
+
+The Brookings Institute reports that in 2010, the Spanish Constitutional Court reversed a 2006 ruling that granted the region 'nation' status and its own tax system, angering many and fueling the movement for independence.
+
+This movement culminated in the October 1 referendum, which Madrid has called illegal.
+
+A Catalonian secession would impact the Spanish economy, but also see the region out of the EU. With no free trade, the region's economy could shrink, and the unemployment rate could double.
+
+But do all Catalans want independence? Polls taken before the referendum showed that while 70% wanted the right to vote, only 41% sought independence.
+
+Still, Madrid's response was aggressive. It arrested Catalan leaders, and took down websites and apps in an effort to thwart the vote.
+
+On the day of the referendum, violence erupted as police seized ballots, and forcibly stopped people from voting. Despite the danger, voter turnout was at 42.3%, with nearly 90% of those who voted backing secession.
+
+Catalan's president has said he will declare independence within 48 hours if the 'yes' side won. If this happens, Spain will enter a constitutional crisis and may be forced to suspend Catalonia's autonomy.
+----------------------------------------­---------------------
+
+TomoNews is your best source for real news. We cover the funniest, craziest and most talked-about stories on the internet. Our tone is irreverent and unapologetic. If you’re laughing, we’re laughing. If you’re outraged, we’re outraged. We tell it like it is. And because we can animate stories, TomoNews brings you news like you’ve never seen before.
+
+Visit our official website for all the latest, uncensored videos: http://us.tomonews.com
+Check out our Android app: http://bit.ly/1rddhCj
+Check out our iOS app: http://bit.ly/1gO3z1f
+
+Get your TomoNews merch today! http://bit.ly/tomonews-teespring
+Get top stories delivered to your inbox everyday: http://bit.ly/tomo-newsletter
+
+Stay connected with us here:
+Facebook http://www.facebook.com/TomoNewsUS
+Twitter @tomonewsus http://www.twitter.com/TomoNewsUS
+Google+ http://plus.google.com/+TomoNewsUS/
+Instagram @tomonewsus http://instagram.com/tomonewsus",TomoNews US,"TomoNews', 'News', 'catalonia', 'catalonia referendum', 'catalexit', 'catalonia secession', 'catalan', 'separatist', 'catalan independence', 'catalonia independence', 'spain', 'referendum', 'independence', 'violence', 'explainer', 'catalonia history'",PT8M37S,517,9

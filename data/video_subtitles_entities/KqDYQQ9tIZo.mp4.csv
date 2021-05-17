@@ -1,0 +1,177 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+KqDYQQ9tIZo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.529355,negative,-0.591975,0.0,0.0,0.0,0.0,0.0,2,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Catalonia,Location,City,NONE,0.639526,negative,-0.477962,0.289727,0.187639,0.006992,0.520939,0.401667,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Catalonia,Location,Country,NONE,0.6657770000000001,negative,-0.477962,0.289727,0.187639,0.006992,0.520939,0.401667,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,District of Catalonia,Organization,NONE,NONE,0.650047,neutral,0.0,0.10825699999999999,0.058773,0.090248,0.465674,0.425138,1,1,District of Catalonia,District of Catalonia,District of Catalonia,District of Catalonia,district of catalonia,district of catalonia,district of catalon,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Elaine Jonathan,Person,NONE,NONE,0.466879,neutral,0.0,0.19761800000000002,0.069529,0.201252,0.056551,0.098767,1,1,Elaine Jonathan,Elaine Jonathan,Elaine Jonathan,Elaine Jonathan,elain jonathan,elain jonathan,elain jonath,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Jonathan Vigliotti,Person,NONE,NONE,0.5433359999999999,neutral,0.0,0.148064,0.073811,0.32454099999999997,0.035899,0.066491,1,1,Jonathan Vigliotti,Jonathan Vigliotti,Jonathan Vigliotti,Jonathan Vigliotti,jonathan vigliotti,jonathan vigliotti,jonath vigliott,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,London Bureau,Organization,NONE,NONE,0.4531850000000001,neutral,0.0,0.148064,0.073811,0.32454099999999997,0.035899,0.066491,1,1,London Bureau,London Bureau,London Bureau,London Bureau,london bureau,london bureau,london bureau,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.47319700000000003,neutral,0.0,0.34370900000000004,0.208554,0.138127,0.165076,0.292836,1,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,President Carlos Bustamante,Person,"Academic, Scientist",http://dbpedia.org/resource/Carlos_Bustamante,0.516001,neutral,0.0,0.10825699999999999,0.058773,0.090248,0.465674,0.425138,1,1,President Carlos Bustamante,President Carlos Bustamante,President Carlos Bustamante,President Carlos Bustamante,presid carlo bustamant,presid carlo bustamant,presid carlo bustam,http://en.wikipedia.org/wiki/Carlos_Bustamante,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.9189379999999999,negative,-0.701389,0.201951,0.136876,0.01399,0.530112,0.489836,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2
+KqDYQQ9tIZo,prime minister,JobTitle,NONE,NONE,0.45035600000000003,positive,0.4386600000000001,0.45100100000000004,0.257787,0.103648,0.359336,0.084877,1,1,prime minister,prime minist,prime minist,prim min,prime minist,prime minist,prim min,NONE,-0.9847,0.175,0.062,0.763,-0.032341269841269844,0.3555555555555556,negative,-0.622062,0.194342,0.6468659999999999,0.576817,0.6448010000000001,0.5432779999999999,-0.20000000298023224,3.299999952316284,Catalonia Independence,2017-10-01T23:46:35.000Z,UCAeWdyKJXGWmVAXFpgLNNTg,Crackdown on Catalans in Spain as they vote for independence,"Spanish police unleashed a violent crackdown Sunday on Catalans trying to vote for independence. Jonathan Vigliotti is following the latest developments from our London bureau.
+
+Subscribe to the ""CBS Evening News"" Channel HERE: http://bit.ly/1S7Dhik
+Watch Full Episodes of the ""CBS Evening News"" HERE: http://cbsn.ws/23XekKA
+Watch the latest installment of ""On the Road,"" only on the ""CBS Evening News,"" HERE: http://cbsn.ws/23XwqMH
+Follow ""CBS Evening News"" on Instagram: http://bit.ly/1T8icTO
+Like ""CBS Evening News"" on Facebook HERE: http://on.fb.me/1KxYobb
+Follow the ""CBS Evening News"" on Twitter HERE: http://bit.ly/1O3dTTe
+Follow the ""CBS Evening News"" on Google+ HERE: http://bit.ly/1Qs0aam
+
+Get your news on the go! Download CBS News mobile apps HERE: http://cbsn.ws/1Xb1WC8
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+---
+The ""CBS Evening News"" premiered as a half-hour broadcast on Sept. 2, 1963. Check local listings for CBS Evening News broadcast times.",CBS Evening News,"video', 'cbs', 'news', 'Spain', 'Catalan', 'Independence'",PT1M57S,117,2

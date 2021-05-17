@@ -1,0 +1,172 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+vejJnw5Yp08,10 years,Quantity,NONE,NONE,0.44033500000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,80 percent,Quantity,NONE,NONE,0.44033500000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,80 percent,80 percent,80 percent,80 perc,80 percent,80 percent,80 perc,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Alito,Person,NONE,NONE,0.658669,negative,-0.317322,0.193212,0.015478,0.22291,0.395279,0.411976,2,1,Alito,Alito,Alito,Alito,alito,alito,alito,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Catalonia,Location,Region,NONE,0.62378,neutral,0.0,0.44133100000000003,0.246486,0.13756600000000002,0.101612,0.10266600000000001,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Jimmy,Person,NONE,NONE,0.485613,negative,-0.66892,0.41015,0.190208,0.13636099999999998,0.039795,0.401742,1,1,Jimmy,Jimmy,Jimmy,Jimmy,jimmi,jimmi,jimmy,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.891173,negative,-0.7380180000000001,0.101241,0.200747,0.312931,0.114326,0.032393,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Moscow,Location,City,NONE,0.44033500000000003,negative,-0.317322,0.272952,0.015243000000000001,0.11308499999999999,0.495612,0.385835,1,1,Moscow,Moscow,Moscow,Moscow,moscow,moscow,moscow,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.804995,negative,-0.379711,0.0,0.0,0.0,0.0,0.0,2,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2
+vejJnw5Yp08,constitutional Court,Organization,NONE,NONE,0.503498,negative,-0.379711,0.183837,0.14561,0.099678,0.197228,0.150551,1,1,constitutional Court,constitut Court,constitut Court,constitut Court,constitut court,constitut court,constitut court,NONE,0.8194,0.106,0.13,0.764,0.133843537414966,0.436904761904762,negative,-0.425009,0.541601,0.527116,0.200525,0.16262200000000002,0.196607,0.0,3.0999999046325684,Catalonia Independence,2017-02-06T10:04:45.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Spain: Former Catalan chief Artur Mas on trial for independence referendum,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia's former leader Artur Mas goes on trial Monday for civil disobedience over an independence referendum he organised in 2014, with the hearing expected to draw thousands of protesters and stoke the Spanish region's separatist fervour.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"Spain', 'Catalan independence', 'france24', 'news'",PT1M28S,88,2

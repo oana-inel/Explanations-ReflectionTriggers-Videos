@@ -1,0 +1,144 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+S1OYwUTUTas,80 percent,Quantity,NONE,NONE,0.15883599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,80 percent,80 percent,80 percent,80 perc,80 percent,80 percent,80 perc,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Catalonia,Location,City,NONE,0.8613930000000001,negative,-0.503096,0.586545,0.112948,0.193799,0.078837,0.425104,8,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Decades,Location,Country,NONE,0.25921,negative,-0.552194,0.606699,0.23970100000000005,0.217113,0.064965,0.028325,2,1,Decades,Decades,Decades,Decades,decad,decad,decad,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Franco,Person,NONE,NONE,0.327917,negative,-0.623321,0.578346,0.196968,0.249881,0.035826,0.095859,3,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Kathleen,Person,NONE,NONE,0.15883599999999998,negative,-0.765573,0.0,0.0,0.0,0.0,0.0,1,1,Kathleen,Kathleen,Kathleen,Kathleen,kathleen,kathleen,kathleen,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,King Ferdinand,Person,NONE,NONE,0.172807,neutral,0.0,0.28034499999999996,0.058603999999999996,0.519131,0.049937,0.037861,1,1,King Ferdinand,King Ferdinand,King Ferdinand,King Ferdinand,king ferdinand,king ferdinand,king ferdinand,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.20066099999999998,negative,-0.338816,0.484709,0.254449,0.246869,0.144015,0.014394,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Northeast Spain,Location,Region,NONE,0.610156,negative,-0.559446,0.38923,0.12605999999999998,0.415317,0.019589,0.12083800000000001,5,1,Northeast Spain,Northeast Spain,Northeast Spain,Northeast Spain,northeast spain,northeast spain,northeast spain,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,Queen Isabella,Person,NONE,NONE,0.171757,neutral,0.0,0.28034499999999996,0.058603999999999996,0.519131,0.049937,0.037861,1,1,Queen Isabella,Queen Isabella,Queen Isabella,Queen Isabella,queen isabella,queen isabella,queen isabell,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,six years,Quantity,NONE,NONE,0.15883599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,six year,six year,six year,six year,six year,six year,six year,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2
+S1OYwUTUTas,three decades,Quantity,NONE,NONE,0.15883599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three decade,three decad,three decad,three decad,three decad,three decad,three decad,NONE,-0.5439,0.081,0.07200000000000001,0.847,0.15555555555555556,0.3507716049382716,negative,-0.564002,0.097727,0.251228,0.563949,0.4633310000000001,0.108828,0.0,2.5,Catalonia Independence,2017-10-01T14:37:24.000Z,UCpwvZwUam-URkxB7g4USKpg,A look into history of Catalonia’s desire for independence from Spain,"The Catalan crisis is deeply rooted in Spanish history.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia', 'Catalan roots', 'Spain', 'Spanish region', 'independence referendum in Catalonia', 'Barcelona', 'Catalans', 'Catalan clashes', 'Spanish police', 'independence vote', 'Catalan history', 'Spanish history', 'Francisco France', 'autonomous region of Catalonia', 'Catalan officials', 'Catalan president', 'Catalan government'",PT1M46S,106,2

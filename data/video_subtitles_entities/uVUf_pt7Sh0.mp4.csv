@@ -1,0 +1,193 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+uVUf_pt7Sh0,fever,HealthCondition,"CauseOfDeath, DiseaseCause, RiskFactor, Symptom",http://dbpedia.org/resource/Fever,0.242273,negative,-0.917717,0.37613800000000003,0.550053,0.007529000000000002,0.080528,0.087145,1,1,fever,fever,fever,fev,fever,fever,fev,http://en.wikipedia.org/wiki/Fever,0.9957,0.085,0.128,0.787,0.12054940322382185,0.5224821582379721,negative,-0.43784,0.105549,0.534752,0.492174,0.168982,0.11366099999999996,0.10000000149011612,23.79999923706055,Vaccination,2018-12-20T21:00:05.000Z,UCb2GCoLSBXjmI_Qj1vk-44g,"Antibiotics, Antivirals, and Vaccines","Explore the basics of how antibiotics, antivirals, and vaccines work to help your immune system in the fight against pathogens! This Amoeba Sisters video also briefly introduces the lines of defense in the immune system and discusses how vaccines can be important for ""herd immunity.""
+
+Table of Contents:
+0:24 Basics of Immune System
+2:50 Antibiotics
+4:35 Vaccines
+5:41 Herd Immunity
+7:14 Antivirals
+8:04 One Last Thing- Pathogens Can Evolve (Flu Virus)
+
+Factual References:
+*OpenStax, Biology. OpenStax CNX. Nov 7, 2018 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.6.
+*Rubella Vaccine from CDC: https://www.cdc.gov/rubella/vaccination.html
+*https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+*SOME vaccines are contraindicated DURING pregnancy, which is why pregnant women can be a vulnerable population for some diseases if they lack immunity [mentioned when discussing herd immunity]. CDC General Vaccine Recommendation During Pregnancy: https://www.cdc.gov/vaccines/pregnancy/hcp/guidelines.html
+Keep in mind that, as the note states in the video, a woman may be vaccinated against rubella as a child but find out when pregnant that she has a ""low titer"" of Rubella antibodies and therefore be vulnerable. As the note mentions, some vaccines require ""booster"" doses.
+
+*Further Reading Suggestions:*
+-Importance of Vaccinations from CDC: https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+
+-What if we stopped vaccinating? from CDC https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024226/
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203350/
+
+-https://www.ncbi.nlm.nih.gov/pubmed/24814559
+
+-Learn more about Herd Immunity here: https://www.pbs.org/wgbh/nova/article/herd-immunity/
+
+-Learn more about myths and facts regarding vaccines: https://www.texaschildrens.org/departments/center-vaccine-awareness-and-research-cvar/vaccine-facts-and-myths#Myth:%20A%20preservative%20used%20in%20vaccines%20causes%20autism
+
+Support us on Patreon! http://www.patreon.com/amoebasisters
+More ways to Support Us? http://www.amoebasisters.com/support-us.html
+
+Our Resources:
+Biology Playlist: https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz
+GIFs: http://www.amoebasisters.com/gifs.html
+Handouts: http://www.amoebasisters.com/handouts.html
+Comics: http://www.amoebasisters.com/parameciumparlorcomics
+Unlectured Series: https://www.amoebasisters.com/unlectured
+
+Connect with us!
+Website: http://www.AmoebaSisters.com
+Twitter: http://www.twitter.com/AmoebaSisters
+Facebook: http://www.facebook.com/AmoebaSisters
+Tumblr: http://www.amoebasisters.tumblr.com
+Pinterest: http://www.pinterest.com/AmoebaSister­s
+Instagram: https://www.instagram.com/amoebasistersofficial/
+
+Visit our Redbubble store at http://www.amoebasisters.com/store
+
+The Amoeba Sisters videos demystify science with humor and relevance. The videos center on Pinky's certification and experience in teaching science at the high school level. Pinky's teacher certification is in grades 4-8 science and 8-12 composite science (encompassing biology, chemistry, and physics).  Amoeba Sisters videos only cover concepts that Pinky is certified to teach, and they focus on her specialty: secondary life science. For more information about The Amoeba Sisters, visit: 
+http://www.amoebasisters.com/about-us.html
+
+We cover the basics in biology concepts at the secondary level. If you are looking to discover more about biology and go into depth beyond these basics, our recommended reference is the FREE, peer reviewed, open source OpenStax biology textbook: https://openstax.org/details/books/biology
+
+Our intro music designed and performed by Jeremiah Cheshire.
+
+End music is this video is listed free to use/no attribution required from the YouTube audio library https://www.youtube.com/audiolibrary/music?feature=blog
+
+We take pride in our AWESOME community, and we welcome feedback and discussion.  However, please remember that this is an education channel. See YouTube's community guidelines https://www.youtube.com/yt/policyandsafety/communityguidelines.html and YouTube's policy center https://support.google.com/youtube/topic/2676378?hl=en&ref_topic=6151248.  We also reserve the right to remove comments with vulgar language.
+
+We have YouTube's community contributed subtitles feature on to allow translations for different languages, and we are thankful for those that contribute different languages! YouTube automatically credits the different language contributors below (unless the contributor had opted out of being credited). We are not affiliated with any of the translated subtitle credits that YouTube may place below. If you have a concern about community contributed contributions, please contact us.",Amoeba Sisters,"Antibiotics', 'antivirals', 'vaccines', 'how do antivirals work', 'how do antibiotics work', 'how do vaccines work', 'medicine', 'science', 'biology', 'TEKS', 'antibiotic resistance', 'bacteria', 'viruses', 'pathogens', 'white blood cells', 'lymphocytes', 'macrophages', 'b cells', 't cells', 'tutorial', 'explanation', 'for kids', 'simplified', 'animation', 'cartoon', 'vaccines vs antivirals', 'vaccines vs antibiotics', 'lesson', 'children', 'educational', 'herd immunity', 'ameba sisters', 'ameoba sisters', 'amoeba sisters immunity', 'amoeba sisters immune system'",PT9M29S,569,10
+uVUf_pt7Sh0,flu vaccine,Drug,NONE,NONE,0.29740700000000003,negative,-0.7006060000000001,0.08350199999999999,0.096947,0.08734199999999999,0.082311,0.010003,1,1,flu vaccine,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,flu vaccin,NONE,0.9957,0.085,0.128,0.787,0.12054940322382185,0.5224821582379721,negative,-0.43784,0.105549,0.534752,0.492174,0.168982,0.11366099999999996,0.10000000149011612,23.79999923706055,Vaccination,2018-12-20T21:00:05.000Z,UCb2GCoLSBXjmI_Qj1vk-44g,"Antibiotics, Antivirals, and Vaccines","Explore the basics of how antibiotics, antivirals, and vaccines work to help your immune system in the fight against pathogens! This Amoeba Sisters video also briefly introduces the lines of defense in the immune system and discusses how vaccines can be important for ""herd immunity.""
+
+Table of Contents:
+0:24 Basics of Immune System
+2:50 Antibiotics
+4:35 Vaccines
+5:41 Herd Immunity
+7:14 Antivirals
+8:04 One Last Thing- Pathogens Can Evolve (Flu Virus)
+
+Factual References:
+*OpenStax, Biology. OpenStax CNX. Nov 7, 2018 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.6.
+*Rubella Vaccine from CDC: https://www.cdc.gov/rubella/vaccination.html
+*https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+*SOME vaccines are contraindicated DURING pregnancy, which is why pregnant women can be a vulnerable population for some diseases if they lack immunity [mentioned when discussing herd immunity]. CDC General Vaccine Recommendation During Pregnancy: https://www.cdc.gov/vaccines/pregnancy/hcp/guidelines.html
+Keep in mind that, as the note states in the video, a woman may be vaccinated against rubella as a child but find out when pregnant that she has a ""low titer"" of Rubella antibodies and therefore be vulnerable. As the note mentions, some vaccines require ""booster"" doses.
+
+*Further Reading Suggestions:*
+-Importance of Vaccinations from CDC: https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+
+-What if we stopped vaccinating? from CDC https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024226/
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203350/
+
+-https://www.ncbi.nlm.nih.gov/pubmed/24814559
+
+-Learn more about Herd Immunity here: https://www.pbs.org/wgbh/nova/article/herd-immunity/
+
+-Learn more about myths and facts regarding vaccines: https://www.texaschildrens.org/departments/center-vaccine-awareness-and-research-cvar/vaccine-facts-and-myths#Myth:%20A%20preservative%20used%20in%20vaccines%20causes%20autism
+
+Support us on Patreon! http://www.patreon.com/amoebasisters
+More ways to Support Us? http://www.amoebasisters.com/support-us.html
+
+Our Resources:
+Biology Playlist: https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz
+GIFs: http://www.amoebasisters.com/gifs.html
+Handouts: http://www.amoebasisters.com/handouts.html
+Comics: http://www.amoebasisters.com/parameciumparlorcomics
+Unlectured Series: https://www.amoebasisters.com/unlectured
+
+Connect with us!
+Website: http://www.AmoebaSisters.com
+Twitter: http://www.twitter.com/AmoebaSisters
+Facebook: http://www.facebook.com/AmoebaSisters
+Tumblr: http://www.amoebasisters.tumblr.com
+Pinterest: http://www.pinterest.com/AmoebaSister­s
+Instagram: https://www.instagram.com/amoebasistersofficial/
+
+Visit our Redbubble store at http://www.amoebasisters.com/store
+
+The Amoeba Sisters videos demystify science with humor and relevance. The videos center on Pinky's certification and experience in teaching science at the high school level. Pinky's teacher certification is in grades 4-8 science and 8-12 composite science (encompassing biology, chemistry, and physics).  Amoeba Sisters videos only cover concepts that Pinky is certified to teach, and they focus on her specialty: secondary life science. For more information about The Amoeba Sisters, visit: 
+http://www.amoebasisters.com/about-us.html
+
+We cover the basics in biology concepts at the secondary level. If you are looking to discover more about biology and go into depth beyond these basics, our recommended reference is the FREE, peer reviewed, open source OpenStax biology textbook: https://openstax.org/details/books/biology
+
+Our intro music designed and performed by Jeremiah Cheshire.
+
+End music is this video is listed free to use/no attribution required from the YouTube audio library https://www.youtube.com/audiolibrary/music?feature=blog
+
+We take pride in our AWESOME community, and we welcome feedback and discussion.  However, please remember that this is an education channel. See YouTube's community guidelines https://www.youtube.com/yt/policyandsafety/communityguidelines.html and YouTube's policy center https://support.google.com/youtube/topic/2676378?hl=en&ref_topic=6151248.  We also reserve the right to remove comments with vulgar language.
+
+We have YouTube's community contributed subtitles feature on to allow translations for different languages, and we are thankful for those that contribute different languages! YouTube automatically credits the different language contributors below (unless the contributor had opted out of being credited). We are not affiliated with any of the translated subtitle credits that YouTube may place below. If you have a concern about community contributed contributions, please contact us.",Amoeba Sisters,"Antibiotics', 'antivirals', 'vaccines', 'how do antivirals work', 'how do antibiotics work', 'how do vaccines work', 'medicine', 'science', 'biology', 'TEKS', 'antibiotic resistance', 'bacteria', 'viruses', 'pathogens', 'white blood cells', 'lymphocytes', 'macrophages', 'b cells', 't cells', 'tutorial', 'explanation', 'for kids', 'simplified', 'animation', 'cartoon', 'vaccines vs antivirals', 'vaccines vs antibiotics', 'lesson', 'children', 'educational', 'herd immunity', 'ameba sisters', 'ameoba sisters', 'amoeba sisters immunity', 'amoeba sisters immune system'",PT9M29S,569,10
+uVUf_pt7Sh0,influenza,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.303053,negative,-0.8184939999999999,0.162366,0.156695,0.040329000000000004,0.041692,0.038037,3,1,influenza,influenza,influenza,influenz,influenza,influenza,influenz,http://en.wikipedia.org/wiki/Influenza,0.9957,0.085,0.128,0.787,0.12054940322382185,0.5224821582379721,negative,-0.43784,0.105549,0.534752,0.492174,0.168982,0.11366099999999996,0.10000000149011612,23.79999923706055,Vaccination,2018-12-20T21:00:05.000Z,UCb2GCoLSBXjmI_Qj1vk-44g,"Antibiotics, Antivirals, and Vaccines","Explore the basics of how antibiotics, antivirals, and vaccines work to help your immune system in the fight against pathogens! This Amoeba Sisters video also briefly introduces the lines of defense in the immune system and discusses how vaccines can be important for ""herd immunity.""
+
+Table of Contents:
+0:24 Basics of Immune System
+2:50 Antibiotics
+4:35 Vaccines
+5:41 Herd Immunity
+7:14 Antivirals
+8:04 One Last Thing- Pathogens Can Evolve (Flu Virus)
+
+Factual References:
+*OpenStax, Biology. OpenStax CNX. Nov 7, 2018 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.6.
+*Rubella Vaccine from CDC: https://www.cdc.gov/rubella/vaccination.html
+*https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+*SOME vaccines are contraindicated DURING pregnancy, which is why pregnant women can be a vulnerable population for some diseases if they lack immunity [mentioned when discussing herd immunity]. CDC General Vaccine Recommendation During Pregnancy: https://www.cdc.gov/vaccines/pregnancy/hcp/guidelines.html
+Keep in mind that, as the note states in the video, a woman may be vaccinated against rubella as a child but find out when pregnant that she has a ""low titer"" of Rubella antibodies and therefore be vulnerable. As the note mentions, some vaccines require ""booster"" doses.
+
+*Further Reading Suggestions:*
+-Importance of Vaccinations from CDC: https://www.cdc.gov/vaccines/vac-gen/howvpd.htm
+
+-What if we stopped vaccinating? from CDC https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024226/
+
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203350/
+
+-https://www.ncbi.nlm.nih.gov/pubmed/24814559
+
+-Learn more about Herd Immunity here: https://www.pbs.org/wgbh/nova/article/herd-immunity/
+
+-Learn more about myths and facts regarding vaccines: https://www.texaschildrens.org/departments/center-vaccine-awareness-and-research-cvar/vaccine-facts-and-myths#Myth:%20A%20preservative%20used%20in%20vaccines%20causes%20autism
+
+Support us on Patreon! http://www.patreon.com/amoebasisters
+More ways to Support Us? http://www.amoebasisters.com/support-us.html
+
+Our Resources:
+Biology Playlist: https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz
+GIFs: http://www.amoebasisters.com/gifs.html
+Handouts: http://www.amoebasisters.com/handouts.html
+Comics: http://www.amoebasisters.com/parameciumparlorcomics
+Unlectured Series: https://www.amoebasisters.com/unlectured
+
+Connect with us!
+Website: http://www.AmoebaSisters.com
+Twitter: http://www.twitter.com/AmoebaSisters
+Facebook: http://www.facebook.com/AmoebaSisters
+Tumblr: http://www.amoebasisters.tumblr.com
+Pinterest: http://www.pinterest.com/AmoebaSister­s
+Instagram: https://www.instagram.com/amoebasistersofficial/
+
+Visit our Redbubble store at http://www.amoebasisters.com/store
+
+The Amoeba Sisters videos demystify science with humor and relevance. The videos center on Pinky's certification and experience in teaching science at the high school level. Pinky's teacher certification is in grades 4-8 science and 8-12 composite science (encompassing biology, chemistry, and physics).  Amoeba Sisters videos only cover concepts that Pinky is certified to teach, and they focus on her specialty: secondary life science. For more information about The Amoeba Sisters, visit: 
+http://www.amoebasisters.com/about-us.html
+
+We cover the basics in biology concepts at the secondary level. If you are looking to discover more about biology and go into depth beyond these basics, our recommended reference is the FREE, peer reviewed, open source OpenStax biology textbook: https://openstax.org/details/books/biology
+
+Our intro music designed and performed by Jeremiah Cheshire.
+
+End music is this video is listed free to use/no attribution required from the YouTube audio library https://www.youtube.com/audiolibrary/music?feature=blog
+
+We take pride in our AWESOME community, and we welcome feedback and discussion.  However, please remember that this is an education channel. See YouTube's community guidelines https://www.youtube.com/yt/policyandsafety/communityguidelines.html and YouTube's policy center https://support.google.com/youtube/topic/2676378?hl=en&ref_topic=6151248.  We also reserve the right to remove comments with vulgar language.
+
+We have YouTube's community contributed subtitles feature on to allow translations for different languages, and we are thankful for those that contribute different languages! YouTube automatically credits the different language contributors below (unless the contributor had opted out of being credited). We are not affiliated with any of the translated subtitle credits that YouTube may place below. If you have a concern about community contributed contributions, please contact us.",Amoeba Sisters,"Antibiotics', 'antivirals', 'vaccines', 'how do antivirals work', 'how do antibiotics work', 'how do vaccines work', 'medicine', 'science', 'biology', 'TEKS', 'antibiotic resistance', 'bacteria', 'viruses', 'pathogens', 'white blood cells', 'lymphocytes', 'macrophages', 'b cells', 't cells', 'tutorial', 'explanation', 'for kids', 'simplified', 'animation', 'cartoon', 'vaccines vs antivirals', 'vaccines vs antibiotics', 'lesson', 'children', 'educational', 'herd immunity', 'ameba sisters', 'ameoba sisters', 'amoeba sisters immunity', 'amoeba sisters immune system'",PT9M29S,569,10

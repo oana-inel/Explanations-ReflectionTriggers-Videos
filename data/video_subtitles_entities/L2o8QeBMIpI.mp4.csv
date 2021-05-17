@@ -1,0 +1,109 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+L2o8QeBMIpI,21 years,Quantity,NONE,NONE,0.327369,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,21 year,21 year,21 year,21 year,21 year,21 year,21 year,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,30 years,Quantity,NONE,NONE,0.327369,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,30 year,30 year,30 year,30 year,30 year,30 year,30 year,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,"7,000 meters",Quantity,NONE,NONE,0.327369,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,"7,000 meter","7,000 meter","7,000 meter","7,000 met","7,000 meter","7,000 meter","7,000 met",NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.327369,neutral,0.0,0.39092899999999997,0.287632,0.087004,0.11138900000000004,0.10938099999999999,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.78399,positive,0.782335,0.134212,0.071461,0.655304,0.130663,0.027094,4,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,Felton,Person,NONE,NONE,0.328746,positive,0.8875219999999999,0.0,0.0,0.0,0.0,0.0,1,1,Felton,Felton,Felton,Felton,felton,felton,felton,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,Hainan,Location,Country,NONE,0.375178,neutral,0.0,0.302072,0.120798,0.308086,0.05474,0.09933600000000001,1,1,Hainan,hainan,hainan,hain,hainan,hainan,hain,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,Zhao,Person,NONE,NONE,0.339638,positive,0.888344,0.056237,0.020622,0.829584,0.09183999999999999,0.016146,1,1,Zhao,Zhao,Zhao,Zhao,zhao,zhao,zhao,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3
+L2o8QeBMIpI,wind Chong,GeographicFeature,NONE,NONE,0.376921,neutral,0.0,0.615179,0.110953,0.273507,0.037613,0.026861000000000003,1,1,wind Chong,wind Chong,wind Chong,wind Chong,wind chong,wind chong,wind chong,NONE,0.9895,0.01,0.193,0.7959999999999999,0.22206349206349205,0.5817460317460319,positive,0.6104149999999999,0.052922,0.663048,0.5023810000000001,0.077614,0.067107,0.30000001192092896,4.400000095367432,Free Trade,2018-04-18T07:58:54.000Z,UCmv5DbNpxH8X2eQxJBqEjKQ,Hainan Starts World's Largest Free Trade Zone Construction at its 30-year-old Birthday,"Year 2018 marks the 30th anniversary of the establishment of Hainan province and Hainan special economic zone. 
+
+In 2018, The CPC Central Committee has decided to support Hainan in building the whole island into a pilot free trade zone, gradually exploring and steadily promoting the establishment of a free trade port with Chinese characteristics, and promulgating policies and institutional systems for the free trade port step by step and in stages.
+
+Welcome to subscribe us on: 
+Facebook: https://www.facebook.com/NewsContent.CCTVPLUS
+Twitter: https://twitter.com/CCTV_Plus
+LinkedIn: https://www.linkedin.com/company/cctv-news-content
+Instagram: https://www.instagram.com/cctvnewscontent/
+
+Video on Demand: www.cctvplus.com
+If you are in demand of this video footage, please contact with our business development team via email: service@cctvplus.com",CCTV Video News Agency,"CCTV', 'News', 'CCTV+', 'Hainan', 'China', 'special economic zone', 'pilot free trade zone', 'free trade port', 'Tourism', 'South China Sea', 'Southeast Asia', 'China sea'",PT2M52S,172,3

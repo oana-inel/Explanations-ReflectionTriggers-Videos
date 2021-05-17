@@ -1,0 +1,172 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+LPnKtHak2dQ,18 months,Quantity,NONE,NONE,0.44039300000000003,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,18 month,18 month,18 month,18 month,18 month,18 month,18 month,NONE,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.44039300000000003,positive,0.823428,0.191421,0.032681,0.675569,0.008725,0.060451,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Catalan Society,Organization,NONE,NONE,0.5620430000000001,neutral,0.0,0.33669099999999996,0.04505,0.158891,0.508256,0.146118,1,1,Catalan Society,Catalan Society,Catalan Society,Catalan Society,catalan societi,catalan societi,cat socy,NONE,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Catalonia,Location,City,NONE,0.5978680000000001,neutral,0.0,0.25567199999999995,0.027089,0.217225,0.529615,0.14243,2,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Lorenzo silver,Person,NONE,NONE,0.8919860000000001,positive,0.575707,0.275941,0.035686,0.502038,0.028037,0.012424,4,1,Lorenzo silver,Lorenzo silver,Lorenzo silver,Lorenzo silv,lorenzo silver,lorenzo silver,lorenzo silv,NONE,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.44260900000000003,positive,0.059424,0.38172,0.062466999999999995,0.269863,0.061432000000000014,0.364194,1,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.8208409999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Spanish Parliament,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/Cortes_Generales,0.666036,positive,0.863877,0.356271,0.013631,0.29908,0.31897,0.122753,1,1,Spanish Parliament,spanish Parliament,spanish Parliament,span Parliament,spanish parliament,spanish parliament,span parlia,http://en.wikipedia.org/wiki/Cortes_Generales,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6
+LPnKtHak2dQ,Spanish government,Organization,NONE,NONE,0.736559,negative,-0.494432,0.12431800000000001,0.584583,0.074259,0.102376,0.041983,2,1,Spanish government,spanish govern,spanish govern,span govern,spanish govern,spanish govern,span govern,NONE,-0.9237,0.104,0.086,0.81,0.012205483405483409,0.4135544973544975,negative,-0.574653,0.153831,0.454558,0.529562,0.513945,0.169873,-0.10000000149011612,10.199999809265137,Catalonia Independence,2017-10-27T15:58:06.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,"Catalonia Independence: ""There was no police violence against voters on October 1st""","Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Catalonia Independence: ""There was no police violence against voters on October 1."", author Lorenzo Silva says to FRANCE24''s Annette Young.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"France24', 'Catalonia', 'March', 'pressure', 'independence', 'referendum', 'Barcelona', 'camp', 'Turnout', 'Madrid', 'Rajoy', 'Felipe', 'Spain', 'Spanish', 'King', 'Sarah Morris', 'Lorenzo Silva'",PT5M8S,308,6

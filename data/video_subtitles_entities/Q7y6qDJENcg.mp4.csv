@@ -1,0 +1,71 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+Q7y6qDJENcg,15-year,Quantity,NONE,NONE,0.27188,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,15-year,15-year,15-year,15-year,15-year,15-year,15-year,NONE,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Al Jazeera Barcelona,Facility,NONE,NONE,0.32509899999999997,neutral,0.0,0.047873,0.10451300000000001,0.24611,0.19280999999999998,0.089923,1,1,Al Jazeera Barcelona,Al Jazeera Barcelona,Al Jazeera Barcelona,Al Jazeera Barcelona,Al jazeera barcelona,al jazeera barcelona,al jazeer barcelon,NONE,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Catalonia,Location,City,NONE,0.37596599999999997,neutral,0.0,0.48373599999999994,0.034112,0.329758,0.102322,0.201856,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Catalonia,Location,Country,NONE,0.306123,neutral,0.0,0.48373599999999994,0.034112,0.329758,0.102322,0.201856,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Civil Defense Forces,Organization,PoliticalParty,http://dbpedia.org/resource/Civil_Defence_Forces,0.27188,neutral,0.0,0.540937,0.306652,0.010902,0.35532600000000003,0.125608,1,1,Civil Defense Forces,Civil Defense forc,Civil Defense forc,Civil Defense forc,civil defens forc,civil defens forc,civil defens forc,http://en.wikipedia.org/wiki/Civil_Defence_Forces,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.924141,negative,-0.225593,0.505078,0.144261,0.504314,0.5895,0.068755,6,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3
+Q7y6qDJENcg,Spanish National Police,Organization,NONE,NONE,0.41661000000000004,neutral,0.0,0.540937,0.306652,0.010902,0.35532600000000003,0.125608,1,1,Spanish National Police,spanish National Police,spanish National Police,span National Police,spanish nation polic,spanish nation polic,span nat pol,NONE,0.9042,0.097,0.127,0.7759999999999999,0.16594896331738435,0.4333971291866029,negative,-0.29033400000000004,0.101172,0.59788,0.512256,0.108666,0.543746,-0.10000000149011612,4.599999904632568,Catalonia Independence,2017-09-25T07:33:09.000Z,UCNye-wNBqNL5ZzHSJj3l8Bg,Catalonia referendum:  Final week of campaigning before independence vote,"Residents of Catalonia are facing a final week of campaigning before holding a banned vote on whether to separate from Spain. 
+
+Catalans are defiantly posting 'Yes' signs across Barcelona and other cities in the region. 
+
+Al Jazeera's John Hendren reports from Barcelona.
+
+- Subscribe to our channel: http://aje.io/AJSubscribe
+- Follow us on Twitter: https://twitter.com/AJEnglish
+- Find us on Facebook: https://www.facebook.com/aljazeera
+- Check our website: http://www.aljazeera.com/",Al Jazeera English,"5587663787001', 'spanish police', 'package', 'Europe', 'News', 'spain', 'English', 'John Hendren', 'al Jazeera', 'catalonia independence vote', 'youtube', 'AJE', 'aljazeera', 'barcelona', 'politics & law'",PT2M14S,134,3

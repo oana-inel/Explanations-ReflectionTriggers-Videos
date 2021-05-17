@@ -1,0 +1,211 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+ZN4ZzNdwvCM,1.5 percent,Quantity,NONE,NONE,0.185779,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,1.5 percent,1.5 percent,1.5 percent,1.5 perc,1.5 percent,1.5 percent,1.5 perc,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Asia,Location,"FieldOfStudy, Continent",http://dbpedia.org/resource/Asia,0.24580500000000002,neutral,0.0,0.250904,0.189163,0.282237,0.075684,0.059003,1,1,Asia,Asia,Asia,Asia,asia,asia,as,http://en.wikipedia.org/wiki/Asia,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Barrett,Person,NONE,NONE,0.22893200000000002,neutral,0.0,0.109357,0.097553,0.149525,0.106431,0.397762,1,1,Barrett,Barrett,Barrett,Barrett,barrett,barrett,barret,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Beijing,Location,City,http://dbpedia.org/resource/Beijing,0.185779,negative,-0.6491939999999999,0.356827,0.301205,0.052562,0.417346,0.171612,1,1,Beijing,Beijing,Beijing,Beijing,beij,beij,beid,http://en.wikipedia.org/wiki/Beijing,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Britain,Location,Country,NONE,0.395897,negative,-0.36588200000000004,0.352404,0.05135,0.420016,0.029227,0.191727,4,1,Britain,Britain,Britain,Britain,britain,britain,britain,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,China,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, Kingdom, FilmScreeningVenue, Country",http://dbpedia.org/resource/China,0.258949,negative,-0.436722,0.26189,0.10139,0.5906170000000001,0.011918999999999999,0.047736,3,1,China,China,China,China,china,china,chin,http://en.wikipedia.org/wiki/China,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,European Union,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.42783999999999994,positive,0.064942,0.542034,0.09614500000000001,0.26107800000000003,0.060423000000000004,0.037447,4,1,European Union,European Union,European Union,European Union,european union,european union,europ un,http://en.wikipedia.org/wiki/European_Union,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,President,JobTitle,NONE,NONE,0.198287,neutral,0.0,0.111445,0.076197,0.581982,0.066375,0.07952100000000001,1,1,President,President,President,President,presid,presid,presid,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Samsung SK,Company,NONE,NONE,0.215346,neutral,0.0,0.321459,0.087153,0.216529,0.022111000000000002,0.078558,1,1,Samsung SK,Samsung SK,Samsung SK,Samsung SK,samsung SK,samsung sk,samsung sk,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,South Korea,Location,"GovernmentalJurisdiction, Country",http://dbpedia.org/resource/South_Korea,0.840623,negative,-0.076714,0.29685900000000004,0.140689,0.532342,0.184478,0.088371,7,1,South Korea,South Korea,South Korea,South Korea,south korea,south korea,sou kore,http://en.wikipedia.org/wiki/South_Korea,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,UK,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, Country",http://dbpedia.org/resource/England,0.313663,neutral,0.0,0.28283600000000003,0.038374,0.540513,0.008943000000000001,0.165785,4,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/England,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.254874,negative,-0.436722,0.26189,0.10139,0.5906170000000001,0.011918999999999999,0.047736,3,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,Washington,Location,"AdministrativeDivision, GovernmentalJurisdiction, MilitaryPost, PlaceWithNeighborhoods, USCounty, City","http://dbpedia.org/resource/Washington,_D.C.",0.186635,negative,-0.6491939999999999,0.356827,0.301205,0.052562,0.417346,0.171612,1,1,Washington,Washington,Washington,Washington,washington,washington,washington,"http://en.wikipedia.org/wiki/Washington,_D.C.",0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,billion dollars,Quantity,NONE,NONE,0.185779,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,billion dollar,billion dollar,billion dollar,bil doll,billion dollar,billion dollar,bil doll,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4
+ZN4ZzNdwvCM,brexit,Location,City,NONE,0.21681799999999998,neutral,0.0,0.258289,0.050593,0.285823,0.11758800000000001,0.045844,1,1,brexit,brexit,brexit,brexit,brexit,brexit,brexit,NONE,0.997,0.049,0.162,0.789,0.06652286756453424,0.5147221220137888,negative,-0.386451,0.128111,0.513704,0.5469649999999999,0.124599,0.06340499999999999,0.0,4.300000190734863,Free Trade,2019-06-10T13:32:38.000Z,UC83jt4dlz1Gjl58fzQrrKZg,"Britain, South Korea sign free trade deal ahead of Brexit","Britain is slated to leave the European Union on Oct 31 and South Korea is preparing for that departure. The two countries have signed a free trade deal ahead of Brexit. 
+
+Subscribe to our channel here: https://cna.asia/youtubesub 
+
+Subscribe to our news service:
+WhatsApp: https://cna.asia/whatsapp
+Telegram: https://t.me/cnalatest 
+
+Follow us:
+CNA: https://cna.asia
+CNA Lifestyle: http://www.cnalifestyle.com 
+Facebook: https://www.facebook.com/channelnewsasia
+Instagram: https://www.instagram.com/channelnewsasia
+Twitter: https://www.twitter.com/channelnewsasia",CNA,"CNA', 'Channel NewsAsia', 'Britain', 'South Korea', 'free trade deal'",PT3M17S,197,4

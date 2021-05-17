@@ -1,0 +1,105 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+GqzZiJre-HI,24-hour,Quantity,NONE,NONE,0.329548,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,24-hour,24-hour,24-hour,24-hour,24-hour,24-hour,24-hour,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,Dubai,Location,"AdministrativeDivision, Kingdom, PlaceWithNeighborhoods, City",http://dbpedia.org/resource/Dubai,0.421625,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Dubai,Dubai,Dubai,Dubai,dubai,dubai,duba,http://en.wikipedia.org/wiki/Dubai,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,Executive,JobTitle,NONE,NONE,0.41555200000000003,positive,0.89404,0.014003999999999999,0.0253,0.5692010000000001,0.011017,0.067473,1,1,Executive,Executive,Executive,Executive,execut,execut,execut,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,Germany,Location,Country,NONE,0.35944299999999996,neutral,0.0,0.151632,0.052726,0.523514,0.011818,0.081706,1,1,Germany,Germany,Germany,Germany,germani,germani,germany,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,India,Location,Country,NONE,0.329548,positive,0.575458,0.225487,0.06551699999999999,0.6285069999999999,0.013493999999999999,0.052061,1,1,India,India,India,India,india,india,ind,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,Russell Hema,Person,NONE,NONE,0.932944,positive,0.900077,0.133135,0.11823900000000001,0.196993,0.041038,0.177931,2,1,Russell Hema,Russell Hema,Russell Hema,Russell Hema,russel hema,russel hema,russel hem,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,hundred percent,Quantity,NONE,NONE,0.329548,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,hundred percent,hundr percent,hundr percent,hundr perc,hundr percent,hundr percent,hundr perc,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3
+GqzZiJre-HI,zero percent,Quantity,NONE,NONE,0.329548,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,zero percent,zero percent,zero percent,zero perc,zero percent,zero percent,zero perc,NONE,0.9887,0.008,0.151,0.841,0.2610119047619048,0.4514455782312926,positive,0.928064,0.085483,0.568058,0.12503599999999998,0.091492,0.040079,0.4000000059604645,7.400000095367432,Free Trade,2013-11-26T06:30:53.000Z,UC2pKhp8DxV4naWsHSCx-Q4Q,RAK Free Trade Zone (RAK FTZ) The Cost Effective Investment Destination in United Arab Emirates- UAE,"Visit RAK FTZ Website: http://www.rakftz.com
+View other RAK FTZ Videos: http://www.youtube.com/rakftz
+Like us on Facebook: http://www.facebook.com/rakftz
+Follow us on Twitter: http://www.twitter.com/rakftz
+
+
+Ras Al Khaimah Free Trade Zone (RAK FTZ) has affordability, flexibility and efficiency as benchmarks placed at the top of its operating priorities. Our ability to put forward practical and customised business setup solutions for our clients is unmatched among free zones worldwide. Our capabilities distinctively position us as the best provider of competitive and customised free zone business services in the region.
+
+Along with providing commercial, general trading, consultancy and industrial licences, registering legal entities, and offering competitive and tailored offices, warehouses and land, we also provide value-added services to our clientele, such as advertising, procurement, event management, recruitment and training assistance.
+
+Headquartered in Ras Al Khaimah, UAE, we have business centres in Ras Al Khaimah and Dubai and promotion centres in Dubai and Abu Dhabi in the country, and are active in three continents with international liaison offices in Turkey, India and Germany -- a unique feature for a free zone.
+
+With 100% tax exemption, 100% foreign ownership, transparent laws and regulations, no restrictions on capital and profit repatriation, a strategic location with proximity to Dubai, state-of-the-art communication facilities, easy access to Ras Al Khaimah's airport and seaports, and over 8,600 active companies registered with RAK FTZ, we welcome you to explore our services and experience the proven competence of our multilingual staff!",MYRAKEZ,"RAK', 'free trade zone', 'free zone', 'ras al khaimah', 'dubai', 'uae', 'investment', 'business', 'market', 'trading', 'United Arab Emirates (Country)', 'opportunity', 'freezone'",PT2M34S,154,3

@@ -1,0 +1,287 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+gpEXtTzz5Aw,16 year,Quantity,NONE,NONE,0.21341300000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,16 year,16 year,16 year,16 year,16 year,16 year,16 year,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,CDC,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.21915300000000001,neutral,0.0,0.39426100000000003,0.099149,0.29711,0.133389,0.091337,1,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Dr. Taryn,Person,NONE,NONE,0.287937,negative,-0.463384,0.227385,0.057049,0.187831,0.211806,0.06866799999999999,1,1,Dr. Taryn,Dr. Taryn,Dr. Taryn,Dr. Taryn,dr. taryn,dr. taryn,dr. taryn,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Ethan Linden Berger,Person,NONE,NONE,0.581775,negative,-0.711709,0.36751999999999996,0.087328,0.443576,0.11369800000000001,0.12150899999999999,2,1,Ethan Linden Berger,Ethan Linden Berger,Ethan Linden Berger,Ethan Linden Berger,ethan linden berger,ethan linden berger,eth lind berg,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Ethan Linden Burger,Person,NONE,NONE,0.649465,negative,-0.446371,0.15687,0.188131,0.403929,0.177507,0.134468,2,1,Ethan Linden Burger,Ethan Linden Burger,Ethan Linden Burger,Ethan Linden Burger,ethan linden burger,ethan linden burger,eth lind burg,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Frank,Person,NONE,NONE,0.21341300000000002,positive,0.5223180000000001,0.175713,0.089398,0.483838,0.06707300000000001,0.06109,1,1,Frank,Frank,Frank,Frank,frank,frank,frank,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,HPV,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Human_papillomavirus,0.223766,neutral,0.0,0.193123,0.032722,0.572164,0.178053,0.121827,1,1,HPV,HPV,HPV,HPV,hpv,hpv,hpv,http://en.wikipedia.org/wiki/Human_papillomavirus,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,High School,Organization,"FieldOfStudy, Degree",http://dbpedia.org/resource/High_school,0.297783,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,High School,High School,High School,High School,high school,high school,high school,http://en.wikipedia.org/wiki/High_school,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Jill wheeler,Person,NONE,NONE,0.305202,negative,-0.539425,0.608476,0.156318,0.017740000000000002,0.162934,0.37738,3,1,Jill wheeler,Jill wheeler,Jill wheeler,Jill wheel,jill wheeler,jill wheeler,jil wheel,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,John Ethan Linden Berger,Person,NONE,NONE,0.87982,negative,-0.07766100000000001,0.22475599999999998,0.517766,0.278538,0.098273,0.162079,6,1,John Ethan Linden Berger,John Ethan Linden Berger,John Ethan Linden Berger,John Ethan Linden Berger,john ethan linden berger,john ethan linden berger,john eth lind berg,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Linden Burger,Person,NONE,NONE,0.827652,negative,-0.287245,0.299246,0.128028,0.58977,0.127029,0.094734,6,1,Linden Burger,Linden Burger,Linden Burger,Linden Burger,linden burger,linden burger,lind burg,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Ohio,Location,StateOrCounty,NONE,0.220543,neutral,0.0,0.490274,0.10506099999999999,0.163206,0.188088,0.166481,1,1,Ohio,Ohio,Ohio,Ohio,ohio,ohio,ohio,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Oregon,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState, WineRegion, StateOrCounty",http://dbpedia.org/resource/Oregon,0.23627800000000002,neutral,0.0,0.193123,0.032722,0.572164,0.178053,0.121827,1,1,Oregon,Oregon,Oregon,Oregon,oregon,oregon,oregon,http://en.wikipedia.org/wiki/Oregon,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Reddit,Company,Website,http://dbpedia.org/resource/Reddit,0.431486,positive,0.173343,0.389173,0.243515,0.34730700000000003,0.112831,0.040848,3,1,Reddit,Reddit,Reddit,Reddit,reddit,reddit,reddit,http://en.wikipedia.org/wiki/Reddit,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Tara,Person,NONE,NONE,0.343902,positive,0.209002,0.4366600000000001,0.14693299999999998,0.251023,0.21674200000000002,0.06773,2,1,Tara,Tara,Tara,Tara,tara,tara,tar,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Washington,Location,"AdministrativeDivision, GovernmentalJurisdiction, MilitaryPost, PlaceWithNeighborhoods, USCounty, City","http://dbpedia.org/resource/Washington,_D.C.",0.24234499999999998,positive,0.7660859999999999,0.189604,0.046567000000000004,0.291883,0.204289,0.057470000000000014,1,1,Washington,Washington,Washington,Washington,washington,washington,washington,"http://en.wikipedia.org/wiki/Washington,_D.C.",0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,Washington,Location,StateOrCounty,NONE,0.218665,negative,-0.463384,0.189604,0.046567000000000004,0.291883,0.204289,0.057470000000000014,1,1,Washington,Washington,Washington,Washington,washington,washington,washington,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,anti-vaccine,Location,City,NONE,0.278883,negative,-0.675424,0.313364,0.108896,0.4854270000000001,0.110076,0.09052400000000001,1,1,anti-vaccine,anti-vaccin,anti-vaccin,anti-vaccine,anti-vaccin,anti-vaccin,anti-vaccine,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,influenza,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Influenza,0.23234699999999997,negative,-0.5213800000000001,0.192307,0.07803,0.094674,0.048467,0.10248399999999999,1,1,influenza,influenza,influenza,influenz,influenza,influenza,influenz,http://en.wikipedia.org/wiki/Influenza,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.365196,positive,0.115692,0.35375,0.19405999999999998,0.400001,0.15316,0.039064,2,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,tetanus,HealthCondition,"DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease",http://dbpedia.org/resource/Tetanus,0.214734,neutral,0.0,0.193123,0.032722,0.572164,0.178053,0.121827,1,1,tetanus,tetanu,tetanus,tetan,tetanu,tetanus,tetan,http://en.wikipedia.org/wiki/Tetanus,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4
+gpEXtTzz5Aw,two years,Quantity,NONE,NONE,0.21341300000000002,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,0.9772,0.076,0.113,0.8109999999999999,0.2025410509031199,0.4757019704433498,negative,-0.407056,0.145062,0.627066,0.25369200000000003,0.5608529999999999,0.095844,0.0,12.699999809265135,Vaccination,2019-02-12T13:06:35.000Z,UC-SJ6nODDmufqBzPBwCvYvQ,Ohio teen defies mother and gets vaccinated,"Disproven and dubious theories about the safety of childhood vaccines are pitting an Ohio mother against her teenage son. High school senior Ethan Lindenberger recently defied his mother and got vaccinated, saying his parents' misguided beliefs put his health, and the health of his younger siblings, at risk. Dr. Tara Narula reports.
+
+Watch ""CBS This Morning"" HERE: http://bit.ly/1T88yAR
+Download the CBS News app on iOS HERE: https://apple.co/1tRNnUy
+Download the CBS News app on Android HERE: https://bit.ly/1IcphuX
+
+Like ""CBS This Morning"" on Facebook HERE: http://on.fb.me/1LhtdvI
+Follow ""CBS This Morning"" on Twitter HERE: http://bit.ly/1Xj5W3p
+Follow ""CBS This Morning"" on Instagram HERE: http://bit.ly/1Q7NGnY
+
+Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B
+
+Delivered by Norah O’Donnell, Gayle King, John Dickerson, and Bianna Golodryga, ""CBS This Morning"" offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for ""CBS This Morning"" broadcast times.",CBS This Morning,"video', 'cbs', 'news', 'CBS News', 'CBS this Morning', 'vaccinations', 'anti-vaccination', 'childhood vaccines', 'health', 'U.S.'",PT3M57S,237,4

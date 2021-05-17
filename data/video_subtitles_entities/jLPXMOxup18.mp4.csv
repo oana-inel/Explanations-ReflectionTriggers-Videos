@@ -1,0 +1,127 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+jLPXMOxup18,10 years,Quantity,NONE,NONE,0.464228,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 year,10 year,10 year,10 year,10 year,10 year,10 year,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,CDC,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.626362,positive,0.53952,0.389946,0.107146,0.351732,0.169994,0.111358,2,1,CDC,CDC,CDC,CDC,cdc,cdc,cdc,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Doctor Andrew Wakefield,Person,Physician,http://dbpedia.org/resource/Andrew_Wakefield,0.8646360000000001,negative,-0.687441,0.356656,0.078675,0.102567,0.12827,0.458905,2,1,Doctor Andrew Wakefield,Doctor Andrew Wakefield,Doctor Andrew Wakefield,Doctor Andrew Wakefield,doctor andrew wakefield,doctor andrew wakefield,doct andrew wakefield,http://en.wikipedia.org/wiki/Andrew_Wakefield,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Dr. Zuber,Person,NONE,NONE,0.817164,negative,-0.351931,0.20833000000000002,0.192657,0.211294,0.12611,0.162795,2,1,Dr. Zuber,Dr. Zuber,Dr. Zuber,Dr. Zuber,dr. zuber,dr. zuber,dr. zub,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Facebook,Company,"Website, VentureFundedCompany",http://dbpedia.org/resource/Facebook,0.567539,neutral,0.0,0.157586,0.167725,0.274549,0.374735,0.254711,1,1,Facebook,Facebook,Facebook,Facebook,facebook,facebook,facebook,http://en.wikipedia.org/wiki/Facebook,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.790998,positive,0.23675300000000002,0.344125,0.22855,0.474997,0.01701,0.045486,2,1,Google,Google,Google,Google,googl,googl,googl,http://en.wikipedia.org/wiki/Google,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Homeopathy,HealthCondition,NONE,NONE,0.518983,neutral,0.0,0.088165,0.389952,0.42087399999999997,0.035851999999999995,0.113009,1,1,Homeopathy,Homeopathy,Homeopathy,Homeopathy,homeopathi,homeopathi,homeopathy,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Jenny McCarthy,Person,"AwardNominee, AwardWinner, Celebrity, DietFollower, FilmProducer, FilmActor, FilmWriter, TVActor, VideoGameActor",http://dbpedia.org/resource/Jenny_McCarthy,0.688829,negative,-0.5578029999999999,0.270492,0.069742,0.073777,0.3323,0.41655200000000003,2,1,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,Jenny McCarthy,jenni mccarthi,jenni mccarthi,jenny mccarthy,http://en.wikipedia.org/wiki/Jenny_McCarthy,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Jim Carrey,Person,"Actor, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, FilmActor, TVActor, FilmWriter",http://dbpedia.org/resource/Jim_Carrey,0.499312,negative,-0.5578029999999999,0.304167,0.078636,0.060644,0.332829,0.369675,1,1,Jim Carrey,Jim Carrey,Jim Carrey,Jim Carrey,jim carrey,jim carrey,jim carrey,http://en.wikipedia.org/wiki/Jim_Carrey,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,RX,Company,NONE,NONE,0.464228,neutral,0.0,0.114298,0.197909,0.241525,0.254794,0.136239,1,1,RX,RX,RX,RX,RX,rx,rx,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,Stanford Internal Medicine,PrintMedia,NONE,NONE,0.5777939999999999,neutral,0.0,0.296441,0.056142,0.37290999999999996,0.043778,0.046081,1,1,Stanford Internal Medicine,Stanford Internal Medicine,Stanford Internal Medicine,Stanford Internal Medicine,stanford intern medicin,stanford intern medicin,stanford intern medicin,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,UCSF,Organization,"Location, CollegeUniversity, University","http://dbpedia.org/resource/University_of_California,_San_Francisco",0.5481,neutral,0.0,0.296441,0.056142,0.37290999999999996,0.043778,0.046081,1,1,UCSF,UCSF,UCSF,UCSF,ucsf,ucsf,ucsf,"http://en.wikipedia.org/wiki/University_of_California,_San_Francisco",0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,four years,Quantity,NONE,NONE,0.464228,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,four year,four year,four year,four year,four year,four year,four year,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4
+jLPXMOxup18,three years,Quantity,NONE,NONE,0.464228,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three year,three year,three year,three year,three year,three year,three year,NONE,0.5032,0.077,0.083,0.841,0.033865060865060866,0.5120734697401365,negative,-0.467623,0.184857,0.22185700000000005,0.6182380000000001,0.5402779999999999,0.157674,0.0,11.899999618530273,Vaccination,2016-04-01T17:43:17.000Z,UCFyRz1N_T-rnSkbaAH_TFAw,I Was Wrong About Vaccines | ZVlogg #035 | ZDoggMD.com,"There's a time to admit I've been wrong about vaccines. That time is April 1. 
+
+Follow @zdoggmd:
+http://zdoggmd.com
+http://facebook.com/zdoggmd
+http://twitter.com/zdoggmd
+http://instagram.com/zdoggmd
+
+Music by David Szesztay.",ZDoggMD,"vaccines', 'zdoggmd', 'zubin damania', 'I was wrong about vaccines', 'antivax', 'autism', 'pediatrician', 'medical', 'humor', 'spoof', 'funny', 'vlog', 'zvlogg', 'andrew wakefield', 'jim carrey', 'jenny mccarthy', 'mercola'",PT3M44S,224,4

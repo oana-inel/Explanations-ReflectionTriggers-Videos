@@ -1,0 +1,131 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+EaCbgBroDTE,25 years,Quantity,NONE,NONE,0.22855599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Brussels,Location,City,NONE,0.24559699999999998,neutral,0.0,0.08907899999999999,0.131435,0.315735,0.24949200000000002,0.10566800000000001,1,1,Brussels,Brussels,Brussels,Brussels,brussel,brussel,brussel,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Carl,Person,NONE,NONE,0.25439,negative,-0.766426,0.717169,0.304705,0.016225999999999997,0.16578800000000002,0.09200499999999999,1,1,Carl,Carl,Carl,Carl,carl,carl,carl,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Catalan Independence,Organization,NONE,NONE,0.6374529999999999,negative,-0.4119310000000001,0.307726,0.110371,0.21206599999999998,0.369635,0.161949,3,1,Catalan Independence,Catalan Independence,Catalan Independence,Catalan Independence,catalan independ,catalan independ,cat independ,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Catalonia,Location,Region,NONE,0.311444,positive,0.47424099999999997,0.13933800000000002,0.09061699999999999,0.045026,0.767022,0.199909,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Franco,Person,NONE,NONE,0.24175100000000002,negative,-0.7686649999999999,0.317213,0.23492600000000002,0.022195,0.599459,0.159778,1,1,Franco,Franco,Franco,Franco,franco,franco,franco,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Katherine,Person,NONE,NONE,0.251725,negative,-0.7686649999999999,0.317213,0.23492600000000002,0.022195,0.599459,0.159778,1,1,Katherine,Katherine,Katherine,Katherine,katherin,katherin,katherin,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.348808,neutral,0.0,0.457897,0.153391,0.047883999999999996,0.30382600000000004,0.099022,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Scotland,Location,Country,NONE,0.22855599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Scotland,Scotland,Scotland,Scotland,scotland,scotland,scotland,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.90522,negative,-0.261471,0.559499,0.111955,0.4648560000000001,0.236614,0.178239,7,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,United Kingdom,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.23968299999999998,neutral,0.0,0.311251,0.047405,0.19128199999999998,0.318317,0.364704,1,1,United Kingdom,United Kingdom,United Kingdom,United Kingdom,unit kingdom,unit kingdom,unit kingdom,http://en.wikipedia.org/wiki/United_Kingdom,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,president,JobTitle,NONE,NONE,0.24119000000000002,neutral,0.0,0.08907899999999999,0.131435,0.315735,0.24949200000000002,0.10566800000000001,1,1,president,presid,presid,presid,presid,presid,presid,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4
+EaCbgBroDTE,two days,Quantity,NONE,NONE,0.22855599999999998,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two day,two day,two day,two day,two day,two day,two day,NONE,0.5536,0.124,0.139,0.737,0.10677506775067752,0.4087108013937283,negative,-0.499037,0.152662,0.11403900000000004,0.589198,0.13431700000000002,0.553445,0.0,7.699999809265138,Catalonia Independence,2019-02-12T22:38:31.000Z,UCFQgi22Ht00CpaOQLtvZx2A,Trial of Catalan separatist leaders opens amid political crisis in Spain | ITV News,"A politically charged trial of a dozen Catalan separatist leaders has started in Spain’s Supreme Court amid protests and the possibility of an early general election being called in the country.
+
+The defendants are being tried on rebellion and other charges stemming from their roles in pushing ahead with a unilateral independence declaration in October 2017.
+
+• Subscribe to ITV News on YouTube: http://bit.ly/2lOHmNj 
+• Get breaking news and more stories at http://www.itv.com/news
+
+Follow ITV News on Facebook: https://www.facebook.com/itvnews/ 
+Follow ITV News on Twitter: https://twitter.com/itvnews 
+Follow ITV News on Instagram: https://www.instagram.com/itvnews/",ITV News,"Barcelona', 'Cataloinia', 'Spain'",PT3M6S,186,4

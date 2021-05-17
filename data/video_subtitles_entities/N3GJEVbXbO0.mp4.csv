@@ -1,0 +1,45 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+N3GJEVbXbO0,Borough Park Jewish Community Council,Organization,NONE,NONE,0.737614,positive,0.865857,0.011940000000000001,0.084858,0.806938,0.034573,0.031246,1,1,Borough Park Jewish Community Council,Borough Park Jewish Community Council,Borough Park Jewish Community Council,Borough Park Jewish Community Council,borough park jewish commun council,borough park jewish communiti council,borough park jew commun council,NONE,0.6865,0.077,0.093,0.83,0.16081501831501832,0.5757967032967034,negative,-0.521601,0.111487,0.5394369999999999,0.49923,0.432353,0.136301,-0.10000000149011612,5.9000000953674325,Vaccination,2019-04-09T22:58:34.000Z,UC52X5wxOL_s5yw0dQk7NtgA,Ultra-Orthodox community reacts to measles vaccine,"Residents of a predominantly ultra-Orthodox Jewish community in New York could face fines for failing to be vaccinated against the measles. New York's mayor declared an emergency Tuesday, citing an outbreak of the virus. (April 9)
+
+Subscribe for more Breaking News: http://smarturl.it/AssociatedPress 
+Website: https://apnews.com
+Twitter: https://twitter.com/AP
+Facebook: https://facebook.com/APNews
+Google+: https://plus.google.com/115892241801867723374
+Instagram: https://www.instagram.com/APNews/
+​
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/22ebc47caf96efffcca6bf55f438a4ff",Associated Press,"Associated Press', 'news', 'apus115137', '172da0f3e05f4149b02af2155f575138', 'US NY Heasles Health Emergency (CR)', 'Bill de Blasio', 'New York City', 'New York', 'United States', 'Social affairs', 'Health', 'General news', 'Media'",PT2M3S,123,3
+N3GJEVbXbO0,CEO,JobTitle,NONE,NONE,0.5866899999999999,positive,0.865857,0.011940000000000001,0.084858,0.806938,0.034573,0.031246,1,1,CEO,ceo,ceo,ceo,ceo,ceo,ceo,NONE,0.6865,0.077,0.093,0.83,0.16081501831501832,0.5757967032967034,negative,-0.521601,0.111487,0.5394369999999999,0.49923,0.432353,0.136301,-0.10000000149011612,5.9000000953674325,Vaccination,2019-04-09T22:58:34.000Z,UC52X5wxOL_s5yw0dQk7NtgA,Ultra-Orthodox community reacts to measles vaccine,"Residents of a predominantly ultra-Orthodox Jewish community in New York could face fines for failing to be vaccinated against the measles. New York's mayor declared an emergency Tuesday, citing an outbreak of the virus. (April 9)
+
+Subscribe for more Breaking News: http://smarturl.it/AssociatedPress 
+Website: https://apnews.com
+Twitter: https://twitter.com/AP
+Facebook: https://facebook.com/APNews
+Google+: https://plus.google.com/115892241801867723374
+Instagram: https://www.instagram.com/APNews/
+​
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/22ebc47caf96efffcca6bf55f438a4ff",Associated Press,"Associated Press', 'news', 'apus115137', '172da0f3e05f4149b02af2155f575138', 'US NY Heasles Health Emergency (CR)', 'Bill de Blasio', 'New York City', 'New York', 'United States', 'Social affairs', 'Health', 'General news', 'Media'",PT2M3S,123,3
+N3GJEVbXbO0,Rabbi Avi Greenstein,Person,NONE,NONE,0.9047280000000001,neutral,0.0,0.098625,0.058757000000000004,0.147556,0.084435,0.094335,2,1,Rabbi Avi Greenstein,Rabbi Avi Greenstein,Rabbi Avi Greenstein,Rabbi Avi Greenstein,rabbi avi greenstein,rabbi avi greenstein,rabb av greenstein,NONE,0.6865,0.077,0.093,0.83,0.16081501831501832,0.5757967032967034,negative,-0.521601,0.111487,0.5394369999999999,0.49923,0.432353,0.136301,-0.10000000149011612,5.9000000953674325,Vaccination,2019-04-09T22:58:34.000Z,UC52X5wxOL_s5yw0dQk7NtgA,Ultra-Orthodox community reacts to measles vaccine,"Residents of a predominantly ultra-Orthodox Jewish community in New York could face fines for failing to be vaccinated against the measles. New York's mayor declared an emergency Tuesday, citing an outbreak of the virus. (April 9)
+
+Subscribe for more Breaking News: http://smarturl.it/AssociatedPress 
+Website: https://apnews.com
+Twitter: https://twitter.com/AP
+Facebook: https://facebook.com/APNews
+Google+: https://plus.google.com/115892241801867723374
+Instagram: https://www.instagram.com/APNews/
+​
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/22ebc47caf96efffcca6bf55f438a4ff",Associated Press,"Associated Press', 'news', 'apus115137', '172da0f3e05f4149b02af2155f575138', 'US NY Heasles Health Emergency (CR)', 'Bill de Blasio', 'New York City', 'New York', 'United States', 'Social affairs', 'Health', 'General news', 'Media'",PT2M3S,123,3
+N3GJEVbXbO0,three-year,Quantity,NONE,NONE,0.5866899999999999,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three-year,three-year,three-year,three-year,three-year,three-year,three-year,NONE,0.6865,0.077,0.093,0.83,0.16081501831501832,0.5757967032967034,negative,-0.521601,0.111487,0.5394369999999999,0.49923,0.432353,0.136301,-0.10000000149011612,5.9000000953674325,Vaccination,2019-04-09T22:58:34.000Z,UC52X5wxOL_s5yw0dQk7NtgA,Ultra-Orthodox community reacts to measles vaccine,"Residents of a predominantly ultra-Orthodox Jewish community in New York could face fines for failing to be vaccinated against the measles. New York's mayor declared an emergency Tuesday, citing an outbreak of the virus. (April 9)
+
+Subscribe for more Breaking News: http://smarturl.it/AssociatedPress 
+Website: https://apnews.com
+Twitter: https://twitter.com/AP
+Facebook: https://facebook.com/APNews
+Google+: https://plus.google.com/115892241801867723374
+Instagram: https://www.instagram.com/APNews/
+​
+
+You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/22ebc47caf96efffcca6bf55f438a4ff",Associated Press,"Associated Press', 'news', 'apus115137', '172da0f3e05f4149b02af2155f575138', 'US NY Heasles Health Emergency (CR)', 'Bill de Blasio', 'New York City', 'New York', 'United States', 'Social affairs', 'Health', 'General news', 'Media'",PT2M3S,123,3

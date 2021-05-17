@@ -1,0 +1,118 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+QTsCjGcVcEQ,100%,Quantity,NONE,NONE,0.32688,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,100 %,100 %,100 %,100 %,100 %,100 %,100 %,NONE,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,Andrew Wakefield,Person,Physician,http://dbpedia.org/resource/Andrew_Wakefield,0.355414,negative,-0.8229129999999999,0.7509140000000001,0.103397,0.06694299999999999,0.065001,0.168918,1,1,Andrew Wakefield,Andrew Wakefield,Andrew Wakefield,Andrew Wakefield,andrew wakefield,andrew wakefield,andrew wakefield,http://en.wikipedia.org/wiki/Andrew_Wakefield,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.575471,negative,-0.8270350000000001,0.5151859999999999,0.552351,0.019482,0.127275,0.127669,3,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,Lancet,PrintMedia,NONE,NONE,0.339746,negative,-0.8229129999999999,0.7509140000000001,0.103397,0.06694299999999999,0.065001,0.168918,1,1,Lancet,Lancet,Lancet,Lancet,lancet,lancet,lancet,NONE,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,UK,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, MeteorologicalService, Country",http://dbpedia.org/resource/United_Kingdom,0.393111,negative,-0.766644,0.744402,0.159774,0.007941,0.155123,0.24455700000000002,2,1,UK,UK,UK,UK,UK,uk,uk,http://en.wikipedia.org/wiki/United_Kingdom,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,US,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.930485,negative,-0.6696880000000001,0.5376479999999999,0.504211,0.096704,0.158595,0.12156700000000001,7,1,US,US,US,US,US,us,us,http://en.wikipedia.org/wiki/United_States,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,fever,HealthCondition,"CauseOfDeath, DiseaseCause, RiskFactor, Symptom",http://dbpedia.org/resource/Fever,0.37761100000000003,negative,-0.931534,0.336586,0.588766,0.158566,0.072198,0.049583999999999996,1,1,fever,fever,fever,fev,fever,fever,fev,http://en.wikipedia.org/wiki/Fever,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,two weeks,Quantity,NONE,NONE,0.32688,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two week,two week,two week,two week,two week,two week,two week,NONE,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3
+QTsCjGcVcEQ,two years,Quantity,NONE,NONE,0.32688,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,two year,two year,two year,two year,two year,two year,two year,NONE,0.682,0.08800000000000001,0.099,0.813,0.14802203216837362,0.3792005420054201,negative,-0.745667,0.085363,0.446407,0.634575,0.473317,0.096709,-0.10000000149011612,4.900000095367432,Vaccination,2017-10-05T17:53:30.000Z,UCUMZ7gohGI9HcU9VNsr2FJQ,What's the Truth Behind Vaccines?,"Many parents believe in the discredited link between vaccines and autism. Bloomberg QuickTake explains why this belief is a danger to everyone, not just the unvaccinated. 
+
+Video by Henry Baker
+
+----------
+
+Like this video? Subscribe to Bloomberg on YouTube: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Bloomberg is the First Word in business news, delivering breaking news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com
+Connect with us on...
+Twitter: https://twitter.com/business
+Facebook: https://www.facebook.com/bloombergbusiness
+Instagram: https://www.instagram.com/bloombergbusiness/",Bloomberg,"News', 'bloomberg', 'wall street', 'business news', 'vaccines', 'autism', 'fake news', 'healthcare', 'anti-vaxxer', 'flat earth', 'conspiracy', 'polio', 'smallpox'",PT2M31S,151,3

@@ -1,0 +1,761 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+6gEU81C5y7M,90%,Quantity,NONE,NONE,0.4103310000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,2,1,90 %,90 %,90 %,90 %,90 %,90 %,90 %,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Africa,Location,Continent,http://dbpedia.org/resource/Africa,0.8304590000000001,negative,-0.4502350000000001,0.483691,0.21691999999999997,0.20931,0.13309300000000002,0.15417999999999998,3,1,Africa,Africa,Africa,Africa,africa,africa,afric,http://en.wikipedia.org/wiki/Africa,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Africa,Location,Country,NONE,0.429912,neutral,0.0,0.483691,0.21691999999999997,0.20931,0.13309300000000002,0.15417999999999998,1,1,Africa,Africa,Africa,Africa,africa,africa,afric,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,America,Location,Continent,NONE,0.46424799999999994,neutral,0.0,0.282052,0.068406,0.377618,0.327804,0.019967,1,1,America,America,America,America,america,america,americ,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Caribbean Nations,Organization,NONE,NONE,0.528567,neutral,0.0,0.191349,0.067561,0.145208,0.191399,0.17564000000000002,1,1,Caribbean Nations,Caribbean Nations,Caribbean Nations,Caribbean Nations,caribbean nation,caribbean nation,carib nat,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,China,Location,Country,NONE,0.4103310000000001,neutral,0.0,0.185515,0.09308,0.533466,0.080346,0.133703,1,1,China,China,China,China,china,china,chin,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,EU,Organization,"Location, Country, GovernmentalJurisdiction, MembershipOrganization, AwardWinner",http://dbpedia.org/resource/European_Union,0.46891499999999997,neutral,0.0,0.185515,0.09308,0.533466,0.080346,0.133703,1,1,EU,EU,EU,EU,EU,eu,eu,http://en.wikipedia.org/wiki/European_Union,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.472355,negative,-0.771642,0.64117,0.095579,0.115156,0.144873,0.26360300000000003,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Ghana,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Ghana,0.47322299999999995,negative,-0.771642,0.64117,0.095579,0.115156,0.144873,0.26360300000000003,1,1,Ghana,Ghana,Ghana,Ghana,ghana,ghana,ghan,http://en.wikipedia.org/wiki/Ghana,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Google,Company,"AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany",http://dbpedia.org/resource/Google,0.47329399999999994,positive,0.529097,0.198627,0.220756,0.172322,0.070198,0.231357,1,1,Google,Google,Google,Google,googl,googl,googl,http://en.wikipedia.org/wiki/Google,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Jerry,Person,NONE,NONE,0.4168850000000001,negative,-0.668764,0.684193,0.263042,0.006287,0.214752,0.176903,1,1,Jerry,Jerry,Jerry,Jerry,jerri,jerri,jerry,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Mansa Musa,GeographicFeature,NONE,NONE,0.508063,neutral,0.0,0.131717,0.098607,0.338246,0.059416,0.158053,1,1,Mansa Musa,Mansa Musa,Mansa Musa,Mansa Musa,mansa musa,mansa musa,mans mus,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Nigeria,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Nigeria,0.475602,neutral,0.0,0.430213,0.44475200000000004,0.130661,0.020082,0.13911800000000002,1,1,Nigeria,Nigeria,Nigeria,Nigeria,nigeria,nigeria,niger,http://en.wikipedia.org/wiki/Nigeria,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,North America,Location,Continent,http://dbpedia.org/resource/North_America,0.46677299999999994,positive,0.340466,0.46881300000000004,0.10911900000000001,0.118824,0.176322,0.193447,1,1,North America,North America,North America,North America,north america,north america,nor americ,http://en.wikipedia.org/wiki/North_America,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Rwanda,Location,"GovernmentalJurisdiction, BoardMember, Country",http://dbpedia.org/resource/Rwanda,0.495019,negative,-0.771642,0.64117,0.095579,0.115156,0.144873,0.26360300000000003,1,1,Rwanda,Rwanda,Rwanda,Rwanda,rwanda,rwanda,rwand,http://en.wikipedia.org/wiki/Rwanda,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,Trump,Person,NONE,NONE,0.66883,positive,0.691535,0.303244,0.141515,0.146394,0.31443699999999997,0.372706,2,1,Trump,Trump,Trump,Trump,trump,trump,trump,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.654064,negative,-0.651175,0.289455,0.11753399999999999,0.465751,0.08293400000000001,0.148508,2,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,United States Canada Etc Latin America Europe,JobTitle,NONE,NONE,0.5073529999999999,negative,-0.214704,0.35665399999999997,0.174371,0.259898,0.151066,0.075945,1,1,United States Canada Etc Latin America Europe,United States Canada Etc Latin America Europe,United States Canada Etc Latin America Europe,United States Canada Etc Latin America Europe,unit state canada etc latin america europ,unit state canada etc latin america europ,unit stat canad etc latin americ europ,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,g Rhea,Person,NONE,NONE,0.443518,negative,-0.234854,0.467492,0.132868,0.158497,0.031267,0.346199,1,1,g Rhea,g Rhea,g Rhea,g Rhea,g rhea,g rhea,g rhe,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7
+6gEU81C5y7M,three trillion dollars,Quantity,NONE,NONE,0.4103310000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,three trillion dollar,three trillion dollar,three trillion dollar,three tril doll,three trillion dollar,three trillion dollar,three tril doll,NONE,0.9978,0.048,0.116,0.836,0.12092545351473916,0.4336040249433106,negative,-0.339647,0.138913,0.517423,0.595246,0.15253699999999998,0.12696300000000002,0.0,11.399999618530273,Free Trade,2019-06-05T15:28:18.000Z,UCKZGcrxRAhdUi58Mdr565mw,African Continental Free Trade Agreement Could Possibly Bring 3T & Eliminate 90% Tariffs,"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/d5b0ebe4-8137-11e9-9935-ad75bb96c849
+
+ Africa will take a big step towards tackling entrenched economic problems including a dearth of intra-regional trade when a new continent-wide free trade agreement comes into force on May 30. 
+
+Proponents of the African Continental Free Trade Agreement (AfCFTA) say it has the potential to boost economic growth on a continent of 55 nations under the African Union with a combined gross domestic product of more than $3tn and a young, expanding population
+
+
+Hosted by Phillip Scott
+
+Forward Us News Stories
+news@africandiasporanews.org
+
+Join our Channel Membership
+https://www.youtube.com/channel/UCKZGcrxRAhdUi58Mdr565mw/join
+
+Purchase Merchandise From Our Store
+https://teespring.com/stores/advise-media-network-store-2
+
+Support us monthly on Patreon: https://www.patreon.com/AfricanDiasporaNews
+
+Send money order donations(MO payable to Advise Media Network)
+Advise Media Network
+2323 Clear Lake City Blvd. Suite 180 Box 133
+Houston,Tx 77062
+
+Visit Our Website http://www.africandiasporanews.org
+
+Paypal Donation Link
+https://adviseshow.com/donate/
+
+Facebook https://www.facebook.com/pg/AfricanDiasporaNews
+
+Twitter https://twitter.com/AfrDiasporaNews
+
+Instagram http://instagram.com/africandiasporanews
+
+Book me for your events phillipscott@adviseshow.com",African Diaspora News Channel,"Phillip Scott', 'theadviseshow', 'theadviseshowtv', 'news', 'trending', 'politics', 'social justice', 'advise show', 'advise show media', 'advise media network', 'exclusive celebrity news entertainment news democrat', 'republican', 'liberal', 'conservative', 'GOP', 'ADOS'",PT6M46S,406,7

@@ -1,0 +1,81 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+qiRcWNq1GCg,Catalonia,Location,Country,NONE,0.505717,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.4007,0.066,0.08,0.8540000000000001,0.022756410256410262,0.3439102564102564,negative,-0.5988180000000001,0.130508,0.123306,0.302138,0.166797,0.168243,-0.20000000298023224,3.5,Catalonia Independence,2017-10-26T10:27:58.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Article 155: Spain's 'nuclear option' to stop Catalan independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spain is a notoriously decenteralized country. The Spanish Constitution grants 17 autonomous regions varying degrees of political autonomy in health, education, security, urban and environmental policy. But the 1978 Constitution also contains a safeguard for the Spanish government. Article 155 allows the central government to take control over autonomous regions in times of crisis. DLS Article 155 Spanish Constitution: If a self-governing Community does not fulfil the obligations imposed upon it by the Constitution or other laws, or acts in a way that is seriously prejudicial to the general interest of Spain, the Government, (…) may, following approval granted by the overall majority of the Senate, take all measures necessary to compel the Community to meet said obligations, or to protect the above mentioned general interest. The article is short and relatively imprecise... The second paragraph vaguely stipulates that the government ""may issue instructions to all the authorities of the Self-governing Communities"" Article 155  has never been used, making it difficult to know how it would be applied in practice.  According to this specialist, the government could choose between a number of different measures to restrict Catalonia''s autonomy. SOT Oriol Bartomeus, political science professor Autonomous University of Barcelona: ""it could be anything from economic intervention to control over the autonomous police forces, or even control over the region''s institutions. And we could even get to a point where the government makes the decision to dissolve the regional parlement and hold early elections. 
+   To trigger Article 155, Mariano Rajoy will have to submit the exact measures he intends to apply to a vote in the Spanish Senate.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"france24', 'news', 'Article 155', 'Spain', 'Nuclear Option', 'Catalonia', 'Catalan', 'Catalunya', 'Independence', 'Independent', 'Rajoy', 'Spanish', 'Spaniards', 'Constitution'",PT1M55S,115,2
+qiRcWNq1GCg,Mariano rajoy,Person,Politician,http://dbpedia.org/resource/Mariano_Rajoy,0.743846,negative,-0.408105,0.342736,0.145728,0.055467999999999996,0.094204,0.21466999999999997,2,1,Mariano rajoy,Mariano rajoy,Mariano rajoy,Mariano rajoy,mariano rajoy,mariano rajoy,mariano rajoy,http://en.wikipedia.org/wiki/Mariano_Rajoy,0.4007,0.066,0.08,0.8540000000000001,0.022756410256410262,0.3439102564102564,negative,-0.5988180000000001,0.130508,0.123306,0.302138,0.166797,0.168243,-0.20000000298023224,3.5,Catalonia Independence,2017-10-26T10:27:58.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Article 155: Spain's 'nuclear option' to stop Catalan independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spain is a notoriously decenteralized country. The Spanish Constitution grants 17 autonomous regions varying degrees of political autonomy in health, education, security, urban and environmental policy. But the 1978 Constitution also contains a safeguard for the Spanish government. Article 155 allows the central government to take control over autonomous regions in times of crisis. DLS Article 155 Spanish Constitution: If a self-governing Community does not fulfil the obligations imposed upon it by the Constitution or other laws, or acts in a way that is seriously prejudicial to the general interest of Spain, the Government, (…) may, following approval granted by the overall majority of the Senate, take all measures necessary to compel the Community to meet said obligations, or to protect the above mentioned general interest. The article is short and relatively imprecise... The second paragraph vaguely stipulates that the government ""may issue instructions to all the authorities of the Self-governing Communities"" Article 155  has never been used, making it difficult to know how it would be applied in practice.  According to this specialist, the government could choose between a number of different measures to restrict Catalonia''s autonomy. SOT Oriol Bartomeus, political science professor Autonomous University of Barcelona: ""it could be anything from economic intervention to control over the autonomous police forces, or even control over the region''s institutions. And we could even get to a point where the government makes the decision to dissolve the regional parlement and hold early elections. 
+   To trigger Article 155, Mariano Rajoy will have to submit the exact measures he intends to apply to a vote in the Spanish Senate.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"france24', 'news', 'Article 155', 'Spain', 'Nuclear Option', 'Catalonia', 'Catalan', 'Catalunya', 'Independence', 'Independent', 'Rajoy', 'Spanish', 'Spaniards', 'Constitution'",PT1M55S,115,2
+qiRcWNq1GCg,Senate,Organization,"GovernmentalBody, Legislature",http://dbpedia.org/resource/United_States_Senate,0.617733,negative,-0.308872,0.286981,0.05621,0.148575,0.462971,0.18374100000000002,1,1,Senate,Senate,Senate,Senate,senat,senat,sen,http://en.wikipedia.org/wiki/United_States_Senate,0.4007,0.066,0.08,0.8540000000000001,0.022756410256410262,0.3439102564102564,negative,-0.5988180000000001,0.130508,0.123306,0.302138,0.166797,0.168243,-0.20000000298023224,3.5,Catalonia Independence,2017-10-26T10:27:58.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Article 155: Spain's 'nuclear option' to stop Catalan independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spain is a notoriously decenteralized country. The Spanish Constitution grants 17 autonomous regions varying degrees of political autonomy in health, education, security, urban and environmental policy. But the 1978 Constitution also contains a safeguard for the Spanish government. Article 155 allows the central government to take control over autonomous regions in times of crisis. DLS Article 155 Spanish Constitution: If a self-governing Community does not fulfil the obligations imposed upon it by the Constitution or other laws, or acts in a way that is seriously prejudicial to the general interest of Spain, the Government, (…) may, following approval granted by the overall majority of the Senate, take all measures necessary to compel the Community to meet said obligations, or to protect the above mentioned general interest. The article is short and relatively imprecise... The second paragraph vaguely stipulates that the government ""may issue instructions to all the authorities of the Self-governing Communities"" Article 155  has never been used, making it difficult to know how it would be applied in practice.  According to this specialist, the government could choose between a number of different measures to restrict Catalonia''s autonomy. SOT Oriol Bartomeus, political science professor Autonomous University of Barcelona: ""it could be anything from economic intervention to control over the autonomous police forces, or even control over the region''s institutions. And we could even get to a point where the government makes the decision to dissolve the regional parlement and hold early elections. 
+   To trigger Article 155, Mariano Rajoy will have to submit the exact measures he intends to apply to a vote in the Spanish Senate.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"france24', 'news', 'Article 155', 'Spain', 'Nuclear Option', 'Catalonia', 'Catalan', 'Catalunya', 'Independence', 'Independent', 'Rajoy', 'Spanish', 'Spaniards', 'Constitution'",PT1M55S,115,2
+qiRcWNq1GCg,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.884426,negative,-0.369471,0.20574499999999998,0.070475,0.154896,0.327302,0.167754,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.4007,0.066,0.08,0.8540000000000001,0.022756410256410262,0.3439102564102564,negative,-0.5988180000000001,0.130508,0.123306,0.302138,0.166797,0.168243,-0.20000000298023224,3.5,Catalonia Independence,2017-10-26T10:27:58.000Z,UCQfwfsi5VrQ8yKZ-UWmAEFg,Article 155: Spain's 'nuclear option' to stop Catalan independence,"Subscribe to France 24 now:
+http://f24.my/youtubeEN
+
+FRANCE 24 live news stream: all the latest news 24/7
+http://f24.my/YTliveEN
+
+Spain is a notoriously decenteralized country. The Spanish Constitution grants 17 autonomous regions varying degrees of political autonomy in health, education, security, urban and environmental policy. But the 1978 Constitution also contains a safeguard for the Spanish government. Article 155 allows the central government to take control over autonomous regions in times of crisis. DLS Article 155 Spanish Constitution: If a self-governing Community does not fulfil the obligations imposed upon it by the Constitution or other laws, or acts in a way that is seriously prejudicial to the general interest of Spain, the Government, (…) may, following approval granted by the overall majority of the Senate, take all measures necessary to compel the Community to meet said obligations, or to protect the above mentioned general interest. The article is short and relatively imprecise... The second paragraph vaguely stipulates that the government ""may issue instructions to all the authorities of the Self-governing Communities"" Article 155  has never been used, making it difficult to know how it would be applied in practice.  According to this specialist, the government could choose between a number of different measures to restrict Catalonia''s autonomy. SOT Oriol Bartomeus, political science professor Autonomous University of Barcelona: ""it could be anything from economic intervention to control over the autonomous police forces, or even control over the region''s institutions. And we could even get to a point where the government makes the decision to dissolve the regional parlement and hold early elections. 
+   To trigger Article 155, Mariano Rajoy will have to submit the exact measures he intends to apply to a vote in the Spanish Senate.
+
+Visit our website:
+http://www.france24.com
+
+Subscribe to our YouTube channel:
+http://f24.my/youtubeEN
+
+Like us on Facebook:
+https://www.facebook.com/FRANCE24.English
+
+Follow us on Twitter:
+https://twitter.com/France24_en",FRANCE 24 English,"france24', 'news', 'Article 155', 'Spain', 'Nuclear Option', 'Catalonia', 'Catalan', 'Catalunya', 'Independence', 'Independent', 'Rajoy', 'Spanish', 'Spaniards', 'Constitution'",PT1M55S,115,2

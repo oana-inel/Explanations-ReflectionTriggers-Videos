@@ -1,0 +1,196 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+DkSwShN8Y0M,300 years,Quantity,NONE,NONE,0.254796,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,300 year,300 year,300 year,300 year,300 year,300 year,300 year,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Catalonia,Location,Country,NONE,0.621923,negative,-0.154172,0.235487,0.044342,0.384187,0.068027,0.40624099999999996,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Europe,Location,"MusicalGroup, BroadcastArtist, FilmMusicContributor, Lyricist, MusicalArtist, RecordProducer, Continent",http://dbpedia.org/resource/Europe,0.273544,positive,0.482868,0.273634,0.052661,0.607175,0.041530000000000004,0.050078,1,1,Europe,Europe,Europe,Europe,europ,europ,europ,http://en.wikipedia.org/wiki/Europe,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Helsinki,Location,City,NONE,0.257882,neutral,0.0,0.27315100000000003,0.078579,0.178006,0.502207,0.06711,1,1,Helsinki,Helsinki,Helsinki,Helsinki,helsinki,helsinki,helsink,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.4623020000000001,neutral,0.0,0.337937,0.094962,0.323979,0.22845500000000002,0.083995,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Spain,Location,"AdministrativeDivision, GovernmentalJurisdiction, Kingdom, Country",http://dbpedia.org/resource/Spain,0.477042,negative,-0.4799270000000001,0.072108,0.173575,0.169212,0.041257,0.027023000000000002,3,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Spain,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,Spanish Constitution Madrid,Organization,NONE,NONE,0.826709,positive,0.409922,0.26516300000000004,0.083346,0.39713699999999996,0.186514,0.150122,3,1,Spanish Constitution Madrid,spanish Constitution Madrid,spanish Constitution Madrid,span Constitution Madrid,spanish constitut madrid,spanish constitut madrid,span constitut madrid,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,UN,Organization,"MembershipOrganization, AwardWinner, GovernmentalBody, TouristAttraction",http://dbpedia.org/resource/United_Nations,0.284076,negative,-0.637502,0.364825,0.055105999999999995,0.023295,0.07318999999999999,0.437222,1,1,UN,UN,un,un,UN,un,un,http://en.wikipedia.org/wiki/United_Nations,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,William,Person,NONE,NONE,0.273314,neutral,0.0,0.289184,0.061274,0.302872,0.31273,0.094596,1,1,William,William,William,William,william,william,william,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,catalonian independence movement,Organization,NONE,NONE,0.413037,positive,0.705484,0.06803200000000001,0.13889100000000001,0.45637700000000003,0.290779,0.069352,1,1,catalonian independence movement,catalonian independ movement,catalonian independ movement,catalon independ mov,catalonian independ movement,catalonian independ movement,catalon independ mov,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,executive,JobTitle,NONE,NONE,0.28489699999999996,neutral,0.0,0.289184,0.061274,0.302872,0.31273,0.094596,1,1,executive,execut,execut,execut,execut,execut,execut,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,national Community,Organization,NONE,NONE,0.254796,negative,-0.330048,0.37806100000000004,0.108833,0.115399,0.11810899999999999,0.24329299999999998,1,1,national Community,nation Community,nation Community,nat Community,nation commun,nation communiti,nat commun,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,ten percent,Quantity,NONE,NONE,0.254796,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,ten percent,ten percent,ten percent,ten perc,ten percent,ten percent,ten perc,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,thousand-year,Quantity,NONE,NONE,0.254796,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,thousand-year,thousand-year,thousand-year,thousand-year,thousand-year,thousand-year,thousand-year,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6
+DkSwShN8Y0M,twenty percent,Quantity,NONE,NONE,0.254796,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,twenty percent,twenti percent,twenti percent,twenty perc,twenti percent,twenti percent,twenty perc,NONE,0.7619,0.065,0.079,0.856,0.08537518037518038,0.3831043083900226,positive,0.331111,0.134946,0.59285,0.527312,0.09996,0.115498,0.0,13.399999618530273,Catalonia Independence,2017-06-10T21:02:43.000Z,UCpwvZwUam-URkxB7g4USKpg,Catalonia sets date for landmark vote on independence from Spain,"The autonomous region of Catalonia will have the decisive referendum on secession from Spain on October 1, the regional government announced on Friday. The move comes after a months-long standoff with Madrid, which decries the vote as illegal.
+
+RT LIVE http://rt.com/on-air
+
+Subscribe to RT! http://www.youtube.com/subscription_center?add_user=RussiaToday
+
+Like us on Facebook http://www.facebook.com/RTnews
+Follow us on Twitter http://twitter.com/RT_com
+Follow us on Instagram http://instagram.com/rt
+Follow us on Google+ http://plus.google.com/+RT
+Listen to us on Soundcloud: https://soundcloud.com/rttv
+
+RT (Russia Today) is a global news network broadcasting from Moscow and Washington studios. RT is the first news channel to break the 1 billion YouTube views benchmark.",RT,"RT', 'Russia Today', 'Catalonia sets date for independence vote', 'vote on independence from Spain', 'independence from Spain', 'independence', 'autonomous region of Catalonia', 'referendum on secession from Spain', 'Madrid', 'Barcelona', 'president of the Catalan government', 'Carles Puigdemont', 'region of Spain'",PT5M40S,340,6

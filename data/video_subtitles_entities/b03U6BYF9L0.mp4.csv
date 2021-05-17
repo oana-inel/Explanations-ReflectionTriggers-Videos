@@ -1,0 +1,1463 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+b03U6BYF9L0,25 years,Quantity,NONE,NONE,0.386494,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,25 year,25 year,25 year,25 year,25 year,25 year,25 year,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Bill,Person,NONE,NONE,0.538488,positive,0.9242879999999999,0.156923,0.010539,0.799033,0.003346,0.030019999999999998,2,1,Bill,Bill,Bill,Bill,bill,bill,bil,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Canada,Location,"GovernmentalJurisdiction, Kingdom, AwardDiscipline, FilmScreeningVenue, Country",http://dbpedia.org/resource/Canada,0.396285,positive,0.539167,0.089437,0.279119,0.41629499999999997,0.049456,0.067501,1,1,Canada,Canada,Canada,Canada,canada,canada,canad,http://en.wikipedia.org/wiki/Canada,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,FBI,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Federal_Bureau_of_Investigation,0.386494,neutral,0.0,0.587448,0.183267,0.070753,0.164867,0.23544099999999998,1,1,FBI,FBI,FBI,FBI,fbi,fbi,fbi,http://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Four billion dollars,Quantity,NONE,NONE,0.386494,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Four billion dollar,four billion dollar,four billion dollar,four bil doll,four billion dollar,four billion dollar,four bil doll,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Lisa,Person,NONE,NONE,0.43685799999999997,negative,-0.8366620000000001,0.113148,0.069138,0.060712,0.087904,0.064782,1,1,Lisa,Lisa,Lisa,Lisa,lisa,lisa,lis,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,MMR vaccine,Drug,NONE,NONE,0.508538,negative,-0.44615900000000003,0.253643,0.151865,0.116498,0.130972,0.039573000000000004,1,1,MMR vaccine,MMR vaccin,MMR vaccin,MMR vaccin,mmr vaccin,mmr vaccin,mmr vaccin,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,MSG,Company,NONE,NONE,0.49573500000000004,negative,-0.764093,0.206368,0.181514,0.349987,0.187416,0.177405,1,1,MSG,MSG,MSG,MSG,msg,msg,msg,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Melinda Gates,Person,"AwardWinner, BoardMember",http://dbpedia.org/resource/Melinda_Gates,0.440263,positive,0.943687,0.17187,0.021251,0.7737970000000001,0.0047079999999999995,0.027257,1,1,Melinda Gates,Melinda Gates,Melinda Gates,Melinda Gates,melinda gate,melinda gate,melind gat,http://en.wikipedia.org/wiki/Melinda_Gates,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Melinda It,Person,NONE,NONE,0.482245,positive,0.9048889999999999,0.0,0.0,0.0,0.0,0.0,1,1,Melinda It,Melinda It,Melinda it,Melinda it,melinda It,melinda it,melind it,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Milk,Quantity,NONE,NONE,0.386494,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,Milk,milk,milk,milk,milk,milk,milk,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Ritz,Company,NONE,NONE,0.4513680000000001,positive,0.530037,0.078329,0.051068,0.6785720000000001,0.021931,0.023055000000000003,1,1,Ritz,Ritz,Ritz,Ritz,ritz,ritz,ritz,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,Smallpox,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, InfectiousDisease, Disease",http://dbpedia.org/resource/Smallpox,0.471028,negative,-0.611336,0.682869,0.267776,0.023141,0.18229700000000001,0.07459299999999999,1,1,Smallpox,Smallpox,Smallpox,Smallpox,smallpox,smallpox,smallpox,http://en.wikipedia.org/wiki/Smallpox,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,United States,Location,"Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor, Country",http://dbpedia.org/resource/United_States,0.802412,negative,-0.210773,0.14391400000000001,0.327258,0.22721100000000002,0.086092,0.102565,4,1,United States,United States,United States,United States,unit state,unit state,unit stat,http://en.wikipedia.org/wiki/United_States,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,measles,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Measles,0.8434590000000001,negative,-0.566268,0.245024,0.372297,0.120234,0.08129,0.117584,4,1,measles,measl,measl,measl,measl,measl,measl,http://en.wikipedia.org/wiki/Measles,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,polio vaccine,Drug,NONE,NONE,0.5936779999999999,negative,-0.7046060000000001,0.126487,0.052894000000000004,0.043357,0.11068399999999999,0.063493,1,1,polio vaccine,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,polio vaccin,NONE,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8
+b03U6BYF9L0,rubella,HealthCondition,"OrganismClassification, DiseaseOrMedicalCondition, DiseaseCause, InfectiousDisease, RiskFactor, Disease",http://dbpedia.org/resource/Rubella,0.510892,negative,-0.658512,0.10772799999999999,0.09846,0.11162799999999999,0.211892,0.128734,1,1,rubella,rubella,rubella,rubell,rubella,rubella,rubell,http://en.wikipedia.org/wiki/Rubella,0.998,0.075,0.136,0.789,0.10864050339460177,0.4125195182777151,negative,-0.4809100000000001,0.113303,0.548712,0.551399,0.180635,0.090902,0.0,17.899999618530273,Vaccination,2018-02-15T17:09:04.000Z,UCC552Sd-3nyi_tk2BudLUzA,Debunking Anti-Vaxxers,"Here's what to say to anti-vaxxers!
+Check out Bill and Melinda Gates Annual Letter:
+http://b-gat.es/2Cfph0j 
+
+Subscribe, it's free! http://bit.ly/asapsci
+
+Created by: Mitchell Moffit and Gregory Brown
+Written by: Amanda Edwards, Annik Carson, Rachel Salt, Greg Brown, & Mitch Moffit
+Illustrated by: Max Simmons
+Edited by: Sel Ghebrehiwot & Mitch Moffit
+
+FOLLOW US!
+Instagram and Twitter: @whalewatchmeplz and @mitchellmoffit 
+Clickable: http://bit.ly/16F1jeC and http://bit.ly/15J7ube
+
+AsapINSTAGRAM: https://instagram.com/asapscience/
+Snapchat: realasapscience
+Facebook: http://facebook.com/AsapSCIENCE
+Twitter: http://twitter.com/AsapSCIENCE
+Tumblr: http://asapscience.tumblr.com
+
+SNAPCHAT US 'whalewatchmeplz' and 'pixelmitch'
+
+Created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).
+
+Send us stuff!
+
+ASAPSCIENCE INC.
+P.O. Box 93, Toronto P
+Toronto, ON, M5S2S6
+
+Further Reading/References:
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html
+http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/aluminum 
+https://www.ncbi.nlm.nih.gov/pubmed/22099159 
+http://www.who.int/vaccine_safety/committee/topics/adjuvants/Jun_2012/en/ 
+https://www.cdc.gov/vaccines/hcp/conversations/downloads/vacsafe-understand-color-office.pdf 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4406568/ 
+https://www.livescience.com/54078-hygiene-hypothesis.html 
+https://blogs.scientificamerican.com/roots-of-unity/understand-the-measles-outbreak-with-this-one-weird-number/
+https://www.cdc.gov/measles/about/complications.html
+https://www.cdc.gov/measles/about/history.html 
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.theatlantic.com/business/archive/2015/02/vaccines-are-profitable-so-what/385214/ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm 
+https://www.cdc.gov/flu/about/qa/misconceptions.htm 
+https://www.cdc.gov/flu/about/qa/vaccineeffect.htm
+http://pediatrics.aappublications.org/content/early/2017/03/30/peds.2016-4244?sso=1&sso_redirect_count=1&nfstatus=401&nftoken=00000000-0000-0000-0000-000000000000&nfstatusdescription=ERROR%3a+No+local+token 
+https://www.cdc.gov/vaccinesafety/concerns/multiple-vaccines-immunity.html https://www.ncbi.nlm.nih.gov/pubmed/23847024
+https://www.ncbi.nlm.nih.gov/pubmed/16567978
+https://www.ncbi.nlm.nih.gov/pubmed/15951359
+https://www.ncbi.nlm.nih.gov/pubmed/11731639
+https://newrepublic.com/article/122367/why-are-vaccination-rates-dropping-america 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a5.htm 
+http://fortune.com/2015/02/12/californias-measles-vaccination/ 
+https://www.vaccines.gov/basics/work/index.html 
+http://www.vaccineinformation.org/how-vaccines-work/ 
+http://vk.ovg.ox.ac.uk/herd-immunity 
+http://www.who.int/csr/disease/smallpox/vaccines/en/ 
+https://jamanetwork.com/journals/jama/fullarticle/209448 
+https://www.cdc.gov/vaccines/parents/tools/parents-guide/parents-guide-part4.html 
+https://www.cps.ca/en/documents/position/autistic-spectrum-disorder-no-causal-relationship-with-vaccines 
+https://www.autismspeaks.org/science/science-news/no-mmr-autism-link-large-study-vaccinated-vs-unvaccinated-kids 
+https://www.cdc.gov/vaccinesafety/concerns/autism.html 
+http://www.immunize.org/catg.d/p4026.pdf 
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+http://www.cnn.com/2017/06/02/health/minnesota-measles-outbreak-bn/index.htm http://www.who.int/mediacentre/factsheets/fs378/en/ 
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)92008-7/fulltext 
+https://www.cdc.gov/vaccines/vac-gen/whatifstop.htm 
+https://io9.gizmodo.com/what-happens-when-you-dont-vaccinate-1631423511 
+https://www.vice.com/en_us/article/ppmn3y/we-asked-an-expert-what-would-happen-if-we-stopped-vaccinating-everyone-204
+https://www.orau.gov/cdcynergy/web/im/Content/activeinformation/resources/IM_what_would_hpn.pdf 
+https://www.ranker.com/list/celebrity-anti-vaxxers/celebrity-lists
+https://jezebel.com/heres-a-fairly-comprehensive-list-of-anti-vaccination-c-1714760128
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims
+https://medium.com/the-method/8-common-arguments-against-vaccines-5d45ad9c1e29
+http://www.who.int/mediacentre/factsheets/fs286/en/
+http://legacy.jyi.org/volumes/volume6/issue3/features/bourzac.html
+http://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+http://www.sciencedirect.com/science/article/pii/0264410X94903158
+http://www.sciencebasedmedicine.org/deadly-choices-about-vaccination/
+https://www.popsci.com/science/article/2013-07/popsci-guide-anti-vaccine-claims 
+
+why you should get vaccinated why you should vaccinate your kids vaccines save lives do vaccines contain mercury do vaccines",AsapSCIENCE,"anti-vaxxer', 'why you should get vaccinated', 'why you should vaccinate your kids', 'vaccines save lives', 'do vaccines contain mercury', 'do vaccines cause autism', 'are vaccines safe', 'verything you should know about vaccines.', 'Measles Mumps Rubella', 'MMR vaccine', 'Polio', 'Small Pox', 'eradicating disease', 'why is the anti-vax movement growing', 'flu shot', 'does the flu shot work', 'why you should get the flu shot', 'thimerosal', 'measles outbreak USA', 'andrew wakefield'",PT7M24S,444,8

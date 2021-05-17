@@ -1,0 +1,64 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+6k9RBuK8d-0,10 days,Quantity,NONE,NONE,0.583505,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,10 day,10 day,10 day,10 day,10 day,10 day,10 day,NONE,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,50 years,Quantity,NONE,NONE,0.583505,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,50 year,50 year,50 year,50 year,50 year,50 year,50 year,NONE,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,60 years,Quantity,NONE,NONE,0.583505,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,60 year,60 year,60 year,60 year,60 year,60 year,60 year,NONE,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,60%,Quantity,NONE,NONE,0.583505,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,60 %,60 %,60 %,60 %,60 %,60 %,60 %,NONE,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,Centers for Disease Control,Organization,"GovernmentAgency, GovernmentalBody",http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention,0.804124,negative,-0.753084,0.44993,0.49001999999999996,0.031307,0.11123,0.086689,1,1,Centers for Disease Control,Centers for Disease Control,Centers for Disease Control,Centers for Disease Control,center for diseas control,center for diseas control,cent for diseas control,http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,postherpetic neuralgia,HealthCondition,"DiseaseOrMedicalCondition, Disease",http://dbpedia.org/resource/Postherpetic_neuralgia,0.8019390000000001,negative,-0.833558,0.263654,0.5064890000000001,0.098587,0.042864,0.020706,1,1,postherpetic neuralgia,postherpet neuralgia,postherpet neuralgia,postherpet neuralg,postherpet neuralgia,postherpet neuralgia,postherpet neuralg,http://en.wikipedia.org/wiki/Postherpetic_neuralgia,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3
+6k9RBuK8d-0,www.sedar.com,Location,City,NONE,0.583505,negative,-0.833558,0.263654,0.5064890000000001,0.098587,0.042864,0.020706,1,1,www.sedar.com,www.sedar.com,www.sedar.com,www.sedar.com,www.sedar.com,www.sedar.com,www.sedar.com,NONE,-0.9912,0.13,0.032,0.8370000000000001,-0.08303571428571427,0.499404761904762,negative,-0.905578,0.119722,0.103863,0.629434,0.5395439999999999,0.08288,-0.6000000238418579,3.9000000953674316,Vaccination,2012-08-28T23:35:50.000Z,UCKXLq-LIvJB8eZDOAcVH8Gw,Shingles Vaccination Update PSA,"Shingles is a painful localized skin rash often with blisters that is caused by the varicella zoster virus (VZV), the same virus that causes chickenpox. Anyone who has had chickenpox can develop shingles because VZV remains in the nerve cells of the body after the chickenpox infection clears and VZV can reappear years later causing shingles. Shingles most commonly occurs in people 50 years old or older, people who have medical conditions that keep the immune system from working properly, or people who receive immunosuppressive drugs.
+
+****📒SOURCES AND LINKS📒 ****
+
+🔴Learn more about Washington Hospital visit: 
+➡️https://www.whhs.com/
+
+🔴Watch and learn from more FREE Health & Wellness videos on InHealth's Channel: 
+➡️https://www.youtube.com/whhsinhealth",InHealth: A Washington Hospital Channel,"shingles', 'vaccine', 'update', 'Washington', 'Hospital', 'WHHS', 'Fremont', 'CA', 'Vaccination (Field Of Study)', 'Herpes Zoster (Disease Or Medical Condition)', 'Zoster Vaccine (Drug)'",PT2M44S,164,3

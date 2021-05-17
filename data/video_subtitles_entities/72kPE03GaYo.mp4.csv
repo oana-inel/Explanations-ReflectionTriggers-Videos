@@ -1,0 +1,155 @@
+video_id,entity,type,subtypes,DBpedia_URL,relevance,sentiment_label,sentiment_score,emotion_sadness,emotion_fear,emotion_joy,emotion_disgust,emotion_anger,count,is_entity,lemma,porter_stem,snowball_stem,lancaster_stem,porter_stem_notprocessed,snowball_stem_notprocessed,lancaster_stem_notprocessed,Wikipage,vader_compound,vader_neg_score,vader_pos_score,vader_neu_score,textblob_polarity,textblob_subjectivity,ibm_sentiment_label,ibm_sentiment_score,ibm_anger,ibm_joy,ibm_sadness,ibm_fear,ibm_disgust,google_sentiment_score,google_sentiment_magnitude,topic,publishedAt,channelId,title,description,channelTitle,tags,duration,duration_seconds,duration_minutes
+72kPE03GaYo,45 minutes,Quantity,NONE,NONE,0.2382070000000001,neutral,0.0,0.0,0.0,0.0,0.0,0.0,1,1,45 minute,45 minut,45 minut,45 minut,45 minut,45 minut,45 minut,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Barcelona,Location,"Country, OlympicHostCity, City",http://dbpedia.org/resource/Barcelona,0.2382070000000001,neutral,0.0,0.43068100000000004,0.263306,0.091763,0.125915,0.12187100000000001,1,1,Barcelona,Barcelona,Barcelona,Barcelona,barcelona,barcelona,barcelon,http://en.wikipedia.org/wiki/Barcelona,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Catalan Parliament,Organization,GovernmentalBody,http://dbpedia.org/resource/Parliament_of_Catalonia,0.393049,negative,-0.44493599999999994,0.503869,0.166222,0.085603,0.082932,0.11114600000000001,1,1,Catalan Parliament,Catalan Parliament,Catalan Parliament,Catalan Parliament,catalan parliament,catalan parliament,cat parlia,http://en.wikipedia.org/wiki/Parliament_of_Catalonia,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Catalan Socialist Party,Organization,NONE,NONE,0.355163,neutral,0.0,0.086306,0.12397899999999999,0.5493,0.22085500000000002,0.041636,1,1,Catalan Socialist Party,Catalan Socialist Party,Catalan Socialist Party,Catalan Socialist Party,catalan socialist parti,catalan socialist parti,cat soc party,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Catalonia,Location,Country,NONE,0.46942,positive,0.029329,0.271002,0.086389,0.553926,0.074714,0.110346,4,1,Catalonia,Catalonia,Catalonia,Catalonia,catalonia,catalonia,catalon,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Constitutional Court,Organization,NONE,NONE,0.7971600000000001,negative,-0.5378649999999999,0.318806,0.497701,0.166561,0.16220199999999999,0.20183800000000002,7,1,Constitutional Court,Constitutional Court,Constitutional Court,Constitutional Court,constitut court,constitut court,constitut court,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Damon,Person,NONE,NONE,0.26321300000000003,positive,0.845267,0.001714,0.003072,0.564724,0.009387999999999999,0.007103,2,1,Damon,Damon,Damon,Damon,damon,damon,damon,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Madrid,Location,"PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, City",http://dbpedia.org/resource/Madrid,0.30380999999999997,neutral,0.0,0.24461100000000002,0.087623,0.08672,0.188058,0.213546,2,1,Madrid,Madrid,Madrid,Madrid,madrid,madrid,madrid,http://en.wikipedia.org/wiki/Madrid,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Parliament,Organization,NONE,NONE,0.41377299999999995,negative,-0.6213350000000001,0.5167619999999999,0.27933600000000003,0.036896,0.304236,0.229725,3,1,Parliament,Parliament,Parliament,Parliament,parliament,parliament,parlia,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Socialist Party,Organization,NONE,NONE,0.249417,positive,0.8916879999999999,0.088982,0.056972,0.8284370000000001,0.013056,0.010376999999999999,1,1,Socialist Party,Socialist Party,Socialist Party,Socialist Party,socialist parti,socialist parti,soc party,NONE,-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
+72kPE03GaYo,Spain,Location,Country,http://dbpedia.org/resource/Kingdom_of_Spain_(Napoleonic),0.42958999999999997,negative,-0.520312,0.172543,0.488447,0.20985700000000002,0.13156199999999998,0.222827,4,1,Spain,Spain,Spain,Spain,spain,spain,spain,http://en.wikipedia.org/wiki/Kingdom_of_Spain_(Napoleonic),-0.8062,0.079,0.092,0.8290000000000001,0.09091307814992028,0.3421058327637274,negative,-0.301176,0.148628,0.51874,0.489441,0.570991,0.124459,0.0,8.399999618530272,Catalonia Independence,2017-10-05T14:26:22.000Z,UC16niRr50-MSBwiO3YDb3RA,Catalan crisis: Spanish court bars MPs' independence move - BBC News,"Spain's Constitutional Court has suspended next Monday's session of Catalan parliament, in a bid to pre-empt a possible push for independence.
+The court said such a move would be ""a breach of the constitution"".
+Earlier Prime Minister Mario Rajoy warned Catalonia's regional government against declaring independence after a disputed vote last Sunday.
+Catalan leader Carles Puigdemont had indicated that he could make such a declaration at next week's session.
+The court's ruling on Thursday upheld a challenge by Catalonia's Socialist Party, which opposes secession from Spain, and not from the government in Madrid.
+Allowing the regional parliament to meet and declare independence, the court said, would violate the rights of the party's MPs.
+An earlier ruling by the court aimed at stopping Sunday's vote was ignored by Catalonia's leaders. That challenge to the court had come from Spain's government, which condemned the referendum as illegal.
+
+
+Please subscribe HERE http://bit.ly/1rbfUog
+
+World In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP
+Big Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP
+Just Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",BBC News,"bbc', 'bbc news', 'news', 'catalan', 'catalan news', 'catalonia', 'catalonia news', 'spain', 'spanish news', 'Spain news', 'catalonia independence', 'cataln referendum', 'Catalan parliament'",PT3M15S,195,4
