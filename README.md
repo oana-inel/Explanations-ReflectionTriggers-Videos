@@ -22,13 +22,14 @@ To investigate the influence of reflective triggers in natural language explanat
     |   ├── video_subtitles                        # Folder containing all video subtitles (one file per video); extracted using Google Video Intelligence API
     |   ├── video_subtitles_entities               # Folder containing all entities extracted from video subtitles (one file per video); 
     |   |                                            extracted through named entity extraction with IBM Watson Natural Language Understanding API;
-    |   ├── video_subtitles_entities_topics        # Folder containing all entities extracted from video subtitles; (one file per topic); 
+    |   ├── video_subtitles_entities_topics        # Folder containing all selected entities/topics extracted from video subtitles (one file per topic); 
     |   ├── video_comments                         # Folder containing the analysis of the user comments on the videos in our dataset  
     |   |   ├── comments_sentiments_emotions.csv   # CSV containing the analysis of the comments in terms of sentiment and emotion
     │   |   ├── comments_entities.csv              # CSV containing the analysis of the comments in terms of entity extraction, and their sentiments and emotions                      
     ├── notebooks                                  # Jupyter Notebooks used for data processing
     │   ├── Generate Reflection Triggers and Explanations.ipynb   # Jupyter Notebook for identifying the reflection triggers and generating the explanations 
     │   ├── Analysis of the Between-Subjects Study.ipynb          # Jupyter Notebook used for processing the results of user study
+    ├── ├── Google Video Intelligence API - Speech to Text.ipynb  # Jupyter Notebook used for processing the results of user study
     ├── user_study                                 # Folder containing the user study template and data
     │   ├── user_study_no_explanation.html         # User study template for the condition without explanations (to be run on mTurk)
     │   ├── user_study_with_explanation.html       # User study template for the condition with explanations (to be run on mTurk)
