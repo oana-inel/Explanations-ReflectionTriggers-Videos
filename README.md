@@ -27,7 +27,7 @@ To investigate the influence of reflective triggers in natural language explanat
     |   |   ├── comments_sentiments_emotions.csv   # CSV containing the analysis of the comments in terms of sentiment and emotion
     │   |   ├── comments_entities.csv              # CSV containing the analysis of the comments in terms of entity extraction, and their sentiments and emotions                      
     ├── notebooks                                  # Jupyter Notebooks used for data processing
-    │   ├── Generate Reflection Triggers and Explanations.ipynb   # Jupyter Notebook for entifying the reflection triggers and generating the explanations 
+    │   ├── Generate Reflection Triggers and Explanations.ipynb   # Jupyter Notebook for identifying the reflection triggers and generating the explanations 
     │   ├── Analysis of the Between-Subjects Study.ipynb          # Jupyter Notebook used for processing the results of user study
     ├── user_study                                 # Folder containing the user study template and data
     │   ├── user_study_no_explanation.html         # User study template for the condition without explanations (to be run on mTurk)
