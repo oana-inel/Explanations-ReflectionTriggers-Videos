@@ -29,7 +29,9 @@ To investigate the influence of reflective triggers in natural language explanat
     ├── notebooks                                  # Jupyter Notebooks used for data processing
     │   ├── Generate Reflection Triggers and Explanations.ipynb   # Jupyter Notebook for identifying the reflection triggers and generating the explanations 
     │   ├── Analysis of the Between-Subjects Study.ipynb          # Jupyter Notebook used for processing the results of user study
-    ├── ├── Google Video Intelligence API - Speech to Text.ipynb  # Jupyter Notebook used for processing the results of user study
+    │   ├── Google Video Intelligence API - Speech to Text.ipynb  # Jupyter Notebook used for extracting video subtitles
+    │   ├── IBM Watson NLU API - Process Video Subtitles.ipynb    # Jupyter Notebook used for extracting entities from video subtitles
+    │   ├── POS Tagging, Stemming and Lemmatization.ipynb         # Jupyter Notebook used for performing POS tagging, stemming and lemmatization
     ├── user_study                                 # Folder containing the user study template and data
     │   ├── user_study_no_explanation.html         # User study template for the condition without explanations (to be run on mTurk)
     │   ├── user_study_with_explanation.html       # User study template for the condition with explanations (to be run on mTurk)
