@@ -6,6 +6,24 @@ This repository contains:
  * 960 [explanations based on reflection triggers](https://github.com/oana-inel/Explanations-ReflectionTriggers-Videos/blob/main/data/reflection_triggers_video_dataset.csv) (one explanation per video)
  * user-centered evaluation of the effectiveness and quality of the generated explanations to support reflective assessments of socially-driven online content; ([AMT study](https://github.com/oana-inel/Explanations-ReflectionTriggers-Videos/blob/main/user_study/) with 9 videos)
 
+All results are published in the following paper:
+
+> Oana Inel, Tomislav Duricic, Harmanpreet Kaur, Elisabeth Lex, and Nava Tintarev: **[Design Implications for Explanations: A Case Study on Supporting Reflective Assessment of Potentially Misleading Videos](https://www.frontiersin.org/articles/10.3389/frai.2021.712072/full)**. [Frontiers in Frontiers in Artificial Intelligence, 2021](https://www.frontiersin.org/journals/artificial-intelligence).
+
+
+If you find the paper and the data useful in your research, please consider citing:
+
+```
+@article{inel2021design,
+  title={Design implications for explanations: A case study on supporting reflective assessment of potentially misleading videos},
+  author={Inel, Oana and Duricic, Tomislav and Kaur, Harmanpreet and Lex, Elisabeth and Tintarev, Nava},
+  journal={Frontiers in artificial intelligence},
+  volume={4},
+  pages={712072},
+  year={2021},
+  publisher={Frontiers Media SA}
+}
+```
 
 ## User Study
 
