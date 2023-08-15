@@ -8,7 +8,7 @@ This repository contains:
 
 All results are published in the following paper:
 
-> Oana Inel, Tomislav Duricic, Harmanpreet Kaur, Elisabeth Lex, and Nava Tintarev: **[Design Implications for Explanations: A Case Study on Supporting Reflective Assessment of Potentially Misleading Videos](https://www.frontiersin.org/articles/10.3389/frai.2021.712072/full)**. [Frontiers in Frontiers in Artificial Intelligence, 2021](https://www.frontiersin.org/journals/artificial-intelligence).
+> Oana Inel, Tomislav Duricic, Harmanpreet Kaur, Elisabeth Lex, and Nava Tintarev: **[Design Implications for Explanations: A Case Study on Supporting Reflective Assessment of Potentially Misleading Videos](https://www.frontiersin.org/articles/10.3389/frai.2021.712072/full)**. [Frontiers in Artificial Intelligence, 2021](https://www.frontiersin.org/journals/artificial-intelligence).
 
 
 If you find the paper and the data useful in your research, please consider citing:
